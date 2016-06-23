@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [34.09472, 17.49927], "type": "Point"}, "properties": {"arBW": "al-Abwab", "arTitle": "\ufb50\u0644\u0623\u0628\u0648\u0627\u0628", "arTitleOther": "\ufb50\u0644\u0623\u0628\u0648\u0627\u0628", "lat": "17.49927", "lon": "34.09472", "region": "Egypt", "searchNames": "al-Abwab", "topType": "villages", "topTypeAlt": "localite", "topURI": "ABWAB_340E174N_S_EGYP", "translitTitle": "al-Abw\u0101b", "translitTitleOther": "al-Abw\u0101b"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    34.09472,
+                    17.49927
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "17.49927",
+                    "coord_lon": "34.09472",
+                    "cornu_URI": "ABWAB_340E174N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "ﭐلأبواب",
+                    "toponym_arabic_other": "ﭐلأبواب",
+                    "toponym_buckwalter": "al-Abwab",
+                    "toponym_search": "al-Abwab",
+                    "toponym_translit": "al-Abwāb",
+                    "toponym_translit_other": "al-Abwāb"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

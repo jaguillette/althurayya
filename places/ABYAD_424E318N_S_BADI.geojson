@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [42.45438, 31.86163], "type": "Point"}, "properties": {"arBW": "al-Abyad", "arTitle": "\ufb50\u0644\u0623\u0628\u064a\u0636", "arTitleOther": "\ufb50\u0644\u0623\u0628\u064a\u0636", "lat": "31.86163", "lon": "42.45438", "region": "Badiyat al-Arab", "searchNames": "al-Abyad", "topType": "waystations", "topTypeAlt": "etape", "topURI": "ABYAD_424E318N_S_BADI", "translitTitle": "al-Abya\u1e0d", "translitTitleOther": "al-Abya\u1e0d"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    42.45438,
+                    31.86163
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.86163",
+                    "coord_lon": "42.45438",
+                    "cornu_URI": "ABYAD_424E318N_S_BADI",
+                    "region_code": 23,
+                    "region_spelled": "Badiyat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "ﭐلأبيض",
+                    "toponym_arabic_other": "ﭐلأبيض",
+                    "toponym_buckwalter": "al-Abyad",
+                    "toponym_search": "al-Abyad",
+                    "toponym_translit": "al-Abyaḍ",
+                    "toponym_translit_other": "al-Abyaḍ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

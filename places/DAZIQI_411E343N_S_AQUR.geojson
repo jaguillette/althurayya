@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [41.1598, 34.33397], "type": "Point"}, "properties": {"arBW": "Daziqi", "arTitle": "\u062f\u0627\u0632\u0642\u064a", "arTitleOther": "\u062f\u0627\u0632\u0642\u064a", "lat": "34.33397", "lon": "41.15980", "region": "Aqur", "searchNames": "Daziqi", "topType": "waystations", "topTypeAlt": "etape", "topURI": "DAZIQI_411E343N_S_AQUR", "translitTitle": "D\u0101ziq\u012b", "translitTitleOther": "D\u0101ziq\u012b"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    41.1598,
+                    34.33397
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.33397",
+                    "coord_lon": "41.15980",
+                    "cornu_URI": "DAZIQI_411E343N_S_AQUR",
+                    "region_code": 2,
+                    "region_spelled": "Aqur",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "دازقي",
+                    "toponym_arabic_other": "دازقي",
+                    "toponym_buckwalter": "Daziqi",
+                    "toponym_search": "Daziqi",
+                    "toponym_translit": "Dāziqī",
+                    "toponym_translit_other": "Dāziqī"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

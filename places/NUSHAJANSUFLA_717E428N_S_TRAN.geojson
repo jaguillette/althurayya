@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [71.70197, 42.89978], "type": "Point"}, "properties": {"arBW": "Nushajan al-Sufla", "arTitle": "\u0646\u0648\u0634\u062c\u0627\u0646 \ufb50\u0644\u0633\u0641\u0644\u0649", "arTitleOther": "\u0646\u0648\u0634\u062c\u0627\u0646 \ufb50\u0644\u0633\u0641\u0644\u0649", "lat": "42.89978", "lon": "71.70197", "region": "Transoxiana", "searchNames": "Nushajan al-Sufla", "topType": "villages", "topTypeAlt": "localite", "topURI": "NUSHAJANSUFLA_717E428N_S_TRAN", "translitTitle": "N\u016b\u0161a\u01e7\u0101n al-Sufl\u00e1", "translitTitleOther": "N\u016b\u0161a\u01e7\u0101n al-Sufl\u00e1"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    71.70197,
+                    42.89978
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "42.89978",
+                    "coord_lon": "71.70197",
+                    "cornu_URI": "NUSHAJANSUFLA_717E428N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "نوشجان ﭐلسفلى",
+                    "toponym_arabic_other": "نوشجان ﭐلسفلى",
+                    "toponym_buckwalter": "Nushajan al-Sufla",
+                    "toponym_search": "Nushajan al-Sufla",
+                    "toponym_translit": "Nūšaǧān al-Suflá",
+                    "toponym_translit_other": "Nūšaǧān al-Suflá"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

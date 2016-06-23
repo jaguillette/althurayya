@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [66.8817, 37.44577], "type": "Point"}, "properties": {"arBW": "Mahalla al-Qayyasin", "arTitle": "\u0645\u062d\u0644\u0629 \ufb50\u0644\u0642\u064a\u0627\u0633\u064a\u0646", "arTitleOther": "\u0645\u062d\u0644\u0629 \ufb50\u0644\u0642\u064a\u0627\u0633\u064a\u0646", "lat": "37.44577", "lon": "66.88170", "region": "Transoxiana", "searchNames": "Mahalla al-Qayyasin", "topType": "waystations", "topTypeAlt": "etape", "topURI": "MAHALLAQAYYASIN_668E374N_S_TRAN", "translitTitle": "Ma\u1e25alla\u0167 al-Qayy\u0101s\u012bn", "translitTitleOther": "Ma\u1e25alla\u0167 al-Qayy\u0101s\u012bn"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    66.8817,
+                    37.44577
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.44577",
+                    "coord_lon": "66.88170",
+                    "cornu_URI": "MAHALLAQAYYASIN_668E374N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "محلة ﭐلقياسين",
+                    "toponym_arabic_other": "محلة ﭐلقياسين",
+                    "toponym_buckwalter": "Mahalla al-Qayyasin",
+                    "toponym_search": "Mahalla al-Qayyasin",
+                    "toponym_translit": "Maḥallaŧ al-Qayyāsīn",
+                    "toponym_translit_other": "Maḥallaŧ al-Qayyāsīn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

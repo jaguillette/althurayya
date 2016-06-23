@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [56.79227, 33.89125], "type": "Point"}, "properties": {"arBW": "Sarish", "arTitle": "\u0633\u0631\u064a\u0634", "arTitleOther": "\u0633\u0631\u064a\u0634", "lat": "33.89125", "lon": "56.79227", "region": "Mafaza", "searchNames": "Sarish", "topType": "waystations", "topTypeAlt": "etape", "topURI": "SARISH_567E338N_S_MAFA", "translitTitle": "Sar\u012b\u0161", "translitTitleOther": "Sar\u012b\u0161"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    56.79227,
+                    33.89125
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.89125",
+                    "coord_lon": "56.79227",
+                    "cornu_URI": "SARISH_567E338N_S_MAFA",
+                    "region_code": 13,
+                    "region_spelled": "Mafaza",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "سريش",
+                    "toponym_arabic_other": "سريش",
+                    "toponym_buckwalter": "Sarish",
+                    "toponym_search": "Sarish",
+                    "toponym_translit": "Sarīš",
+                    "toponym_translit_other": "Sarīš"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

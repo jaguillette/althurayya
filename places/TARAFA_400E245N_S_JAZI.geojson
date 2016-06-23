@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [40.02342, 24.59544], "type": "Point"}, "properties": {"arBW": "al-Tarafa, al-Taraf", "arTitle": "\ufb50\u0644\u0637\u0631\u0641\u0629", "arTitleOther": "\ufb50\u0644\u0637\u0631\u0641\u0629\u060c \ufb50\u0644\u0637\u0631\u0641", "lat": "24.59544", "lon": "40.02342", "region": "Jazirat al-Arab", "searchNames": "al-Tarafa, al-Taraf", "topType": "waystations", "topTypeAlt": "etape", "topURI": "TARAFA_400E245N_S_JAZI", "translitTitle": "al-\u1e6carafa\u0167", "translitTitleOther": "al-\u1e6carafa\u0167, al-\u1e6caraf"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    40.02342,
+                    24.59544
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "24.59544",
+                    "coord_lon": "40.02342",
+                    "cornu_URI": "TARAFA_400E245N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "ﭐلطرفة",
+                    "toponym_arabic_other": "ﭐلطرفة، ﭐلطرف",
+                    "toponym_buckwalter": "al-Tarafa, al-Taraf",
+                    "toponym_search": "al-Tarafa, al-Taraf",
+                    "toponym_translit": "al-Ṭarafaŧ",
+                    "toponym_translit_other": "al-Ṭarafaŧ, al-Ṭaraf"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

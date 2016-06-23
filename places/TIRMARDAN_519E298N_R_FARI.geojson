@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [51.92718, 29.86635], "type": "Point"}, "properties": {"arBW": "Tir Mardan", "arTitle": "\u062a\u064a\u0631 \u0645\u0631\u062f\u0627\u0646", "arTitleOther": "\u062a\u064a\u0631 \u0645\u0631\u062f\u0627\u0646", "lat": "29.86635", "lon": "51.92718", "region": "Faris", "searchNames": "Tir Mardan", "topType": "regions", "topTypeAlt": "region", "topURI": "TIRMARDAN_519E298N_R_FARI", "translitTitle": "T\u012br Mard\u0101n", "translitTitleOther": "T\u012br Mard\u0101n"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    51.92718,
+                    29.86635
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "29.86635",
+                    "coord_lon": "51.92718",
+                    "cornu_URI": "TIRMARDAN_519E298N_R_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "تير مردان",
+                    "toponym_arabic_other": "تير مردان",
+                    "toponym_buckwalter": "Tir Mardan",
+                    "toponym_search": "Tir Mardan",
+                    "toponym_translit": "Tīr Mardān",
+                    "toponym_translit_other": "Tīr Mardān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

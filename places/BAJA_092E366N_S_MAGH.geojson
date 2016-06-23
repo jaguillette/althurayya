@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [9.20563, 36.67738], "type": "Point"}, "properties": {"arBW": "Baja", "arTitle": "\u0628\u0627\u062c\u0629", "arTitleOther": "\u0628\u0627\u062c\u0629", "lat": "36.67738", "lon": "9.20563", "region": "Maghrib", "searchNames": "Baja", "topType": "towns", "topTypeAlt": "cite", "topURI": "BAJA_092E366N_S_MAGH", "translitTitle": "B\u0101\u01e7a\u0167", "translitTitleOther": "B\u0101\u01e7a\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    9.20563,
+                    36.67738
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.67738",
+                    "coord_lon": "9.20563",
+                    "cornu_URI": "BAJA_092E366N_S_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "باجة",
+                    "toponym_arabic_other": "باجة",
+                    "toponym_buckwalter": "Baja",
+                    "toponym_search": "Baja",
+                    "toponym_translit": "Bāǧaŧ",
+                    "toponym_translit_other": "Bāǧaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

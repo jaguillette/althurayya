@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [42.45066, 23.54101], "type": "Point"}, "properties": {"arBW": "al-Falja", "arTitle": "\ufb50\u0644\u0641\u0644\u062c\u0629", "arTitleOther": "\ufb50\u0644\u0641\u0644\u062c\u0629", "lat": "23.54101", "lon": "42.45066", "region": "Jazirat al-Arab", "searchNames": "al-Falja", "topType": "waystations", "topTypeAlt": "etape", "topURI": "FALJA_424E235N_S_JAZI", "translitTitle": "al-Fal\u01e7a\u0167", "translitTitleOther": "al-Fal\u01e7a\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    42.45066,
+                    23.54101
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "23.54101",
+                    "coord_lon": "42.45066",
+                    "cornu_URI": "FALJA_424E235N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "ﭐلفلجة",
+                    "toponym_arabic_other": "ﭐلفلجة",
+                    "toponym_buckwalter": "al-Falja",
+                    "toponym_search": "al-Falja",
+                    "toponym_translit": "al-Falǧaŧ",
+                    "toponym_translit_other": "al-Falǧaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [-3.34803, 37.87641], "type": "Point"}, "properties": {"arBW": "Shawdhar", "arTitle": "\u0634\u0648\u0630\u0631", "arTitleOther": "\u0634\u0648\u0630\u0631", "lat": "37.87641", "lon": "-3.34803", "region": "Andalus", "searchNames": "Shawdhar", "topType": "towns", "topTypeAlt": "cite", "topURI": "SHAWDHAR_033W378N_S_ANDA", "translitTitle": "\u0160aw\u1e0far", "translitTitleOther": "\u0160aw\u1e0far"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.34803,
+                    37.87641
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.87641",
+                    "coord_lon": "-3.34803",
+                    "cornu_URI": "SHAWDHAR_033W378N_S_ANDA",
+                    "region_code": 1,
+                    "region_spelled": "Andalus",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "شوذر",
+                    "toponym_arabic_other": "شوذر",
+                    "toponym_buckwalter": "Shawdhar",
+                    "toponym_search": "Shawdhar",
+                    "toponym_translit": "Šawḏar",
+                    "toponym_translit_other": "Šawḏar"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

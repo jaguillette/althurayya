@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [6.2883, 36.42482], "type": "Point"}, "properties": {"arBW": "Mila", "arTitle": "\u0645\u064a\u0644\u0627", "arTitleOther": "\u0645\u064a\u0644\u0627", "lat": "36.42482", "lon": "6.28830", "region": "Maghrib", "searchNames": "Mila", "topType": "towns", "topTypeAlt": "cite", "topURI": "MILA_062E364N_S_MAGH", "translitTitle": "M\u012bl\u0101", "translitTitleOther": "M\u012bl\u0101"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    6.2883,
+                    36.42482
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.42482",
+                    "coord_lon": "6.28830",
+                    "cornu_URI": "MILA_062E364N_S_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ميلا",
+                    "toponym_arabic_other": "ميلا",
+                    "toponym_buckwalter": "Mila",
+                    "toponym_search": "Mila",
+                    "toponym_translit": "Mīlā",
+                    "toponym_translit_other": "Mīlā"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

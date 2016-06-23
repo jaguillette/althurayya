@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [44.83734, 42.0841], "type": "Point"}, "properties": {"arBW": "Tiflis", "arTitle": "\u062a\u0641\u0644\u064a\u0633", "arTitleOther": "\u062a\u0641\u0644\u064a\u0633", "lat": "42.08410", "lon": "44.83734", "region": "Rihab", "searchNames": "Tiflis", "topType": "towns", "topTypeAlt": "cite", "topURI": "TIFLIS_448E420N_S_RIHA", "translitTitle": "Tifl\u012bs", "translitTitleOther": "Tifl\u012bs"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    44.83734,
+                    42.0841
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "42.08410",
+                    "coord_lon": "44.83734",
+                    "cornu_URI": "TIFLIS_448E420N_S_RIHA",
+                    "region_code": 15,
+                    "region_spelled": "Rihab",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "تفليس",
+                    "toponym_arabic_other": "تفليس",
+                    "toponym_buckwalter": "Tiflis",
+                    "toponym_search": "Tiflis",
+                    "toponym_translit": "Tiflīs",
+                    "toponym_translit_other": "Tiflīs"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

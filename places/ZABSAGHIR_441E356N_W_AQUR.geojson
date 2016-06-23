@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [44.10965, 35.64182], "type": "Point"}, "properties": {"arBW": "Zab al-Saghir, Zab al-Asfal", "arTitle": "\u0632\u0627\u0628 \ufb50\u0644\u0635\u063a\u064a\u0631", "arTitleOther": "\u0632\u0627\u0628 \ufb50\u0644\u0635\u063a\u064a\u0631\u060c \u0632\u0627\u0628 \ufb50\u0644\u0623\u0633\u0641\u0644", "lat": "35.64182", "lon": "44.10965", "region": "Aqur", "searchNames": "Zab al-Saghir, Zab al-Asfal", "topType": "waters", "topTypeAlt": "riviere", "topURI": "ZABSAGHIR_441E356N_W_AQUR", "translitTitle": "Z\u0101b al-\u1e62a\u0121\u012br", "translitTitleOther": "Z\u0101b al-\u1e62a\u0121\u012br, Z\u0101b al-Asfal"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    44.10965,
+                    35.64182
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.64182",
+                    "coord_lon": "44.10965",
+                    "cornu_URI": "ZABSAGHIR_441E356N_W_AQUR",
+                    "region_code": 2,
+                    "region_spelled": "Aqur",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "riviere",
+                    "toponym_arabic": "زاب ﭐلصغير",
+                    "toponym_arabic_other": "زاب ﭐلصغير، زاب ﭐلأسفل",
+                    "toponym_buckwalter": "Zab al-Saghir, Zab al-Asfal",
+                    "toponym_search": "Zab al-Saghir, Zab al-Asfal",
+                    "toponym_translit": "Zāb al-Ṣaġīr",
+                    "toponym_translit_other": "Zāb al-Ṣaġīr, Zāb al-Asfal"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

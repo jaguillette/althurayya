@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [72.85752, 40.53599], "type": "Point"}, "properties": {"arBW": "Ush", "arTitle": "\u0623\u0648\u0634", "arTitleOther": "\u0623\u0648\u0634", "lat": "40.53599", "lon": "72.85752", "region": "Transoxiana", "searchNames": "Ush", "topType": "towns", "topTypeAlt": "cite", "topURI": "USH_728E405N_S_TRAN", "translitTitle": "\u016a\u0161", "translitTitleOther": "\u016a\u0161"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    72.85752,
+                    40.53599
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "40.53599",
+                    "coord_lon": "72.85752",
+                    "cornu_URI": "USH_728E405N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "أوش",
+                    "toponym_arabic_other": "أوش",
+                    "toponym_buckwalter": "Ush",
+                    "toponym_search": "Ush",
+                    "toponym_translit": "Ūš",
+                    "toponym_translit_other": "Ūš"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

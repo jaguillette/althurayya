@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [45.03942, 12.79365], "type": "Point"}, "properties": {"arBW": "Adan", "arTitle": "\u0639\u062f\u0646", "arTitleOther": "\u0639\u062f\u0646", "lat": "12.79365", "lon": "45.03942", "region": "Yemen", "searchNames": "Adan", "topType": "towns", "topTypeAlt": "cite/port", "topURI": "ADAN_450E127N_S_YEME", "translitTitle": "\u02bfAdan", "translitTitleOther": "\u02bfAdan"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    45.03942,
+                    12.79365
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "12.79365",
+                    "coord_lon": "45.03942",
+                    "cornu_URI": "ADAN_450E127N_S_YEME",
+                    "region_code": 21,
+                    "region_spelled": "Yemen",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite/port",
+                    "toponym_arabic": "عدن",
+                    "toponym_arabic_other": "عدن",
+                    "toponym_buckwalter": "Adan",
+                    "toponym_search": "Adan",
+                    "toponym_translit": "ʿAdan",
+                    "toponym_translit_other": "ʿAdan"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

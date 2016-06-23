@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [35.72442, 30.19664], "type": "Point"}, "properties": {"arBW": "Maan, Muan", "arTitle": "\u0645\u0639\u0627\u0646", "arTitleOther": "\u0645\u0639\u0627\u0646\u060c \u0645\u0639\u0627\u0646", "lat": "30.19664", "lon": "35.72442", "region": "Sham", "searchNames": "Maan, Muan", "topType": "towns", "topTypeAlt": "cite", "topURI": "MAAN_357E301N_S_SHAM", "translitTitle": "Ma\u02bf\u0101n", "translitTitleOther": "Ma\u02bf\u0101n, Mu\u02bf\u0101n"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    35.72442,
+                    30.19664
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.19664",
+                    "coord_lon": "35.72442",
+                    "cornu_URI": "MAAN_357E301N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "معان",
+                    "toponym_arabic_other": "معان، معان",
+                    "toponym_buckwalter": "Maan, Muan",
+                    "toponym_search": "Maan, Muan",
+                    "toponym_translit": "Maʿān",
+                    "toponym_translit_other": "Maʿān, Muʿān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

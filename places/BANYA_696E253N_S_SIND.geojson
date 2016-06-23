@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [69.67968, 25.32721], "type": "Point"}, "properties": {"arBW": "Banya", "arTitle": "\u0628\u0627\u0646\u064a\u0629", "arTitleOther": "\u0628\u0627\u0646\u064a\u0629", "lat": "25.32721", "lon": "69.67968", "region": "Sind", "searchNames": "Banya", "topType": "towns", "topTypeAlt": "cite", "topURI": "BANYA_696E253N_S_SIND", "translitTitle": "B\u0101nya\u0167", "translitTitleOther": "B\u0101nya\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    69.67968,
+                    25.32721
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "25.32721",
+                    "coord_lon": "69.67968",
+                    "cornu_URI": "BANYA_696E253N_S_SIND",
+                    "region_code": 19,
+                    "region_spelled": "Sind",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "بانية",
+                    "toponym_arabic_other": "بانية",
+                    "toponym_buckwalter": "Banya",
+                    "toponym_search": "Banya",
+                    "toponym_translit": "Bānyaŧ",
+                    "toponym_translit_other": "Bānyaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

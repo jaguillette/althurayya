@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [26.77604, 31.19426], "type": "Point"}, "properties": {"arBW": "Sikka al-Hammam", "arTitle": "\u0633\u0643\u0629 \ufb50\u0644\u062d\u0645\u0627\u0645", "arTitleOther": "\u0633\u0643\u0629 \ufb50\u0644\u062d\u0645\u0627\u0645", "lat": "31.19426", "lon": "26.77604", "region": "Barqa", "searchNames": "Sikka al-Hammam", "topType": "waystations", "topTypeAlt": "etape", "topURI": "SIKKAHAMMAM_267E311N_S_BARQ", "translitTitle": "Sikka\u0167 al-\u1e24amm\u0101m", "translitTitleOther": "Sikka\u0167 al-\u1e24amm\u0101m"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    26.77604,
+                    31.19426
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.19426",
+                    "coord_lon": "26.77604",
+                    "cornu_URI": "SIKKAHAMMAM_267E311N_S_BARQ",
+                    "region_code": 3,
+                    "region_spelled": "Barqa",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "سكة ﭐلحمام",
+                    "toponym_arabic_other": "سكة ﭐلحمام",
+                    "toponym_buckwalter": "Sikka al-Hammam",
+                    "toponym_search": "Sikka al-Hammam",
+                    "toponym_translit": "Sikkaŧ al-Ḥammām",
+                    "toponym_translit_other": "Sikkaŧ al-Ḥammām"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

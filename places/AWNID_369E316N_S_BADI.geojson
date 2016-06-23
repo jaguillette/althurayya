@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [36.92899, 31.64055], "type": "Point"}, "properties": {"arBW": "al-Awnid", "arTitle": "\ufb50\u0644\u0639\u0648\u0646\u064a\u062f", "arTitleOther": "\ufb50\u0644\u0639\u0648\u0646\u064a\u062f", "lat": "31.64055", "lon": "36.92899", "region": "Badiyat al-Arab", "searchNames": "al-Awnid", "topType": "waystations", "topTypeAlt": "etape", "topURI": "AWNID_369E316N_S_BADI", "translitTitle": "al-\u02bfAwn\u012bd", "translitTitleOther": "al-\u02bfAwn\u012bd"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    36.92899,
+                    31.64055
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.64055",
+                    "coord_lon": "36.92899",
+                    "cornu_URI": "AWNID_369E316N_S_BADI",
+                    "region_code": 23,
+                    "region_spelled": "Badiyat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "ﭐلعونيد",
+                    "toponym_arabic_other": "ﭐلعونيد",
+                    "toponym_buckwalter": "al-Awnid",
+                    "toponym_search": "al-Awnid",
+                    "toponym_translit": "al-ʿAwnīd",
+                    "toponym_translit_other": "al-ʿAwnīd"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

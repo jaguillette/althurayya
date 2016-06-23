@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [-5.96199, 37.4079], "type": "Point"}, "properties": {"arBW": "Ishbiliyya", "arTitle": "\u0625\u0634\u0628\u064a\u0644\u064a\u0629", "arTitleOther": "\u0625\u0634\u0628\u064a\u0644\u064a\u0629", "lat": "37.40790", "lon": "-5.96199", "region": "Andalus", "searchNames": "Ishbiliyya", "topType": "towns", "topTypeAlt": "cite", "topURI": "ISHBILIYYA_059W374N_S_ANDA", "translitTitle": "I\u0161b\u012bliyya\u0167", "translitTitleOther": "I\u0161b\u012bliyya\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -5.96199,
+                    37.4079
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.40790",
+                    "coord_lon": "-5.96199",
+                    "cornu_URI": "ISHBILIYYA_059W374N_S_ANDA",
+                    "region_code": 1,
+                    "region_spelled": "Andalus",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "إشبيلية",
+                    "toponym_arabic_other": "إشبيلية",
+                    "toponym_buckwalter": "Ishbiliyya",
+                    "toponym_search": "Ishbiliyya",
+                    "toponym_translit": "Išbīliyyaŧ",
+                    "toponym_translit_other": "Išbīliyyaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

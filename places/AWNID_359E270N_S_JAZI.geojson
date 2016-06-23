@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [35.99173, 27.00533], "type": "Point"}, "properties": {"arBW": "al-Awnid", "arTitle": "\ufb50\u0644\u0639\u0648\u0646\u064a\u062f", "arTitleOther": "\ufb50\u0644\u0639\u0648\u0646\u064a\u062f", "lat": "27.00533", "lon": "35.99173", "region": "Jazirat al-Arab", "searchNames": "al-Awnid", "topType": "towns", "topTypeAlt": "cite", "topURI": "AWNID_359E270N_S_JAZI", "translitTitle": "al-\u02bfAwn\u012bd", "translitTitleOther": "al-\u02bfAwn\u012bd"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    35.99173,
+                    27.00533
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "27.00533",
+                    "coord_lon": "35.99173",
+                    "cornu_URI": "AWNID_359E270N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ﭐلعونيد",
+                    "toponym_arabic_other": "ﭐلعونيد",
+                    "toponym_buckwalter": "al-Awnid",
+                    "toponym_search": "al-Awnid",
+                    "toponym_translit": "al-ʿAwnīd",
+                    "toponym_translit_other": "al-ʿAwnīd"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

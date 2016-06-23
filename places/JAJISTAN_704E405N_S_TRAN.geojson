@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [70.43986, 40.55623], "type": "Point"}, "properties": {"arBW": "Jajistan", "arTitle": "\u062c\u0627\u062c\u064a\u0633\u062a\u0627\u0646", "arTitleOther": "\u062c\u0627\u062c\u064a\u0633\u062a\u0627\u0646", "lat": "40.55623", "lon": "70.43986", "region": "Transoxiana", "searchNames": "Jajistan", "topType": "waystations", "topTypeAlt": "etape", "topURI": "JAJISTAN_704E405N_S_TRAN", "translitTitle": "\u01e6\u0101\u01e7\u012bst\u0101n", "translitTitleOther": "\u01e6\u0101\u01e7\u012bst\u0101n"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    70.43986,
+                    40.55623
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "40.55623",
+                    "coord_lon": "70.43986",
+                    "cornu_URI": "JAJISTAN_704E405N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "جاجيستان",
+                    "toponym_arabic_other": "جاجيستان",
+                    "toponym_buckwalter": "Jajistan",
+                    "toponym_search": "Jajistan",
+                    "toponym_translit": "Ǧāǧīstān",
+                    "toponym_translit_other": "Ǧāǧīstān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

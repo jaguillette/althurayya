@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [51.67468, 32.78618], "type": "Point"}, "properties": {"arBW": "Burkhuwar", "arTitle": "\u0628\u0631\u062e\u0648\u0627\u0631", "arTitleOther": "\u0628\u0631\u062e\u0648\u0627\u0631", "lat": "32.78618", "lon": "51.67468", "region": "Jibal", "searchNames": "Burkhuwar", "topType": "regions", "topTypeAlt": "region", "topURI": "BURKHUWAR_516E327N_R_JIBA", "translitTitle": "Bur\u1e2buw\u0101r", "translitTitleOther": "Bur\u1e2buw\u0101r"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    51.67468,
+                    32.78618
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.78618",
+                    "coord_lon": "51.67468",
+                    "cornu_URI": "BURKHUWAR_516E327N_R_JIBA",
+                    "region_code": 8,
+                    "region_spelled": "Jibal",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "برخوار",
+                    "toponym_arabic_other": "برخوار",
+                    "toponym_buckwalter": "Burkhuwar",
+                    "toponym_search": "Burkhuwar",
+                    "toponym_translit": "Burḫuwār",
+                    "toponym_translit_other": "Burḫuwār"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

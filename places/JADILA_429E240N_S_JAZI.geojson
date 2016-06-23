@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [42.99135, 24.09211], "type": "Point"}, "properties": {"arBW": "Jadila", "arTitle": "\u062c\u062f\u064a\u0644\u0629", "arTitleOther": "\u062c\u062f\u064a\u0644\u0629", "lat": "24.09211", "lon": "42.99135", "region": "Jazirat al-Arab", "searchNames": "Jadila", "topType": "waystations", "topTypeAlt": "etape", "topURI": "JADILA_429E240N_S_JAZI", "translitTitle": "\u01e6ad\u012bla\u0167", "translitTitleOther": "\u01e6ad\u012bla\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    42.99135,
+                    24.09211
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "24.09211",
+                    "coord_lon": "42.99135",
+                    "cornu_URI": "JADILA_429E240N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "جديلة",
+                    "toponym_arabic_other": "جديلة",
+                    "toponym_buckwalter": "Jadila",
+                    "toponym_search": "Jadila",
+                    "toponym_translit": "Ǧadīlaŧ",
+                    "toponym_translit_other": "Ǧadīlaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [49.791, 35.10371], "type": "Point"}, "properties": {"arBW": "Rudha", "arTitle": "\u0631\u0648\u0630\u0629", "arTitleOther": "\u0631\u0648\u0630\u0629", "lat": "35.10371", "lon": "49.79100", "region": "Jibal", "searchNames": "Rudha", "topType": "villages", "topTypeAlt": "localite", "topURI": "RUDHA_497E351N_S_JIBA", "translitTitle": "R\u016b\u1e0fa\u0167", "translitTitleOther": "R\u016b\u1e0fa\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    49.791,
+                    35.10371
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.10371",
+                    "coord_lon": "49.79100",
+                    "cornu_URI": "RUDHA_497E351N_S_JIBA",
+                    "region_code": 8,
+                    "region_spelled": "Jibal",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "روذة",
+                    "toponym_arabic_other": "روذة",
+                    "toponym_buckwalter": "Rudha",
+                    "toponym_search": "Rudha",
+                    "toponym_translit": "Rūḏaŧ",
+                    "toponym_translit_other": "Rūḏaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

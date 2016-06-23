@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [44.24636, 33.39714], "type": "Point"}, "properties": {"arBW": "Qatrabbul", "arTitle": "\u0642\u0637\u0631\u0628\u0644", "arTitleOther": "\u0642\u0637\u0631\u0628\u0644", "lat": "33.39714", "lon": "44.24636", "region": "Iraq", "searchNames": "Qatrabbul", "topType": "towns", "topTypeAlt": "canton", "topURI": "QATRABBUL_442E333N_S_IRAQ", "translitTitle": "Qa\u1e6drabbul", "translitTitleOther": "Qa\u1e6drabbul"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    44.24636,
+                    33.39714
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.39714",
+                    "coord_lon": "44.24636",
+                    "cornu_URI": "QATRABBUL_442E333N_S_IRAQ",
+                    "region_code": 7,
+                    "region_spelled": "Iraq",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "canton",
+                    "toponym_arabic": "قطربل",
+                    "toponym_arabic_other": "قطربل",
+                    "toponym_buckwalter": "Qatrabbul",
+                    "toponym_search": "Qatrabbul",
+                    "toponym_translit": "Qaṭrabbul",
+                    "toponym_translit_other": "Qaṭrabbul"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

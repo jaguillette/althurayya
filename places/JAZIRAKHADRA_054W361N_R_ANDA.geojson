@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [-5.43793, 36.16359], "type": "Point"}, "properties": {"arBW": "Jazira al-Khadra", "arTitle": "\u062c\u0632\u064a\u0631\u0629 \ufb50\u0644\u062e\u0636\u0631\u0627\u0621", "arTitleOther": "\u062c\u0632\u064a\u0631\u0629 \ufb50\u0644\u062e\u0636\u0631\u0627\u0621", "lat": "36.16359", "lon": "-5.43793", "region": "Andalus", "searchNames": "Jazira al-Khadra", "topType": "regions", "topTypeAlt": "district", "topURI": "JAZIRAKHADRA_054W361N_R_ANDA", "translitTitle": "\u01e6az\u012bra\u0167 al-\u1e2aa\u1e0dr\u0101\u02be", "translitTitleOther": "\u01e6az\u012bra\u0167 al-\u1e2aa\u1e0dr\u0101\u02be"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -5.43793,
+                    36.16359
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.16359",
+                    "coord_lon": "-5.43793",
+                    "cornu_URI": "JAZIRAKHADRA_054W361N_R_ANDA",
+                    "region_code": 1,
+                    "region_spelled": "Andalus",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "district",
+                    "toponym_arabic": "جزيرة ﭐلخضراء",
+                    "toponym_arabic_other": "جزيرة ﭐلخضراء",
+                    "toponym_buckwalter": "Jazira al-Khadra",
+                    "toponym_search": "Jazira al-Khadra",
+                    "toponym_translit": "Ǧazīraŧ al-Ḫaḍrāʾ",
+                    "toponym_translit_other": "Ǧazīraŧ al-Ḫaḍrāʾ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

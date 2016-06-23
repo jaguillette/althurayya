@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [59.21993, 42.45632], "type": "Point"}, "properties": {"arBW": "al-Jurjaniyya", "arTitle": "\ufb50\u0644\u062c\u0631\u062c\u0627\u0646\u064a\u0629", "arTitleOther": "\ufb50\u0644\u062c\u0631\u062c\u0627\u0646\u064a\u0629", "lat": "42.45632", "lon": "59.21993", "region": "Transoxiana", "searchNames": "al-Jurjaniyya", "topType": "capitals", "topTypeAlt": "capitale", "topURI": "JURJANIYYA_592E424N_S_TRAN", "translitTitle": "al-\u01e6ur\u01e7\u0101niyya\u0167", "translitTitleOther": "al-\u01e6ur\u01e7\u0101niyya\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    59.21993,
+                    42.45632
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "42.45632",
+                    "coord_lon": "59.21993",
+                    "cornu_URI": "JURJANIYYA_592E424N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "capitals",
+                    "top_type_orig": "capitale",
+                    "toponym_arabic": "ﭐلجرجانية",
+                    "toponym_arabic_other": "ﭐلجرجانية",
+                    "toponym_buckwalter": "al-Jurjaniyya",
+                    "toponym_search": "al-Jurjaniyya",
+                    "toponym_translit": "al-Ǧurǧāniyyaŧ",
+                    "toponym_translit_other": "al-Ǧurǧāniyyaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

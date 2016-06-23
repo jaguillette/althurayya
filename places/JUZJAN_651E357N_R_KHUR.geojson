@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [65.10068, 35.7211], "type": "Point"}, "properties": {"arBW": "Juzjan", "arTitle": "\u062c\u0648\u0632\u062c\u0627\u0646", "arTitleOther": "\u062c\u0648\u0632\u062c\u0627\u0646", "lat": "35.72110", "lon": "65.10068", "region": "Khurasan", "searchNames": "Juzjan", "topType": "regions", "topTypeAlt": "region", "topURI": "JUZJAN_651E357N_R_KHUR", "translitTitle": "\u01e6\u016bz\u01e7\u0101n", "translitTitleOther": "\u01e6\u016bz\u01e7\u0101n"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    65.10068,
+                    35.7211
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.72110",
+                    "coord_lon": "65.10068",
+                    "cornu_URI": "JUZJAN_651E357N_R_KHUR",
+                    "region_code": 10,
+                    "region_spelled": "Khurasan",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "جوزجان",
+                    "toponym_arabic_other": "جوزجان",
+                    "toponym_buckwalter": "Juzjan",
+                    "toponym_search": "Juzjan",
+                    "toponym_translit": "Ǧūzǧān",
+                    "toponym_translit_other": "Ǧūzǧān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [41.78238, 37.72559], "type": "Point"}, "properties": {"arBW": "Tall Fafan, Ayn Tall Fafan", "arTitle": "\u062a\u0644 \u0641\u0627\u0641\u0627\u0646", "arTitleOther": "\u062a\u0644 \u0641\u0627\u0641\u0627\u0646\u060c \u0639\u064a\u0646 \u062a\u0644 \u0641\u0627\u0641\u0627\u0646", "lat": "37.72559", "lon": "41.78238", "region": "Aqur", "searchNames": "Tall Fafan, Ayn Tall Fafan", "topType": "towns", "topTypeAlt": "cite", "topURI": "TALLFAFAN_417E377N_S_AQUR", "translitTitle": "Tall F\u0101f\u0101n", "translitTitleOther": "Tall F\u0101f\u0101n, \u02bfAyn Tall F\u0101f\u0101n"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    41.78238,
+                    37.72559
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.72559",
+                    "coord_lon": "41.78238",
+                    "cornu_URI": "TALLFAFAN_417E377N_S_AQUR",
+                    "region_code": 2,
+                    "region_spelled": "Aqur",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "تل فافان",
+                    "toponym_arabic_other": "تل فافان، عين تل فافان",
+                    "toponym_buckwalter": "Tall Fafan, Ayn Tall Fafan",
+                    "toponym_search": "Tall Fafan, Ayn Tall Fafan",
+                    "toponym_translit": "Tall Fāfān",
+                    "toponym_translit_other": "Tall Fāfān, ʿAyn Tall Fāfān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

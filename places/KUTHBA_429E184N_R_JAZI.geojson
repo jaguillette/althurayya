@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [42.98036, 18.48351], "type": "Point"}, "properties": {"arBW": "Kuthba, Kuthna", "arTitle": "\u0643\u062b\u0628\u0629", "arTitleOther": "\u0643\u062b\u0628\u0629\u060c \u0643\u062b\u0646\u0629", "lat": "18.48351", "lon": "42.98036", "region": "Jazirat al-Arab", "searchNames": "Kuthba, Kuthna", "topType": "regions", "topTypeAlt": "mikhlaf", "topURI": "KUTHBA_429E184N_R_JAZI", "translitTitle": "Ku\u1e6fba\u0167", "translitTitleOther": "Ku\u1e6fba\u0167, Ku\u1e6fna\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    42.98036,
+                    18.48351
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "18.48351",
+                    "coord_lon": "42.98036",
+                    "cornu_URI": "KUTHBA_429E184N_R_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "mikhlaf",
+                    "toponym_arabic": "كثبة",
+                    "toponym_arabic_other": "كثبة، كثنة",
+                    "toponym_buckwalter": "Kuthba, Kuthna",
+                    "toponym_search": "Kuthba, Kuthna",
+                    "toponym_translit": "Kuṯbaŧ",
+                    "toponym_translit_other": "Kuṯbaŧ, Kuṯnaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

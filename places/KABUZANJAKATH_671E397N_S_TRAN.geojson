@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [67.1707, 39.70827], "type": "Point"}, "properties": {"arBW": "Kabuzanjakath, Kabudhanjakath", "arTitle": "\u0643\u0628\u0648\u0632\u0646\u062c\u0643\u062b", "arTitleOther": "\u0643\u0628\u0648\u0632\u0646\u062c\u0643\u062b\u060c \u0643\u0628\u0648\u0630\u0646\u062c\u0643\u062b", "lat": "39.70827", "lon": "67.17070", "region": "Transoxiana", "searchNames": "Kabuzanjakath, Kabudhanjakath", "topType": "towns", "topTypeAlt": "canton/cheflieu", "topURI": "KABUZANJAKATH_671E397N_S_TRAN", "translitTitle": "Kab\u016bzan\u01e7aka\u1e6f", "translitTitleOther": "Kab\u016bzan\u01e7aka\u1e6f, Kab\u016b\u1e0fan\u01e7aka\u1e6f"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    67.1707,
+                    39.70827
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "39.70827",
+                    "coord_lon": "67.17070",
+                    "cornu_URI": "KABUZANJAKATH_671E397N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "canton/cheflieu",
+                    "toponym_arabic": "كبوزنجكث",
+                    "toponym_arabic_other": "كبوزنجكث، كبوذنجكث",
+                    "toponym_buckwalter": "Kabuzanjakath, Kabudhanjakath",
+                    "toponym_search": "Kabuzanjakath, Kabudhanjakath",
+                    "toponym_translit": "Kabūzanǧakaṯ",
+                    "toponym_translit_other": "Kabūzanǧakaṯ, Kabūḏanǧakaṯ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

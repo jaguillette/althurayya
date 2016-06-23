@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [42.39306, 17.18513], "type": "Point"}, "properties": {"arBW": "Attar", "arTitle": "\u0639\u0637\u0627\u0631", "arTitleOther": "\u0639\u0637\u0627\u0631", "lat": "17.18513", "lon": "42.39306", "region": "Yemen", "searchNames": "Attar", "topType": "regions", "topTypeAlt": "territoire", "topURI": "ATTAR_423E171N_R_YEME", "translitTitle": "\u02bfA\u1e6d\u1e6d\u0101r", "translitTitleOther": "\u02bfA\u1e6d\u1e6d\u0101r"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    42.39306,
+                    17.18513
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "17.18513",
+                    "coord_lon": "42.39306",
+                    "cornu_URI": "ATTAR_423E171N_R_YEME",
+                    "region_code": 21,
+                    "region_spelled": "Yemen",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "territoire",
+                    "toponym_arabic": "عطار",
+                    "toponym_arabic_other": "عطار",
+                    "toponym_buckwalter": "Attar",
+                    "toponym_search": "Attar",
+                    "toponym_translit": "ʿAṭṭār",
+                    "toponym_translit_other": "ʿAṭṭār"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

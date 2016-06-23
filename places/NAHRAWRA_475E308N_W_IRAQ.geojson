@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [47.55725, 30.86237], "type": "Point"}, "properties": {"arBW": "Nahr al-Awra", "arTitle": "\u0646\u0647\u0631 \ufb50\u0644\u0639\u0648\u0631\u0627", "arTitleOther": "\u0646\u0647\u0631 \ufb50\u0644\u0639\u0648\u0631\u0627", "lat": "30.86237", "lon": "47.55725", "region": "Iraq", "searchNames": "Nahr al-Awra", "topType": "waters", "topTypeAlt": "cours", "topURI": "NAHRAWRA_475E308N_W_IRAQ", "translitTitle": "Nahr al-\u02bfAwr\u0101", "translitTitleOther": "Nahr al-\u02bfAwr\u0101"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    47.55725,
+                    30.86237
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.86237",
+                    "coord_lon": "47.55725",
+                    "cornu_URI": "NAHRAWRA_475E308N_W_IRAQ",
+                    "region_code": 7,
+                    "region_spelled": "Iraq",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "cours",
+                    "toponym_arabic": "نهر ﭐلعورا",
+                    "toponym_arabic_other": "نهر ﭐلعورا",
+                    "toponym_buckwalter": "Nahr al-Awra",
+                    "toponym_search": "Nahr al-Awra",
+                    "toponym_translit": "Nahr al-ʿAwrā",
+                    "toponym_translit_other": "Nahr al-ʿAwrā"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

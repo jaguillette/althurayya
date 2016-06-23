@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [54.09036, 29.95166], "type": "Point"}, "properties": {"arBW": "Khawaristan", "arTitle": "\u062e\u0648\u0631\u0633\u062a\u0627\u0646", "arTitleOther": "\u062e\u0648\u0631\u0633\u062a\u0627\u0646", "lat": "29.95166", "lon": "54.09036", "region": "Faris", "searchNames": "Khawaristan", "topType": "waystations", "topTypeAlt": "etape", "topURI": "KHAWARISTAN_540E299N_S_FARI", "translitTitle": "\u1e2aawarist\u0101n", "translitTitleOther": "\u1e2aawarist\u0101n"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    54.09036,
+                    29.95166
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "29.95166",
+                    "coord_lon": "54.09036",
+                    "cornu_URI": "KHAWARISTAN_540E299N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "خورستان",
+                    "toponym_arabic_other": "خورستان",
+                    "toponym_buckwalter": "Khawaristan",
+                    "toponym_search": "Khawaristan",
+                    "toponym_translit": "Ḫawaristān",
+                    "toponym_translit_other": "Ḫawaristān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

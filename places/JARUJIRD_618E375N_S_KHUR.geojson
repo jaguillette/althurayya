@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [61.87474, 37.50068], "type": "Point"}, "properties": {"arBW": "Jarujird, Kanujird, Yanujird, Yanukird", "arTitle": "\u062c\u0631\u0648\u062c\u0631\u062f", "arTitleOther": "\u062c\u0631\u0648\u062c\u0631\u062f\u060c \u0643\u0646\u0648\u062c\u0631\u062f\u060c \u064a\u0646\u0648\u062c\u0631\u062f\u060c \u064a\u0646\u0648\u0643\u0631\u062f", "lat": "37.50068", "lon": "61.87474", "region": "Khurasan", "searchNames": "Jarujird, Kanujird, Yanujird, Yanukird", "topType": "villages", "topTypeAlt": "localite", "topURI": "JARUJIRD_618E375N_S_KHUR", "translitTitle": "\u01e6ar\u016b\u01e7ird", "translitTitleOther": "\u01e6ar\u016b\u01e7ird, Kan\u016b\u01e7ird, Yan\u016b\u01e7ird, Yan\u016bkird"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    61.87474,
+                    37.50068
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.50068",
+                    "coord_lon": "61.87474",
+                    "cornu_URI": "JARUJIRD_618E375N_S_KHUR",
+                    "region_code": 10,
+                    "region_spelled": "Khurasan",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "جروجرد",
+                    "toponym_arabic_other": "جروجرد، كنوجرد، ينوجرد، ينوكرد",
+                    "toponym_buckwalter": "Jarujird, Kanujird, Yanujird, Yanukird",
+                    "toponym_search": "Jarujird, Kanujird, Yanujird, Yanukird",
+                    "toponym_translit": "Ǧarūǧird",
+                    "toponym_translit_other": "Ǧarūǧird, Kanūǧird, Yanūǧird, Yanūkird"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

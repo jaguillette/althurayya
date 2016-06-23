@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [31.37316, 30.69837], "type": "Point"}, "properties": {"arBW": "Natwaya, Natw al-Rumman", "arTitle": "\u0646\u0637\u0648\u064a\u0629", "arTitleOther": "\u0646\u0637\u0648\u064a\u0629\u060c \u0646\u0637\u0648 \ufb50\u0644\u0631\u0645\u0627\u0646", "lat": "30.69837", "lon": "31.37316", "region": "Egypt", "searchNames": "Natwaya, Natw al-Rumman", "topType": "regions", "topTypeAlt": "region", "topURI": "NATWAYA_313E306N_R_EGYP", "translitTitle": "Na\u1e6dwaya\u0167", "translitTitleOther": "Na\u1e6dwaya\u0167, Na\u1e6dw al-Rumm\u0101n"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    31.37316,
+                    30.69837
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.69837",
+                    "coord_lon": "31.37316",
+                    "cornu_URI": "NATWAYA_313E306N_R_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "نطوية",
+                    "toponym_arabic_other": "نطوية، نطو ﭐلرمان",
+                    "toponym_buckwalter": "Natwaya, Natw al-Rumman",
+                    "toponym_search": "Natwaya, Natw al-Rumman",
+                    "toponym_translit": "Naṭwayaŧ",
+                    "toponym_translit_other": "Naṭwayaŧ, Naṭw al-Rummān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

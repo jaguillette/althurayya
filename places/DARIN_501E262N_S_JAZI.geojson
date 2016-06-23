@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [50.19373, 26.28437], "type": "Point"}, "properties": {"arBW": "Darin", "arTitle": "\u062f\u0627\u0631\u064a\u0646", "arTitleOther": "\u062f\u0627\u0631\u064a\u0646", "lat": "26.28437", "lon": "50.19373", "region": "Jazirat al-Arab", "searchNames": "Darin", "topType": "waystations", "topTypeAlt": "etape", "topURI": "DARIN_501E262N_S_JAZI", "translitTitle": "D\u0101r\u012bn", "translitTitleOther": "D\u0101r\u012bn"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    50.19373,
+                    26.28437
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "26.28437",
+                    "coord_lon": "50.19373",
+                    "cornu_URI": "DARIN_501E262N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "دارين",
+                    "toponym_arabic_other": "دارين",
+                    "toponym_buckwalter": "Darin",
+                    "toponym_search": "Darin",
+                    "toponym_translit": "Dārīn",
+                    "toponym_translit_other": "Dārīn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

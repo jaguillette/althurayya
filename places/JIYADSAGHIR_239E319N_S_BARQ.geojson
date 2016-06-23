@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [23.96719, 31.99027], "type": "Point"}, "properties": {"arBW": "Jiyad al-Saghir", "arTitle": "\u062c\u064a\u0627\u062f \ufb50\u0644\u0635\u063a\u064a\u0631", "arTitleOther": "\u062c\u064a\u0627\u062f \ufb50\u0644\u0635\u063a\u064a\u0631", "lat": "31.99027", "lon": "23.96719", "region": "Barqa", "searchNames": "Jiyad al-Saghir", "topType": "waystations", "topTypeAlt": "etape", "topURI": "JIYADSAGHIR_239E319N_S_BARQ", "translitTitle": "\u01e6iy\u0101d al-\u1e62a\u0121\u012br", "translitTitleOther": "\u01e6iy\u0101d al-\u1e62a\u0121\u012br"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    23.96719,
+                    31.99027
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.99027",
+                    "coord_lon": "23.96719",
+                    "cornu_URI": "JIYADSAGHIR_239E319N_S_BARQ",
+                    "region_code": 3,
+                    "region_spelled": "Barqa",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "جياد ﭐلصغير",
+                    "toponym_arabic_other": "جياد ﭐلصغير",
+                    "toponym_buckwalter": "Jiyad al-Saghir",
+                    "toponym_search": "Jiyad al-Saghir",
+                    "toponym_translit": "Ǧiyād al-Ṣaġīr",
+                    "toponym_translit_other": "Ǧiyād al-Ṣaġīr"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

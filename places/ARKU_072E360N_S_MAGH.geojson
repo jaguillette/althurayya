@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [7.20287, 36.05429], "type": "Point"}, "properties": {"arBW": "Arku, Rakwa", "arTitle": "\u0623\u0631\u0643\u0648", "arTitleOther": "\u0623\u0631\u0643\u0648\u060c \u0631\u0643\u0648\u0629", "lat": "36.05429", "lon": "7.20287", "region": "Maghrib", "searchNames": "Arku, Rakwa", "topType": "towns", "topTypeAlt": "cite", "topURI": "ARKU_072E360N_S_MAGH", "translitTitle": "Ark\u016b", "translitTitleOther": "Ark\u016b, Rakwa\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    7.20287,
+                    36.05429
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.05429",
+                    "coord_lon": "7.20287",
+                    "cornu_URI": "ARKU_072E360N_S_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "أركو",
+                    "toponym_arabic_other": "أركو، ركوة",
+                    "toponym_buckwalter": "Arku, Rakwa",
+                    "toponym_search": "Arku, Rakwa",
+                    "toponym_translit": "Arkū",
+                    "toponym_translit_other": "Arkū, Rakwaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

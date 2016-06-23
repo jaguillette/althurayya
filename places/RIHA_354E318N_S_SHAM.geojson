@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [35.43774, 31.86043], "type": "Point"}, "properties": {"arBW": "Riha, Ariha", "arTitle": "\u0631\u062d\u0627", "arTitleOther": "\u0631\u062d\u0627\u060c \u0623\u0631\u064a\u062d\u0627", "lat": "31.86043", "lon": "35.43774", "region": "Sham", "searchNames": "Riha, Ariha", "topType": "towns", "topTypeAlt": "cite", "topURI": "RIHA_354E318N_S_SHAM", "translitTitle": "Ri\u1e25\u0101", "translitTitleOther": "Ri\u1e25\u0101, Ar\u012b\u1e25\u0101"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    35.43774,
+                    31.86043
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.86043",
+                    "coord_lon": "35.43774",
+                    "cornu_URI": "RIHA_354E318N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "رحا",
+                    "toponym_arabic_other": "رحا، أريحا",
+                    "toponym_buckwalter": "Riha, Ariha",
+                    "toponym_search": "Riha, Ariha",
+                    "toponym_translit": "Riḥā",
+                    "toponym_translit_other": "Riḥā, Arīḥā"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

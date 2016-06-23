@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [58.4113, 35.13557], "type": "Point"}, "properties": {"arBW": "Turthith, Turshiz, Turaythith", "arTitle": "\u0637\u0631\u062b\u064a\u062b", "arTitleOther": "\u0637\u0631\u062b\u064a\u062b\u060c \u062a\u0631\u0634\u064a\u0632\u060c \u0637\u0631\u064a\u062b\u064a\u062b", "lat": "35.13557", "lon": "58.41130", "region": "Khurasan", "searchNames": "Turthith, Turshiz, Turaythith", "topType": "capitals", "topTypeAlt": "cheflieu", "topURI": "TURTHITH_584E351N_S_KHUR", "translitTitle": "\u1e6cur\u1e6f\u012b\u1e6f", "translitTitleOther": "\u1e6cur\u1e6f\u012b\u1e6f, Tur\u0161\u012bz, \u1e6curay\u1e6f\u012b\u1e6f"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    58.4113,
+                    35.13557
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.13557",
+                    "coord_lon": "58.41130",
+                    "cornu_URI": "TURTHITH_584E351N_S_KHUR",
+                    "region_code": 10,
+                    "region_spelled": "Khurasan",
+                    "top_type_hom": "capitals",
+                    "top_type_orig": "cheflieu",
+                    "toponym_arabic": "طرثيث",
+                    "toponym_arabic_other": "طرثيث، ترشيز، طريثيث",
+                    "toponym_buckwalter": "Turthith, Turshiz, Turaythith",
+                    "toponym_search": "Turthith, Turshiz, Turaythith",
+                    "toponym_translit": "Ṭurṯīṯ",
+                    "toponym_translit_other": "Ṭurṯīṯ, Turšīz, Ṭurayṯīṯ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

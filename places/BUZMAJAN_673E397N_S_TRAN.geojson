@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [67.32394, 39.74445], "type": "Point"}, "properties": {"arBW": "Buzmajan", "arTitle": "\u0628\u0648\u0632\u0645\u0627\u062c\u0646", "arTitleOther": "\u0628\u0648\u0632\u0645\u0627\u062c\u0646", "lat": "39.74445", "lon": "67.32394", "region": "Transoxiana", "searchNames": "Buzmajan", "topType": "towns", "topTypeAlt": "canton", "topURI": "BUZMAJAN_673E397N_S_TRAN", "translitTitle": "B\u016bzm\u0101\u01e7an", "translitTitleOther": "B\u016bzm\u0101\u01e7an"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    67.32394,
+                    39.74445
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "39.74445",
+                    "coord_lon": "67.32394",
+                    "cornu_URI": "BUZMAJAN_673E397N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "canton",
+                    "toponym_arabic": "بوزماجن",
+                    "toponym_arabic_other": "بوزماجن",
+                    "toponym_buckwalter": "Buzmajan",
+                    "toponym_search": "Buzmajan",
+                    "toponym_translit": "Būzmāǧan",
+                    "toponym_translit_other": "Būzmāǧan"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

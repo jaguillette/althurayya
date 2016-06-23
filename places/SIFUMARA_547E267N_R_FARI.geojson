@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [54.75943, 26.77937], "type": "Point"}, "properties": {"arBW": "Sif Umara", "arTitle": "\u0633\u064a\u0641 \u0639\u0645\u0627\u0631\u0629", "arTitleOther": "\u0633\u064a\u0641 \u0639\u0645\u0627\u0631\u0629", "lat": "26.77937", "lon": "54.75943", "region": "Faris", "searchNames": "Sif Umara", "topType": "regions", "topTypeAlt": "region", "topURI": "SIFUMARA_547E267N_R_FARI", "translitTitle": "S\u012bf \u02bfUm\u0101ra\u0167", "translitTitleOther": "S\u012bf \u02bfUm\u0101ra\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    54.75943,
+                    26.77937
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "26.77937",
+                    "coord_lon": "54.75943",
+                    "cornu_URI": "SIFUMARA_547E267N_R_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "سيف عمارة",
+                    "toponym_arabic_other": "سيف عمارة",
+                    "toponym_buckwalter": "Sif Umara",
+                    "toponym_search": "Sif Umara",
+                    "toponym_translit": "Sīf ʿUmāraŧ",
+                    "toponym_translit_other": "Sīf ʿUmāraŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

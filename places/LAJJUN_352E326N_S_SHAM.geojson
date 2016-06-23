@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [35.27017, 32.60823], "type": "Point"}, "properties": {"arBW": "al-Lajjun", "arTitle": "\ufb50\u0644\u0644\u062c\u0648\u0646", "arTitleOther": "\ufb50\u0644\u0644\u062c\u0648\u0646", "lat": "32.60823", "lon": "35.27017", "region": "Sham", "searchNames": "al-Lajjun", "topType": "towns", "topTypeAlt": "cite", "topURI": "LAJJUN_352E326N_S_SHAM", "translitTitle": "al-La\u01e7\u01e7\u016bn", "translitTitleOther": "al-La\u01e7\u01e7\u016bn"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    35.27017,
+                    32.60823
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.60823",
+                    "coord_lon": "35.27017",
+                    "cornu_URI": "LAJJUN_352E326N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ﭐللجون",
+                    "toponym_arabic_other": "ﭐللجون",
+                    "toponym_buckwalter": "al-Lajjun",
+                    "toponym_search": "al-Lajjun",
+                    "toponym_translit": "al-Laǧǧūn",
+                    "toponym_translit_other": "al-Laǧǧūn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

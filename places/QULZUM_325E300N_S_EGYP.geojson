@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [32.55684, 30.02822], "type": "Point"}, "properties": {"arBW": "al-Qulzum", "arTitle": "\ufb50\u0644\u0642\u0644\u0632\u0645", "arTitleOther": "\ufb50\u0644\u0642\u0644\u0632\u0645", "lat": "30.02822", "lon": "32.55684", "region": "Egypt", "searchNames": "al-Qulzum", "topType": "towns", "topTypeAlt": "cite", "topURI": "QULZUM_325E300N_S_EGYP", "translitTitle": "al-Qulzum", "translitTitleOther": "al-Qulzum"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    32.55684,
+                    30.02822
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.02822",
+                    "coord_lon": "32.55684",
+                    "cornu_URI": "QULZUM_325E300N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ﭐلقلزم",
+                    "toponym_arabic_other": "ﭐلقلزم",
+                    "toponym_buckwalter": "al-Qulzum",
+                    "toponym_search": "al-Qulzum",
+                    "toponym_translit": "al-Qulzum",
+                    "toponym_translit_other": "al-Qulzum"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

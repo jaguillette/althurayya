@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [40.13133, 35.32381], "type": "Point"}, "properties": {"arBW": "Fam Nahr Said", "arTitle": "\u0641\u0645 \u0646\u0647\u0631 \u0633\u0639\u064a\u062f", "arTitleOther": "\u0641\u0645 \u0646\u0647\u0631 \u0633\u0639\u064a\u062f", "lat": "35.32381", "lon": "40.13133", "region": "Aqur", "searchNames": "Fam Nahr Said", "topType": "waystations", "topTypeAlt": "etape", "topURI": "FAMNAHRSAID_401E353N_S_AQUR", "translitTitle": "Fam Nahr Sa\u02bf\u012bd", "translitTitleOther": "Fam Nahr Sa\u02bf\u012bd"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    40.13133,
+                    35.32381
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.32381",
+                    "coord_lon": "40.13133",
+                    "cornu_URI": "FAMNAHRSAID_401E353N_S_AQUR",
+                    "region_code": 2,
+                    "region_spelled": "Aqur",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "فم نهر سعيد",
+                    "toponym_arabic_other": "فم نهر سعيد",
+                    "toponym_buckwalter": "Fam Nahr Said",
+                    "toponym_search": "Fam Nahr Said",
+                    "toponym_translit": "Fam Nahr Saʿīd",
+                    "toponym_translit_other": "Fam Nahr Saʿīd"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

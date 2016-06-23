@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [-4.31719, 34.19475], "type": "Point"}, "properties": {"arBW": "Qala Karmata, Kurmata", "arTitle": "\u0642\u0644\u0639\u0629 \u0643\u0631\u0645\u0627\u0637\u0629", "arTitleOther": "\u0642\u0644\u0639\u0629 \u0643\u0631\u0645\u0627\u0637\u0629\u060c \u0643\u0631\u0645\u0627\u0637\u0629", "lat": "34.19475", "lon": "-4.31719", "region": "Maghrib", "searchNames": "Qala Karmata, Kurmata", "topType": "villages", "topTypeAlt": "localite", "topURI": "QALAKARMATA_043W341N_S_MAGH", "translitTitle": "Qal\u02bfa\u0167 Karm\u0101\u1e6da\u0167", "translitTitleOther": "Qal\u02bfa\u0167 Karm\u0101\u1e6da\u0167, Kurm\u0101\u1e6da\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -4.31719,
+                    34.19475
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.19475",
+                    "coord_lon": "-4.31719",
+                    "cornu_URI": "QALAKARMATA_043W341N_S_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "قلعة كرماطة",
+                    "toponym_arabic_other": "قلعة كرماطة، كرماطة",
+                    "toponym_buckwalter": "Qala Karmata, Kurmata",
+                    "toponym_search": "Qala Karmata, Kurmata",
+                    "toponym_translit": "Qalʿaŧ Karmāṭaŧ",
+                    "toponym_translit_other": "Qalʿaŧ Karmāṭaŧ, Kurmāṭaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

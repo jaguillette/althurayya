@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [36.62191, 35.31245], "type": "Point"}, "properties": {"arBW": "al-Atmin, al-Latmin", "arTitle": "\ufb50\u0644\u0623\u0637\u0645\u064a\u0646", "arTitleOther": "\ufb50\u0644\u0623\u0637\u0645\u064a\u0646\u060c \ufb50\u0644\u0644\u0637\u0645\u064a\u0646", "lat": "35.31245", "lon": "36.62191", "region": "Sham", "searchNames": "al-Atmin, al-Latmin", "topType": "villages", "topTypeAlt": "localite", "topURI": "ATMIN_366E353N_S_SHAM", "translitTitle": "al-A\u1e6dm\u012bn", "translitTitleOther": "al-A\u1e6dm\u012bn, al-La\u1e6dm\u012bn"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    36.62191,
+                    35.31245
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.31245",
+                    "coord_lon": "36.62191",
+                    "cornu_URI": "ATMIN_366E353N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "ﭐلأطمين",
+                    "toponym_arabic_other": "ﭐلأطمين، ﭐللطمين",
+                    "toponym_buckwalter": "al-Atmin, al-Latmin",
+                    "toponym_search": "al-Atmin, al-Latmin",
+                    "toponym_translit": "al-Aṭmīn",
+                    "toponym_translit_other": "al-Aṭmīn, al-Laṭmīn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

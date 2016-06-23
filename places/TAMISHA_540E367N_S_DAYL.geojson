@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [54.05573, 36.7312], "type": "Point"}, "properties": {"arBW": "Tamisha, Tamisa", "arTitle": "\u0637\u0645\u064a\u0634\u0629", "arTitleOther": "\u0637\u0645\u064a\u0634\u0629\u060c \u0637\u0645\u064a\u0633\u0629", "lat": "36.73120", "lon": "54.05573", "region": "Daylam", "searchNames": "Tamisha, Tamisa", "topType": "towns", "topTypeAlt": "cite", "topURI": "TAMISHA_540E367N_S_DAYL", "translitTitle": "\u1e6cam\u012b\u0161a\u0167", "translitTitleOther": "\u1e6cam\u012b\u0161a\u0167, \u1e6cam\u012bsa\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    54.05573,
+                    36.7312
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.73120",
+                    "coord_lon": "54.05573",
+                    "cornu_URI": "TAMISHA_540E367N_S_DAYL",
+                    "region_code": 4,
+                    "region_spelled": "Daylam",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "طميشة",
+                    "toponym_arabic_other": "طميشة، طميسة",
+                    "toponym_buckwalter": "Tamisha, Tamisa",
+                    "toponym_search": "Tamisha, Tamisa",
+                    "toponym_translit": "Ṭamīšaŧ",
+                    "toponym_translit_other": "Ṭamīšaŧ, Ṭamīsaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

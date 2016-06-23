@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [44.36844, 32.24535], "type": "Point"}, "properties": {"arBW": "Shahi, Sahi", "arTitle": "\u0634\u0627\u0647\u064a", "arTitleOther": "\u0634\u0627\u0647\u064a\u060c \u0633\u0627\u0647\u064a", "lat": "32.24535", "lon": "44.36844", "region": "Iraq", "searchNames": "Shahi, Sahi", "topType": "waystations", "topTypeAlt": "etape", "topURI": "SHAHI_443E322N_S_IRAQ", "translitTitle": "\u0160\u0101h\u012b", "translitTitleOther": "\u0160\u0101h\u012b, S\u0101h\u012b"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    44.36844,
+                    32.24535
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.24535",
+                    "coord_lon": "44.36844",
+                    "cornu_URI": "SHAHI_443E322N_S_IRAQ",
+                    "region_code": 7,
+                    "region_spelled": "Iraq",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "شاهي",
+                    "toponym_arabic_other": "شاهي، ساهي",
+                    "toponym_buckwalter": "Shahi, Sahi",
+                    "toponym_search": "Shahi, Sahi",
+                    "toponym_translit": "Šāhī",
+                    "toponym_translit_other": "Šāhī, Sāhī"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

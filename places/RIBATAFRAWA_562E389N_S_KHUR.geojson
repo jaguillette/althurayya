@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [56.26856, 38.92182], "type": "Point"}, "properties": {"arBW": "Ribat Afrawa", "arTitle": "\u0631\u0628\u0627\u0637 \u0623\u0641\u0631\u0627\u0648\u0629", "arTitleOther": "\u0631\u0628\u0627\u0637 \u0623\u0641\u0631\u0627\u0648\u0629", "lat": "38.92182", "lon": "56.26856", "region": "Khurasan", "searchNames": "Ribat Afrawa", "topType": "waystations", "topTypeAlt": "ribat", "topURI": "RIBATAFRAWA_562E389N_S_KHUR", "translitTitle": "Rib\u0101\u1e6d Afr\u0101wa\u0167", "translitTitleOther": "Rib\u0101\u1e6d Afr\u0101wa\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    56.26856,
+                    38.92182
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "38.92182",
+                    "coord_lon": "56.26856",
+                    "cornu_URI": "RIBATAFRAWA_562E389N_S_KHUR",
+                    "region_code": 10,
+                    "region_spelled": "Khurasan",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "ribat",
+                    "toponym_arabic": "رباط أفراوة",
+                    "toponym_arabic_other": "رباط أفراوة",
+                    "toponym_buckwalter": "Ribat Afrawa",
+                    "toponym_search": "Ribat Afrawa",
+                    "toponym_translit": "Ribāṭ Afrāwaŧ",
+                    "toponym_translit_other": "Ribāṭ Afrāwaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

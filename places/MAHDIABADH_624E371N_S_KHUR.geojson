@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [62.41583, 37.12201], "type": "Point"}, "properties": {"arBW": "Mahdiabadh", "arTitle": "\u0645\u0647\u062f\u064a\u0627\u0628\u0627\u0630", "arTitleOther": "\u0645\u0647\u062f\u064a\u0627\u0628\u0627\u0630", "lat": "37.12201", "lon": "62.41583", "region": "Khurasan", "searchNames": "Mahdiabadh", "topType": "waystations", "topTypeAlt": "etape", "topURI": "MAHDIABADH_624E371N_S_KHUR", "translitTitle": "Mahd\u012b\u0101b\u0101\u1e0f", "translitTitleOther": "Mahd\u012b\u0101b\u0101\u1e0f"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    62.41583,
+                    37.12201
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.12201",
+                    "coord_lon": "62.41583",
+                    "cornu_URI": "MAHDIABADH_624E371N_S_KHUR",
+                    "region_code": 10,
+                    "region_spelled": "Khurasan",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "مهدياباذ",
+                    "toponym_arabic_other": "مهدياباذ",
+                    "toponym_buckwalter": "Mahdiabadh",
+                    "toponym_search": "Mahdiabadh",
+                    "toponym_translit": "Mahdīābāḏ",
+                    "toponym_translit_other": "Mahdīābāḏ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

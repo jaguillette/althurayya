@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [59.41155, 35.05003], "type": "Point"}, "properties": {"arBW": "Sankan, Sanjan", "arTitle": "\u0633\u0646\u0643\u0627\u0646", "arTitleOther": "\u0633\u0646\u0643\u0627\u0646\u060c \u0633\u0646\u062c\u0627\u0646", "lat": "35.05003", "lon": "59.41155", "region": "Khurasan", "searchNames": "Sankan, Sanjan", "topType": "towns", "topTypeAlt": "canton", "topURI": "SANKAN_594E350N_S_KHUR", "translitTitle": "Sank\u0101n", "translitTitleOther": "Sank\u0101n, San\u01e7\u0101n"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    59.41155,
+                    35.05003
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.05003",
+                    "coord_lon": "59.41155",
+                    "cornu_URI": "SANKAN_594E350N_S_KHUR",
+                    "region_code": 10,
+                    "region_spelled": "Khurasan",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "canton",
+                    "toponym_arabic": "سنكان",
+                    "toponym_arabic_other": "سنكان، سنجان",
+                    "toponym_buckwalter": "Sankan, Sanjan",
+                    "toponym_search": "Sankan, Sanjan",
+                    "toponym_translit": "Sankān",
+                    "toponym_translit_other": "Sankān, Sanǧān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

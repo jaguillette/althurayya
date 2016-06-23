@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [38.82122, 37.1497], "type": "Point"}, "properties": {"arBW": "al-Ruha", "arTitle": "\ufb50\u0644\u0631\u0647\u0627", "arTitleOther": "\ufb50\u0644\u0631\u0647\u0627", "lat": "37.14970", "lon": "38.82122", "region": "Aqur", "searchNames": "al-Ruha", "topType": "towns", "topTypeAlt": "cite", "topURI": "RUHA_388E371N_S_AQUR", "translitTitle": "al-Ruh\u0101", "translitTitleOther": "al-Ruh\u0101"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    38.82122,
+                    37.1497
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.14970",
+                    "coord_lon": "38.82122",
+                    "cornu_URI": "RUHA_388E371N_S_AQUR",
+                    "region_code": 2,
+                    "region_spelled": "Aqur",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ﭐلرها",
+                    "toponym_arabic_other": "ﭐلرها",
+                    "toponym_buckwalter": "al-Ruha",
+                    "toponym_search": "al-Ruha",
+                    "toponym_translit": "al-Ruhā",
+                    "toponym_translit_other": "al-Ruhā"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [44.34902, 32.70401], "type": "Point"}, "properties": {"arBW": "Qasr Ibn Hubayra", "arTitle": "\u0642\u0635\u0631 \u0625\u0628\u0646 \u0647\u0628\u064a\u0631\u0629", "arTitleOther": "\u0642\u0635\u0631 \u0625\u0628\u0646 \u0647\u0628\u064a\u0631\u0629", "lat": "32.70401", "lon": "44.34902", "region": "Iraq", "searchNames": "Qasr Ibn Hubayra", "topType": "towns", "topTypeAlt": "cite", "topURI": "QASRIBNHUBAYRA_443E327N_S_IRAQ", "translitTitle": "Qa\u1e63r Ibn Hubayra\u0167", "translitTitleOther": "Qa\u1e63r Ibn Hubayra\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    44.34902,
+                    32.70401
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.70401",
+                    "coord_lon": "44.34902",
+                    "cornu_URI": "QASRIBNHUBAYRA_443E327N_S_IRAQ",
+                    "region_code": 7,
+                    "region_spelled": "Iraq",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "قصر إبن هبيرة",
+                    "toponym_arabic_other": "قصر إبن هبيرة",
+                    "toponym_buckwalter": "Qasr Ibn Hubayra",
+                    "toponym_search": "Qasr Ibn Hubayra",
+                    "toponym_translit": "Qaṣr Ibn Hubayraŧ",
+                    "toponym_translit_other": "Qaṣr Ibn Hubayraŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

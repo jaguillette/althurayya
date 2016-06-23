@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [7.90257, 33.87018], "type": "Point"}, "properties": {"arBW": "Nafta", "arTitle": "\u0646\u0641\u0637\u0629", "arTitleOther": "\u0646\u0641\u0637\u0629", "lat": "33.87018", "lon": "7.90257", "region": "Maghrib", "searchNames": "Nafta", "topType": "towns", "topTypeAlt": "cite", "topURI": "NAFTA_079E338N_S_MAGH", "translitTitle": "Naf\u1e6da\u0167", "translitTitleOther": "Naf\u1e6da\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    7.90257,
+                    33.87018
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.87018",
+                    "coord_lon": "7.90257",
+                    "cornu_URI": "NAFTA_079E338N_S_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "نفطة",
+                    "toponym_arabic_other": "نفطة",
+                    "toponym_buckwalter": "Nafta",
+                    "toponym_search": "Nafta",
+                    "toponym_translit": "Nafṭaŧ",
+                    "toponym_translit_other": "Nafṭaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

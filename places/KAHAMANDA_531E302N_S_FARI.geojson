@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [53.1975, 30.2849], "type": "Point"}, "properties": {"arBW": "Kahamanda, Kihmand, Kamahank", "arTitle": "\u0643\u0647\u0645\u0646\u062f\u0629", "arTitleOther": "\u0643\u0647\u0645\u0646\u062f\u0629\u060c \u0643\u0647\u0645\u0646\u062f\u060c \u0643\u0645\u0647\u0646\u0643", "lat": "30.28490", "lon": "53.19750", "region": "Faris", "searchNames": "Kahamanda, Kihmand, Kamahank", "topType": "waystations", "topTypeAlt": "etape", "topURI": "KAHAMANDA_531E302N_S_FARI", "translitTitle": "Kahamanda\u0167", "translitTitleOther": "Kahamanda\u0167, Kihmand, Kamahank"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    53.1975,
+                    30.2849
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.28490",
+                    "coord_lon": "53.19750",
+                    "cornu_URI": "KAHAMANDA_531E302N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "كهمندة",
+                    "toponym_arabic_other": "كهمندة، كهمند، كمهنك",
+                    "toponym_buckwalter": "Kahamanda, Kihmand, Kamahank",
+                    "toponym_search": "Kahamanda, Kihmand, Kamahank",
+                    "toponym_translit": "Kahamandaŧ",
+                    "toponym_translit_other": "Kahamandaŧ, Kihmand, Kamahank"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

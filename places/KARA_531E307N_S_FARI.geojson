@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [53.12982, 30.73791], "type": "Point"}, "properties": {"arBW": "Kara", "arTitle": "\u0643\u0631\u0629", "arTitleOther": "\u0643\u0631\u0629", "lat": "30.73791", "lon": "53.12982", "region": "Faris", "searchNames": "Kara", "topType": "towns", "topTypeAlt": "cite", "topURI": "KARA_531E307N_S_FARI", "translitTitle": "Kara\u0167", "translitTitleOther": "Kara\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    53.12982,
+                    30.73791
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.73791",
+                    "coord_lon": "53.12982",
+                    "cornu_URI": "KARA_531E307N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "كرة",
+                    "toponym_arabic_other": "كرة",
+                    "toponym_buckwalter": "Kara",
+                    "toponym_search": "Kara",
+                    "toponym_translit": "Karaŧ",
+                    "toponym_translit_other": "Karaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

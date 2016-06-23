@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [66.6411, 36.8334], "type": "Point"}, "properties": {"arBW": "Dastajirda", "arTitle": "\u062f\u0633\u062a\u062c\u0631\u062f\u0629", "arTitleOther": "\u062f\u0633\u062a\u062c\u0631\u062f\u0629", "lat": "36.83340", "lon": "66.64110", "region": "Khurasan", "searchNames": "Dastajirda", "topType": "villages", "topTypeAlt": "localite", "topURI": "DASTAJIRDA_666E368N_S_KHUR", "translitTitle": "Dasta\u01e7irda\u0167", "translitTitleOther": "Dasta\u01e7irda\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    66.6411,
+                    36.8334
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.83340",
+                    "coord_lon": "66.64110",
+                    "cornu_URI": "DASTAJIRDA_666E368N_S_KHUR",
+                    "region_code": 10,
+                    "region_spelled": "Khurasan",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "دستجردة",
+                    "toponym_arabic_other": "دستجردة",
+                    "toponym_buckwalter": "Dastajirda",
+                    "toponym_search": "Dastajirda",
+                    "toponym_translit": "Dastaǧirdaŧ",
+                    "toponym_translit_other": "Dastaǧirdaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [27.94768, 30.91449], "type": "Point"}, "properties": {"arBW": "Kanais al-Hadid, Kanais al-Harir", "arTitle": "\u0643\u0646\u0627\u0626\u0633 \ufb50\u0644\u062d\u062f\u064a\u062f", "arTitleOther": "\u0643\u0646\u0627\u0626\u0633 \ufb50\u0644\u062d\u062f\u064a\u062f\u060c \u0643\u0646\u0627\u0626\u0633 \ufb50\u0644\u062d\u0631\u064a\u0631", "lat": "30.91449", "lon": "27.94768", "region": "Barqa", "searchNames": "Kanais al-Hadid, Kanais al-Harir", "topType": "waystations", "topTypeAlt": "etape", "topURI": "KANAISHADID_279E309N_S_BARQ", "translitTitle": "Kan\u0101\u02beis al-\u1e24ad\u012bd", "translitTitleOther": "Kan\u0101\u02beis al-\u1e24ad\u012bd, Kan\u0101\u02beis al-\u1e24ar\u012br"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    27.94768,
+                    30.91449
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.91449",
+                    "coord_lon": "27.94768",
+                    "cornu_URI": "KANAISHADID_279E309N_S_BARQ",
+                    "region_code": 3,
+                    "region_spelled": "Barqa",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "كنائس ﭐلحديد",
+                    "toponym_arabic_other": "كنائس ﭐلحديد، كنائس ﭐلحرير",
+                    "toponym_buckwalter": "Kanais al-Hadid, Kanais al-Harir",
+                    "toponym_search": "Kanais al-Hadid, Kanais al-Harir",
+                    "toponym_translit": "Kanāʾis al-Ḥadīd",
+                    "toponym_translit_other": "Kanāʾis al-Ḥadīd, Kanāʾis al-Ḥarīr"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [73.19654, 42.8167], "type": "Point"}, "properties": {"arBW": "Mirki", "arTitle": "\u0645\u064a\u0631\u0643\u064a", "arTitleOther": "\u0645\u064a\u0631\u0643\u064a", "lat": "42.81670", "lon": "73.19654", "region": "Transoxiana", "searchNames": "Mirki", "topType": "towns", "topTypeAlt": "cite", "topURI": "MIRKI_731E428N_S_TRAN", "translitTitle": "M\u012brk\u012b", "translitTitleOther": "M\u012brk\u012b"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    73.19654,
+                    42.8167
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "42.81670",
+                    "coord_lon": "73.19654",
+                    "cornu_URI": "MIRKI_731E428N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ميركي",
+                    "toponym_arabic_other": "ميركي",
+                    "toponym_buckwalter": "Mirki",
+                    "toponym_search": "Mirki",
+                    "toponym_translit": "Mīrkī",
+                    "toponym_translit_other": "Mīrkī"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

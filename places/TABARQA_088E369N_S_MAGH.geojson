@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [8.81185, 36.91556], "type": "Point"}, "properties": {"arBW": "Tabarqa", "arTitle": "\u0637\u0628\u0631\u0642\u0629", "arTitleOther": "\u0637\u0628\u0631\u0642\u0629", "lat": "36.91556", "lon": "8.81185", "region": "Maghrib", "searchNames": "Tabarqa", "topType": "towns", "topTypeAlt": "cite", "topURI": "TABARQA_088E369N_S_MAGH", "translitTitle": "\u1e6cabarqa\u0167", "translitTitleOther": "\u1e6cabarqa\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    8.81185,
+                    36.91556
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.91556",
+                    "coord_lon": "8.81185",
+                    "cornu_URI": "TABARQA_088E369N_S_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "طبرقة",
+                    "toponym_arabic_other": "طبرقة",
+                    "toponym_buckwalter": "Tabarqa",
+                    "toponym_search": "Tabarqa",
+                    "toponym_translit": "Ṭabarqaŧ",
+                    "toponym_translit_other": "Ṭabarqaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

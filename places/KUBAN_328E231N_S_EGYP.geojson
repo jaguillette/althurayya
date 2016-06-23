@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [32.8863, 23.12192], "type": "Point"}, "properties": {"arBW": "Kuban, Qubban", "arTitle": "\u0643\u0628\u0627\u0646", "arTitleOther": "\u0643\u0628\u0627\u0646\u060c \u0642\u0628\u0627\u0646", "lat": "23.12192", "lon": "32.88630", "region": "Egypt", "searchNames": "Kuban, Qubban", "topType": "waystations", "topTypeAlt": "etape", "topURI": "KUBAN_328E231N_S_EGYP", "translitTitle": "Kub\u0101n", "translitTitleOther": "Kub\u0101n, Qubb\u0101n"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    32.8863,
+                    23.12192
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "23.12192",
+                    "coord_lon": "32.88630",
+                    "cornu_URI": "KUBAN_328E231N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "كبان",
+                    "toponym_arabic_other": "كبان، قبان",
+                    "toponym_buckwalter": "Kuban, Qubban",
+                    "toponym_search": "Kuban, Qubban",
+                    "toponym_translit": "Kubān",
+                    "toponym_translit_other": "Kubān, Qubbān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

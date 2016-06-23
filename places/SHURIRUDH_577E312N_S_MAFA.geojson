@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [57.78936, 31.27116], "type": "Point"}, "properties": {"arBW": "Shurirudh, Shur Duwazda", "arTitle": "\u0634\u0648\u0631\u0631\u0648\u0630", "arTitleOther": "\u0634\u0648\u0631\u0631\u0648\u0630\u060c \u0634\u0648\u0631 \u062f\u0648\u0627\u0632\u062f\u0629", "lat": "31.27116", "lon": "57.78936", "region": "Mafaza", "searchNames": "Shurirudh, Shur Duwazda", "topType": "waystations", "topTypeAlt": "etape", "topURI": "SHURIRUDH_577E312N_S_MAFA", "translitTitle": "\u0160\u016brir\u016b\u1e0f", "translitTitleOther": "\u0160\u016brir\u016b\u1e0f, \u0160\u016br Duw\u0101zda\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    57.78936,
+                    31.27116
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.27116",
+                    "coord_lon": "57.78936",
+                    "cornu_URI": "SHURIRUDH_577E312N_S_MAFA",
+                    "region_code": 13,
+                    "region_spelled": "Mafaza",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "شورروذ",
+                    "toponym_arabic_other": "شورروذ، شور دوازدة",
+                    "toponym_buckwalter": "Shurirudh, Shur Duwazda",
+                    "toponym_search": "Shurirudh, Shur Duwazda",
+                    "toponym_translit": "Šūrirūḏ",
+                    "toponym_translit_other": "Šūrirūḏ, Šūr Duwāzdaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

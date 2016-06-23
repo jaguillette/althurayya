@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [59.84669, 35.04974], "type": "Point"}, "properties": {"arBW": "Jayimand", "arTitle": "\u062c\u0627\u064a\u0645\u0646\u062f", "arTitleOther": "\u062c\u0627\u064a\u0645\u0646\u062f", "lat": "35.04974", "lon": "59.84669", "region": "Khurasan", "searchNames": "Jayimand", "topType": "towns", "topTypeAlt": "canton", "topURI": "JAYIMAND_598E350N_S_KHUR", "translitTitle": "\u01e6\u0101yimand", "translitTitleOther": "\u01e6\u0101yimand"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    59.84669,
+                    35.04974
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.04974",
+                    "coord_lon": "59.84669",
+                    "cornu_URI": "JAYIMAND_598E350N_S_KHUR",
+                    "region_code": 10,
+                    "region_spelled": "Khurasan",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "canton",
+                    "toponym_arabic": "جايمند",
+                    "toponym_arabic_other": "جايمند",
+                    "toponym_buckwalter": "Jayimand",
+                    "toponym_search": "Jayimand",
+                    "toponym_translit": "Ǧāyimand",
+                    "toponym_translit_other": "Ǧāyimand"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [48.72446, 27.68528], "type": "Point"}, "properties": {"arBW": "Arfaja", "arTitle": "\u0639\u0631\u0641\u062c\u0629", "arTitleOther": "\u0639\u0631\u0641\u062c\u0629", "lat": "27.68528", "lon": "48.72446", "region": "Jazirat al-Arab", "searchNames": "Arfaja", "topType": "waystations", "topTypeAlt": "etape", "topURI": "ARFAJA_487E276N_S_JAZI", "translitTitle": "\u02bfArfa\u01e7a\u0167", "translitTitleOther": "\u02bfArfa\u01e7a\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    48.72446,
+                    27.68528
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "27.68528",
+                    "coord_lon": "48.72446",
+                    "cornu_URI": "ARFAJA_487E276N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "عرفجة",
+                    "toponym_arabic_other": "عرفجة",
+                    "toponym_buckwalter": "Arfaja",
+                    "toponym_search": "Arfaja",
+                    "toponym_translit": "ʿArfaǧaŧ",
+                    "toponym_translit_other": "ʿArfaǧaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

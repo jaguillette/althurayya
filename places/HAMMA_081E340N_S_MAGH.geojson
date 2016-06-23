@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [8.19472, 34.0563], "type": "Point"}, "properties": {"arBW": "al-Hamma", "arTitle": "\ufb50\u0644\u062d\u0645\u0629", "arTitleOther": "\ufb50\u0644\u062d\u0645\u0629", "lat": "34.05630", "lon": "8.19472", "region": "Maghrib", "searchNames": "al-Hamma", "topType": "towns", "topTypeAlt": "cite", "topURI": "HAMMA_081E340N_S_MAGH", "translitTitle": "al-\u1e24amma\u0167", "translitTitleOther": "al-\u1e24amma\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    8.19472,
+                    34.0563
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.05630",
+                    "coord_lon": "8.19472",
+                    "cornu_URI": "HAMMA_081E340N_S_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ﭐلحمة",
+                    "toponym_arabic_other": "ﭐلحمة",
+                    "toponym_buckwalter": "al-Hamma",
+                    "toponym_search": "al-Hamma",
+                    "toponym_translit": "al-Ḥammaŧ",
+                    "toponym_translit_other": "al-Ḥammaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

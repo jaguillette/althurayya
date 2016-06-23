@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [46.41887, 32.32633], "type": "Point"}, "properties": {"arBW": "Kaskar", "arTitle": "\u0643\u0633\u0643\u0631", "arTitleOther": "\u0643\u0633\u0643\u0631", "lat": "32.32633", "lon": "46.41887", "region": "Iraq", "searchNames": "Kaskar", "topType": "regions", "topTypeAlt": "circonscription", "topURI": "KASKAR_464E323N_R_IRAQ", "translitTitle": "Kaskar", "translitTitleOther": "Kaskar"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    46.41887,
+                    32.32633
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.32633",
+                    "coord_lon": "46.41887",
+                    "cornu_URI": "KASKAR_464E323N_R_IRAQ",
+                    "region_code": 7,
+                    "region_spelled": "Iraq",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "circonscription",
+                    "toponym_arabic": "كسكر",
+                    "toponym_arabic_other": "كسكر",
+                    "toponym_buckwalter": "Kaskar",
+                    "toponym_search": "Kaskar",
+                    "toponym_translit": "Kaskar",
+                    "toponym_translit_other": "Kaskar"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

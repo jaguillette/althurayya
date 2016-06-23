@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [42.38707, 34.10682], "type": "Point"}, "properties": {"arBW": "al-Haditha", "arTitle": "\ufb50\u0644\u062d\u062f\u064a\u062b\u0629", "arTitleOther": "\ufb50\u0644\u062d\u062f\u064a\u062b\u0629", "lat": "34.10682", "lon": "42.38707", "region": "Aqur", "searchNames": "al-Haditha", "topType": "towns", "topTypeAlt": "cite", "topURI": "HADITHA_423E341N_S_AQUR", "translitTitle": "al-\u1e24ad\u012b\u1e6fa\u0167", "translitTitleOther": "al-\u1e24ad\u012b\u1e6fa\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    42.38707,
+                    34.10682
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.10682",
+                    "coord_lon": "42.38707",
+                    "cornu_URI": "HADITHA_423E341N_S_AQUR",
+                    "region_code": 2,
+                    "region_spelled": "Aqur",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ﭐلحديثة",
+                    "toponym_arabic_other": "ﭐلحديثة",
+                    "toponym_buckwalter": "al-Haditha",
+                    "toponym_search": "al-Haditha",
+                    "toponym_translit": "al-Ḥadīṯaŧ",
+                    "toponym_translit_other": "al-Ḥadīṯaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

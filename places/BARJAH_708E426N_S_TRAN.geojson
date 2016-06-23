@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [70.80406, 42.62635], "type": "Point"}, "properties": {"arBW": "Barjah, Barjakh, Barjaj", "arTitle": "\u0628\u0627\u0631\u062c\u0627\u062d", "arTitleOther": "\u0628\u0627\u0631\u062c\u0627\u062d\u060c \u0628\u0627\u0631\u062c\u0627\u062e\u060c \u0628\u0627\u0631\u062c\u0627\u062c", "lat": "42.62635", "lon": "70.80406", "region": "Transoxiana", "searchNames": "Barjah, Barjakh, Barjaj", "topType": "waystations", "topTypeAlt": "etape", "topURI": "BARJAH_708E426N_S_TRAN", "translitTitle": "B\u0101r\u01e7\u0101\u1e25", "translitTitleOther": "B\u0101r\u01e7\u0101\u1e25, B\u0101r\u01e7\u0101\u1e2b, B\u0101r\u01e7\u0101\u01e7"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    70.80406,
+                    42.62635
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "42.62635",
+                    "coord_lon": "70.80406",
+                    "cornu_URI": "BARJAH_708E426N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "بارجاح",
+                    "toponym_arabic_other": "بارجاح، بارجاخ، بارجاج",
+                    "toponym_buckwalter": "Barjah, Barjakh, Barjaj",
+                    "toponym_search": "Barjah, Barjakh, Barjaj",
+                    "toponym_translit": "Bārǧāḥ",
+                    "toponym_translit_other": "Bārǧāḥ, Bārǧāḫ, Bārǧāǧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [31.30514, 31.00708], "type": "Point"}, "properties": {"arBW": "Awish", "arTitle": "\u0623\u0648\u064a\u0634", "arTitleOther": "\u0623\u0648\u064a\u0634", "lat": "31.00708", "lon": "31.30514", "region": "Egypt", "searchNames": "Awish", "topType": "towns", "topTypeAlt": "cite", "topURI": "AWISH_313E310N_S_EGYP", "translitTitle": "Aw\u012b\u0161", "translitTitleOther": "Aw\u012b\u0161"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    31.30514,
+                    31.00708
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.00708",
+                    "coord_lon": "31.30514",
+                    "cornu_URI": "AWISH_313E310N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "أويش",
+                    "toponym_arabic_other": "أويش",
+                    "toponym_buckwalter": "Awish",
+                    "toponym_search": "Awish",
+                    "toponym_translit": "Awīš",
+                    "toponym_translit_other": "Awīš"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

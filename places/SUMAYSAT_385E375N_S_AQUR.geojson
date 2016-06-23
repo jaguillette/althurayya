@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [38.54365, 37.54334], "type": "Point"}, "properties": {"arBW": "Sumaysat", "arTitle": "\u0633\u0645\u064a\u0633\u0627\u0637", "arTitleOther": "\u0633\u0645\u064a\u0633\u0627\u0637", "lat": "37.54334", "lon": "38.54365", "region": "Aqur", "searchNames": "Sumaysat", "topType": "towns", "topTypeAlt": "cite", "topURI": "SUMAYSAT_385E375N_S_AQUR", "translitTitle": "Sumays\u0101\u1e6d", "translitTitleOther": "Sumays\u0101\u1e6d"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    38.54365,
+                    37.54334
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.54334",
+                    "coord_lon": "38.54365",
+                    "cornu_URI": "SUMAYSAT_385E375N_S_AQUR",
+                    "region_code": 2,
+                    "region_spelled": "Aqur",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "سميساط",
+                    "toponym_arabic_other": "سميساط",
+                    "toponym_buckwalter": "Sumaysat",
+                    "toponym_search": "Sumaysat",
+                    "toponym_translit": "Sumaysāṭ",
+                    "toponym_translit_other": "Sumaysāṭ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

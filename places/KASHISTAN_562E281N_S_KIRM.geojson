@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [56.29939, 28.11572], "type": "Point"}, "properties": {"arBW": "Kashistan", "arTitle": "\u0643\u0634\u0633\u062a\u0627\u0646", "arTitleOther": "\u0643\u0634\u0633\u062a\u0627\u0646", "lat": "28.11572", "lon": "56.29939", "region": "Kirman", "searchNames": "Kashistan", "topType": "waystations", "topTypeAlt": "etape", "topURI": "KASHISTAN_562E281N_S_KIRM", "translitTitle": "Ka\u0161ist\u0101n", "translitTitleOther": "Ka\u0161ist\u0101n"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    56.29939,
+                    28.11572
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "28.11572",
+                    "coord_lon": "56.29939",
+                    "cornu_URI": "KASHISTAN_562E281N_S_KIRM",
+                    "region_code": 12,
+                    "region_spelled": "Kirman",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "كشستان",
+                    "toponym_arabic_other": "كشستان",
+                    "toponym_buckwalter": "Kashistan",
+                    "toponym_search": "Kashistan",
+                    "toponym_translit": "Kašistān",
+                    "toponym_translit_other": "Kašistān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

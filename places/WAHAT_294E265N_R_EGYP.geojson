@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [29.46855, 26.524], "type": "Point"}, "properties": {"arBW": "al-Wahat", "arTitle": "\ufb50\u0644\u0648\u0627\u062d\u0627\u062a", "arTitleOther": "\ufb50\u0644\u0648\u0627\u062d\u0627\u062a", "lat": "26.52400", "lon": "29.46855", "region": "Egypt", "searchNames": "al-Wahat", "topType": "regions", "topTypeAlt": "region", "topURI": "WAHAT_294E265N_R_EGYP", "translitTitle": "al-W\u0101\u1e25\u0101t", "translitTitleOther": "al-W\u0101\u1e25\u0101t"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    29.46855,
+                    26.524
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "26.52400",
+                    "coord_lon": "29.46855",
+                    "cornu_URI": "WAHAT_294E265N_R_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "ﭐلواحات",
+                    "toponym_arabic_other": "ﭐلواحات",
+                    "toponym_buckwalter": "al-Wahat",
+                    "toponym_search": "al-Wahat",
+                    "toponym_translit": "al-Wāḥāt",
+                    "toponym_translit_other": "al-Wāḥāt"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

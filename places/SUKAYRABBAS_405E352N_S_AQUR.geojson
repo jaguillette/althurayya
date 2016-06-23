@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [40.58767, 35.24207], "type": "Point"}, "properties": {"arBW": "Sukayr al-Abbas", "arTitle": "\u0633\u0643\u064a\u0631 \ufb50\u0644\u0639\u0628\u0627\u0633", "arTitleOther": "\u0633\u0643\u064a\u0631 \ufb50\u0644\u0639\u0628\u0627\u0633", "lat": "35.24207", "lon": "40.58767", "region": "Aqur", "searchNames": "Sukayr al-Abbas", "topType": "towns", "topTypeAlt": "cite", "topURI": "SUKAYRABBAS_405E352N_S_AQUR", "translitTitle": "Sukayr al-\u02bfAbb\u0101s", "translitTitleOther": "Sukayr al-\u02bfAbb\u0101s"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    40.58767,
+                    35.24207
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.24207",
+                    "coord_lon": "40.58767",
+                    "cornu_URI": "SUKAYRABBAS_405E352N_S_AQUR",
+                    "region_code": 2,
+                    "region_spelled": "Aqur",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "سكير ﭐلعباس",
+                    "toponym_arabic_other": "سكير ﭐلعباس",
+                    "toponym_buckwalter": "Sukayr al-Abbas",
+                    "toponym_search": "Sukayr al-Abbas",
+                    "toponym_translit": "Sukayr al-ʿAbbās",
+                    "toponym_translit_other": "Sukayr al-ʿAbbās"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

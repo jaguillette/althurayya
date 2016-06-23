@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [38.95085, 24.03308], "type": "Point"}, "properties": {"arBW": "al-Safra", "arTitle": "\ufb50\u0644\u0635\u0641\u0631\u0627\u0621", "arTitleOther": "\ufb50\u0644\u0635\u0641\u0631\u0627\u0621", "lat": "24.03308", "lon": "38.95085", "region": "Jazirat al-Arab", "searchNames": "al-Safra", "topType": "villages", "topTypeAlt": "village", "topURI": "SAFRA_389E240N_S_JAZI", "translitTitle": "al-\u1e62afr\u0101\u02be", "translitTitleOther": "al-\u1e62afr\u0101\u02be"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    38.95085,
+                    24.03308
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "24.03308",
+                    "coord_lon": "38.95085",
+                    "cornu_URI": "SAFRA_389E240N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "village",
+                    "toponym_arabic": "ﭐلصفراء",
+                    "toponym_arabic_other": "ﭐلصفراء",
+                    "toponym_buckwalter": "al-Safra",
+                    "toponym_search": "al-Safra",
+                    "toponym_translit": "al-Ṣafrāʾ",
+                    "toponym_translit_other": "al-Ṣafrāʾ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

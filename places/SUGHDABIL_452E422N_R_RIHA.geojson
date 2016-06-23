@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [45.26094, 42.27111], "type": "Point"}, "properties": {"arBW": "Sughdabil", "arTitle": "\u0633\u063a\u062f\u0628\u064a\u0644", "arTitleOther": "\u0633\u063a\u062f\u0628\u064a\u0644", "lat": "42.27111", "lon": "45.26094", "region": "Rihab", "searchNames": "Sughdabil", "topType": "regions", "topTypeAlt": "district", "topURI": "SUGHDABIL_452E422N_R_RIHA", "translitTitle": "Su\u0121dab\u012bl", "translitTitleOther": "Su\u0121dab\u012bl"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    45.26094,
+                    42.27111
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "42.27111",
+                    "coord_lon": "45.26094",
+                    "cornu_URI": "SUGHDABIL_452E422N_R_RIHA",
+                    "region_code": 15,
+                    "region_spelled": "Rihab",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "district",
+                    "toponym_arabic": "سغدبيل",
+                    "toponym_arabic_other": "سغدبيل",
+                    "toponym_buckwalter": "Sughdabil",
+                    "toponym_search": "Sughdabil",
+                    "toponym_translit": "Suġdabīl",
+                    "toponym_translit_other": "Suġdabīl"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

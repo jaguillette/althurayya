@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [64.97971, 36.67509], "type": "Point"}, "properties": {"arBW": "Ribat al-Astana", "arTitle": "\u0631\u0628\u0627\u0637 \ufb50\u0644\u0622\u0633\u062a\u0627\u0646\u0629", "arTitleOther": "\u0631\u0628\u0627\u0637 \ufb50\u0644\u0622\u0633\u062a\u0627\u0646\u0629", "lat": "36.67509", "lon": "64.97971", "region": "Transoxiana", "searchNames": "Ribat al-Astana", "topType": "waystations", "topTypeAlt": "ribat", "topURI": "RIBATASTANA_649E366N_S_TRAN", "translitTitle": "Rib\u0101\u1e6d al-\u0100st\u0101na\u0167", "translitTitleOther": "Rib\u0101\u1e6d al-\u0100st\u0101na\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    64.97971,
+                    36.67509
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.67509",
+                    "coord_lon": "64.97971",
+                    "cornu_URI": "RIBATASTANA_649E366N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "ribat",
+                    "toponym_arabic": "رباط ﭐلآستانة",
+                    "toponym_arabic_other": "رباط ﭐلآستانة",
+                    "toponym_buckwalter": "Ribat al-Astana",
+                    "toponym_search": "Ribat al-Astana",
+                    "toponym_translit": "Ribāṭ al-Āstānaŧ",
+                    "toponym_translit_other": "Ribāṭ al-Āstānaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

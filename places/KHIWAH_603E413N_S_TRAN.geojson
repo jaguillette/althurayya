@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [60.33577, 41.38465], "type": "Point"}, "properties": {"arBW": "Khiwah", "arTitle": "\u062e\u064a\u0648\u0647", "arTitleOther": "\u062e\u064a\u0648\u0647", "lat": "41.38465", "lon": "60.33577", "region": "Transoxiana", "searchNames": "Khiwah", "topType": "towns", "topTypeAlt": "cite", "topURI": "KHIWAH_603E413N_S_TRAN", "translitTitle": "\u1e2a\u012bwah", "translitTitleOther": "\u1e2a\u012bwah"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    60.33577,
+                    41.38465
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "41.38465",
+                    "coord_lon": "60.33577",
+                    "cornu_URI": "KHIWAH_603E413N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "خيوه",
+                    "toponym_arabic_other": "خيوه",
+                    "toponym_buckwalter": "Khiwah",
+                    "toponym_search": "Khiwah",
+                    "toponym_translit": "Ḫīwah",
+                    "toponym_translit_other": "Ḫīwah"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

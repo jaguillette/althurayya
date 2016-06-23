@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [49.69307, 30.7313], "type": "Point"}, "properties": {"arBW": "Asak", "arTitle": "\u0622\u0633\u0643", "arTitleOther": "\u0622\u0633\u0643", "lat": "30.73130", "lon": "49.69307", "region": "Khuzistan", "searchNames": "Asak", "topType": "villages", "topTypeAlt": "bourgade", "topURI": "ASAK_496E307N_S_KHUZ", "translitTitle": "\u0100sak", "translitTitleOther": "\u0100sak"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    49.69307,
+                    30.7313
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.73130",
+                    "coord_lon": "49.69307",
+                    "cornu_URI": "ASAK_496E307N_S_KHUZ",
+                    "region_code": 11,
+                    "region_spelled": "Khuzistan",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "bourgade",
+                    "toponym_arabic": "آسك",
+                    "toponym_arabic_other": "آسك",
+                    "toponym_buckwalter": "Asak",
+                    "toponym_search": "Asak",
+                    "toponym_translit": "Āsak",
+                    "toponym_translit_other": "Āsak"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

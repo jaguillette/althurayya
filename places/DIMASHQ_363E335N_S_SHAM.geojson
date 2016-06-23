@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [36.30199, 33.51843], "type": "Point"}, "properties": {"arBW": "Dimashq", "arTitle": "\u062f\u0645\u0634\u0642", "arTitleOther": "\u062f\u0645\u0634\u0642", "lat": "33.51843", "lon": "36.30199", "region": "Sham", "searchNames": "Dimashq", "topType": "metropoles", "topTypeAlt": "metropole", "topURI": "DIMASHQ_363E335N_S_SHAM", "translitTitle": "Dima\u0161q", "translitTitleOther": "Dima\u0161q"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    36.30199,
+                    33.51843
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.51843",
+                    "coord_lon": "36.30199",
+                    "cornu_URI": "DIMASHQ_363E335N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "metropoles",
+                    "top_type_orig": "metropole",
+                    "toponym_arabic": "دمشق",
+                    "toponym_arabic_other": "دمشق",
+                    "toponym_buckwalter": "Dimashq",
+                    "toponym_search": "Dimashq",
+                    "toponym_translit": "Dimašq",
+                    "toponym_translit_other": "Dimašq"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

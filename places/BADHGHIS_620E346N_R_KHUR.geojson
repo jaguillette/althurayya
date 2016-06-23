@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [62.07465, 34.61545], "type": "Point"}, "properties": {"arBW": "Badhghis, Badhaghis", "arTitle": "\u0628\u0627\u0630\u063a\u064a\u0633", "arTitleOther": "\u0628\u0627\u0630\u063a\u064a\u0633\u060c \u0628\u0627\u0630\u063a\u064a\u0633", "lat": "34.61545", "lon": "62.07465", "region": "Khurasan", "searchNames": "Badhghis, Badhaghis", "topType": "regions", "topTypeAlt": "region", "topURI": "BADHGHIS_620E346N_R_KHUR", "translitTitle": "B\u0101\u1e0f\u0121\u012bs", "translitTitleOther": "B\u0101\u1e0f\u0121\u012bs, B\u0101\u1e0fa\u0121\u012bs"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    62.07465,
+                    34.61545
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.61545",
+                    "coord_lon": "62.07465",
+                    "cornu_URI": "BADHGHIS_620E346N_R_KHUR",
+                    "region_code": 10,
+                    "region_spelled": "Khurasan",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "باذغيس",
+                    "toponym_arabic_other": "باذغيس، باذغيس",
+                    "toponym_buckwalter": "Badhghis, Badhaghis",
+                    "toponym_search": "Badhghis, Badhaghis",
+                    "toponym_translit": "Bāḏġīs",
+                    "toponym_translit_other": "Bāḏġīs, Bāḏaġīs"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

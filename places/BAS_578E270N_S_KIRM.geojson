@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [57.81535, 27.01075], "type": "Point"}, "properties": {"arBW": "Bas", "arTitle": "\u0628\u0627\u0633", "arTitleOther": "\u0628\u0627\u0633", "lat": "27.01075", "lon": "57.81535", "region": "Kirman", "searchNames": "Bas", "topType": "towns", "topTypeAlt": "cite", "topURI": "BAS_578E270N_S_KIRM", "translitTitle": "B\u0101s", "translitTitleOther": "B\u0101s"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    57.81535,
+                    27.01075
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "27.01075",
+                    "coord_lon": "57.81535",
+                    "cornu_URI": "BAS_578E270N_S_KIRM",
+                    "region_code": 12,
+                    "region_spelled": "Kirman",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "باس",
+                    "toponym_arabic_other": "باس",
+                    "toponym_buckwalter": "Bas",
+                    "toponym_search": "Bas",
+                    "toponym_translit": "Bās",
+                    "toponym_translit_other": "Bās"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

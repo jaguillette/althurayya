@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [36.04321, 32.92323], "type": "Point"}, "properties": {"arBW": "al-Jabiya", "arTitle": "\ufb50\u0644\u062c\u0627\u0628\u064a\u0629", "arTitleOther": "\ufb50\u0644\u062c\u0627\u0628\u064a\u0629", "lat": "32.92323", "lon": "36.04321", "region": "Sham", "searchNames": "al-Jabiya", "topType": "villages", "topTypeAlt": "localite", "topURI": "JABIYA_360E329N_S_SHAM", "translitTitle": "al-\u01e6\u0101biya\u0167", "translitTitleOther": "al-\u01e6\u0101biya\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    36.04321,
+                    32.92323
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.92323",
+                    "coord_lon": "36.04321",
+                    "cornu_URI": "JABIYA_360E329N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "ﭐلجابية",
+                    "toponym_arabic_other": "ﭐلجابية",
+                    "toponym_buckwalter": "al-Jabiya",
+                    "toponym_search": "al-Jabiya",
+                    "toponym_translit": "al-Ǧābiyaŧ",
+                    "toponym_translit_other": "al-Ǧābiyaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

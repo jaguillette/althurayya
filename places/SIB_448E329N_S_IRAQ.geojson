@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [44.8461, 32.97916], "type": "Point"}, "properties": {"arBW": "al-Sib", "arTitle": "\ufb50\u0644\u0633\u064a\u0628", "arTitleOther": "\ufb50\u0644\u0633\u064a\u0628", "lat": "32.97916", "lon": "44.84610", "region": "Iraq", "searchNames": "al-Sib", "topType": "towns", "topTypeAlt": "cite", "topURI": "SIB_448E329N_S_IRAQ", "translitTitle": "al-S\u012bb", "translitTitleOther": "al-S\u012bb"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    44.8461,
+                    32.97916
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.97916",
+                    "coord_lon": "44.84610",
+                    "cornu_URI": "SIB_448E329N_S_IRAQ",
+                    "region_code": 7,
+                    "region_spelled": "Iraq",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ﭐلسيب",
+                    "toponym_arabic_other": "ﭐلسيب",
+                    "toponym_buckwalter": "al-Sib",
+                    "toponym_search": "al-Sib",
+                    "toponym_translit": "al-Sīb",
+                    "toponym_translit_other": "al-Sīb"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

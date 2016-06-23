@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [31.8311, 31.0155], "type": "Point"}, "properties": {"arBW": "Iblil", "arTitle": "\u0625\u0628\u0644\u064a\u0644", "arTitleOther": "\u0625\u0628\u0644\u064a\u0644", "lat": "31.01550", "lon": "31.83110", "region": "Egypt", "searchNames": "Iblil", "topType": "regions", "topTypeAlt": "region", "topURI": "IBLIL_318E310N_R_EGYP", "translitTitle": "Ibl\u012bl", "translitTitleOther": "Ibl\u012bl"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    31.8311,
+                    31.0155
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.01550",
+                    "coord_lon": "31.83110",
+                    "cornu_URI": "IBLIL_318E310N_R_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "إبليل",
+                    "toponym_arabic_other": "إبليل",
+                    "toponym_buckwalter": "Iblil",
+                    "toponym_search": "Iblil",
+                    "toponym_translit": "Iblīl",
+                    "toponym_translit_other": "Iblīl"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

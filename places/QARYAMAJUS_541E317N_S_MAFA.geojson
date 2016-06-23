@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [54.19969, 31.74166], "type": "Point"}, "properties": {"arBW": "Qarya al-Majus", "arTitle": "\u0642\u0631\u064a\u0629 \ufb50\u0644\u0645\u062c\u0648\u0633", "arTitleOther": "\u0642\u0631\u064a\u0629 \ufb50\u0644\u0645\u062c\u0648\u0633", "lat": "31.74166", "lon": "54.19969", "region": "Mafaza", "searchNames": "Qarya al-Majus", "topType": "waystations", "topTypeAlt": "etape", "topURI": "QARYAMAJUS_541E317N_S_MAFA", "translitTitle": "Qarya\u0167 al-Ma\u01e7\u016bs", "translitTitleOther": "Qarya\u0167 al-Ma\u01e7\u016bs"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    54.19969,
+                    31.74166
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.74166",
+                    "coord_lon": "54.19969",
+                    "cornu_URI": "QARYAMAJUS_541E317N_S_MAFA",
+                    "region_code": 13,
+                    "region_spelled": "Mafaza",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "قرية ﭐلمجوس",
+                    "toponym_arabic_other": "قرية ﭐلمجوس",
+                    "toponym_buckwalter": "Qarya al-Majus",
+                    "toponym_search": "Qarya al-Majus",
+                    "toponym_translit": "Qaryaŧ al-Maǧūs",
+                    "toponym_translit_other": "Qaryaŧ al-Maǧūs"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

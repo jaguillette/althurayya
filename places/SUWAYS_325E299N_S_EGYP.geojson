@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [32.54404, 29.97325], "type": "Point"}, "properties": {"arBW": "Suways", "arTitle": "\u0633\u0648\u064a\u0633", "arTitleOther": "\u0633\u0648\u064a\u0633", "lat": "29.97325", "lon": "32.54404", "region": "Egypt", "searchNames": "Suways", "topType": "villages", "topTypeAlt": "localite", "topURI": "SUWAYS_325E299N_S_EGYP", "translitTitle": "Suways", "translitTitleOther": "Suways"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    32.54404,
+                    29.97325
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "29.97325",
+                    "coord_lon": "32.54404",
+                    "cornu_URI": "SUWAYS_325E299N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "سويس",
+                    "toponym_arabic_other": "سويس",
+                    "toponym_buckwalter": "Suways",
+                    "toponym_search": "Suways",
+                    "toponym_translit": "Suways",
+                    "toponym_translit_other": "Suways"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

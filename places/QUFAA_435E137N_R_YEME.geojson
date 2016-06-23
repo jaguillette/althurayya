@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [43.58641, 13.78649], "type": "Point"}, "properties": {"arBW": "Qufaa", "arTitle": "\u0642\u0641\u0627\u0639\u0629", "arTitleOther": "\u0642\u0641\u0627\u0639\u0629", "lat": "13.78649", "lon": "43.58641", "region": "Yemen", "searchNames": "Qufaa", "topType": "regions", "topTypeAlt": "region", "topURI": "QUFAA_435E137N_R_YEME", "translitTitle": "Quf\u0101\u02bfa\u0167", "translitTitleOther": "Quf\u0101\u02bfa\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    43.58641,
+                    13.78649
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "13.78649",
+                    "coord_lon": "43.58641",
+                    "cornu_URI": "QUFAA_435E137N_R_YEME",
+                    "region_code": 21,
+                    "region_spelled": "Yemen",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "قفاعة",
+                    "toponym_arabic_other": "قفاعة",
+                    "toponym_buckwalter": "Qufaa",
+                    "toponym_search": "Qufaa",
+                    "toponym_translit": "Qufāʿaŧ",
+                    "toponym_translit_other": "Qufāʿaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

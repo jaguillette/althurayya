@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [8.27517, 33.88951], "type": "Point"}, "properties": {"arBW": "Qastiliya", "arTitle": "\u0642\u0633\u0637\u064a\u0644\u064a\u0629", "arTitleOther": "\u0642\u0633\u0637\u064a\u0644\u064a\u0629", "lat": "33.88951", "lon": "8.27517", "region": "Maghrib", "searchNames": "Qastiliya", "topType": "regions", "topTypeAlt": "region", "topURI": "QASTILIYA_082E338N_R_MAGH", "translitTitle": "Qas\u1e6d\u012bliya\u0167", "translitTitleOther": "Qas\u1e6d\u012bliya\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    8.27517,
+                    33.88951
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.88951",
+                    "coord_lon": "8.27517",
+                    "cornu_URI": "QASTILIYA_082E338N_R_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "قسطيلية",
+                    "toponym_arabic_other": "قسطيلية",
+                    "toponym_buckwalter": "Qastiliya",
+                    "toponym_search": "Qastiliya",
+                    "toponym_translit": "Qasṭīliyaŧ",
+                    "toponym_translit_other": "Qasṭīliyaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [39.60908, 24.47782], "type": "Point"}, "properties": {"arBW": "al-Madina, Madinta al-Nabi, Yathrib", "arTitle": "\ufb50\u0644\u0645\u062f\u064a\u0646\u0629", "arTitleOther": "\ufb50\u0644\u0645\u062f\u064a\u0646\u0629\u060c \u0645\u062f\u064a\u0646\u062a\u0629 \ufb50\u0644\u0646\u0628\u064a\u060c \u064a\u062b\u0631\u0628", "lat": "24.47782", "lon": "39.60908", "region": "Jazirat al-Arab", "searchNames": "al-Madina, Madinta al-Nabi, Yathrib", "topType": "towns", "topTypeAlt": "cite", "topURI": "MADINA_396E244N_S_JAZI", "translitTitle": "al-Mad\u012bna\u0167", "translitTitleOther": "al-Mad\u012bna\u0167, Mad\u012bnta\u0167 al-Nab\u012b, Ya\u1e6frib"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    39.60908,
+                    24.47782
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "24.47782",
+                    "coord_lon": "39.60908",
+                    "cornu_URI": "MADINA_396E244N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ﭐلمدينة",
+                    "toponym_arabic_other": "ﭐلمدينة، مدينتة ﭐلنبي، يثرب",
+                    "toponym_buckwalter": "al-Madina, Madinta al-Nabi, Yathrib",
+                    "toponym_search": "al-Madina, Madinta al-Nabi, Yathrib",
+                    "toponym_translit": "al-Madīnaŧ",
+                    "toponym_translit_other": "al-Madīnaŧ, Madīntaŧ al-Nabī, Yaṯrib"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

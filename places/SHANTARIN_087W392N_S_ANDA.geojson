@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [-8.71712, 39.22337], "type": "Point"}, "properties": {"arBW": "Shantarin", "arTitle": "\u0634\u0646\u062a\u0631\u064a\u0646", "arTitleOther": "\u0634\u0646\u062a\u0631\u064a\u0646", "lat": "39.22337", "lon": "-8.71712", "region": "Andalus", "searchNames": "Shantarin", "topType": "towns", "topTypeAlt": "cite", "topURI": "SHANTARIN_087W392N_S_ANDA", "translitTitle": "\u0160antar\u012bn", "translitTitleOther": "\u0160antar\u012bn"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.71712,
+                    39.22337
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "39.22337",
+                    "coord_lon": "-8.71712",
+                    "cornu_URI": "SHANTARIN_087W392N_S_ANDA",
+                    "region_code": 1,
+                    "region_spelled": "Andalus",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "شنترين",
+                    "toponym_arabic_other": "شنترين",
+                    "toponym_buckwalter": "Shantarin",
+                    "toponym_search": "Shantarin",
+                    "toponym_translit": "Šantarīn",
+                    "toponym_translit_other": "Šantarīn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [43.67157, 14.2788], "type": "Point"}, "properties": {"arBW": "Jublan", "arTitle": "\u062c\u0628\u0644\u0627\u0646", "arTitleOther": "\u062c\u0628\u0644\u0627\u0646", "lat": "14.27880", "lon": "43.67157", "region": "Yemen", "searchNames": "Jublan", "topType": "regions", "topTypeAlt": "mikhlaf", "topURI": "JUBLAN_436E142N_R_YEME", "translitTitle": "\u01e6ubl\u0101n", "translitTitleOther": "\u01e6ubl\u0101n"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    43.67157,
+                    14.2788
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "14.27880",
+                    "coord_lon": "43.67157",
+                    "cornu_URI": "JUBLAN_436E142N_R_YEME",
+                    "region_code": 21,
+                    "region_spelled": "Yemen",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "mikhlaf",
+                    "toponym_arabic": "جبلان",
+                    "toponym_arabic_other": "جبلان",
+                    "toponym_buckwalter": "Jublan",
+                    "toponym_search": "Jublan",
+                    "toponym_translit": "Ǧublān",
+                    "toponym_translit_other": "Ǧublān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

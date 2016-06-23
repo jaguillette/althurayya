@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [31.87094, 31.40557], "type": "Point"}, "properties": {"arBW": "Shata", "arTitle": "\u0634\u0637\u0627", "arTitleOther": "\u0634\u0637\u0627", "lat": "31.40557", "lon": "31.87094", "region": "Egypt", "searchNames": "Shata", "topType": "towns", "topTypeAlt": "cite", "topURI": "SHATA_318E314N_S_EGYP", "translitTitle": "\u0160a\u1e6d\u0101", "translitTitleOther": "\u0160a\u1e6d\u0101"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    31.87094,
+                    31.40557
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.40557",
+                    "coord_lon": "31.87094",
+                    "cornu_URI": "SHATA_318E314N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "شطا",
+                    "toponym_arabic_other": "شطا",
+                    "toponym_buckwalter": "Shata",
+                    "toponym_search": "Shata",
+                    "toponym_translit": "Šaṭā",
+                    "toponym_translit_other": "Šaṭā"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

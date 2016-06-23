@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [13.02806, 37.67797], "type": "Point"}, "properties": {"arBW": "Balja", "arTitle": "\u0628\u0644\u062c\u0629", "arTitleOther": "\u0628\u0644\u062c\u0629", "lat": "37.67797", "lon": "13.02806", "region": "Sicile", "searchNames": "Balja", "topType": "towns", "topTypeAlt": "cite", "topURI": "BALJA_130E376N_S_SICI", "translitTitle": "Bal\u01e7a\u0167", "translitTitleOther": "Bal\u01e7a\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    13.02806,
+                    37.67797
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.67797",
+                    "coord_lon": "13.02806",
+                    "cornu_URI": "BALJA_130E376N_S_SICI",
+                    "region_code": 17,
+                    "region_spelled": "Sicile",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "بلجة",
+                    "toponym_arabic_other": "بلجة",
+                    "toponym_buckwalter": "Balja",
+                    "toponym_search": "Balja",
+                    "toponym_translit": "Balǧaŧ",
+                    "toponym_translit_other": "Balǧaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

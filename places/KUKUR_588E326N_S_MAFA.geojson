@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [58.8598, 32.62196], "type": "Point"}, "properties": {"arBW": "Kukur", "arTitle": "\u0643\u0648\u0643\u0648\u0631", "arTitleOther": "\u0643\u0648\u0643\u0648\u0631", "lat": "32.62196", "lon": "58.85980", "region": "Mafaza", "searchNames": "Kukur", "topType": "villages", "topTypeAlt": "village", "topURI": "KUKUR_588E326N_S_MAFA", "translitTitle": "K\u016bk\u016br", "translitTitleOther": "K\u016bk\u016br"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    58.8598,
+                    32.62196
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.62196",
+                    "coord_lon": "58.85980",
+                    "cornu_URI": "KUKUR_588E326N_S_MAFA",
+                    "region_code": 13,
+                    "region_spelled": "Mafaza",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "village",
+                    "toponym_arabic": "كوكور",
+                    "toponym_arabic_other": "كوكور",
+                    "toponym_buckwalter": "Kukur",
+                    "toponym_search": "Kukur",
+                    "toponym_translit": "Kūkūr",
+                    "toponym_translit_other": "Kūkūr"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

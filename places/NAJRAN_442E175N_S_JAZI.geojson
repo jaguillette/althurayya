@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [44.2995, 17.58603], "type": "Point"}, "properties": {"arBW": "Najran", "arTitle": "\u0646\u062c\u0631\u0627\u0646", "arTitleOther": "\u0646\u062c\u0631\u0627\u0646", "lat": "17.58603", "lon": "44.29950", "region": "Jazirat al-Arab", "searchNames": "Najran", "topType": "towns", "topTypeAlt": "cite", "topURI": "NAJRAN_442E175N_S_JAZI", "translitTitle": "Na\u01e7r\u0101n", "translitTitleOther": "Na\u01e7r\u0101n"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    44.2995,
+                    17.58603
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "17.58603",
+                    "coord_lon": "44.29950",
+                    "cornu_URI": "NAJRAN_442E175N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "نجران",
+                    "toponym_arabic_other": "نجران",
+                    "toponym_buckwalter": "Najran",
+                    "toponym_search": "Najran",
+                    "toponym_translit": "Naǧrān",
+                    "toponym_translit_other": "Naǧrān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

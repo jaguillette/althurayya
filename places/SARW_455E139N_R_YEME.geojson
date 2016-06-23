@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [45.58857, 13.98039], "type": "Point"}, "properties": {"arBW": "al-Sarw", "arTitle": "\ufb50\u0644\u0633\u0631\u0648", "arTitleOther": "\ufb50\u0644\u0633\u0631\u0648", "lat": "13.98039", "lon": "45.58857", "region": "Yemen", "searchNames": "al-Sarw", "topType": "regions", "topTypeAlt": "region", "topURI": "SARW_455E139N_R_YEME", "translitTitle": "al-Sarw", "translitTitleOther": "al-Sarw"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    45.58857,
+                    13.98039
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "13.98039",
+                    "coord_lon": "45.58857",
+                    "cornu_URI": "SARW_455E139N_R_YEME",
+                    "region_code": 21,
+                    "region_spelled": "Yemen",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "ﭐلسرو",
+                    "toponym_arabic_other": "ﭐلسرو",
+                    "toponym_buckwalter": "al-Sarw",
+                    "toponym_search": "al-Sarw",
+                    "toponym_translit": "al-Sarw",
+                    "toponym_translit_other": "al-Sarw"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

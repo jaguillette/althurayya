@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [31.16142, 29.21524], "type": "Point"}, "properties": {"arBW": "Dalas, Dilas", "arTitle": "\u062f\u0644\u0627\u0635", "arTitleOther": "\u062f\u0644\u0627\u0635\u060c \u062f\u0644\u0627\u0635", "lat": "29.21524", "lon": "31.16142", "region": "Egypt", "searchNames": "Dalas, Dilas", "topType": "towns", "topTypeAlt": "cite", "topURI": "DALAS_311E292N_S_EGYP", "translitTitle": "Dal\u0101\u1e63", "translitTitleOther": "Dal\u0101\u1e63, Dil\u0101\u1e63"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    31.16142,
+                    29.21524
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "29.21524",
+                    "coord_lon": "31.16142",
+                    "cornu_URI": "DALAS_311E292N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "دلاص",
+                    "toponym_arabic_other": "دلاص، دلاص",
+                    "toponym_buckwalter": "Dalas, Dilas",
+                    "toponym_search": "Dalas, Dilas",
+                    "toponym_translit": "Dalāṣ",
+                    "toponym_translit_other": "Dalāṣ, Dilāṣ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

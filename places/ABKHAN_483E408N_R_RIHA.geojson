@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [48.38086, 40.88004], "type": "Point"}, "properties": {"arBW": "al-Abkhan, Layijan, Layzan, Lizan, Liran", "arTitle": "\ufb50\u0644\u0623\u0628\u062e\u0627\u0646", "arTitleOther": "\ufb50\u0644\u0623\u0628\u062e\u0627\u0646\u060c \u0644\u0627\u064a\u062c\u0627\u0646\u060c \u0644\u064a\u0632\u0627\u0646\u060c \u0644\u064a\u0632\u0627\u0646\u060c \u0644\u064a\u0631\u0627\u0646", "lat": "40.88004", "lon": "48.38086", "region": "Rihab", "searchNames": "al-Abkhan, Layijan, Layzan, Lizan, Liran", "topType": "regions", "topTypeAlt": "contree", "topURI": "ABKHAN_483E408N_R_RIHA", "translitTitle": "al-Ab\u1e2b\u0101n", "translitTitleOther": "al-Ab\u1e2b\u0101n, L\u0101yi\u01e7\u0101n, Layz\u0101n, L\u012bz\u0101n, L\u012br\u0101n"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    48.38086,
+                    40.88004
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "40.88004",
+                    "coord_lon": "48.38086",
+                    "cornu_URI": "ABKHAN_483E408N_R_RIHA",
+                    "region_code": 15,
+                    "region_spelled": "Rihab",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "contree",
+                    "toponym_arabic": "ﭐلأبخان",
+                    "toponym_arabic_other": "ﭐلأبخان، لايجان، ليزان، ليزان، ليران",
+                    "toponym_buckwalter": "al-Abkhan, Layijan, Layzan, Lizan, Liran",
+                    "toponym_search": "al-Abkhan, Layijan, Layzan, Lizan, Liran",
+                    "toponym_translit": "al-Abḫān",
+                    "toponym_translit_other": "al-Abḫān, Lāyiǧān, Layzān, Līzān, Līrān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

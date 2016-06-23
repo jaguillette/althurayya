@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [35.41578, 27.85039], "type": "Point"}, "properties": {"arBW": "al-Sala", "arTitle": "\ufb50\u0644\u0635\u0644\u0627", "arTitleOther": "\ufb50\u0644\u0635\u0644\u0627", "lat": "27.85039", "lon": "35.41578", "region": "Jazirat al-Arab", "searchNames": "al-Sala", "topType": "waystations", "topTypeAlt": "etape", "topURI": "SALA_354E278N_S_JAZI", "translitTitle": "al-\u1e62al\u0101", "translitTitleOther": "al-\u1e62al\u0101"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    35.41578,
+                    27.85039
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "27.85039",
+                    "coord_lon": "35.41578",
+                    "cornu_URI": "SALA_354E278N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "ﭐلصلا",
+                    "toponym_arabic_other": "ﭐلصلا",
+                    "toponym_buckwalter": "al-Sala",
+                    "toponym_search": "al-Sala",
+                    "toponym_translit": "al-Ṣalā",
+                    "toponym_translit_other": "al-Ṣalā"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

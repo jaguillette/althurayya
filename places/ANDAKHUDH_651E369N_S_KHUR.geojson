@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [65.16655, 36.95541], "type": "Point"}, "properties": {"arBW": "Andakhudh", "arTitle": "\u0623\u0646\u062f\u062e\u0648\u0630", "arTitleOther": "\u0623\u0646\u062f\u062e\u0648\u0630", "lat": "36.95541", "lon": "65.16655", "region": "Khurasan", "searchNames": "Andakhudh", "topType": "towns", "topTypeAlt": "cite", "topURI": "ANDAKHUDH_651E369N_S_KHUR", "translitTitle": "Anda\u1e2b\u016b\u1e0f", "translitTitleOther": "Anda\u1e2b\u016b\u1e0f"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    65.16655,
+                    36.95541
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.95541",
+                    "coord_lon": "65.16655",
+                    "cornu_URI": "ANDAKHUDH_651E369N_S_KHUR",
+                    "region_code": 10,
+                    "region_spelled": "Khurasan",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "أندخوذ",
+                    "toponym_arabic_other": "أندخوذ",
+                    "toponym_buckwalter": "Andakhudh",
+                    "toponym_search": "Andakhudh",
+                    "toponym_translit": "Andaḫūḏ",
+                    "toponym_translit_other": "Andaḫūḏ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

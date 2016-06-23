@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [40.79626, 25.04085], "type": "Point"}, "properties": {"arBW": "al-Usayla", "arTitle": "\ufb50\u0644\u0639\u0633\u064a\u0644\u0629", "arTitleOther": "\ufb50\u0644\u0639\u0633\u064a\u0644\u0629", "lat": "25.04085", "lon": "40.79626", "region": "Jazirat al-Arab", "searchNames": "al-Usayla", "topType": "villages", "topTypeAlt": "localite", "topURI": "USAYLA_407E250N_S_JAZI", "translitTitle": "al-\u02bfUsayla\u0167", "translitTitleOther": "al-\u02bfUsayla\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    40.79626,
+                    25.04085
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "25.04085",
+                    "coord_lon": "40.79626",
+                    "cornu_URI": "USAYLA_407E250N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "ﭐلعسيلة",
+                    "toponym_arabic_other": "ﭐلعسيلة",
+                    "toponym_buckwalter": "al-Usayla",
+                    "toponym_search": "al-Usayla",
+                    "toponym_translit": "al-ʿUsaylaŧ",
+                    "toponym_translit_other": "al-ʿUsaylaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

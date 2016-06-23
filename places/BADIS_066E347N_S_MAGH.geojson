@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [6.65773, 34.76281], "type": "Point"}, "properties": {"arBW": "Badis", "arTitle": "\u0628\u0627\u062f\u0633", "arTitleOther": "\u0628\u0627\u062f\u0633", "lat": "34.76281", "lon": "6.65773", "region": "Maghrib", "searchNames": "Badis", "topType": "towns", "topTypeAlt": "cite", "topURI": "BADIS_066E347N_S_MAGH", "translitTitle": "B\u0101dis", "translitTitleOther": "B\u0101dis"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    6.65773,
+                    34.76281
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.76281",
+                    "coord_lon": "6.65773",
+                    "cornu_URI": "BADIS_066E347N_S_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "بادس",
+                    "toponym_arabic_other": "بادس",
+                    "toponym_buckwalter": "Badis",
+                    "toponym_search": "Badis",
+                    "toponym_translit": "Bādis",
+                    "toponym_translit_other": "Bādis"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

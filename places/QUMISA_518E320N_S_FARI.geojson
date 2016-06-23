@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [51.86732, 32.00251], "type": "Point"}, "properties": {"arBW": "Qumisa", "arTitle": "\u0642\u0648\u0645\u0633\u0629", "arTitleOther": "\u0642\u0648\u0645\u0633\u0629", "lat": "32.00251", "lon": "51.86732", "region": "Faris", "searchNames": "Qumisa", "topType": "waystations", "topTypeAlt": "etape", "topURI": "QUMISA_518E320N_S_FARI", "translitTitle": "Q\u016bmisa\u0167", "translitTitleOther": "Q\u016bmisa\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    51.86732,
+                    32.00251
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.00251",
+                    "coord_lon": "51.86732",
+                    "cornu_URI": "QUMISA_518E320N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "قومسة",
+                    "toponym_arabic_other": "قومسة",
+                    "toponym_buckwalter": "Qumisa",
+                    "toponym_search": "Qumisa",
+                    "toponym_translit": "Qūmisaŧ",
+                    "toponym_translit_other": "Qūmisaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

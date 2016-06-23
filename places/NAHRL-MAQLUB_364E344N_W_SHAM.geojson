@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [36.42642, 34.42297], "type": "Point"}, "properties": {"arBW": "Nahr l-Maqlub", "arTitle": "\u0646\u0647\u0631 \u0644\u0645\u0642\u0644\u0648\u0628", "arTitleOther": "\u0646\u0647\u0631 \u0644\u0645\u0642\u0644\u0648\u0628", "lat": "34.42297", "lon": "36.42642", "region": "Sham", "searchNames": "Nahr l-Maqlub", "topType": "waters", "topTypeAlt": "riviere", "topURI": "NAHRL-MAQLUB_364E344N_W_SHAM", "translitTitle": "Nahr l-Maql\u016bb", "translitTitleOther": "Nahr l-Maql\u016bb"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    36.42642,
+                    34.42297
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.42297",
+                    "coord_lon": "36.42642",
+                    "cornu_URI": "NAHRL-MAQLUB_364E344N_W_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "riviere",
+                    "toponym_arabic": "نهر لمقلوب",
+                    "toponym_arabic_other": "نهر لمقلوب",
+                    "toponym_buckwalter": "Nahr l-Maqlub",
+                    "toponym_search": "Nahr l-Maqlub",
+                    "toponym_translit": "Nahr l-Maqlūb",
+                    "toponym_translit_other": "Nahr l-Maqlūb"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

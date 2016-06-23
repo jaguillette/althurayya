@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [45.92797, 28.41584], "type": "Point"}, "properties": {"arBW": "Hafar Abu Musa", "arTitle": "\u062d\u0641\u0631 \u0623\u0628\u0648 \u0645\u0648\u0633\u0649", "arTitleOther": "\u062d\u0641\u0631 \u0623\u0628\u0648 \u0645\u0648\u0633\u0649", "lat": "28.41584", "lon": "45.92797", "region": "Badiyat al-Arab", "searchNames": "Hafar Abu Musa", "topType": "waystations", "topTypeAlt": "etape", "topURI": "HAFARABUMUSA_459E284N_S_BADI", "translitTitle": "\u1e24afar Ab\u016b M\u016bs\u00e1", "translitTitleOther": "\u1e24afar Ab\u016b M\u016bs\u00e1"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    45.92797,
+                    28.41584
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "28.41584",
+                    "coord_lon": "45.92797",
+                    "cornu_URI": "HAFARABUMUSA_459E284N_S_BADI",
+                    "region_code": 23,
+                    "region_spelled": "Badiyat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "حفر أبو موسى",
+                    "toponym_arabic_other": "حفر أبو موسى",
+                    "toponym_buckwalter": "Hafar Abu Musa",
+                    "toponym_search": "Hafar Abu Musa",
+                    "toponym_translit": "Ḥafar Abū Mūsá",
+                    "toponym_translit_other": "Ḥafar Abū Mūsá"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

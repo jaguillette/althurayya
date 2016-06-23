@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [8.82032, 34.40681], "type": "Point"}, "properties": {"arBW": "Qafsa", "arTitle": "\u0642\u0641\u0635\u0629", "arTitleOther": "\u0642\u0641\u0635\u0629", "lat": "34.40681", "lon": "8.82032", "region": "Maghrib", "searchNames": "Qafsa", "topType": "towns", "topTypeAlt": "cite", "topURI": "QAFSA_088E344N_S_MAGH", "translitTitle": "Qaf\u1e63a\u0167", "translitTitleOther": "Qaf\u1e63a\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    8.82032,
+                    34.40681
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.40681",
+                    "coord_lon": "8.82032",
+                    "cornu_URI": "QAFSA_088E344N_S_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "قفصة",
+                    "toponym_arabic_other": "قفصة",
+                    "toponym_buckwalter": "Qafsa",
+                    "toponym_search": "Qafsa",
+                    "toponym_translit": "Qafṣaŧ",
+                    "toponym_translit_other": "Qafṣaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

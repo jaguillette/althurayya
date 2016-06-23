@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [52.67428, 30.09815], "type": "Point"}, "properties": {"arBW": "Qala Saidabadh", "arTitle": "\u0642\u0644\u0639\u0629 \u0633\u0639\u064a\u062f\u0627\u0628\u0627\u0630", "arTitleOther": "\u0642\u0644\u0639\u0629 \u0633\u0639\u064a\u062f\u0627\u0628\u0627\u0630", "lat": "30.09815", "lon": "52.67428", "region": "Faris", "searchNames": "Qala Saidabadh", "topType": "waystations", "topTypeAlt": "citadelle", "topURI": "QALASAIDABADH_526E300N_S_FARI", "translitTitle": "Qal\u02bfa\u0167 Sa\u02bf\u012bd\u0101b\u0101\u1e0f", "translitTitleOther": "Qal\u02bfa\u0167 Sa\u02bf\u012bd\u0101b\u0101\u1e0f"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    52.67428,
+                    30.09815
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.09815",
+                    "coord_lon": "52.67428",
+                    "cornu_URI": "QALASAIDABADH_526E300N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "citadelle",
+                    "toponym_arabic": "قلعة سعيداباذ",
+                    "toponym_arabic_other": "قلعة سعيداباذ",
+                    "toponym_buckwalter": "Qala Saidabadh",
+                    "toponym_search": "Qala Saidabadh",
+                    "toponym_translit": "Qalʿaŧ Saʿīdābāḏ",
+                    "toponym_translit_other": "Qalʿaŧ Saʿīdābāḏ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

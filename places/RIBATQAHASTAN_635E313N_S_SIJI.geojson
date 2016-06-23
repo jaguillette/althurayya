@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [63.54388, 31.36919], "type": "Point"}, "properties": {"arBW": "Ribat Qahastan, Ribat Hafshiyan", "arTitle": "\u0631\u0628\u0627\u0637 \u0642\u0647\u0633\u062a\u0627\u0646", "arTitleOther": "\u0631\u0628\u0627\u0637 \u0642\u0647\u0633\u062a\u0627\u0646\u060c \u0631\u0628\u0627\u0637 \u0647\u0641\u0634\u064a\u0627\u0646", "lat": "31.36919", "lon": "63.54388", "region": "Sijistan", "searchNames": "Ribat Qahastan, Ribat Hafshiyan", "topType": "waystations", "topTypeAlt": "ribat", "topURI": "RIBATQAHASTAN_635E313N_S_SIJI", "translitTitle": "Rib\u0101\u1e6d Qahast\u0101n", "translitTitleOther": "Rib\u0101\u1e6d Qahast\u0101n, Rib\u0101\u1e6d Haf\u0161iy\u0101n"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    63.54388,
+                    31.36919
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.36919",
+                    "coord_lon": "63.54388",
+                    "cornu_URI": "RIBATQAHASTAN_635E313N_S_SIJI",
+                    "region_code": 18,
+                    "region_spelled": "Sijistan",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "ribat",
+                    "toponym_arabic": "رباط قهستان",
+                    "toponym_arabic_other": "رباط قهستان، رباط هفشيان",
+                    "toponym_buckwalter": "Ribat Qahastan, Ribat Hafshiyan",
+                    "toponym_search": "Ribat Qahastan, Ribat Hafshiyan",
+                    "toponym_translit": "Ribāṭ Qahastān",
+                    "toponym_translit_other": "Ribāṭ Qahastān, Ribāṭ Hafšiyān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

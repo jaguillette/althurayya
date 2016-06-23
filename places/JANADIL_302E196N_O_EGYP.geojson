@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [30.25325, 19.63029], "type": "Point"}, "properties": {"arBW": "al-Janadil", "arTitle": "\ufb50\u0644\u062c\u0646\u0627\u062f\u0644", "arTitleOther": "\ufb50\u0644\u062c\u0646\u0627\u062f\u0644", "lat": "19.63029", "lon": "30.25325", "region": "Egypt", "searchNames": "al-Janadil", "topType": "sites", "topTypeAlt": "cataracte", "topURI": "JANADIL_302E196N_O_EGYP", "translitTitle": "al-\u01e6an\u0101dil", "translitTitleOther": "al-\u01e6an\u0101dil"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    30.25325,
+                    19.63029
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "19.63029",
+                    "coord_lon": "30.25325",
+                    "cornu_URI": "JANADIL_302E196N_O_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "sites",
+                    "top_type_orig": "cataracte",
+                    "toponym_arabic": "ﭐلجنادل",
+                    "toponym_arabic_other": "ﭐلجنادل",
+                    "toponym_buckwalter": "al-Janadil",
+                    "toponym_search": "al-Janadil",
+                    "toponym_translit": "al-Ǧanādil",
+                    "toponym_translit_other": "al-Ǧanādil"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

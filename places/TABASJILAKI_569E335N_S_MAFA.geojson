@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [56.94144, 33.58656], "type": "Point"}, "properties": {"arBW": "Tabas Jilaki, Tabas al-Tamr", "arTitle": "\u0637\u0628\u0633 \u062c\u064a\u0644\u0643\u064a", "arTitleOther": "\u0637\u0628\u0633 \u062c\u064a\u0644\u0643\u064a\u060c \u0637\u0628\u0633 \ufb50\u0644\u062a\u0645\u0631", "lat": "33.58656", "lon": "56.94144", "region": "Mafaza", "searchNames": "Tabas Jilaki, Tabas al-Tamr", "topType": "towns", "topTypeAlt": "cite", "topURI": "TABASJILAKI_569E335N_S_MAFA", "translitTitle": "\u1e6cabas \u01e6\u012blak\u012b", "translitTitleOther": "\u1e6cabas \u01e6\u012blak\u012b, \u1e6cabas al-Tamr"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    56.94144,
+                    33.58656
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.58656",
+                    "coord_lon": "56.94144",
+                    "cornu_URI": "TABASJILAKI_569E335N_S_MAFA",
+                    "region_code": 13,
+                    "region_spelled": "Mafaza",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "طبس جيلكي",
+                    "toponym_arabic_other": "طبس جيلكي، طبس ﭐلتمر",
+                    "toponym_buckwalter": "Tabas Jilaki, Tabas al-Tamr",
+                    "toponym_search": "Tabas Jilaki, Tabas al-Tamr",
+                    "toponym_translit": "Ṭabas Ǧīlakī",
+                    "toponym_translit_other": "Ṭabas Ǧīlakī, Ṭabas al-Tamr"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

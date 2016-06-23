@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [39.09656, 36.11754], "type": "Point"}, "properties": {"arBW": "Nahr al-Balikh", "arTitle": "\u0646\u0647\u0631 \ufb50\u0644\u0628\u0644\u064a\u062e", "arTitleOther": "\u0646\u0647\u0631 \ufb50\u0644\u0628\u0644\u064a\u062e", "lat": "36.11754", "lon": "39.09656", "region": "Aqur", "searchNames": "Nahr al-Balikh", "topType": "waters", "topTypeAlt": "riviere", "topURI": "NAHRBALIKH_390E361N_W_AQUR", "translitTitle": "Nahr al-Bal\u012b\u1e2b", "translitTitleOther": "Nahr al-Bal\u012b\u1e2b"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    39.09656,
+                    36.11754
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.11754",
+                    "coord_lon": "39.09656",
+                    "cornu_URI": "NAHRBALIKH_390E361N_W_AQUR",
+                    "region_code": 2,
+                    "region_spelled": "Aqur",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "riviere",
+                    "toponym_arabic": "نهر ﭐلبليخ",
+                    "toponym_arabic_other": "نهر ﭐلبليخ",
+                    "toponym_buckwalter": "Nahr al-Balikh",
+                    "toponym_search": "Nahr al-Balikh",
+                    "toponym_translit": "Nahr al-Balīḫ",
+                    "toponym_translit_other": "Nahr al-Balīḫ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

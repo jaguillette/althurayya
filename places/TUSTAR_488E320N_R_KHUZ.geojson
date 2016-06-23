@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [48.85461, 32.0511], "type": "Point"}, "properties": {"arBW": "Tustar, Shushtar", "arTitle": "\u062a\u0633\u062a\u0631", "arTitleOther": "\u062a\u0633\u062a\u0631\u060c \u0634\u0634\u062a\u0631", "lat": "32.05110", "lon": "48.85461", "region": "Khuzistan", "searchNames": "Tustar, Shushtar", "topType": "regions", "topTypeAlt": "region", "topURI": "TUSTAR_488E320N_R_KHUZ", "translitTitle": "Tustar", "translitTitleOther": "Tustar, \u0160u\u0161tar"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    48.85461,
+                    32.0511
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.05110",
+                    "coord_lon": "48.85461",
+                    "cornu_URI": "TUSTAR_488E320N_R_KHUZ",
+                    "region_code": 11,
+                    "region_spelled": "Khuzistan",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "تستر",
+                    "toponym_arabic_other": "تستر، ششتر",
+                    "toponym_buckwalter": "Tustar, Shushtar",
+                    "toponym_search": "Tustar, Shushtar",
+                    "toponym_translit": "Tustar",
+                    "toponym_translit_other": "Tustar, Šuštar"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

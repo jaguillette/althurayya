@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [59.98232, 34.64655], "type": "Point"}, "properties": {"arBW": "Salumak", "arTitle": "\u0633\u0644\u0648\u0645\u0643", "arTitleOther": "\u0633\u0644\u0648\u0645\u0643", "lat": "34.64655", "lon": "59.98232", "region": "Khurasan", "searchNames": "Salumak", "topType": "towns", "topTypeAlt": "cite", "topURI": "SALUMAK_599E346N_S_KHUR", "translitTitle": "Sal\u016bmak", "translitTitleOther": "Sal\u016bmak"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    59.98232,
+                    34.64655
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.64655",
+                    "coord_lon": "59.98232",
+                    "cornu_URI": "SALUMAK_599E346N_S_KHUR",
+                    "region_code": 10,
+                    "region_spelled": "Khurasan",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "سلومك",
+                    "toponym_arabic_other": "سلومك",
+                    "toponym_buckwalter": "Salumak",
+                    "toponym_search": "Salumak",
+                    "toponym_translit": "Salūmak",
+                    "toponym_translit_other": "Salūmak"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

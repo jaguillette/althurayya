@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [68.34181, 25.42764], "type": "Point"}, "properties": {"arBW": "al-Nirun, al-Birun", "arTitle": "\ufb50\u0644\u0646\u064a\u0631\u0648\u0646", "arTitleOther": "\ufb50\u0644\u0646\u064a\u0631\u0648\u0646\u060c \ufb50\u0644\u0628\u064a\u0631\u0648\u0646", "lat": "25.42764", "lon": "68.34181", "region": "Sind", "searchNames": "al-Nirun, al-Birun", "topType": "towns", "topTypeAlt": "cite", "topURI": "NIRUN_683E254N_S_SIND", "translitTitle": "al-N\u012br\u016bn", "translitTitleOther": "al-N\u012br\u016bn, al-B\u012br\u016bn"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    68.34181,
+                    25.42764
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "25.42764",
+                    "coord_lon": "68.34181",
+                    "cornu_URI": "NIRUN_683E254N_S_SIND",
+                    "region_code": 19,
+                    "region_spelled": "Sind",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ﭐلنيرون",
+                    "toponym_arabic_other": "ﭐلنيرون، ﭐلبيرون",
+                    "toponym_buckwalter": "al-Nirun, al-Birun",
+                    "toponym_search": "al-Nirun, al-Birun",
+                    "toponym_translit": "al-Nīrūn",
+                    "toponym_translit_other": "al-Nīrūn, al-Bīrūn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

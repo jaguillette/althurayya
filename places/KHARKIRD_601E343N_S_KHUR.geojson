@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [60.16386, 34.31639], "type": "Point"}, "properties": {"arBW": "Kharkird, Kharjird", "arTitle": "\u062e\u0631\u0643\u0631\u062f", "arTitleOther": "\u062e\u0631\u0643\u0631\u062f\u060c \u062e\u0631\u062c\u0631\u062f", "lat": "34.31639", "lon": "60.16386", "region": "Khurasan", "searchNames": "Kharkird, Kharjird", "topType": "towns", "topTypeAlt": "cite", "topURI": "KHARKIRD_601E343N_S_KHUR", "translitTitle": "\u1e2aarkird", "translitTitleOther": "\u1e2aarkird, \u1e2aar\u01e7ird"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    60.16386,
+                    34.31639
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.31639",
+                    "coord_lon": "60.16386",
+                    "cornu_URI": "KHARKIRD_601E343N_S_KHUR",
+                    "region_code": 10,
+                    "region_spelled": "Khurasan",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "خركرد",
+                    "toponym_arabic_other": "خركرد، خرجرد",
+                    "toponym_buckwalter": "Kharkird, Kharjird",
+                    "toponym_search": "Kharkird, Kharjird",
+                    "toponym_translit": "Ḫarkird",
+                    "toponym_translit_other": "Ḫarkird, Ḫarǧird"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

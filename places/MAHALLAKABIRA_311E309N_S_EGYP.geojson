@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [31.14662, 30.97329], "type": "Point"}, "properties": {"arBW": "Mahalla al-Kabira", "arTitle": "\u0645\u062d\u0644\u0629 \ufb50\u0644\u0643\u0628\u064a\u0631\u0629", "arTitleOther": "\u0645\u062d\u0644\u0629 \ufb50\u0644\u0643\u0628\u064a\u0631\u0629", "lat": "30.97329", "lon": "31.14662", "region": "Egypt", "searchNames": "Mahalla al-Kabira", "topType": "towns", "topTypeAlt": "cite", "topURI": "MAHALLAKABIRA_311E309N_S_EGYP", "translitTitle": "Ma\u1e25alla\u0167 al-Kab\u012bra\u0167", "translitTitleOther": "Ma\u1e25alla\u0167 al-Kab\u012bra\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    31.14662,
+                    30.97329
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.97329",
+                    "coord_lon": "31.14662",
+                    "cornu_URI": "MAHALLAKABIRA_311E309N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "محلة ﭐلكبيرة",
+                    "toponym_arabic_other": "محلة ﭐلكبيرة",
+                    "toponym_buckwalter": "Mahalla al-Kabira",
+                    "toponym_search": "Mahalla al-Kabira",
+                    "toponym_translit": "Maḥallaŧ al-Kabīraŧ",
+                    "toponym_translit_other": "Maḥallaŧ al-Kabīraŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

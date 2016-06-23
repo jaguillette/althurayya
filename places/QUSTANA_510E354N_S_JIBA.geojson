@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [51.03856, 35.41491], "type": "Point"}, "properties": {"arBW": "Qustana", "arTitle": "\u0642\u0633\u0637\u0627\u0646\u0629", "arTitleOther": "\u0642\u0633\u0637\u0627\u0646\u0629", "lat": "35.41491", "lon": "51.03856", "region": "Jibal", "searchNames": "Qustana", "topType": "waystations", "topTypeAlt": "etape", "topURI": "QUSTANA_510E354N_S_JIBA", "translitTitle": "Qus\u1e6d\u0101na\u0167", "translitTitleOther": "Qus\u1e6d\u0101na\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    51.03856,
+                    35.41491
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.41491",
+                    "coord_lon": "51.03856",
+                    "cornu_URI": "QUSTANA_510E354N_S_JIBA",
+                    "region_code": 8,
+                    "region_spelled": "Jibal",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "قسطانة",
+                    "toponym_arabic_other": "قسطانة",
+                    "toponym_buckwalter": "Qustana",
+                    "toponym_search": "Qustana",
+                    "toponym_translit": "Qusṭānaŧ",
+                    "toponym_translit_other": "Qusṭānaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

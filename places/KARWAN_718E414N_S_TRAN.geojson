@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [71.83079, 41.48396], "type": "Point"}, "properties": {"arBW": "Karwan", "arTitle": "\u0643\u0631\u0648\u0627\u0646", "arTitleOther": "\u0643\u0631\u0648\u0627\u0646", "lat": "41.48396", "lon": "71.83079", "region": "Transoxiana", "searchNames": "Karwan", "topType": "capitals", "topTypeAlt": "cheflieu", "topURI": "KARWAN_718E414N_S_TRAN", "translitTitle": "Karw\u0101n", "translitTitleOther": "Karw\u0101n"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    71.83079,
+                    41.48396
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "41.48396",
+                    "coord_lon": "71.83079",
+                    "cornu_URI": "KARWAN_718E414N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "capitals",
+                    "top_type_orig": "cheflieu",
+                    "toponym_arabic": "كروان",
+                    "toponym_arabic_other": "كروان",
+                    "toponym_buckwalter": "Karwan",
+                    "toponym_search": "Karwan",
+                    "toponym_translit": "Karwān",
+                    "toponym_translit_other": "Karwān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

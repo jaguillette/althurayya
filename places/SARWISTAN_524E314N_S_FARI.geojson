@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [52.43219, 31.42233], "type": "Point"}, "properties": {"arBW": "Sarwistan, Sarurir", "arTitle": "\u0633\u0631\u0648\u064a\u0633\u062a\u0627\u0646", "arTitleOther": "\u0633\u0631\u0648\u064a\u0633\u062a\u0627\u0646\u060c \u0633\u0631\u0648\u0631\u064a\u0631", "lat": "31.42233", "lon": "52.43219", "region": "Faris", "searchNames": "Sarwistan, Sarurir", "topType": "towns", "topTypeAlt": "cite", "topURI": "SARWISTAN_524E314N_S_FARI", "translitTitle": "Sarw\u012bst\u0101n", "translitTitleOther": "Sarw\u012bst\u0101n, Sar\u016br\u012br"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    52.43219,
+                    31.42233
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.42233",
+                    "coord_lon": "52.43219",
+                    "cornu_URI": "SARWISTAN_524E314N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "سرويستان",
+                    "toponym_arabic_other": "سرويستان، سرورير",
+                    "toponym_buckwalter": "Sarwistan, Sarurir",
+                    "toponym_search": "Sarwistan, Sarurir",
+                    "toponym_translit": "Sarwīstān",
+                    "toponym_translit_other": "Sarwīstān, Sarūrīr"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

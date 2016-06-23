@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [39.79161, 21.53869], "type": "Point"}, "properties": {"arBW": "al-Tanim", "arTitle": "\ufb50\u0644\u062a\u0646\u0639\u064a\u0645", "arTitleOther": "\ufb50\u0644\u062a\u0646\u0639\u064a\u0645", "lat": "21.53869", "lon": "39.79161", "region": "Jazirat al-Arab", "searchNames": "al-Tanim", "topType": "waystations", "topTypeAlt": "miqat", "topURI": "TANIM_397E215N_S_JAZI", "translitTitle": "al-Tan\u02bf\u012bm", "translitTitleOther": "al-Tan\u02bf\u012bm"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    39.79161,
+                    21.53869
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "21.53869",
+                    "coord_lon": "39.79161",
+                    "cornu_URI": "TANIM_397E215N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "miqat",
+                    "toponym_arabic": "ﭐلتنعيم",
+                    "toponym_arabic_other": "ﭐلتنعيم",
+                    "toponym_buckwalter": "al-Tanim",
+                    "toponym_search": "al-Tanim",
+                    "toponym_translit": "al-Tanʿīm",
+                    "toponym_translit_other": "al-Tanʿīm"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

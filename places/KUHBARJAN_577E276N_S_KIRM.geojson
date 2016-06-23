@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [57.75501, 27.67797], "type": "Point"}, "properties": {"arBW": "Kuh Barjan", "arTitle": "\u0643\u0648\u0647 \u0628\u0631\u062c\u0627\u0646", "arTitleOther": "\u0643\u0648\u0647 \u0628\u0631\u062c\u0627\u0646", "lat": "27.67797", "lon": "57.75501", "region": "Kirman", "searchNames": "Kuh Barjan", "topType": "towns", "topTypeAlt": "cite", "topURI": "KUHBARJAN_577E276N_S_KIRM", "translitTitle": "K\u016bh Bar\u01e7\u0101n", "translitTitleOther": "K\u016bh Bar\u01e7\u0101n"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    57.75501,
+                    27.67797
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "27.67797",
+                    "coord_lon": "57.75501",
+                    "cornu_URI": "KUHBARJAN_577E276N_S_KIRM",
+                    "region_code": 12,
+                    "region_spelled": "Kirman",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "كوه برجان",
+                    "toponym_arabic_other": "كوه برجان",
+                    "toponym_buckwalter": "Kuh Barjan",
+                    "toponym_search": "Kuh Barjan",
+                    "toponym_translit": "Kūh Barǧān",
+                    "toponym_translit_other": "Kūh Barǧān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

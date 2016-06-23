@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [28.83405, 25.67032], "type": "Point"}, "properties": {"arBW": "al-Qasr", "arTitle": "\ufb50\u0644\u0642\u0635\u0631", "arTitleOther": "\ufb50\u0644\u0642\u0635\u0631", "lat": "25.67032", "lon": "28.83405", "region": "Egypt", "searchNames": "al-Qasr", "topType": "villages", "topTypeAlt": "localite", "topURI": "QASR_288E256N_S_EGYP", "translitTitle": "al-Qa\u1e63r", "translitTitleOther": "al-Qa\u1e63r"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    28.83405,
+                    25.67032
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "25.67032",
+                    "coord_lon": "28.83405",
+                    "cornu_URI": "QASR_288E256N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "ﭐلقصر",
+                    "toponym_arabic_other": "ﭐلقصر",
+                    "toponym_buckwalter": "al-Qasr",
+                    "toponym_search": "al-Qasr",
+                    "toponym_translit": "al-Qaṣr",
+                    "toponym_translit_other": "al-Qaṣr"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

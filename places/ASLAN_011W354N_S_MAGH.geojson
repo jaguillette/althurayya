@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [-1.16486, 35.45814], "type": "Point"}, "properties": {"arBW": "Aslan, Waslan", "arTitle": "\u0622\u0633\u0644\u0627\u0646", "arTitleOther": "\u0622\u0633\u0644\u0627\u0646\u060c \u0648\u0627\u0633\u0644\u0627\u0646", "lat": "35.45814", "lon": "-1.16486", "region": "Maghrib", "searchNames": "Aslan, Waslan", "topType": "towns", "topTypeAlt": "cite", "topURI": "ASLAN_011W354N_S_MAGH", "translitTitle": "\u0100sl\u0101n", "translitTitleOther": "\u0100sl\u0101n, W\u0101sl\u0101n"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.16486,
+                    35.45814
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.45814",
+                    "coord_lon": "-1.16486",
+                    "cornu_URI": "ASLAN_011W354N_S_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "آسلان",
+                    "toponym_arabic_other": "آسلان، واسلان",
+                    "toponym_buckwalter": "Aslan, Waslan",
+                    "toponym_search": "Aslan, Waslan",
+                    "toponym_translit": "Āslān",
+                    "toponym_translit_other": "Āslān, Wāslān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

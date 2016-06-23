@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [35.56271, 32.15774], "type": "Point"}, "properties": {"arBW": "al-Urdunn", "arTitle": "\ufb50\u0644\u0623\u0631\u062f\u0646", "arTitleOther": "\ufb50\u0644\u0623\u0631\u062f\u0646", "lat": "32.15774", "lon": "35.56271", "region": "Sham", "searchNames": "al-Urdunn", "topType": "waters", "topTypeAlt": "riviere", "topURI": "URDUNN_355E321N_W_SHAM", "translitTitle": "al-Urdunn", "translitTitleOther": "al-Urdunn"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    35.56271,
+                    32.15774
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.15774",
+                    "coord_lon": "35.56271",
+                    "cornu_URI": "URDUNN_355E321N_W_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "riviere",
+                    "toponym_arabic": "ﭐلأردن",
+                    "toponym_arabic_other": "ﭐلأردن",
+                    "toponym_buckwalter": "al-Urdunn",
+                    "toponym_search": "al-Urdunn",
+                    "toponym_translit": "al-Urdunn",
+                    "toponym_translit_other": "al-Urdunn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

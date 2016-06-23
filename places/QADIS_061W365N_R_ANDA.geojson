@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [-6.18409, 36.57191], "type": "Point"}, "properties": {"arBW": "Qadis", "arTitle": "\u0642\u0627\u062f\u0633", "arTitleOther": "\u0642\u0627\u062f\u0633", "lat": "36.57191", "lon": "-6.18409", "region": "Andalus", "searchNames": "Qadis", "topType": "regions", "topTypeAlt": "ile", "topURI": "QADIS_061W365N_R_ANDA", "translitTitle": "Q\u0101dis", "translitTitleOther": "Q\u0101dis"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -6.18409,
+                    36.57191
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.57191",
+                    "coord_lon": "-6.18409",
+                    "cornu_URI": "QADIS_061W365N_R_ANDA",
+                    "region_code": 1,
+                    "region_spelled": "Andalus",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "ile",
+                    "toponym_arabic": "قادس",
+                    "toponym_arabic_other": "قادس",
+                    "toponym_buckwalter": "Qadis",
+                    "toponym_search": "Qadis",
+                    "toponym_translit": "Qādis",
+                    "toponym_translit_other": "Qādis"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

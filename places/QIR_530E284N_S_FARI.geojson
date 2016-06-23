@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [53.03724, 28.44621], "type": "Point"}, "properties": {"arBW": "Qir, Kir", "arTitle": "\u0642\u064a\u0631", "arTitleOther": "\u0642\u064a\u0631\u060c \u0643\u064a\u0631", "lat": "28.44621", "lon": "53.03724", "region": "Faris", "searchNames": "Qir, Kir", "topType": "towns", "topTypeAlt": "canton", "topURI": "QIR_530E284N_S_FARI", "translitTitle": "Q\u012br", "translitTitleOther": "Q\u012br, K\u012br"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    53.03724,
+                    28.44621
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "28.44621",
+                    "coord_lon": "53.03724",
+                    "cornu_URI": "QIR_530E284N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "canton",
+                    "toponym_arabic": "قير",
+                    "toponym_arabic_other": "قير، كير",
+                    "toponym_buckwalter": "Qir, Kir",
+                    "toponym_search": "Qir, Kir",
+                    "toponym_translit": "Qīr",
+                    "toponym_translit_other": "Qīr, Kīr"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

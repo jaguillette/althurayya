@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [71.72209, 23.61826], "type": "Point"}, "properties": {"arBW": "Qamuhul", "arTitle": "\u0642\u0627\u0645\u0647\u0644", "arTitleOther": "\u0642\u0627\u0645\u0647\u0644", "lat": "23.61826", "lon": "71.72209", "region": "Sind", "searchNames": "Qamuhul", "topType": "towns", "topTypeAlt": "cite", "topURI": "QAMUHUL_717E236N_S_SIND", "translitTitle": "Q\u0101muhul", "translitTitleOther": "Q\u0101muhul"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    71.72209,
+                    23.61826
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "23.61826",
+                    "coord_lon": "71.72209",
+                    "cornu_URI": "QAMUHUL_717E236N_S_SIND",
+                    "region_code": 19,
+                    "region_spelled": "Sind",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "قامهل",
+                    "toponym_arabic_other": "قامهل",
+                    "toponym_buckwalter": "Qamuhul",
+                    "toponym_search": "Qamuhul",
+                    "toponym_translit": "Qāmuhul",
+                    "toponym_translit_other": "Qāmuhul"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

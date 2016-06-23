@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [36.60247, 33.74546], "type": "Point"}, "properties": {"arBW": "al-Qutayyifa", "arTitle": "\ufb50\u0644\u0642\u0637\u064a\u0641\u0629", "arTitleOther": "\ufb50\u0644\u0642\u0637\u064a\u0641\u0629", "lat": "33.74546", "lon": "36.60247", "region": "Sham", "searchNames": "al-Qutayyifa", "topType": "waystations", "topTypeAlt": "etape", "topURI": "QUTAYYIFA_366E337N_S_SHAM", "translitTitle": "al-Qu\u1e6dayyifa\u0167", "translitTitleOther": "al-Qu\u1e6dayyifa\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    36.60247,
+                    33.74546
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.74546",
+                    "coord_lon": "36.60247",
+                    "cornu_URI": "QUTAYYIFA_366E337N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "ﭐلقطيفة",
+                    "toponym_arabic_other": "ﭐلقطيفة",
+                    "toponym_buckwalter": "al-Qutayyifa",
+                    "toponym_search": "al-Qutayyifa",
+                    "toponym_translit": "al-Quṭayyifaŧ",
+                    "toponym_translit_other": "al-Quṭayyifaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

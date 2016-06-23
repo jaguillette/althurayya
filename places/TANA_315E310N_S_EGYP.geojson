@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [31.54194, 31.04233], "type": "Point"}, "properties": {"arBW": "Tana", "arTitle": "\u062a\u0646\u0627", "arTitleOther": "\u062a\u0646\u0627", "lat": "31.04233", "lon": "31.54194", "region": "Egypt", "searchNames": "Tana", "topType": "towns", "topTypeAlt": "cite", "topURI": "TANA_315E310N_S_EGYP", "translitTitle": "Tan\u0101", "translitTitleOther": "Tan\u0101"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    31.54194,
+                    31.04233
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.04233",
+                    "coord_lon": "31.54194",
+                    "cornu_URI": "TANA_315E310N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "تنا",
+                    "toponym_arabic_other": "تنا",
+                    "toponym_buckwalter": "Tana",
+                    "toponym_search": "Tana",
+                    "toponym_translit": "Tanā",
+                    "toponym_translit_other": "Tanā"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

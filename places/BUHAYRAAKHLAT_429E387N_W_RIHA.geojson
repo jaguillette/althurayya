@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [42.9101, 38.7788], "type": "Point"}, "properties": {"arBW": "Buhayra Akhlat, Buhayra Khilat, Buhayra Arjish", "arTitle": "\u0628\u062d\u064a\u0631\u0629 \u0623\u062e\u0644\u0627\u0637", "arTitleOther": "\u0628\u062d\u064a\u0631\u0629 \u0623\u062e\u0644\u0627\u0637\u060c \u0628\u062d\u064a\u0631\u0629 \u062e\u0644\u0627\u0637\u060c \u0628\u062d\u064a\u0631\u0629 \u0623\u0631\u062c\u064a\u0634", "lat": "38.77880", "lon": "42.91010", "region": "Rihab", "searchNames": "Buhayra Akhlat, Buhayra Khilat, Buhayra Arjish", "topType": "waters", "topTypeAlt": "lac", "topURI": "BUHAYRAAKHLAT_429E387N_W_RIHA", "translitTitle": "Bu\u1e25ayra\u0167 A\u1e2bl\u0101\u1e6d", "translitTitleOther": "Bu\u1e25ayra\u0167 A\u1e2bl\u0101\u1e6d, Bu\u1e25ayra\u0167 \u1e2ail\u0101\u1e6d, Bu\u1e25ayra\u0167 Ar\u01e7\u012b\u0161"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    42.9101,
+                    38.7788
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "38.77880",
+                    "coord_lon": "42.91010",
+                    "cornu_URI": "BUHAYRAAKHLAT_429E387N_W_RIHA",
+                    "region_code": 15,
+                    "region_spelled": "Rihab",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "lac",
+                    "toponym_arabic": "بحيرة أخلاط",
+                    "toponym_arabic_other": "بحيرة أخلاط، بحيرة خلاط، بحيرة أرجيش",
+                    "toponym_buckwalter": "Buhayra Akhlat, Buhayra Khilat, Buhayra Arjish",
+                    "toponym_search": "Buhayra Akhlat, Buhayra Khilat, Buhayra Arjish",
+                    "toponym_translit": "Buḥayraŧ Aḫlāṭ",
+                    "toponym_translit_other": "Buḥayraŧ Aḫlāṭ, Buḥayraŧ Ḫilāṭ, Buḥayraŧ Arǧīš"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [40.86321, 37.40165], "type": "Point"}, "properties": {"arBW": "Thur Abdin", "arTitle": "\u062b\u0648\u0631 \u0639\u0628\u062f\u064a\u0646", "arTitleOther": "\u062b\u0648\u0631 \u0639\u0628\u062f\u064a\u0646", "lat": "37.40165", "lon": "40.86321", "region": "Aqur", "searchNames": "Thur Abdin", "topType": "towns", "topTypeAlt": "canton", "topURI": "THURABDIN_408E374N_S_AQUR", "translitTitle": "\u1e6e\u016br \u02bfAbd\u012bn", "translitTitleOther": "\u1e6e\u016br \u02bfAbd\u012bn"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    40.86321,
+                    37.40165
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.40165",
+                    "coord_lon": "40.86321",
+                    "cornu_URI": "THURABDIN_408E374N_S_AQUR",
+                    "region_code": 2,
+                    "region_spelled": "Aqur",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "canton",
+                    "toponym_arabic": "ثور عبدين",
+                    "toponym_arabic_other": "ثور عبدين",
+                    "toponym_buckwalter": "Thur Abdin",
+                    "toponym_search": "Thur Abdin",
+                    "toponym_translit": "Ṯūr ʿAbdīn",
+                    "toponym_translit_other": "Ṯūr ʿAbdīn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

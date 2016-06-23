@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [65.29357, 39.2921], "type": "Point"}, "properties": {"arBW": "Bir al-Said", "arTitle": "\u0628\u0626\u0631 \ufb50\u0644\u0633\u0639\u064a\u062f", "arTitleOther": "\u0628\u0626\u0631 \ufb50\u0644\u0633\u0639\u064a\u062f", "lat": "39.29210", "lon": "65.29357", "region": "Transoxiana", "searchNames": "Bir al-Said", "topType": "waystations", "topTypeAlt": "etape", "topURI": "BIRSAID_652E392N_S_TRAN", "translitTitle": "Bi\u02ber al-Sa\u02bf\u012bd", "translitTitleOther": "Bi\u02ber al-Sa\u02bf\u012bd"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    65.29357,
+                    39.2921
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "39.29210",
+                    "coord_lon": "65.29357",
+                    "cornu_URI": "BIRSAID_652E392N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "بئر ﭐلسعيد",
+                    "toponym_arabic_other": "بئر ﭐلسعيد",
+                    "toponym_buckwalter": "Bir al-Said",
+                    "toponym_search": "Bir al-Said",
+                    "toponym_translit": "Biʾr al-Saʿīd",
+                    "toponym_translit_other": "Biʾr al-Saʿīd"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

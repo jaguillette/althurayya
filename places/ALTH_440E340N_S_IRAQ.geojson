@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [44.08916, 34.02656], "type": "Point"}, "properties": {"arBW": "Alth ,  al-Alth", "arTitle": "\u0639\u0644\u062b ", "arTitleOther": "\u0639\u0644\u062b \u060c  \ufb50\u0644\u0639\u0644\u062b", "lat": "34.02656", "lon": "44.08916", "region": "Iraq", "searchNames": "Alth ,  al-Alth", "topType": "towns", "topTypeAlt": "cite", "topURI": "ALTH_440E340N_S_IRAQ", "translitTitle": "\u02bfAl\u1e6f ", "translitTitleOther": "\u02bfAl\u1e6f ,  al-\u02bfAl\u1e6f"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    44.08916,
+                    34.02656
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.02656",
+                    "coord_lon": "44.08916",
+                    "cornu_URI": "ALTH_440E340N_S_IRAQ",
+                    "region_code": 7,
+                    "region_spelled": "Iraq",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "علث ",
+                    "toponym_arabic_other": "علث ،  ﭐلعلث",
+                    "toponym_buckwalter": "Alth ,  al-Alth",
+                    "toponym_search": "Alth ,  al-Alth",
+                    "toponym_translit": "ʿAlṯ ",
+                    "toponym_translit_other": "ʿAlṯ ,  al-ʿAlṯ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

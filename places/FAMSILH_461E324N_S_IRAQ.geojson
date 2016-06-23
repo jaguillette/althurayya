@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [46.1315, 32.46405], "type": "Point"}, "properties": {"arBW": "Fam al-Silh", "arTitle": "\u0641\u0645 \ufb50\u0644\u0635\u0644\u062d", "arTitleOther": "\u0641\u0645 \ufb50\u0644\u0635\u0644\u062d", "lat": "32.46405", "lon": "46.13150", "region": "Iraq", "searchNames": "Fam al-Silh", "topType": "towns", "topTypeAlt": "cite", "topURI": "FAMSILH_461E324N_S_IRAQ", "translitTitle": "Fam al-\u1e62il\u1e25", "translitTitleOther": "Fam al-\u1e62il\u1e25"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    46.1315,
+                    32.46405
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.46405",
+                    "coord_lon": "46.13150",
+                    "cornu_URI": "FAMSILH_461E324N_S_IRAQ",
+                    "region_code": 7,
+                    "region_spelled": "Iraq",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "فم ﭐلصلح",
+                    "toponym_arabic_other": "فم ﭐلصلح",
+                    "toponym_buckwalter": "Fam al-Silh",
+                    "toponym_search": "Fam al-Silh",
+                    "toponym_translit": "Fam al-Ṣilḥ",
+                    "toponym_translit_other": "Fam al-Ṣilḥ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

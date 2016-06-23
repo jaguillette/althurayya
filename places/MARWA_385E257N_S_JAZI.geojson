@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [38.58647, 25.71785], "type": "Point"}, "properties": {"arBW": "al-Marwa, Dhu al-Marwa", "arTitle": "\ufb50\u0644\u0645\u0631\u0648\u0629", "arTitleOther": "\ufb50\u0644\u0645\u0631\u0648\u0629\u060c \u0630\u0648 \ufb50\u0644\u0645\u0631\u0648\u0629", "lat": "25.71785", "lon": "38.58647", "region": "Jazirat al-Arab", "searchNames": "al-Marwa, Dhu al-Marwa", "topType": "towns", "topTypeAlt": "cite", "topURI": "MARWA_385E257N_S_JAZI", "translitTitle": "al-Marwa\u0167", "translitTitleOther": "al-Marwa\u0167, \u1e0e\u016b al-Marwa\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    38.58647,
+                    25.71785
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "25.71785",
+                    "coord_lon": "38.58647",
+                    "cornu_URI": "MARWA_385E257N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ﭐلمروة",
+                    "toponym_arabic_other": "ﭐلمروة، ذو ﭐلمروة",
+                    "toponym_buckwalter": "al-Marwa, Dhu al-Marwa",
+                    "toponym_search": "al-Marwa, Dhu al-Marwa",
+                    "toponym_translit": "al-Marwaŧ",
+                    "toponym_translit_other": "al-Marwaŧ, Ḏū al-Marwaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

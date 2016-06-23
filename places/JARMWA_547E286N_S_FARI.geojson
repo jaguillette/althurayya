@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [54.7906, 28.6007], "type": "Point"}, "properties": {"arBW": "Jarmwa", "arTitle": "\u062c\u0631\u0645\u0648\u0629", "arTitleOther": "\u062c\u0631\u0645\u0648\u0629", "lat": "28.60070", "lon": "54.79060", "region": "Faris", "searchNames": "Jarmwa", "topType": "waystations", "topTypeAlt": "etape", "topURI": "JARMWA_547E286N_S_FARI", "translitTitle": "\u01e6armwa\u0167", "translitTitleOther": "\u01e6armwa\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    54.7906,
+                    28.6007
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "28.60070",
+                    "coord_lon": "54.79060",
+                    "cornu_URI": "JARMWA_547E286N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "جرموة",
+                    "toponym_arabic_other": "جرموة",
+                    "toponym_buckwalter": "Jarmwa",
+                    "toponym_search": "Jarmwa",
+                    "toponym_translit": "Ǧarmwaŧ",
+                    "toponym_translit_other": "Ǧarmwaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

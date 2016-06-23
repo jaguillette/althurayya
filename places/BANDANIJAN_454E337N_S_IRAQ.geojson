@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [45.48927, 33.71797], "type": "Point"}, "properties": {"arBW": "Bandanijan, Bandanijin", "arTitle": "\u0628\u0646\u062f\u0646\u064a\u062c\u0627\u0646", "arTitleOther": "\u0628\u0646\u062f\u0646\u064a\u062c\u0627\u0646\u060c \u0628\u0646\u062f\u0646\u064a\u062c\u064a\u0646", "lat": "33.71797", "lon": "45.48927", "region": "Iraq", "searchNames": "Bandanijan, Bandanijin", "topType": "towns", "topTypeAlt": "cite", "topURI": "BANDANIJAN_454E337N_S_IRAQ", "translitTitle": "Bandan\u012b\u01e7\u0101n", "translitTitleOther": "Bandan\u012b\u01e7\u0101n, Bandan\u012b\u01e7\u012bn"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    45.48927,
+                    33.71797
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.71797",
+                    "coord_lon": "45.48927",
+                    "cornu_URI": "BANDANIJAN_454E337N_S_IRAQ",
+                    "region_code": 7,
+                    "region_spelled": "Iraq",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "بندنيجان",
+                    "toponym_arabic_other": "بندنيجان، بندنيجين",
+                    "toponym_buckwalter": "Bandanijan, Bandanijin",
+                    "toponym_search": "Bandanijan, Bandanijin",
+                    "toponym_translit": "Bandanīǧān",
+                    "toponym_translit_other": "Bandanīǧān, Bandanīǧīn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

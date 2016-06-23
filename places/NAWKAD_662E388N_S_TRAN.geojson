@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [66.29094, 38.84309], "type": "Point"}, "properties": {"arBW": "Nawkad, Nuqad Quraysh", "arTitle": "\u0646\u0648\u0643\u0627\u062f", "arTitleOther": "\u0646\u0648\u0643\u0627\u062f\u060c \u0646\u0648\u0642\u0627\u062f \u0642\u0631\u064a\u0634", "lat": "38.84309", "lon": "66.29094", "region": "Transoxiana", "searchNames": "Nawkad, Nuqad Quraysh", "topType": "towns", "topTypeAlt": "cite", "topURI": "NAWKAD_662E388N_S_TRAN", "translitTitle": "Nawk\u0101d", "translitTitleOther": "Nawk\u0101d, N\u016bq\u0101d Quray\u0161"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    66.29094,
+                    38.84309
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "38.84309",
+                    "coord_lon": "66.29094",
+                    "cornu_URI": "NAWKAD_662E388N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "نوكاد",
+                    "toponym_arabic_other": "نوكاد، نوقاد قريش",
+                    "toponym_buckwalter": "Nawkad, Nuqad Quraysh",
+                    "toponym_search": "Nawkad, Nuqad Quraysh",
+                    "toponym_translit": "Nawkād",
+                    "toponym_translit_other": "Nawkād, Nūqād Qurayš"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

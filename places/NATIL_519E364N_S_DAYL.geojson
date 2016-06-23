@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [51.91951, 36.47768], "type": "Point"}, "properties": {"arBW": "Natil", "arTitle": "\u0646\u0627\u062a\u0644", "arTitleOther": "\u0646\u0627\u062a\u0644", "lat": "36.47768", "lon": "51.91951", "region": "Daylam", "searchNames": "Natil", "topType": "towns", "topTypeAlt": "cite", "topURI": "NATIL_519E364N_S_DAYL", "translitTitle": "N\u0101til", "translitTitleOther": "N\u0101til"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    51.91951,
+                    36.47768
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.47768",
+                    "coord_lon": "51.91951",
+                    "cornu_URI": "NATIL_519E364N_S_DAYL",
+                    "region_code": 4,
+                    "region_spelled": "Daylam",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ناتل",
+                    "toponym_arabic_other": "ناتل",
+                    "toponym_buckwalter": "Natil",
+                    "toponym_search": "Natil",
+                    "toponym_translit": "Nātil",
+                    "toponym_translit_other": "Nātil"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

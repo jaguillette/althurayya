@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [60.54672, 36.17215], "type": "Point"}, "properties": {"arBW": "Mazduran, al-Aqaba", "arTitle": "\u0645\u0632\u062f\u0648\u0631\u0627\u0646", "arTitleOther": "\u0645\u0632\u062f\u0648\u0631\u0627\u0646\u060c \ufb50\u0644\u0639\u0642\u0628\u0629", "lat": "36.17215", "lon": "60.54672", "region": "Khurasan", "searchNames": "Mazduran, al-Aqaba", "topType": "villages", "topTypeAlt": "localite", "topURI": "MAZDURAN_605E361N_S_KHUR", "translitTitle": "Mazd\u016br\u0101n", "translitTitleOther": "Mazd\u016br\u0101n, al-\u02bfAqaba\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    60.54672,
+                    36.17215
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.17215",
+                    "coord_lon": "60.54672",
+                    "cornu_URI": "MAZDURAN_605E361N_S_KHUR",
+                    "region_code": 10,
+                    "region_spelled": "Khurasan",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "مزدوران",
+                    "toponym_arabic_other": "مزدوران، ﭐلعقبة",
+                    "toponym_buckwalter": "Mazduran, al-Aqaba",
+                    "toponym_search": "Mazduran, al-Aqaba",
+                    "toponym_translit": "Mazdūrān",
+                    "toponym_translit_other": "Mazdūrān, al-ʿAqabaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

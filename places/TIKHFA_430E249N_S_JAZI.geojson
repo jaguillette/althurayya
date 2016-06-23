@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [43.01192, 24.95296], "type": "Point"}, "properties": {"arBW": "Tikhfa", "arTitle": "\u0637\u062e\u0641\u0629", "arTitleOther": "\u0637\u062e\u0641\u0629", "lat": "24.95296", "lon": "43.01192", "region": "Jazirat al-Arab", "searchNames": "Tikhfa", "topType": "waystations", "topTypeAlt": "etape", "topURI": "TIKHFA_430E249N_S_JAZI", "translitTitle": "\u1e6ci\u1e2bfa\u0167", "translitTitleOther": "\u1e6ci\u1e2bfa\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    43.01192,
+                    24.95296
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "24.95296",
+                    "coord_lon": "43.01192",
+                    "cornu_URI": "TIKHFA_430E249N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "طخفة",
+                    "toponym_arabic_other": "طخفة",
+                    "toponym_buckwalter": "Tikhfa",
+                    "toponym_search": "Tikhfa",
+                    "toponym_translit": "Ṭiḫfaŧ",
+                    "toponym_translit_other": "Ṭiḫfaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

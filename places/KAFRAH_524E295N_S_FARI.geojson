@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [52.49957, 29.50609], "type": "Point"}, "properties": {"arBW": "Kafrah, Kafr", "arTitle": "\u0643\u0641\u0631\u0647", "arTitleOther": "\u0643\u0641\u0631\u0647\u060c \u0643\u0641\u0631", "lat": "29.50609", "lon": "52.49957", "region": "Faris", "searchNames": "Kafrah, Kafr", "topType": "waystations", "topTypeAlt": "etape", "topURI": "KAFRAH_524E295N_S_FARI", "translitTitle": "Kafrah", "translitTitleOther": "Kafrah, Kafr"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    52.49957,
+                    29.50609
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "29.50609",
+                    "coord_lon": "52.49957",
+                    "cornu_URI": "KAFRAH_524E295N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "كفره",
+                    "toponym_arabic_other": "كفره، كفر",
+                    "toponym_buckwalter": "Kafrah, Kafr",
+                    "toponym_search": "Kafrah, Kafr",
+                    "toponym_translit": "Kafrah",
+                    "toponym_translit_other": "Kafrah, Kafr"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

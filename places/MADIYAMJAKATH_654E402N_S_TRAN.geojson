@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [65.43455, 40.24274], "type": "Point"}, "properties": {"arBW": "Madiyamjakath", "arTitle": "\u0645\u062f\u064a\u0645\u062c\u0643\u062b", "arTitleOther": "\u0645\u062f\u064a\u0645\u062c\u0643\u062b", "lat": "40.24274", "lon": "65.43455", "region": "Transoxiana", "searchNames": "Madiyamjakath", "topType": "towns", "topTypeAlt": "canton", "topURI": "MADIYAMJAKATH_654E402N_S_TRAN", "translitTitle": "Madiyam\u01e7aka\u1e6f", "translitTitleOther": "Madiyam\u01e7aka\u1e6f"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    65.43455,
+                    40.24274
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "40.24274",
+                    "coord_lon": "65.43455",
+                    "cornu_URI": "MADIYAMJAKATH_654E402N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "canton",
+                    "toponym_arabic": "مديمجكث",
+                    "toponym_arabic_other": "مديمجكث",
+                    "toponym_buckwalter": "Madiyamjakath",
+                    "toponym_search": "Madiyamjakath",
+                    "toponym_translit": "Madiyamǧakaṯ",
+                    "toponym_translit_other": "Madiyamǧakaṯ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

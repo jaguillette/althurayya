@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [51.65, 32.66855], "type": "Point"}, "properties": {"arBW": "Isbahan, Isfahan", "arTitle": "\u0625\u0635\u0628\u0647\u0627\u0646", "arTitleOther": "\u0625\u0635\u0628\u0647\u0627\u0646\u060c \u0625\u0635\u0641\u0647\u0627\u0646", "lat": "32.66855", "lon": "51.65000", "region": "Jibal", "searchNames": "Isbahan, Isfahan", "topType": "regions", "topTypeAlt": "circon", "topURI": "ISBAHAN_516E326N_R_JIBA", "translitTitle": "I\u1e63bah\u0101n", "translitTitleOther": "I\u1e63bah\u0101n, I\u1e63fah\u0101n"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    51.65,
+                    32.66855
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.66855",
+                    "coord_lon": "51.65000",
+                    "cornu_URI": "ISBAHAN_516E326N_R_JIBA",
+                    "region_code": 8,
+                    "region_spelled": "Jibal",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "circon",
+                    "toponym_arabic": "إصبهان",
+                    "toponym_arabic_other": "إصبهان، إصفهان",
+                    "toponym_buckwalter": "Isbahan, Isfahan",
+                    "toponym_search": "Isbahan, Isfahan",
+                    "toponym_translit": "Iṣbahān",
+                    "toponym_translit_other": "Iṣbahān, Iṣfahān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

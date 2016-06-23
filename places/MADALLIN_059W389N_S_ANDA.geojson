@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [-5.94131, 38.93229], "type": "Point"}, "properties": {"arBW": "Madallin", "arTitle": "\u0645\u062f\u0644\u064a\u0646", "arTitleOther": "\u0645\u062f\u0644\u064a\u0646", "lat": "38.93229", "lon": "-5.94131", "region": "Andalus", "searchNames": "Madallin", "topType": "towns", "topTypeAlt": "cite", "topURI": "MADALLIN_059W389N_S_ANDA", "translitTitle": "Madall\u012bn", "translitTitleOther": "Madall\u012bn"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -5.94131,
+                    38.93229
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "38.93229",
+                    "coord_lon": "-5.94131",
+                    "cornu_URI": "MADALLIN_059W389N_S_ANDA",
+                    "region_code": 1,
+                    "region_spelled": "Andalus",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "مدلين",
+                    "toponym_arabic_other": "مدلين",
+                    "toponym_buckwalter": "Madallin",
+                    "toponym_search": "Madallin",
+                    "toponym_translit": "Madallīn",
+                    "toponym_translit_other": "Madallīn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

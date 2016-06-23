@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [25.18308, 31.42889], "type": "Point"}, "properties": {"arBW": "al-Aqaba", "arTitle": "\ufb50\u0644\u0639\u0642\u0628\u0629", "arTitleOther": "\ufb50\u0644\u0639\u0642\u0628\u0629", "lat": "31.42889", "lon": "25.18308", "region": "Barqa", "searchNames": "al-Aqaba", "topType": "waystations", "topTypeAlt": "etape", "topURI": "AQABA_251E314N_S_BARQ", "translitTitle": "al-\u02bfAqaba\u0167", "translitTitleOther": "al-\u02bfAqaba\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    25.18308,
+                    31.42889
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.42889",
+                    "coord_lon": "25.18308",
+                    "cornu_URI": "AQABA_251E314N_S_BARQ",
+                    "region_code": 3,
+                    "region_spelled": "Barqa",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "ﭐلعقبة",
+                    "toponym_arabic_other": "ﭐلعقبة",
+                    "toponym_buckwalter": "al-Aqaba",
+                    "toponym_search": "al-Aqaba",
+                    "toponym_translit": "al-ʿAqabaŧ",
+                    "toponym_translit_other": "al-ʿAqabaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

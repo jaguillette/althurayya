@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [48.53919, 32.29866], "type": "Point"}, "properties": {"arBW": "Jundaysabur", "arTitle": "\u062c\u0646\u062f\u064a\u0633\u0627\u0628\u0648\u0631", "arTitleOther": "\u062c\u0646\u062f\u064a\u0633\u0627\u0628\u0648\u0631", "lat": "32.29866", "lon": "48.53919", "region": "Khuzistan", "searchNames": "Jundaysabur", "topType": "regions", "topTypeAlt": "region", "topURI": "JUNDAYSABUR_485E322N_R_KHUZ", "translitTitle": "\u01e6undays\u0101b\u016br", "translitTitleOther": "\u01e6undays\u0101b\u016br"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    48.53919,
+                    32.29866
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.29866",
+                    "coord_lon": "48.53919",
+                    "cornu_URI": "JUNDAYSABUR_485E322N_R_KHUZ",
+                    "region_code": 11,
+                    "region_spelled": "Khuzistan",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "جنديسابور",
+                    "toponym_arabic_other": "جنديسابور",
+                    "toponym_buckwalter": "Jundaysabur",
+                    "toponym_search": "Jundaysabur",
+                    "toponym_translit": "Ǧundaysābūr",
+                    "toponym_translit_other": "Ǧundaysābūr"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

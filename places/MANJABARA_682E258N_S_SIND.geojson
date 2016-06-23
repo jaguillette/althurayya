@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [68.25338, 25.84265], "type": "Point"}, "properties": {"arBW": "Manjabara", "arTitle": "\u0645\u0646\u062c\u0627\u0628\u0627\u0631\u0649", "arTitleOther": "\u0645\u0646\u062c\u0627\u0628\u0627\u0631\u0649", "lat": "25.84265", "lon": "68.25338", "region": "Sind", "searchNames": "Manjabara", "topType": "towns", "topTypeAlt": "cite", "topURI": "MANJABARA_682E258N_S_SIND", "translitTitle": "Man\u01e7\u0101b\u0101r\u00e1", "translitTitleOther": "Man\u01e7\u0101b\u0101r\u00e1"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    68.25338,
+                    25.84265
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "25.84265",
+                    "coord_lon": "68.25338",
+                    "cornu_URI": "MANJABARA_682E258N_S_SIND",
+                    "region_code": 19,
+                    "region_spelled": "Sind",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "منجابارى",
+                    "toponym_arabic_other": "منجابارى",
+                    "toponym_buckwalter": "Manjabara",
+                    "toponym_search": "Manjabara",
+                    "toponym_translit": "Manǧābārá",
+                    "toponym_translit_other": "Manǧābārá"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

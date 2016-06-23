@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [44.23214, 14.25242], "type": "Point"}, "properties": {"arBW": "al-Haql", "arTitle": "\ufb50\u0644\u062d\u0642\u0644", "arTitleOther": "\ufb50\u0644\u062d\u0642\u0644", "lat": "14.25242", "lon": "44.23214", "region": "Yemen", "searchNames": "al-Haql", "topType": "regions", "topTypeAlt": "region", "topURI": "HAQL_442E142N_R_YEME", "translitTitle": "al-\u1e24aql", "translitTitleOther": "al-\u1e24aql"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    44.23214,
+                    14.25242
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "14.25242",
+                    "coord_lon": "44.23214",
+                    "cornu_URI": "HAQL_442E142N_R_YEME",
+                    "region_code": 21,
+                    "region_spelled": "Yemen",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "ﭐلحقل",
+                    "toponym_arabic_other": "ﭐلحقل",
+                    "toponym_buckwalter": "al-Haql",
+                    "toponym_search": "al-Haql",
+                    "toponym_translit": "al-Ḥaql",
+                    "toponym_translit_other": "al-Ḥaql"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

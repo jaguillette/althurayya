@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [52.04723, 35.68449], "type": "Point"}, "properties": {"arBW": "Shalanba", "arTitle": "\u0634\u0644\u0646\u0628\u0629", "arTitleOther": "\u0634\u0644\u0646\u0628\u0629", "lat": "35.68449", "lon": "52.04723", "region": "Daylam", "searchNames": "Shalanba", "topType": "towns", "topTypeAlt": "cite", "topURI": "SHALANBA_520E356N_S_DAYL", "translitTitle": "\u0160alanba\u0167", "translitTitleOther": "\u0160alanba\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    52.04723,
+                    35.68449
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.68449",
+                    "coord_lon": "52.04723",
+                    "cornu_URI": "SHALANBA_520E356N_S_DAYL",
+                    "region_code": 4,
+                    "region_spelled": "Daylam",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "شلنبة",
+                    "toponym_arabic_other": "شلنبة",
+                    "toponym_buckwalter": "Shalanba",
+                    "toponym_search": "Shalanba",
+                    "toponym_translit": "Šalanbaŧ",
+                    "toponym_translit_other": "Šalanbaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

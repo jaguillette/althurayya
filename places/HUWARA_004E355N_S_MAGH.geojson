@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [0.442, 35.55078], "type": "Point"}, "properties": {"arBW": "Huwara", "arTitle": "\u0647\u0648\u0627\u0631\u0629", "arTitleOther": "\u0647\u0648\u0627\u0631\u0629", "lat": "35.55078", "lon": "0.44200", "region": "Maghrib", "searchNames": "Huwara", "topType": "towns", "topTypeAlt": "cite", "topURI": "HUWARA_004E355N_S_MAGH", "translitTitle": "Huw\u0101ra\u0167", "translitTitleOther": "Huw\u0101ra\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    0.442,
+                    35.55078
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.55078",
+                    "coord_lon": "0.44200",
+                    "cornu_URI": "HUWARA_004E355N_S_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "هوارة",
+                    "toponym_arabic_other": "هوارة",
+                    "toponym_buckwalter": "Huwara",
+                    "toponym_search": "Huwara",
+                    "toponym_translit": "Huwāraŧ",
+                    "toponym_translit_other": "Huwāraŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

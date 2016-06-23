@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [40.78158, 34.679], "type": "Point"}, "properties": {"arBW": "al-Furda", "arTitle": "\ufb50\u0644\u0641\u0631\u0636\u0629", "arTitleOther": "\ufb50\u0644\u0641\u0631\u0636\u0629", "lat": "34.67900", "lon": "40.78158", "region": "Aqur", "searchNames": "al-Furda", "topType": "villages", "topTypeAlt": "localite", "topURI": "FURDA_407E346N_S_AQUR", "translitTitle": "al-Fur\u1e0da\u0167", "translitTitleOther": "al-Fur\u1e0da\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    40.78158,
+                    34.679
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.67900",
+                    "coord_lon": "40.78158",
+                    "cornu_URI": "FURDA_407E346N_S_AQUR",
+                    "region_code": 2,
+                    "region_spelled": "Aqur",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "ﭐلفرضة",
+                    "toponym_arabic_other": "ﭐلفرضة",
+                    "toponym_buckwalter": "al-Furda",
+                    "toponym_search": "al-Furda",
+                    "toponym_translit": "al-Furḍaŧ",
+                    "toponym_translit_other": "al-Furḍaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

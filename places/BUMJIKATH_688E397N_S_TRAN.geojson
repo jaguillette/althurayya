@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [68.83442, 39.74616], "type": "Point"}, "properties": {"arBW": "Bumjikath, Bunjikath, Bamjikath", "arTitle": "\u0628\u0648\u0645\u062c\u0643\u062b", "arTitleOther": "\u0628\u0648\u0645\u062c\u0643\u062b\u060c \u0628\u0646\u062c\u0643\u062b\u060c \u0628\u0645\u062c\u0643\u062b", "lat": "39.74616", "lon": "68.83442", "region": "Transoxiana", "searchNames": "Bumjikath, Bunjikath, Bamjikath", "topType": "capitals", "topTypeAlt": "capitale", "topURI": "BUMJIKATH_688E397N_S_TRAN", "translitTitle": "B\u016bm\u01e7ika\u1e6f", "translitTitleOther": "B\u016bm\u01e7ika\u1e6f, Bun\u01e7ika\u1e6f, Bam\u01e7ika\u1e6f"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    68.83442,
+                    39.74616
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "39.74616",
+                    "coord_lon": "68.83442",
+                    "cornu_URI": "BUMJIKATH_688E397N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "capitals",
+                    "top_type_orig": "capitale",
+                    "toponym_arabic": "بومجكث",
+                    "toponym_arabic_other": "بومجكث، بنجكث، بمجكث",
+                    "toponym_buckwalter": "Bumjikath, Bunjikath, Bamjikath",
+                    "toponym_search": "Bumjikath, Bunjikath, Bamjikath",
+                    "toponym_translit": "Būmǧikaṯ",
+                    "toponym_translit_other": "Būmǧikaṯ, Bunǧikaṯ, Bamǧikaṯ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

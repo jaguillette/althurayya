@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [55.93385, 33.24359], "type": "Point"}, "properties": {"arBW": "Ribat Ab Shuturan, Khan Ushturan", "arTitle": "\u0631\u0628\u0627\u0637 \u0622\u0628 \u0634\u062a\u0631\u0627\u0646", "arTitleOther": "\u0631\u0628\u0627\u0637 \u0622\u0628 \u0634\u062a\u0631\u0627\u0646\u060c \u062e\u0627\u0646 \u0623\u0634\u062a\u0631\u0627\u0646", "lat": "33.24359", "lon": "55.93385", "region": "Mafaza", "searchNames": "Ribat Ab Shuturan, Khan Ushturan", "topType": "waystations", "topTypeAlt": "relais", "topURI": "RIBATABSHUTURAN_559E332N_S_MAFA", "translitTitle": "Rib\u0101\u1e6d \u0100b \u0160utur\u0101n", "translitTitleOther": "Rib\u0101\u1e6d \u0100b \u0160utur\u0101n, \u1e2a\u0101n U\u0161tur\u0101n"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    55.93385,
+                    33.24359
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.24359",
+                    "coord_lon": "55.93385",
+                    "cornu_URI": "RIBATABSHUTURAN_559E332N_S_MAFA",
+                    "region_code": 13,
+                    "region_spelled": "Mafaza",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "relais",
+                    "toponym_arabic": "رباط آب شتران",
+                    "toponym_arabic_other": "رباط آب شتران، خان أشتران",
+                    "toponym_buckwalter": "Ribat Ab Shuturan, Khan Ushturan",
+                    "toponym_search": "Ribat Ab Shuturan, Khan Ushturan",
+                    "toponym_translit": "Ribāṭ Āb Šuturān",
+                    "toponym_translit_other": "Ribāṭ Āb Šuturān, Ḫān Ušturān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

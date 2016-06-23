@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [45.269, 13.36042], "type": "Point"}, "properties": {"arBW": "Yafi", "arTitle": "\u064a\u0627\u0641\u0639", "arTitleOther": "\u064a\u0627\u0641\u0639", "lat": "13.36042", "lon": "45.26900", "region": "Yemen", "searchNames": "Yafi", "topType": "regions", "topTypeAlt": "region", "topURI": "YAFI_452E133N_R_YEME", "translitTitle": "Y\u0101fi\u02bf", "translitTitleOther": "Y\u0101fi\u02bf"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    45.269,
+                    13.36042
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "13.36042",
+                    "coord_lon": "45.26900",
+                    "cornu_URI": "YAFI_452E133N_R_YEME",
+                    "region_code": 21,
+                    "region_spelled": "Yemen",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "يافع",
+                    "toponym_arabic_other": "يافع",
+                    "toponym_buckwalter": "Yafi",
+                    "toponym_search": "Yafi",
+                    "toponym_translit": "Yāfiʿ",
+                    "toponym_translit_other": "Yāfiʿ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [-5.11225, 37.75423], "type": "Point"}, "properties": {"arBW": "Nahr Qurtuba", "arTitle": "\u0646\u0647\u0631 \u0642\u0631\u0637\u0648\u0628\u0629", "arTitleOther": "\u0646\u0647\u0631 \u0642\u0631\u0637\u0648\u0628\u0629", "lat": "37.75423", "lon": "-5.11225", "region": "Andalus", "searchNames": "Nahr Qurtuba", "topType": "waters", "topTypeAlt": "riviere", "topURI": "NAHRQURTUBA_051W377N_W_ANDA", "translitTitle": "Nahr Qur\u1e6d\u016bba\u0167", "translitTitleOther": "Nahr Qur\u1e6d\u016bba\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -5.11225,
+                    37.75423
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.75423",
+                    "coord_lon": "-5.11225",
+                    "cornu_URI": "NAHRQURTUBA_051W377N_W_ANDA",
+                    "region_code": 1,
+                    "region_spelled": "Andalus",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "riviere",
+                    "toponym_arabic": "نهر قرطوبة",
+                    "toponym_arabic_other": "نهر قرطوبة",
+                    "toponym_buckwalter": "Nahr Qurtuba",
+                    "toponym_search": "Nahr Qurtuba",
+                    "toponym_translit": "Nahr Qurṭūbaŧ",
+                    "toponym_translit_other": "Nahr Qurṭūbaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

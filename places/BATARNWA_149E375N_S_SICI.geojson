@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [14.91436, 37.57624], "type": "Point"}, "properties": {"arBW": "Batarnwa, Batarnw", "arTitle": "\u0628\u0637\u0631\u0646\u0648\u0629", "arTitleOther": "\u0628\u0637\u0631\u0646\u0648\u0629\u060c \u0628\u0637\u0631\u0646\u0648", "lat": "37.57624", "lon": "14.91436", "region": "Sicile", "searchNames": "Batarnwa, Batarnw", "topType": "towns", "topTypeAlt": "cite", "topURI": "BATARNWA_149E375N_S_SICI", "translitTitle": "Ba\u1e6darnwa\u0167", "translitTitleOther": "Ba\u1e6darnwa\u0167, Ba\u1e6darnw"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    14.91436,
+                    37.57624
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.57624",
+                    "coord_lon": "14.91436",
+                    "cornu_URI": "BATARNWA_149E375N_S_SICI",
+                    "region_code": 17,
+                    "region_spelled": "Sicile",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "بطرنوة",
+                    "toponym_arabic_other": "بطرنوة، بطرنو",
+                    "toponym_buckwalter": "Batarnwa, Batarnw",
+                    "toponym_search": "Batarnwa, Batarnw",
+                    "toponym_translit": "Baṭarnwaŧ",
+                    "toponym_translit_other": "Baṭarnwaŧ, Baṭarnw"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

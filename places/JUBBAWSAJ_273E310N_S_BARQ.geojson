@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [27.30318, 31.04479], "type": "Point"}, "properties": {"arBW": "Jubb al-Awsaj", "arTitle": "\u062c\u0628 \ufb50\u0644\u0639\u0648\u0633\u062c", "arTitleOther": "\u062c\u0628 \ufb50\u0644\u0639\u0648\u0633\u062c", "lat": "31.04479", "lon": "27.30318", "region": "Barqa", "searchNames": "Jubb al-Awsaj", "topType": "waystations", "topTypeAlt": "etape", "topURI": "JUBBAWSAJ_273E310N_S_BARQ", "translitTitle": "\u01e6ubb al-\u02bfAwsa\u01e7", "translitTitleOther": "\u01e6ubb al-\u02bfAwsa\u01e7"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    27.30318,
+                    31.04479
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.04479",
+                    "coord_lon": "27.30318",
+                    "cornu_URI": "JUBBAWSAJ_273E310N_S_BARQ",
+                    "region_code": 3,
+                    "region_spelled": "Barqa",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "جب ﭐلعوسج",
+                    "toponym_arabic_other": "جب ﭐلعوسج",
+                    "toponym_buckwalter": "Jubb al-Awsaj",
+                    "toponym_search": "Jubb al-Awsaj",
+                    "toponym_translit": "Ǧubb al-ʿAwsaǧ",
+                    "toponym_translit_other": "Ǧubb al-ʿAwsaǧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

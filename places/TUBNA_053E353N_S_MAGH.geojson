@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [5.35573, 35.32395], "type": "Point"}, "properties": {"arBW": "Tubna", "arTitle": "\u0637\u0628\u0646\u0629", "arTitleOther": "\u0637\u0628\u0646\u0629", "lat": "35.32395", "lon": "5.35573", "region": "Maghrib", "searchNames": "Tubna", "topType": "towns", "topTypeAlt": "cite", "topURI": "TUBNA_053E353N_S_MAGH", "translitTitle": "\u1e6cubna\u0167", "translitTitleOther": "\u1e6cubna\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    5.35573,
+                    35.32395
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.32395",
+                    "coord_lon": "5.35573",
+                    "cornu_URI": "TUBNA_053E353N_S_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "طبنة",
+                    "toponym_arabic_other": "طبنة",
+                    "toponym_buckwalter": "Tubna",
+                    "toponym_search": "Tubna",
+                    "toponym_translit": "Ṭubnaŧ",
+                    "toponym_translit_other": "Ṭubnaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

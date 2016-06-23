@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [37.90461, 38.09311], "type": "Point"}, "properties": {"arBW": "Zibatra", "arTitle": "\u0632\u0628\u0637\u0631\u0629", "arTitleOther": "\u0632\u0628\u0637\u0631\u0629", "lat": "38.09311", "lon": "37.90461", "region": "Aqur", "searchNames": "Zibatra", "topType": "waystations", "topTypeAlt": "placefrontiere", "topURI": "ZIBATRA_379E380N_S_AQUR", "translitTitle": "Ziba\u1e6dra\u0167", "translitTitleOther": "Ziba\u1e6dra\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    37.90461,
+                    38.09311
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "38.09311",
+                    "coord_lon": "37.90461",
+                    "cornu_URI": "ZIBATRA_379E380N_S_AQUR",
+                    "region_code": 2,
+                    "region_spelled": "Aqur",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "placefrontiere",
+                    "toponym_arabic": "زبطرة",
+                    "toponym_arabic_other": "زبطرة",
+                    "toponym_buckwalter": "Zibatra",
+                    "toponym_search": "Zibatra",
+                    "toponym_translit": "Zibaṭraŧ",
+                    "toponym_translit_other": "Zibaṭraŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

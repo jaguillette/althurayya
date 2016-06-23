@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [39.83612, 21.39132], "type": "Point"}, "properties": {"arBW": "Makka", "arTitle": "\u0645\u0643\u0629", "arTitleOther": "\u0645\u0643\u0629", "lat": "21.39132", "lon": "39.83612", "region": "Jazirat al-Arab", "searchNames": "Makka", "topType": "metropoles", "topTypeAlt": "metropole", "topURI": "MAKKA_398E213N_S_JAZI", "translitTitle": "Makka\u0167", "translitTitleOther": "Makka\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    39.83612,
+                    21.39132
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "21.39132",
+                    "coord_lon": "39.83612",
+                    "cornu_URI": "MAKKA_398E213N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "metropoles",
+                    "top_type_orig": "metropole",
+                    "toponym_arabic": "مكة",
+                    "toponym_arabic_other": "مكة",
+                    "toponym_buckwalter": "Makka",
+                    "toponym_search": "Makka",
+                    "toponym_translit": "Makkaŧ",
+                    "toponym_translit_other": "Makkaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

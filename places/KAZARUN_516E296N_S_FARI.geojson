@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [51.68412, 29.60743], "type": "Point"}, "properties": {"arBW": "Kazarun", "arTitle": "\u0643\u0627\u0632\u0631\u0648\u0646", "arTitleOther": "\u0643\u0627\u0632\u0631\u0648\u0646", "lat": "29.60743", "lon": "51.68412", "region": "Faris", "searchNames": "Kazarun", "topType": "towns", "topTypeAlt": "cite", "topURI": "KAZARUN_516E296N_S_FARI", "translitTitle": "K\u0101zar\u016bn", "translitTitleOther": "K\u0101zar\u016bn"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    51.68412,
+                    29.60743
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "29.60743",
+                    "coord_lon": "51.68412",
+                    "cornu_URI": "KAZARUN_516E296N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "كازرون",
+                    "toponym_arabic_other": "كازرون",
+                    "toponym_buckwalter": "Kazarun",
+                    "toponym_search": "Kazarun",
+                    "toponym_translit": "Kāzarūn",
+                    "toponym_translit_other": "Kāzarūn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

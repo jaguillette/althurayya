@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [41.57497, 21.0975], "type": "Point"}, "properties": {"arBW": "Turaba", "arTitle": "\u062a\u0631\u0628\u0629", "arTitleOther": "\u062a\u0631\u0628\u0629", "lat": "21.09750", "lon": "41.57497", "region": "Jazirat al-Arab", "searchNames": "Turaba", "topType": "regions", "topTypeAlt": "mikhlaf", "topURI": "TURABA_415E210N_R_JAZI", "translitTitle": "Turaba\u0167", "translitTitleOther": "Turaba\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    41.57497,
+                    21.0975
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "21.09750",
+                    "coord_lon": "41.57497",
+                    "cornu_URI": "TURABA_415E210N_R_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "mikhlaf",
+                    "toponym_arabic": "تربة",
+                    "toponym_arabic_other": "تربة",
+                    "toponym_buckwalter": "Turaba",
+                    "toponym_search": "Turaba",
+                    "toponym_translit": "Turabaŧ",
+                    "toponym_translit_other": "Turabaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

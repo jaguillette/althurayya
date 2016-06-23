@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [40.08231, 20.84741], "type": "Point"}, "properties": {"arBW": "Yalamlam", "arTitle": "\u064a\u0644\u0645\u0644\u0645", "arTitleOther": "\u064a\u0644\u0645\u0644\u0645", "lat": "20.84741", "lon": "40.08231", "region": "Jazirat al-Arab", "searchNames": "Yalamlam", "topType": "waystations", "topTypeAlt": "etape", "topURI": "YALAMLAM_400E208N_S_JAZI", "translitTitle": "Yalamlam", "translitTitleOther": "Yalamlam"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    40.08231,
+                    20.84741
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "20.84741",
+                    "coord_lon": "40.08231",
+                    "cornu_URI": "YALAMLAM_400E208N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "يلملم",
+                    "toponym_arabic_other": "يلملم",
+                    "toponym_buckwalter": "Yalamlam",
+                    "toponym_search": "Yalamlam",
+                    "toponym_translit": "Yalamlam",
+                    "toponym_translit_other": "Yalamlam"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [39.07106, 36.38728], "type": "Point"}, "properties": {"arBW": "Hisn Maslama", "arTitle": "\u062d\u0635\u0646 \u0645\u0633\u0644\u0645\u0629", "arTitleOther": "\u062d\u0635\u0646 \u0645\u0633\u0644\u0645\u0629", "lat": "36.38728", "lon": "39.07106", "region": "Aqur", "searchNames": "Hisn Maslama", "topType": "towns", "topTypeAlt": "cite", "topURI": "HISNMASLAMA_390E363N_S_AQUR", "translitTitle": "\u1e24i\u1e63n Maslama\u0167", "translitTitleOther": "\u1e24i\u1e63n Maslama\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    39.07106,
+                    36.38728
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.38728",
+                    "coord_lon": "39.07106",
+                    "cornu_URI": "HISNMASLAMA_390E363N_S_AQUR",
+                    "region_code": 2,
+                    "region_spelled": "Aqur",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "حصن مسلمة",
+                    "toponym_arabic_other": "حصن مسلمة",
+                    "toponym_buckwalter": "Hisn Maslama",
+                    "toponym_search": "Hisn Maslama",
+                    "toponym_translit": "Ḥiṣn Maslamaŧ",
+                    "toponym_translit_other": "Ḥiṣn Maslamaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

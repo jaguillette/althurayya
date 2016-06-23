@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [43.81303, 30.87576], "type": "Point"}, "properties": {"arBW": "Qara", "arTitle": "\u0642\u0631\u0639\u0627\u0621", "arTitleOther": "\u0642\u0631\u0639\u0627\u0621", "lat": "30.87576", "lon": "43.81303", "region": "Badiyat al-Arab", "searchNames": "Qara", "topType": "waystations", "topTypeAlt": "puits", "topURI": "QARA_438E308N_S_BADI", "translitTitle": "Qar\u02bf\u0101\u02be", "translitTitleOther": "Qar\u02bf\u0101\u02be"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    43.81303,
+                    30.87576
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.87576",
+                    "coord_lon": "43.81303",
+                    "cornu_URI": "QARA_438E308N_S_BADI",
+                    "region_code": 23,
+                    "region_spelled": "Badiyat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "puits",
+                    "toponym_arabic": "قرعاء",
+                    "toponym_arabic_other": "قرعاء",
+                    "toponym_buckwalter": "Qara",
+                    "toponym_search": "Qara",
+                    "toponym_translit": "Qarʿāʾ",
+                    "toponym_translit_other": "Qarʿāʾ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

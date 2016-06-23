@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [73.45613, 40.3768], "type": "Point"}, "properties": {"arBW": "Nahr Khurshab, Nahr Kharshab, Nahr Kharshan", "arTitle": "\u0646\u0647\u0631 \u062e\u0631\u0634\u0627\u0628", "arTitleOther": "\u0646\u0647\u0631 \u062e\u0631\u0634\u0627\u0628\u060c \u0646\u0647\u0631 \u062e\u0631\u0634\u0627\u0628\u060c \u0646\u0647\u0631 \u062e\u0631\u0634\u0627\u0646", "lat": "40.37680", "lon": "73.45613", "region": "Transoxiana", "searchNames": "Nahr Khurshab, Nahr Kharshab, Nahr Kharshan", "topType": "waters", "topTypeAlt": "riviere", "topURI": "NAHRKHURSHAB_734E403N_W_TRAN", "translitTitle": "Nahr \u1e2aur\u0161\u0101b", "translitTitleOther": "Nahr \u1e2aur\u0161\u0101b, Nahr \u1e2aar\u0161\u0101b, Nahr \u1e2aar\u0161\u0101n"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    73.45613,
+                    40.3768
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "40.37680",
+                    "coord_lon": "73.45613",
+                    "cornu_URI": "NAHRKHURSHAB_734E403N_W_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "riviere",
+                    "toponym_arabic": "نهر خرشاب",
+                    "toponym_arabic_other": "نهر خرشاب، نهر خرشاب، نهر خرشان",
+                    "toponym_buckwalter": "Nahr Khurshab, Nahr Kharshab, Nahr Kharshan",
+                    "toponym_search": "Nahr Khurshab, Nahr Kharshab, Nahr Kharshan",
+                    "toponym_translit": "Nahr Ḫuršāb",
+                    "toponym_translit_other": "Nahr Ḫuršāb, Nahr Ḫaršāb, Nahr Ḫaršān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

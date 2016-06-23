@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [48.30651, 38.23604], "type": "Point"}, "properties": {"arBW": "Ardabil", "arTitle": "\u0623\u0631\u062f\u0628\u064a\u0644", "arTitleOther": "\u0623\u0631\u062f\u0628\u064a\u0644", "lat": "38.23604", "lon": "48.30651", "region": "Rihab", "searchNames": "Ardabil", "topType": "metropoles", "topTypeAlt": "metropole", "topURI": "ARDABIL_483E382N_S_RIHA", "translitTitle": "Ardab\u012bl", "translitTitleOther": "Ardab\u012bl"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    48.30651,
+                    38.23604
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "38.23604",
+                    "coord_lon": "48.30651",
+                    "cornu_URI": "ARDABIL_483E382N_S_RIHA",
+                    "region_code": 15,
+                    "region_spelled": "Rihab",
+                    "top_type_hom": "metropoles",
+                    "top_type_orig": "metropole",
+                    "toponym_arabic": "أردبيل",
+                    "toponym_arabic_other": "أردبيل",
+                    "toponym_buckwalter": "Ardabil",
+                    "toponym_search": "Ardabil",
+                    "toponym_translit": "Ardabīl",
+                    "toponym_translit_other": "Ardabīl"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

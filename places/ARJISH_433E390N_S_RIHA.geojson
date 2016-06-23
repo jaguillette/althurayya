@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [43.35895, 39.0223], "type": "Point"}, "properties": {"arBW": "Arjish", "arTitle": "\u0623\u0631\u062c\u064a\u0634", "arTitleOther": "\u0623\u0631\u062c\u064a\u0634", "lat": "39.02230", "lon": "43.35895", "region": "Rihab", "searchNames": "Arjish", "topType": "towns", "topTypeAlt": "cite", "topURI": "ARJISH_433E390N_S_RIHA", "translitTitle": "Ar\u01e7\u012b\u0161", "translitTitleOther": "Ar\u01e7\u012b\u0161"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    43.35895,
+                    39.0223
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "39.02230",
+                    "coord_lon": "43.35895",
+                    "cornu_URI": "ARJISH_433E390N_S_RIHA",
+                    "region_code": 15,
+                    "region_spelled": "Rihab",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "أرجيش",
+                    "toponym_arabic_other": "أرجيش",
+                    "toponym_buckwalter": "Arjish",
+                    "toponym_search": "Arjish",
+                    "toponym_translit": "Arǧīš",
+                    "toponym_translit_other": "Arǧīš"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

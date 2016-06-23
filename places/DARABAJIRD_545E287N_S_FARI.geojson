@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [54.54591, 28.75143], "type": "Point"}, "properties": {"arBW": "Darabajird", "arTitle": "\u062f\u0631\u0627\u0628\u062c\u0631\u062f", "arTitleOther": "\u062f\u0631\u0627\u0628\u062c\u0631\u062f", "lat": "28.75143", "lon": "54.54591", "region": "Faris", "searchNames": "Darabajird", "topType": "capitals", "topTypeAlt": "capitale", "topURI": "DARABAJIRD_545E287N_S_FARI", "translitTitle": "Dar\u0101ba\u01e7ird", "translitTitleOther": "Dar\u0101ba\u01e7ird"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    54.54591,
+                    28.75143
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "28.75143",
+                    "coord_lon": "54.54591",
+                    "cornu_URI": "DARABAJIRD_545E287N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "capitals",
+                    "top_type_orig": "capitale",
+                    "toponym_arabic": "درابجرد",
+                    "toponym_arabic_other": "درابجرد",
+                    "toponym_buckwalter": "Darabajird",
+                    "toponym_search": "Darabajird",
+                    "toponym_translit": "Darābaǧird",
+                    "toponym_translit_other": "Darābaǧird"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

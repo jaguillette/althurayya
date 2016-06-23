@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [40.84007, 21.89675], "type": "Point"}, "properties": {"arBW": "al-Ghamra", "arTitle": "\ufb50\u0644\u063a\u0645\u0631\u0629", "arTitleOther": "\ufb50\u0644\u063a\u0645\u0631\u0629", "lat": "21.89675", "lon": "40.84007", "region": "Jazirat al-Arab", "searchNames": "al-Ghamra", "topType": "waystations", "topTypeAlt": "aiguade", "topURI": "GHAMRA_408E218N_S_JAZI", "translitTitle": "al-\u0120amra\u0167", "translitTitleOther": "al-\u0120amra\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    40.84007,
+                    21.89675
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "21.89675",
+                    "coord_lon": "40.84007",
+                    "cornu_URI": "GHAMRA_408E218N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "aiguade",
+                    "toponym_arabic": "ﭐلغمرة",
+                    "toponym_arabic_other": "ﭐلغمرة",
+                    "toponym_buckwalter": "al-Ghamra",
+                    "toponym_search": "al-Ghamra",
+                    "toponym_translit": "al-Ġamraŧ",
+                    "toponym_translit_other": "al-Ġamraŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

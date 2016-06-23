@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [30.8512, 30.96963], "type": "Point"}, "properties": {"arBW": "Mahalla Surad", "arTitle": "\u0645\u062d\u0644\u0629 \u0635\u0631\u062f", "arTitleOther": "\u0645\u062d\u0644\u0629 \u0635\u0631\u062f", "lat": "30.96963", "lon": "30.85120", "region": "Egypt", "searchNames": "Mahalla Surad", "topType": "villages", "topTypeAlt": "localite", "topURI": "MAHALLASURAD_308E309N_S_EGYP", "translitTitle": "Ma\u1e25alla\u0167 \u1e62urad", "translitTitleOther": "Ma\u1e25alla\u0167 \u1e62urad"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    30.8512,
+                    30.96963
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.96963",
+                    "coord_lon": "30.85120",
+                    "cornu_URI": "MAHALLASURAD_308E309N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "محلة صرد",
+                    "toponym_arabic_other": "محلة صرد",
+                    "toponym_buckwalter": "Mahalla Surad",
+                    "toponym_search": "Mahalla Surad",
+                    "toponym_translit": "Maḥallaŧ Ṣurad",
+                    "toponym_translit_other": "Maḥallaŧ Ṣurad"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

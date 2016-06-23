@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [52.96387, 35.61266], "type": "Point"}, "properties": {"arBW": "Fadusban, Qadustan, Qadusiyan", "arTitle": "\u0641\u0627\u062f\u0648\u0633\u0628\u0627\u0646", "arTitleOther": "\u0641\u0627\u062f\u0648\u0633\u0628\u0627\u0646\u060c \u0642\u0627\u062f\u0648\u0633\u062a\u0627\u0646\u060c \u0642\u0627\u062f\u0648\u0633\u064a\u0627\u0646", "lat": "35.61266", "lon": "52.96387", "region": "Daylam", "searchNames": "Fadusban, Qadustan, Qadusiyan", "topType": "regions", "topTypeAlt": "region", "topURI": "FADUSBAN_529E356N_R_DAYL", "translitTitle": "F\u0101d\u016bsb\u0101n", "translitTitleOther": "F\u0101d\u016bsb\u0101n, Q\u0101d\u016bst\u0101n, Q\u0101d\u016bsiy\u0101n"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    52.96387,
+                    35.61266
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.61266",
+                    "coord_lon": "52.96387",
+                    "cornu_URI": "FADUSBAN_529E356N_R_DAYL",
+                    "region_code": 4,
+                    "region_spelled": "Daylam",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "فادوسبان",
+                    "toponym_arabic_other": "فادوسبان، قادوستان، قادوسيان",
+                    "toponym_buckwalter": "Fadusban, Qadustan, Qadusiyan",
+                    "toponym_search": "Fadusban, Qadustan, Qadusiyan",
+                    "toponym_translit": "Fādūsbān",
+                    "toponym_translit_other": "Fādūsbān, Qādūstān, Qādūsiyān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

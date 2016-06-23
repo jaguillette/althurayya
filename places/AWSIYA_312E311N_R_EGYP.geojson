@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [31.25278, 31.19181], "type": "Point"}, "properties": {"arBW": "al-Awsiya", "arTitle": "\ufb50\u0644\u0623\u0648\u0633\u064a\u0629", "arTitleOther": "\ufb50\u0644\u0623\u0648\u0633\u064a\u0629", "lat": "31.19181", "lon": "31.25278", "region": "Egypt", "searchNames": "al-Awsiya", "topType": "regions", "topTypeAlt": "district", "topURI": "AWSIYA_312E311N_R_EGYP", "translitTitle": "al-Awsiya\u0167", "translitTitleOther": "al-Awsiya\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    31.25278,
+                    31.19181
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.19181",
+                    "coord_lon": "31.25278",
+                    "cornu_URI": "AWSIYA_312E311N_R_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "district",
+                    "toponym_arabic": "ﭐلأوسية",
+                    "toponym_arabic_other": "ﭐلأوسية",
+                    "toponym_buckwalter": "al-Awsiya",
+                    "toponym_search": "al-Awsiya",
+                    "toponym_translit": "al-Awsiyaŧ",
+                    "toponym_translit_other": "al-Awsiyaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

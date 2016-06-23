@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [44.63801, 33.73126], "type": "Point"}, "properties": {"arBW": "Bajisra", "arTitle": "\u0628\u0627\u062c\u0633\u0631\u0649", "arTitleOther": "\u0628\u0627\u062c\u0633\u0631\u0649", "lat": "33.73126", "lon": "44.63801", "region": "Iraq", "searchNames": "Bajisra", "topType": "towns", "topTypeAlt": "cite", "topURI": "BAJISRA_446E337N_S_IRAQ", "translitTitle": "B\u0101\u01e7isr\u00e1", "translitTitleOther": "B\u0101\u01e7isr\u00e1"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    44.63801,
+                    33.73126
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.73126",
+                    "coord_lon": "44.63801",
+                    "cornu_URI": "BAJISRA_446E337N_S_IRAQ",
+                    "region_code": 7,
+                    "region_spelled": "Iraq",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "باجسرى",
+                    "toponym_arabic_other": "باجسرى",
+                    "toponym_buckwalter": "Bajisra",
+                    "toponym_search": "Bajisra",
+                    "toponym_translit": "Bāǧisrá",
+                    "toponym_translit_other": "Bāǧisrá"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [-0.43734, 39.16483], "type": "Point"}, "properties": {"arBW": "al-Shaqr", "arTitle": "\ufb50\u0644\u0634\u0642\u0631", "arTitleOther": "\ufb50\u0644\u0634\u0642\u0631", "lat": "39.16483", "lon": "-0.43734", "region": "Andalus", "searchNames": "al-Shaqr", "topType": "villages", "topTypeAlt": "localite", "topURI": "SHAQR_004W391N_S_ANDA", "translitTitle": "al-\u0160aqr", "translitTitleOther": "al-\u0160aqr"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.43734,
+                    39.16483
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "39.16483",
+                    "coord_lon": "-0.43734",
+                    "cornu_URI": "SHAQR_004W391N_S_ANDA",
+                    "region_code": 1,
+                    "region_spelled": "Andalus",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "ﭐلشقر",
+                    "toponym_arabic_other": "ﭐلشقر",
+                    "toponym_buckwalter": "al-Shaqr",
+                    "toponym_search": "al-Shaqr",
+                    "toponym_translit": "al-Šaqr",
+                    "toponym_translit_other": "al-Šaqr"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [64.11916, 26.92662], "type": "Point"}, "properties": {"arBW": "Bannajbur, Fannajbur, Bannazbur, Qannazbur", "arTitle": "\u0628\u0646\u062c\u0628\u0648\u0631", "arTitleOther": "\u0628\u0646\u062c\u0628\u0648\u0631\u060c \u0641\u0646\u062c\u0628\u0648\u0631\u060c \u0628\u0646\u0632\u0628\u0648\u0631\u060c \u0642\u0646\u0632\u0628\u0648\u0631", "lat": "26.92662", "lon": "64.11916", "region": "Sind", "searchNames": "Bannajbur, Fannajbur, Bannazbur, Qannazbur", "topType": "capitals", "topTypeAlt": "capitale", "topURI": "BANNAJBUR_641E269N_S_SIND", "translitTitle": "Banna\u01e7b\u016br", "translitTitleOther": "Banna\u01e7b\u016br, Fanna\u01e7b\u016br, Bannazb\u016br, Qannazb\u016br"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    64.11916,
+                    26.92662
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "26.92662",
+                    "coord_lon": "64.11916",
+                    "cornu_URI": "BANNAJBUR_641E269N_S_SIND",
+                    "region_code": 19,
+                    "region_spelled": "Sind",
+                    "top_type_hom": "capitals",
+                    "top_type_orig": "capitale",
+                    "toponym_arabic": "بنجبور",
+                    "toponym_arabic_other": "بنجبور، فنجبور، بنزبور، قنزبور",
+                    "toponym_buckwalter": "Bannajbur, Fannajbur, Bannazbur, Qannazbur",
+                    "toponym_search": "Bannajbur, Fannajbur, Bannazbur, Qannazbur",
+                    "toponym_translit": "Bannaǧbūr",
+                    "toponym_translit_other": "Bannaǧbūr, Fannaǧbūr, Bannazbūr, Qannazbūr"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

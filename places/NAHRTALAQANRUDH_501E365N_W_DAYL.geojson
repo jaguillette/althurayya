@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [50.19216, 36.52902], "type": "Point"}, "properties": {"arBW": "Nahr Talaqanrudh", "arTitle": "\u0646\u0647\u0631 \u0637\u0627\u0644\u0642\u0627\u0646\u0631\u0648\u0630", "arTitleOther": "\u0646\u0647\u0631 \u0637\u0627\u0644\u0642\u0627\u0646\u0631\u0648\u0630", "lat": "36.52902", "lon": "50.19216", "region": "Daylam", "searchNames": "Nahr Talaqanrudh", "topType": "waters", "topTypeAlt": "riviere", "topURI": "NAHRTALAQANRUDH_501E365N_W_DAYL", "translitTitle": "Nahr \u1e6c\u0101laq\u0101nr\u016b\u1e0f", "translitTitleOther": "Nahr \u1e6c\u0101laq\u0101nr\u016b\u1e0f"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    50.19216,
+                    36.52902
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.52902",
+                    "coord_lon": "50.19216",
+                    "cornu_URI": "NAHRTALAQANRUDH_501E365N_W_DAYL",
+                    "region_code": 4,
+                    "region_spelled": "Daylam",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "riviere",
+                    "toponym_arabic": "نهر طالقانروذ",
+                    "toponym_arabic_other": "نهر طالقانروذ",
+                    "toponym_buckwalter": "Nahr Talaqanrudh",
+                    "toponym_search": "Nahr Talaqanrudh",
+                    "toponym_translit": "Nahr Ṭālaqānrūḏ",
+                    "toponym_translit_other": "Nahr Ṭālaqānrūḏ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

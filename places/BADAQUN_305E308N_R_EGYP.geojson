@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [30.52845, 30.89835], "type": "Point"}, "properties": {"arBW": "al-Badaqun", "arTitle": "\ufb50\u0644\u0628\u062f\u0642\u0648\u0646", "arTitleOther": "\ufb50\u0644\u0628\u062f\u0642\u0648\u0646", "lat": "30.89835", "lon": "30.52845", "region": "Egypt", "searchNames": "al-Badaqun", "topType": "regions", "topTypeAlt": "region", "topURI": "BADAQUN_305E308N_R_EGYP", "translitTitle": "al-Badaq\u016bn", "translitTitleOther": "al-Badaq\u016bn"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    30.52845,
+                    30.89835
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.89835",
+                    "coord_lon": "30.52845",
+                    "cornu_URI": "BADAQUN_305E308N_R_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "ﭐلبدقون",
+                    "toponym_arabic_other": "ﭐلبدقون",
+                    "toponym_buckwalter": "al-Badaqun",
+                    "toponym_search": "al-Badaqun",
+                    "toponym_translit": "al-Badaqūn",
+                    "toponym_translit_other": "al-Badaqūn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

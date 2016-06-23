@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [10.14137, 35.70049], "type": "Point"}, "properties": {"arBW": "al-Qayrawan", "arTitle": "\ufb50\u0644\u0642\u064a\u0631\u0648\u0627\u0646", "arTitleOther": "\ufb50\u0644\u0642\u064a\u0631\u0648\u0627\u0646", "lat": "35.70049", "lon": "10.14137", "region": "Maghrib", "searchNames": "al-Qayrawan", "topType": "capitals", "topTypeAlt": "capitale", "topURI": "QAYRAWAN_101E357N_S_MAGH", "translitTitle": "al-Qayraw\u0101n", "translitTitleOther": "al-Qayraw\u0101n"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    10.14137,
+                    35.70049
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.70049",
+                    "coord_lon": "10.14137",
+                    "cornu_URI": "QAYRAWAN_101E357N_S_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "capitals",
+                    "top_type_orig": "capitale",
+                    "toponym_arabic": "ﭐلقيروان",
+                    "toponym_arabic_other": "ﭐلقيروان",
+                    "toponym_buckwalter": "al-Qayrawan",
+                    "toponym_search": "al-Qayrawan",
+                    "toponym_translit": "al-Qayrawān",
+                    "toponym_translit_other": "al-Qayrawān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

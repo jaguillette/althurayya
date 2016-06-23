@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [31.70644, 30.53647], "type": "Point"}, "properties": {"arBW": "al-Abbasiyya", "arTitle": "\ufb50\u0644\u0639\u0628\u0627\u0633\u064a\u0629", "arTitleOther": "\ufb50\u0644\u0639\u0628\u0627\u0633\u064a\u0629", "lat": "30.53647", "lon": "31.70644", "region": "Egypt", "searchNames": "al-Abbasiyya", "topType": "towns", "topTypeAlt": "cite", "topURI": "ABBASIYYA_317E305N_S_EGYP", "translitTitle": "al-\u02bfAbb\u0101siyya\u0167", "translitTitleOther": "al-\u02bfAbb\u0101siyya\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    31.70644,
+                    30.53647
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.53647",
+                    "coord_lon": "31.70644",
+                    "cornu_URI": "ABBASIYYA_317E305N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ﭐلعباسية",
+                    "toponym_arabic_other": "ﭐلعباسية",
+                    "toponym_buckwalter": "al-Abbasiyya",
+                    "toponym_search": "al-Abbasiyya",
+                    "toponym_translit": "al-ʿAbbāsiyyaŧ",
+                    "toponym_translit_other": "al-ʿAbbāsiyyaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

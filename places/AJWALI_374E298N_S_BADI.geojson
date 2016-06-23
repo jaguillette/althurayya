@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [37.4317, 29.87858], "type": "Point"}, "properties": {"arBW": "al-Ajwali", "arTitle": "\ufb50\u0644\u0623\u062c\u0648\u0644\u064a", "arTitleOther": "\ufb50\u0644\u0623\u062c\u0648\u0644\u064a", "lat": "29.87858", "lon": "37.43170", "region": "Badiyat al-Arab", "searchNames": "al-Ajwali", "topType": "waystations", "topTypeAlt": "etape", "topURI": "AJWALI_374E298N_S_BADI", "translitTitle": "al-A\u01e7wal\u012b", "translitTitleOther": "al-A\u01e7wal\u012b"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    37.4317,
+                    29.87858
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "29.87858",
+                    "coord_lon": "37.43170",
+                    "cornu_URI": "AJWALI_374E298N_S_BADI",
+                    "region_code": 23,
+                    "region_spelled": "Badiyat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "ﭐلأجولي",
+                    "toponym_arabic_other": "ﭐلأجولي",
+                    "toponym_buckwalter": "al-Ajwali",
+                    "toponym_search": "al-Ajwali",
+                    "toponym_translit": "al-Aǧwalī",
+                    "toponym_translit_other": "al-Aǧwalī"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

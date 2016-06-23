@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [36.44363, 33.50849], "type": "Point"}, "properties": {"arBW": "al-Ghuta", "arTitle": "\ufb50\u0644\u063a\u0648\u0637\u0629", "arTitleOther": "\ufb50\u0644\u063a\u0648\u0637\u0629", "lat": "33.50849", "lon": "36.44363", "region": "Sham", "searchNames": "al-Ghuta", "topType": "waters", "topTypeAlt": "canton", "topURI": "GHUTA_364E335N_W_SHAM", "translitTitle": "al-\u0120\u016b\u1e6da\u0167", "translitTitleOther": "al-\u0120\u016b\u1e6da\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    36.44363,
+                    33.50849
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.50849",
+                    "coord_lon": "36.44363",
+                    "cornu_URI": "GHUTA_364E335N_W_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "canton",
+                    "toponym_arabic": "ﭐلغوطة",
+                    "toponym_arabic_other": "ﭐلغوطة",
+                    "toponym_buckwalter": "al-Ghuta",
+                    "toponym_search": "al-Ghuta",
+                    "toponym_translit": "al-Ġūṭaŧ",
+                    "toponym_translit_other": "al-Ġūṭaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [53.94661, 28.14336], "type": "Point"}, "properties": {"arBW": "Juwaym Abu Ahmad", "arTitle": "\u062c\u0648\u064a\u0645 \u0623\u0628\u0648 \u0623\u062d\u0645\u062f", "arTitleOther": "\u062c\u0648\u064a\u0645 \u0623\u0628\u0648 \u0623\u062d\u0645\u062f", "lat": "28.14336", "lon": "53.94661", "region": "Faris", "searchNames": "Juwaym Abu Ahmad", "topType": "villages", "topTypeAlt": "village", "topURI": "JUWAYMABUAHMAD_539E281N_S_FARI", "translitTitle": "\u01e6uwaym Ab\u016b A\u1e25mad", "translitTitleOther": "\u01e6uwaym Ab\u016b A\u1e25mad"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    53.94661,
+                    28.14336
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "28.14336",
+                    "coord_lon": "53.94661",
+                    "cornu_URI": "JUWAYMABUAHMAD_539E281N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "village",
+                    "toponym_arabic": "جويم أبو أحمد",
+                    "toponym_arabic_other": "جويم أبو أحمد",
+                    "toponym_buckwalter": "Juwaym Abu Ahmad",
+                    "toponym_search": "Juwaym Abu Ahmad",
+                    "toponym_translit": "Ǧuwaym Abū Aḥmad",
+                    "toponym_translit_other": "Ǧuwaym Abū Aḥmad"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

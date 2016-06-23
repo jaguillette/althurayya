@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [37.46327, 27.73026], "type": "Point"}, "properties": {"arBW": "al-Muhdatha", "arTitle": "\ufb50\u0644\u0645\u062d\u062f\u062b\u0629", "arTitleOther": "\ufb50\u0644\u0645\u062d\u062f\u062b\u0629", "lat": "27.73026", "lon": "37.46327", "region": "Badiyat al-Arab", "searchNames": "al-Muhdatha", "topType": "waystations", "topTypeAlt": "etape", "topURI": "MUHDATHA_374E277N_S_BADI", "translitTitle": "al-Mu\u1e25da\u1e6fa\u0167", "translitTitleOther": "al-Mu\u1e25da\u1e6fa\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    37.46327,
+                    27.73026
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "27.73026",
+                    "coord_lon": "37.46327",
+                    "cornu_URI": "MUHDATHA_374E277N_S_BADI",
+                    "region_code": 23,
+                    "region_spelled": "Badiyat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "ﭐلمحدثة",
+                    "toponym_arabic_other": "ﭐلمحدثة",
+                    "toponym_buckwalter": "al-Muhdatha",
+                    "toponym_search": "al-Muhdatha",
+                    "toponym_translit": "al-Muḥdaṯaŧ",
+                    "toponym_translit_other": "al-Muḥdaṯaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

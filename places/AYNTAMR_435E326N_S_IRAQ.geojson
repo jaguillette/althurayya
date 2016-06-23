@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [43.52574, 32.62337], "type": "Point"}, "properties": {"arBW": "Ayn al-Tamr", "arTitle": "\u0639\u064a\u0646 \ufb50\u0644\u062a\u0645\u0631", "arTitleOther": "\u0639\u064a\u0646 \ufb50\u0644\u062a\u0645\u0631", "lat": "32.62337", "lon": "43.52574", "region": "Iraq", "searchNames": "Ayn al-Tamr", "topType": "towns", "topTypeAlt": "cite", "topURI": "AYNTAMR_435E326N_S_IRAQ", "translitTitle": "\u02bfAyn al-Tamr", "translitTitleOther": "\u02bfAyn al-Tamr"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    43.52574,
+                    32.62337
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.62337",
+                    "coord_lon": "43.52574",
+                    "cornu_URI": "AYNTAMR_435E326N_S_IRAQ",
+                    "region_code": 7,
+                    "region_spelled": "Iraq",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "عين ﭐلتمر",
+                    "toponym_arabic_other": "عين ﭐلتمر",
+                    "toponym_buckwalter": "Ayn al-Tamr",
+                    "toponym_search": "Ayn al-Tamr",
+                    "toponym_translit": "ʿAyn al-Tamr",
+                    "toponym_translit_other": "ʿAyn al-Tamr"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

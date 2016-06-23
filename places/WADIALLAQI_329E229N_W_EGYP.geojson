@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [32.97579, 22.98246], "type": "Point"}, "properties": {"arBW": "Wadi Allaqi", "arTitle": "\u0648\u0627\u062f\u064a \u0639\u0644\u0627\u0642\u064a", "arTitleOther": "\u0648\u0627\u062f\u064a \u0639\u0644\u0627\u0642\u064a", "lat": "22.98246", "lon": "32.97579", "region": "Egypt", "searchNames": "Wadi Allaqi", "topType": "waters", "topTypeAlt": "wadi", "topURI": "WADIALLAQI_329E229N_W_EGYP", "translitTitle": "W\u0101d\u012b \u02bfAll\u0101q\u012b", "translitTitleOther": "W\u0101d\u012b \u02bfAll\u0101q\u012b"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    32.97579,
+                    22.98246
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "22.98246",
+                    "coord_lon": "32.97579",
+                    "cornu_URI": "WADIALLAQI_329E229N_W_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "wadi",
+                    "toponym_arabic": "وادي علاقي",
+                    "toponym_arabic_other": "وادي علاقي",
+                    "toponym_buckwalter": "Wadi Allaqi",
+                    "toponym_search": "Wadi Allaqi",
+                    "toponym_translit": "Wādī ʿAllāqī",
+                    "toponym_translit_other": "Wādī ʿAllāqī"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

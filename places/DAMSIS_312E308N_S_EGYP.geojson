@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [31.22403, 30.82041], "type": "Point"}, "properties": {"arBW": "Damsis", "arTitle": "\u062f\u0645\u0633\u064a\u0633", "arTitleOther": "\u062f\u0645\u0633\u064a\u0633", "lat": "30.82041", "lon": "31.22403", "region": "Egypt", "searchNames": "Damsis", "topType": "towns", "topTypeAlt": "cite", "topURI": "DAMSIS_312E308N_S_EGYP", "translitTitle": "Dams\u012bs", "translitTitleOther": "Dams\u012bs"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    31.22403,
+                    30.82041
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.82041",
+                    "coord_lon": "31.22403",
+                    "cornu_URI": "DAMSIS_312E308N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "دمسيس",
+                    "toponym_arabic_other": "دمسيس",
+                    "toponym_buckwalter": "Damsis",
+                    "toponym_search": "Damsis",
+                    "toponym_translit": "Damsīs",
+                    "toponym_translit_other": "Damsīs"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

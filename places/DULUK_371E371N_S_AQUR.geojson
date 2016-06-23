@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [37.17675, 37.17638], "type": "Point"}, "properties": {"arBW": "Duluk", "arTitle": "\u062f\u0644\u0648\u0643", "arTitleOther": "\u062f\u0644\u0648\u0643", "lat": "37.17638", "lon": "37.17675", "region": "Aqur", "searchNames": "Duluk", "topType": "towns", "topTypeAlt": "cite", "topURI": "DULUK_371E371N_S_AQUR", "translitTitle": "Dul\u016bk", "translitTitleOther": "Dul\u016bk"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    37.17675,
+                    37.17638
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.17638",
+                    "coord_lon": "37.17675",
+                    "cornu_URI": "DULUK_371E371N_S_AQUR",
+                    "region_code": 2,
+                    "region_spelled": "Aqur",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "دلوك",
+                    "toponym_arabic_other": "دلوك",
+                    "toponym_buckwalter": "Duluk",
+                    "toponym_search": "Duluk",
+                    "toponym_translit": "Dulūk",
+                    "toponym_translit_other": "Dulūk"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

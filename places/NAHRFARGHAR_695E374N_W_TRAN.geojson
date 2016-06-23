@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [69.57609, 37.41482], "type": "Point"}, "properties": {"arBW": "Nahr Farghar", "arTitle": "\u0646\u0647\u0631 \u0641\u0627\u0631\u063a\u0631", "arTitleOther": "\u0646\u0647\u0631 \u0641\u0627\u0631\u063a\u0631", "lat": "37.41482", "lon": "69.57609", "region": "Transoxiana", "searchNames": "Nahr Farghar", "topType": "waters", "topTypeAlt": "riviere", "topURI": "NAHRFARGHAR_695E374N_W_TRAN", "translitTitle": "Nahr F\u0101r\u0121ar", "translitTitleOther": "Nahr F\u0101r\u0121ar"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    69.57609,
+                    37.41482
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.41482",
+                    "coord_lon": "69.57609",
+                    "cornu_URI": "NAHRFARGHAR_695E374N_W_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "riviere",
+                    "toponym_arabic": "نهر فارغر",
+                    "toponym_arabic_other": "نهر فارغر",
+                    "toponym_buckwalter": "Nahr Farghar",
+                    "toponym_search": "Nahr Farghar",
+                    "toponym_translit": "Nahr Fārġar",
+                    "toponym_translit_other": "Nahr Fārġar"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

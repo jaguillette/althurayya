@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [43.73654, 15.34103], "type": "Point"}, "properties": {"arBW": "al-Ukhruj", "arTitle": "\ufb50\u0644\u0623\u062e\u0631\u0648\u062c", "arTitleOther": "\ufb50\u0644\u0623\u062e\u0631\u0648\u062c", "lat": "15.34103", "lon": "43.73654", "region": "Yemen", "searchNames": "al-Ukhruj", "topType": "regions", "topTypeAlt": "region", "topURI": "UKHRUJ_437E153N_R_YEME", "translitTitle": "al-U\u1e2br\u016b\u01e7", "translitTitleOther": "al-U\u1e2br\u016b\u01e7"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    43.73654,
+                    15.34103
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "15.34103",
+                    "coord_lon": "43.73654",
+                    "cornu_URI": "UKHRUJ_437E153N_R_YEME",
+                    "region_code": 21,
+                    "region_spelled": "Yemen",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "ﭐلأخروج",
+                    "toponym_arabic_other": "ﭐلأخروج",
+                    "toponym_buckwalter": "al-Ukhruj",
+                    "toponym_search": "al-Ukhruj",
+                    "toponym_translit": "al-Uḫrūǧ",
+                    "toponym_translit_other": "al-Uḫrūǧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

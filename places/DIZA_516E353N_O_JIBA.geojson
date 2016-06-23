@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [51.65, 35.3031], "type": "Point"}, "properties": {"arBW": "Diza, Dizah, Waramin", "arTitle": "\u062f\u0632\u0627", "arTitleOther": "\u062f\u0632\u0627\u060c \u062f\u0632\u0647\u060c \u0648\u0631\u0645\u064a\u0646", "lat": "35.30310", "lon": "51.65000", "region": "Jibal", "searchNames": "Diza, Dizah, Waramin", "topType": "sites", "topTypeAlt": "site", "topURI": "DIZA_516E353N_O_JIBA", "translitTitle": "Diz\u0101", "translitTitleOther": "Diz\u0101, Dizah, Waram\u012bn"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    51.65,
+                    35.3031
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.30310",
+                    "coord_lon": "51.65000",
+                    "cornu_URI": "DIZA_516E353N_O_JIBA",
+                    "region_code": 8,
+                    "region_spelled": "Jibal",
+                    "top_type_hom": "sites",
+                    "top_type_orig": "site",
+                    "toponym_arabic": "دزا",
+                    "toponym_arabic_other": "دزا، دزه، ورمين",
+                    "toponym_buckwalter": "Diza, Dizah, Waramin",
+                    "toponym_search": "Diza, Dizah, Waramin",
+                    "toponym_translit": "Dizā",
+                    "toponym_translit_other": "Dizā, Dizah, Waramīn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

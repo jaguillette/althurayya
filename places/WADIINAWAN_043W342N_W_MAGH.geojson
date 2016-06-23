@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [-4.39975, 34.24946], "type": "Point"}, "properties": {"arBW": "Wadi Inawan", "arTitle": "\u0648\u0627\u062f\u064a \u0625\u064a\u0646\u0627\u0648\u0646", "arTitleOther": "\u0648\u0627\u062f\u064a \u0625\u064a\u0646\u0627\u0648\u0646", "lat": "34.24946", "lon": "-4.39975", "region": "Maghrib", "searchNames": "Wadi Inawan", "topType": "waters", "topTypeAlt": "wadi", "topURI": "WADIINAWAN_043W342N_W_MAGH", "translitTitle": "W\u0101d\u012b \u012an\u0101wan", "translitTitleOther": "W\u0101d\u012b \u012an\u0101wan"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -4.39975,
+                    34.24946
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.24946",
+                    "coord_lon": "-4.39975",
+                    "cornu_URI": "WADIINAWAN_043W342N_W_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "wadi",
+                    "toponym_arabic": "وادي إيناون",
+                    "toponym_arabic_other": "وادي إيناون",
+                    "toponym_buckwalter": "Wadi Inawan",
+                    "toponym_search": "Wadi Inawan",
+                    "toponym_translit": "Wādī Īnāwan",
+                    "toponym_translit_other": "Wādī Īnāwan"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

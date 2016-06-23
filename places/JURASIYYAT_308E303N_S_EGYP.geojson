@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [30.89161, 30.34164], "type": "Point"}, "properties": {"arBW": "al-Jurasiyyat", "arTitle": "\ufb50\u0644\u062c\u0631\u0633\u064a\u0627\u062a", "arTitleOther": "\ufb50\u0644\u062c\u0631\u0633\u064a\u0627\u062a", "lat": "30.34164", "lon": "30.89161", "region": "Egypt", "searchNames": "al-Jurasiyyat", "topType": "villages", "topTypeAlt": "village", "topURI": "JURASIYYAT_308E303N_S_EGYP", "translitTitle": "al-\u01e6urasiyy\u0101t", "translitTitleOther": "al-\u01e6urasiyy\u0101t"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    30.89161,
+                    30.34164
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.34164",
+                    "coord_lon": "30.89161",
+                    "cornu_URI": "JURASIYYAT_308E303N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "village",
+                    "toponym_arabic": "ﭐلجرسيات",
+                    "toponym_arabic_other": "ﭐلجرسيات",
+                    "toponym_buckwalter": "al-Jurasiyyat",
+                    "toponym_search": "al-Jurasiyyat",
+                    "toponym_translit": "al-Ǧurasiyyāt",
+                    "toponym_translit_other": "al-Ǧurasiyyāt"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

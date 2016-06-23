@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [37.24976, 34.2251], "type": "Point"}, "properties": {"arBW": "al-Qaryatan", "arTitle": "\ufb50\u0644\u0642\u0631\u064a\u062a\u0627\u0646", "arTitleOther": "\ufb50\u0644\u0642\u0631\u064a\u062a\u0627\u0646", "lat": "34.22510", "lon": "37.24976", "region": "Sham", "searchNames": "al-Qaryatan", "topType": "waystations", "topTypeAlt": "etape", "topURI": "QARYATAN_372E342N_S_SHAM", "translitTitle": "al-Qaryat\u0101n", "translitTitleOther": "al-Qaryat\u0101n"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    37.24976,
+                    34.2251
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.22510",
+                    "coord_lon": "37.24976",
+                    "cornu_URI": "QARYATAN_372E342N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "ﭐلقريتان",
+                    "toponym_arabic_other": "ﭐلقريتان",
+                    "toponym_buckwalter": "al-Qaryatan",
+                    "toponym_search": "al-Qaryatan",
+                    "toponym_translit": "al-Qaryatān",
+                    "toponym_translit_other": "al-Qaryatān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

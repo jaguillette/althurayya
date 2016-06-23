@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [36.18816, 33.88074], "type": "Point"}, "properties": {"arBW": "Aqaba al-Rumman", "arTitle": "\u0639\u0642\u0628\u0629 \ufb50\u0644\u0631\u0645\u0627\u0646", "arTitleOther": "\u0639\u0642\u0628\u0629 \ufb50\u0644\u0631\u0645\u0627\u0646", "lat": "33.88074", "lon": "36.18816", "region": "Sham", "searchNames": "Aqaba al-Rumman", "topType": "waystations", "topTypeAlt": "etape", "topURI": "AQABARUMMAN_361E338N_S_SHAM", "translitTitle": "\u02bfAqaba\u0167 al-Rumm\u0101n", "translitTitleOther": "\u02bfAqaba\u0167 al-Rumm\u0101n"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    36.18816,
+                    33.88074
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.88074",
+                    "coord_lon": "36.18816",
+                    "cornu_URI": "AQABARUMMAN_361E338N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "عقبة ﭐلرمان",
+                    "toponym_arabic_other": "عقبة ﭐلرمان",
+                    "toponym_buckwalter": "Aqaba al-Rumman",
+                    "toponym_search": "Aqaba al-Rumman",
+                    "toponym_translit": "ʿAqabaŧ al-Rummān",
+                    "toponym_translit_other": "ʿAqabaŧ al-Rummān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

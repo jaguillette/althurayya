@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [45.61619, 39.54632], "type": "Point"}, "properties": {"arBW": "Busfurjan", "arTitle": "\u0628\u0633\u0641\u0631\u062c\u0627\u0646", "arTitleOther": "\u0628\u0633\u0641\u0631\u062c\u0627\u0646", "lat": "39.54632", "lon": "45.61619", "region": "Rihab", "searchNames": "Busfurjan", "topType": "regions", "topTypeAlt": "region", "topURI": "BUSFURJAN_456E395N_R_RIHA", "translitTitle": "Busfur\u01e7\u0101n", "translitTitleOther": "Busfur\u01e7\u0101n"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    45.61619,
+                    39.54632
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "39.54632",
+                    "coord_lon": "45.61619",
+                    "cornu_URI": "BUSFURJAN_456E395N_R_RIHA",
+                    "region_code": 15,
+                    "region_spelled": "Rihab",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "بسفرجان",
+                    "toponym_arabic_other": "بسفرجان",
+                    "toponym_buckwalter": "Busfurjan",
+                    "toponym_search": "Busfurjan",
+                    "toponym_translit": "Busfurǧān",
+                    "toponym_translit_other": "Busfurǧān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

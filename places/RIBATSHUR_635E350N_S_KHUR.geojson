@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [63.52263, 35.08069], "type": "Point"}, "properties": {"arBW": "Ribat Shur", "arTitle": "\u0631\u0628\u0627\u0637 \u0634\u0648\u0631", "arTitleOther": "\u0631\u0628\u0627\u0637 \u0634\u0648\u0631", "lat": "35.08069", "lon": "63.52263", "region": "Khurasan", "searchNames": "Ribat Shur", "topType": "waystations", "topTypeAlt": "etape", "topURI": "RIBATSHUR_635E350N_S_KHUR", "translitTitle": "Rib\u0101\u1e6d \u0160\u016br", "translitTitleOther": "Rib\u0101\u1e6d \u0160\u016br"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    63.52263,
+                    35.08069
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.08069",
+                    "coord_lon": "63.52263",
+                    "cornu_URI": "RIBATSHUR_635E350N_S_KHUR",
+                    "region_code": 10,
+                    "region_spelled": "Khurasan",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "رباط شور",
+                    "toponym_arabic_other": "رباط شور",
+                    "toponym_buckwalter": "Ribat Shur",
+                    "toponym_search": "Ribat Shur",
+                    "toponym_translit": "Ribāṭ Šūr",
+                    "toponym_translit_other": "Ribāṭ Šūr"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

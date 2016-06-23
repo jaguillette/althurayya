@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [36.7225, 35.89492], "type": "Point"}, "properties": {"arBW": "Sarmin", "arTitle": "\u0633\u0631\u0645\u064a\u0646", "arTitleOther": "\u0633\u0631\u0645\u064a\u0646", "lat": "35.89492", "lon": "36.72250", "region": "Sham", "searchNames": "Sarmin", "topType": "villages", "topTypeAlt": "localite", "topURI": "SARMIN_367E358N_S_SHAM", "translitTitle": "Sarm\u012bn", "translitTitleOther": "Sarm\u012bn"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    36.7225,
+                    35.89492
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.89492",
+                    "coord_lon": "36.72250",
+                    "cornu_URI": "SARMIN_367E358N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "سرمين",
+                    "toponym_arabic_other": "سرمين",
+                    "toponym_buckwalter": "Sarmin",
+                    "toponym_search": "Sarmin",
+                    "toponym_translit": "Sarmīn",
+                    "toponym_translit_other": "Sarmīn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

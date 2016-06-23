@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [30.95992, 29.13124], "type": "Point"}, "properties": {"arBW": "Ahnas", "arTitle": "\u0623\u0647\u0646\u0627\u0633", "arTitleOther": "\u0623\u0647\u0646\u0627\u0633", "lat": "29.13124", "lon": "30.95992", "region": "Egypt", "searchNames": "Ahnas", "topType": "towns", "topTypeAlt": "cite", "topURI": "AHNAS_309E291N_S_EGYP", "translitTitle": "Ahn\u0101s", "translitTitleOther": "Ahn\u0101s"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    30.95992,
+                    29.13124
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "29.13124",
+                    "coord_lon": "30.95992",
+                    "cornu_URI": "AHNAS_309E291N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "أهناس",
+                    "toponym_arabic_other": "أهناس",
+                    "toponym_buckwalter": "Ahnas",
+                    "toponym_search": "Ahnas",
+                    "toponym_translit": "Ahnās",
+                    "toponym_translit_other": "Ahnās"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

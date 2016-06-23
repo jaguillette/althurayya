@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [30.73756, 18.04347], "type": "Point"}, "properties": {"arBW": "Dunqala, Dunqula, Dumqula", "arTitle": "\u062f\u0646\u0642\u0644\u0629", "arTitleOther": "\u062f\u0646\u0642\u0644\u0629\u060c \u062f\u0646\u0642\u0644\u0629\u060c \u062f\u0645\u0642\u0644\u0629", "lat": "18.04347", "lon": "30.73756", "region": "Egypt", "searchNames": "Dunqala, Dunqula, Dumqula", "topType": "towns", "topTypeAlt": "cite", "topURI": "DUNQALA_307E180N_S_EGYP", "translitTitle": "Dunqala\u0167", "translitTitleOther": "Dunqala\u0167, Dunqula\u0167, Dumqula\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    30.73756,
+                    18.04347
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "18.04347",
+                    "coord_lon": "30.73756",
+                    "cornu_URI": "DUNQALA_307E180N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "دنقلة",
+                    "toponym_arabic_other": "دنقلة، دنقلة، دمقلة",
+                    "toponym_buckwalter": "Dunqala, Dunqula, Dumqula",
+                    "toponym_search": "Dunqala, Dunqula, Dumqula",
+                    "toponym_translit": "Dunqalaŧ",
+                    "toponym_translit_other": "Dunqalaŧ, Dunqulaŧ, Dumqulaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

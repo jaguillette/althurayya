@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [52.49428, 29.94029], "type": "Point"}, "properties": {"arBW": "Hazar, Azar Sabur", "arTitle": "\u0647\u0632\u0627\u0631", "arTitleOther": "\u0647\u0632\u0627\u0631\u060c \u0623\u0632\u0627\u0631 \u0633\u0627\u0628\u0648\u0631", "lat": "29.94029", "lon": "52.49428", "region": "Faris", "searchNames": "Hazar, Azar Sabur", "topType": "towns", "topTypeAlt": "cite", "topURI": "HAZAR_524E299N_S_FARI", "translitTitle": "Haz\u0101r", "translitTitleOther": "Haz\u0101r, Az\u0101r S\u0101b\u016br"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    52.49428,
+                    29.94029
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "29.94029",
+                    "coord_lon": "52.49428",
+                    "cornu_URI": "HAZAR_524E299N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "هزار",
+                    "toponym_arabic_other": "هزار، أزار سابور",
+                    "toponym_buckwalter": "Hazar, Azar Sabur",
+                    "toponym_search": "Hazar, Azar Sabur",
+                    "toponym_translit": "Hazār",
+                    "toponym_translit_other": "Hazār, Azār Sābūr"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

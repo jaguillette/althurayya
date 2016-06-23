@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [34.65335, 31.56416], "type": "Point"}, "properties": {"arBW": "al-Sukkariyya", "arTitle": "\ufb50\u0644\u0633\u0643\u0631\u064a\u0629", "arTitleOther": "\ufb50\u0644\u0633\u0643\u0631\u064a\u0629", "lat": "31.56416", "lon": "34.65335", "region": "Sham", "searchNames": "al-Sukkariyya", "topType": "villages", "topTypeAlt": "bourgade", "topURI": "SUKKARIYYA_346E315N_S_SHAM", "translitTitle": "al-Sukkariyya\u0167", "translitTitleOther": "al-Sukkariyya\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    34.65335,
+                    31.56416
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.56416",
+                    "coord_lon": "34.65335",
+                    "cornu_URI": "SUKKARIYYA_346E315N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "bourgade",
+                    "toponym_arabic": "ﭐلسكرية",
+                    "toponym_arabic_other": "ﭐلسكرية",
+                    "toponym_buckwalter": "al-Sukkariyya",
+                    "toponym_search": "al-Sukkariyya",
+                    "toponym_translit": "al-Sukkariyyaŧ",
+                    "toponym_translit_other": "al-Sukkariyyaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

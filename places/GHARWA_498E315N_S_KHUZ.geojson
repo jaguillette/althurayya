@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [49.89724, 31.54027], "type": "Point"}, "properties": {"arBW": "Gharwa, Arwa", "arTitle": "\u063a\u0631\u0648\u0629", "arTitleOther": "\u063a\u0631\u0648\u0629\u060c \u0639\u0631\u0648\u0629", "lat": "31.54027", "lon": "49.89724", "region": "Khuzistan", "searchNames": "Gharwa, Arwa", "topType": "towns", "topTypeAlt": "cite", "topURI": "GHARWA_498E315N_S_KHUZ", "translitTitle": "\u0120arwa\u0167", "translitTitleOther": "\u0120arwa\u0167, \u02bfArwa\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    49.89724,
+                    31.54027
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.54027",
+                    "coord_lon": "49.89724",
+                    "cornu_URI": "GHARWA_498E315N_S_KHUZ",
+                    "region_code": 11,
+                    "region_spelled": "Khuzistan",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "غروة",
+                    "toponym_arabic_other": "غروة، عروة",
+                    "toponym_buckwalter": "Gharwa, Arwa",
+                    "toponym_search": "Gharwa, Arwa",
+                    "toponym_translit": "Ġarwaŧ",
+                    "toponym_translit_other": "Ġarwaŧ, ʿArwaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

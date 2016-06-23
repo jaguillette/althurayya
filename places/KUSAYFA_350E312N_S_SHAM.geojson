@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [35.04078, 31.20812], "type": "Point"}, "properties": {"arBW": "al-Kusayfa", "arTitle": "\ufb50\u0644\u0643\u0633\u064a\u0641\u0629", "arTitleOther": "\ufb50\u0644\u0643\u0633\u064a\u0641\u0629", "lat": "31.20812", "lon": "35.04078", "region": "Sham", "searchNames": "al-Kusayfa", "topType": "waystations", "topTypeAlt": "etape", "topURI": "KUSAYFA_350E312N_S_SHAM", "translitTitle": "al-Kusayfa\u0167", "translitTitleOther": "al-Kusayfa\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    35.04078,
+                    31.20812
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.20812",
+                    "coord_lon": "35.04078",
+                    "cornu_URI": "KUSAYFA_350E312N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "ﭐلكسيفة",
+                    "toponym_arabic_other": "ﭐلكسيفة",
+                    "toponym_buckwalter": "al-Kusayfa",
+                    "toponym_search": "al-Kusayfa",
+                    "toponym_translit": "al-Kusayfaŧ",
+                    "toponym_translit_other": "al-Kusayfaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

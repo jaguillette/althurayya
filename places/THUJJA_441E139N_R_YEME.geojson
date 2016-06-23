@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [44.17683, 13.97911], "type": "Point"}, "properties": {"arBW": "al-Thujja", "arTitle": "\ufb50\u0644\u062b\u062c\u0629", "arTitleOther": "\ufb50\u0644\u062b\u062c\u0629", "lat": "13.97911", "lon": "44.17683", "region": "Yemen", "searchNames": "al-Thujja", "topType": "regions", "topTypeAlt": "mikhlaf", "topURI": "THUJJA_441E139N_R_YEME", "translitTitle": "al-\u1e6eu\u01e7\u01e7a\u0167", "translitTitleOther": "al-\u1e6eu\u01e7\u01e7a\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    44.17683,
+                    13.97911
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "13.97911",
+                    "coord_lon": "44.17683",
+                    "cornu_URI": "THUJJA_441E139N_R_YEME",
+                    "region_code": 21,
+                    "region_spelled": "Yemen",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "mikhlaf",
+                    "toponym_arabic": "ﭐلثجة",
+                    "toponym_arabic_other": "ﭐلثجة",
+                    "toponym_buckwalter": "al-Thujja",
+                    "toponym_search": "al-Thujja",
+                    "toponym_translit": "al-Ṯuǧǧaŧ",
+                    "toponym_translit_other": "al-Ṯuǧǧaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

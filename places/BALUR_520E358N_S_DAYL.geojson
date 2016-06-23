@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [52.0667, 35.81911], "type": "Point"}, "properties": {"arBW": "Balur, Bulur", "arTitle": "\u0628\u0644\u0648\u0631", "arTitleOther": "\u0628\u0644\u0648\u0631\u060c \u0628\u0644\u0648\u0631", "lat": "35.81911", "lon": "52.06670", "region": "Daylam", "searchNames": "Balur, Bulur", "topType": "waystations", "topTypeAlt": "etape", "topURI": "BALUR_520E358N_S_DAYL", "translitTitle": "Bal\u016br", "translitTitleOther": "Bal\u016br, Bul\u016br"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    52.0667,
+                    35.81911
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.81911",
+                    "coord_lon": "52.06670",
+                    "cornu_URI": "BALUR_520E358N_S_DAYL",
+                    "region_code": 4,
+                    "region_spelled": "Daylam",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "بلور",
+                    "toponym_arabic_other": "بلور، بلور",
+                    "toponym_buckwalter": "Balur, Bulur",
+                    "toponym_search": "Balur, Bulur",
+                    "toponym_translit": "Balūr",
+                    "toponym_translit_other": "Balūr, Bulūr"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [50.54227, 34.68541], "type": "Point"}, "properties": {"arBW": "Awa", "arTitle": "\u0622\u0648\u0629", "arTitleOther": "\u0622\u0648\u0629", "lat": "34.68541", "lon": "50.54227", "region": "Jibal", "searchNames": "Awa", "topType": "towns", "topTypeAlt": "cite", "topURI": "AWA_505E346N_S_JIBA", "translitTitle": "\u0100wa\u0167", "translitTitleOther": "\u0100wa\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    50.54227,
+                    34.68541
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.68541",
+                    "coord_lon": "50.54227",
+                    "cornu_URI": "AWA_505E346N_S_JIBA",
+                    "region_code": 8,
+                    "region_spelled": "Jibal",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "آوة",
+                    "toponym_arabic_other": "آوة",
+                    "toponym_buckwalter": "Awa",
+                    "toponym_search": "Awa",
+                    "toponym_translit": "Āwaŧ",
+                    "toponym_translit_other": "Āwaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

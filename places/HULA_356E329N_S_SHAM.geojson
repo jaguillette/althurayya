@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [35.63816, 32.97543], "type": "Point"}, "properties": {"arBW": "al-Hula", "arTitle": "\ufb50\u0644\u062d\u0644\u0629", "arTitleOther": "\ufb50\u0644\u062d\u0644\u0629", "lat": "32.97543", "lon": "35.63816", "region": "Sham", "searchNames": "al-Hula", "topType": "towns", "topTypeAlt": "canton", "topURI": "HULA_356E329N_S_SHAM", "translitTitle": "al-\u1e24ula\u0167", "translitTitleOther": "al-\u1e24ula\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    35.63816,
+                    32.97543
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.97543",
+                    "coord_lon": "35.63816",
+                    "cornu_URI": "HULA_356E329N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "canton",
+                    "toponym_arabic": "ﭐلحلة",
+                    "toponym_arabic_other": "ﭐلحلة",
+                    "toponym_buckwalter": "al-Hula",
+                    "toponym_search": "al-Hula",
+                    "toponym_translit": "al-Ḥulaŧ",
+                    "toponym_translit_other": "al-Ḥulaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

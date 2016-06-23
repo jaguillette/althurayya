@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [5.38113, 34.69495], "type": "Point"}, "properties": {"arBW": "Tawlaqa", "arTitle": "\u0637\u0648\u0644\u0642\u0627", "arTitleOther": "\u0637\u0648\u0644\u0642\u0627", "lat": "34.69495", "lon": "5.38113", "region": "Maghrib", "searchNames": "Tawlaqa", "topType": "towns", "topTypeAlt": "cite", "topURI": "TAWLAQA_053E346N_S_MAGH", "translitTitle": "\u1e6cawlaq\u0101", "translitTitleOther": "\u1e6cawlaq\u0101"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    5.38113,
+                    34.69495
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.69495",
+                    "coord_lon": "5.38113",
+                    "cornu_URI": "TAWLAQA_053E346N_S_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "طولقا",
+                    "toponym_arabic_other": "طولقا",
+                    "toponym_buckwalter": "Tawlaqa",
+                    "toponym_search": "Tawlaqa",
+                    "toponym_translit": "Ṭawlaqā",
+                    "toponym_translit_other": "Ṭawlaqā"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

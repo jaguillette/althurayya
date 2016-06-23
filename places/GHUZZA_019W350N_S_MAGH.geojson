@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [-1.92701, 35.06747], "type": "Point"}, "properties": {"arBW": "Ghuzza", "arTitle": "\u063a\u0632\u0629", "arTitleOther": "\u063a\u0632\u0629", "lat": "35.06747", "lon": "-1.92701", "region": "Maghrib", "searchNames": "Ghuzza", "topType": "towns", "topTypeAlt": "cite", "topURI": "GHUZZA_019W350N_S_MAGH", "translitTitle": "\u0120uzza\u0167", "translitTitleOther": "\u0120uzza\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.92701,
+                    35.06747
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.06747",
+                    "coord_lon": "-1.92701",
+                    "cornu_URI": "GHUZZA_019W350N_S_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "غزة",
+                    "toponym_arabic_other": "غزة",
+                    "toponym_buckwalter": "Ghuzza",
+                    "toponym_search": "Ghuzza",
+                    "toponym_translit": "Ġuzzaŧ",
+                    "toponym_translit_other": "Ġuzzaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

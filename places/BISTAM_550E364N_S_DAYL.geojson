@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [55.07205, 36.45952], "type": "Point"}, "properties": {"arBW": "Bistam", "arTitle": "\u0628\u0633\u0637\u0627\u0645", "arTitleOther": "\u0628\u0633\u0637\u0627\u0645", "lat": "36.45952", "lon": "55.07205", "region": "Daylam", "searchNames": "Bistam", "topType": "towns", "topTypeAlt": "cite", "topURI": "BISTAM_550E364N_S_DAYL", "translitTitle": "Bis\u1e6d\u0101m", "translitTitleOther": "Bis\u1e6d\u0101m"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    55.07205,
+                    36.45952
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.45952",
+                    "coord_lon": "55.07205",
+                    "cornu_URI": "BISTAM_550E364N_S_DAYL",
+                    "region_code": 4,
+                    "region_spelled": "Daylam",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "بسطام",
+                    "toponym_arabic_other": "بسطام",
+                    "toponym_buckwalter": "Bistam",
+                    "toponym_search": "Bistam",
+                    "toponym_translit": "Bisṭām",
+                    "toponym_translit_other": "Bisṭām"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

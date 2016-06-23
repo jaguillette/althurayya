@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [70.19287, 42.45971], "type": "Point"}, "properties": {"arBW": "Badhakhkath", "arTitle": "\u0628\u0630\u062e\u0643\u062b", "arTitleOther": "\u0628\u0630\u062e\u0643\u062b", "lat": "42.45971", "lon": "70.19287", "region": "Transoxiana", "searchNames": "Badhakhkath", "topType": "towns", "topTypeAlt": "cite", "topURI": "BADHAKHKATH_701E424N_S_TRAN", "translitTitle": "Ba\u1e0fa\u1e2bka\u1e6f", "translitTitleOther": "Ba\u1e0fa\u1e2bka\u1e6f"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    70.19287,
+                    42.45971
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "42.45971",
+                    "coord_lon": "70.19287",
+                    "cornu_URI": "BADHAKHKATH_701E424N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "بذخكث",
+                    "toponym_arabic_other": "بذخكث",
+                    "toponym_buckwalter": "Badhakhkath",
+                    "toponym_search": "Badhakhkath",
+                    "toponym_translit": "Baḏaḫkaṯ",
+                    "toponym_translit_other": "Baḏaḫkaṯ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

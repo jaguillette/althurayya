@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [-0.52276, 38.96551], "type": "Point"}, "properties": {"arBW": "Shatiba", "arTitle": "\u0634\u0627\u062a\u0628\u0629", "arTitleOther": "\u0634\u0627\u062a\u0628\u0629", "lat": "38.96551", "lon": "-0.52276", "region": "Andalus", "searchNames": "Shatiba", "topType": "towns", "topTypeAlt": "cite", "topURI": "SHATIBA_005W389N_S_ANDA", "translitTitle": "\u0160\u0101tiba\u0167", "translitTitleOther": "\u0160\u0101tiba\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.52276,
+                    38.96551
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "38.96551",
+                    "coord_lon": "-0.52276",
+                    "cornu_URI": "SHATIBA_005W389N_S_ANDA",
+                    "region_code": 1,
+                    "region_spelled": "Andalus",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "شاتبة",
+                    "toponym_arabic_other": "شاتبة",
+                    "toponym_buckwalter": "Shatiba",
+                    "toponym_search": "Shatiba",
+                    "toponym_translit": "Šātibaŧ",
+                    "toponym_translit_other": "Šātibaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [55.98281, 30.24893], "type": "Point"}, "properties": {"arBW": "Unas", "arTitle": "\u0623\u0648\u0646\u0633", "arTitleOther": "\u0623\u0648\u0646\u0633", "lat": "30.24893", "lon": "55.98281", "region": "Faris", "searchNames": "Unas", "topType": "towns", "topTypeAlt": "cite", "topURI": "UNAS_559E302N_S_FARI", "translitTitle": "\u016anas", "translitTitleOther": "\u016anas"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    55.98281,
+                    30.24893
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.24893",
+                    "coord_lon": "55.98281",
+                    "cornu_URI": "UNAS_559E302N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "أونس",
+                    "toponym_arabic_other": "أونس",
+                    "toponym_buckwalter": "Unas",
+                    "toponym_search": "Unas",
+                    "toponym_translit": "Ūnas",
+                    "toponym_translit_other": "Ūnas"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

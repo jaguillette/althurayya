@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [55.98855, 25.75227], "type": "Point"}, "properties": {"arBW": "Jullafar", "arTitle": "\u062c\u0644\u0641\u0627\u0631", "arTitleOther": "\u062c\u0644\u0641\u0627\u0631", "lat": "25.75227", "lon": "55.98855", "region": "Jazirat al-Arab", "searchNames": "Jullafar", "topType": "towns", "topTypeAlt": "cite", "topURI": "JULLAFAR_559E257N_S_JAZI", "translitTitle": "\u01e6ullaf\u0101r", "translitTitleOther": "\u01e6ullaf\u0101r"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    55.98855,
+                    25.75227
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "25.75227",
+                    "coord_lon": "55.98855",
+                    "cornu_URI": "JULLAFAR_559E257N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "جلفار",
+                    "toponym_arabic_other": "جلفار",
+                    "toponym_buckwalter": "Jullafar",
+                    "toponym_search": "Jullafar",
+                    "toponym_translit": "Ǧullafār",
+                    "toponym_translit_other": "Ǧullafār"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

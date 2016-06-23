@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [59.76477, 44.26024], "type": "Point"}, "properties": {"arBW": "Buhayra Khuwarizm", "arTitle": "\u0628\u062d\u064a\u0631\u0629 \u062e\u0648\u0627\u0631\u0632\u0645", "arTitleOther": "\u0628\u062d\u064a\u0631\u0629 \u062e\u0648\u0627\u0631\u0632\u0645", "lat": "44.26024", "lon": "59.76477", "region": "Transoxiana", "searchNames": "Buhayra Khuwarizm", "topType": "waters", "topTypeAlt": "lac", "topURI": "BUHAYRAKHUWARIZM_597E442N_W_TRAN", "translitTitle": "Bu\u1e25ayra\u0167 \u1e2auw\u0101rizm", "translitTitleOther": "Bu\u1e25ayra\u0167 \u1e2auw\u0101rizm"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    59.76477,
+                    44.26024
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "44.26024",
+                    "coord_lon": "59.76477",
+                    "cornu_URI": "BUHAYRAKHUWARIZM_597E442N_W_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "lac",
+                    "toponym_arabic": "بحيرة خوارزم",
+                    "toponym_arabic_other": "بحيرة خوارزم",
+                    "toponym_buckwalter": "Buhayra Khuwarizm",
+                    "toponym_search": "Buhayra Khuwarizm",
+                    "toponym_translit": "Buḥayraŧ Ḫuwārizm",
+                    "toponym_translit_other": "Buḥayraŧ Ḫuwārizm"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

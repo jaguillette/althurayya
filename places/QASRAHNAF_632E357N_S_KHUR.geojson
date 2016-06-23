@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [63.21212, 35.76147], "type": "Point"}, "properties": {"arBW": "Qasr Ahnaf", "arTitle": "\u0642\u0635\u0631 \u0623\u062d\u0646\u0641", "arTitleOther": "\u0642\u0635\u0631 \u0623\u062d\u0646\u0641", "lat": "35.76147", "lon": "63.21212", "region": "Khurasan", "searchNames": "Qasr Ahnaf", "topType": "towns", "topTypeAlt": "cite", "topURI": "QASRAHNAF_632E357N_S_KHUR", "translitTitle": "Qa\u1e63r A\u1e25naf", "translitTitleOther": "Qa\u1e63r A\u1e25naf"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    63.21212,
+                    35.76147
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.76147",
+                    "coord_lon": "63.21212",
+                    "cornu_URI": "QASRAHNAF_632E357N_S_KHUR",
+                    "region_code": 10,
+                    "region_spelled": "Khurasan",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "قصر أحنف",
+                    "toponym_arabic_other": "قصر أحنف",
+                    "toponym_buckwalter": "Qasr Ahnaf",
+                    "toponym_search": "Qasr Ahnaf",
+                    "toponym_translit": "Qaṣr Aḥnaf",
+                    "toponym_translit_other": "Qaṣr Aḥnaf"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

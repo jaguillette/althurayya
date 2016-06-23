@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [42.72032, 16.99054], "type": "Point"}, "properties": {"arBW": "Jazan", "arTitle": "\u062c\u0627\u0632\u0627\u0646", "arTitleOther": "\u062c\u0627\u0632\u0627\u0646", "lat": "16.99054", "lon": "42.72032", "region": "Yemen", "searchNames": "Jazan", "topType": "regions", "topTypeAlt": "region", "topURI": "JAZAN_427E169N_R_YEME", "translitTitle": "\u01e6\u0101z\u0101n", "translitTitleOther": "\u01e6\u0101z\u0101n"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    42.72032,
+                    16.99054
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "16.99054",
+                    "coord_lon": "42.72032",
+                    "cornu_URI": "JAZAN_427E169N_R_YEME",
+                    "region_code": 21,
+                    "region_spelled": "Yemen",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "جازان",
+                    "toponym_arabic_other": "جازان",
+                    "toponym_buckwalter": "Jazan",
+                    "toponym_search": "Jazan",
+                    "toponym_translit": "Ǧāzān",
+                    "toponym_translit_other": "Ǧāzān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

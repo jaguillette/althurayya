@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [72.24681, 33.90757], "type": "Point"}, "properties": {"arBW": "Wayhind", "arTitle": "\u0648\u064a\u0647\u0646\u062f", "arTitleOther": "\u0648\u064a\u0647\u0646\u062f", "lat": "33.90757", "lon": "72.24681", "region": "Sind", "searchNames": "Wayhind", "topType": "capitals", "topTypeAlt": "capitale", "topURI": "WAYHIND_722E339N_S_SIND", "translitTitle": "Wayhind", "translitTitleOther": "Wayhind"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    72.24681,
+                    33.90757
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.90757",
+                    "coord_lon": "72.24681",
+                    "cornu_URI": "WAYHIND_722E339N_S_SIND",
+                    "region_code": 19,
+                    "region_spelled": "Sind",
+                    "top_type_hom": "capitals",
+                    "top_type_orig": "capitale",
+                    "toponym_arabic": "ويهند",
+                    "toponym_arabic_other": "ويهند",
+                    "toponym_buckwalter": "Wayhind",
+                    "toponym_search": "Wayhind",
+                    "toponym_translit": "Wayhind",
+                    "toponym_translit_other": "Wayhind"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

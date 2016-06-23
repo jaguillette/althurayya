@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [44.3972, 14.56364], "type": "Point"}, "properties": {"arBW": "Dhimar", "arTitle": "\u0630\u0645\u0627\u0631", "arTitleOther": "\u0630\u0645\u0627\u0631", "lat": "14.56364", "lon": "44.39720", "region": "Yemen", "searchNames": "Dhimar", "topType": "towns", "topTypeAlt": "cite", "topURI": "DHIMAR_443E145N_S_YEME", "translitTitle": "\u1e0eim\u0101r", "translitTitleOther": "\u1e0eim\u0101r"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    44.3972,
+                    14.56364
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "14.56364",
+                    "coord_lon": "44.39720",
+                    "cornu_URI": "DHIMAR_443E145N_S_YEME",
+                    "region_code": 21,
+                    "region_spelled": "Yemen",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ذمار",
+                    "toponym_arabic_other": "ذمار",
+                    "toponym_buckwalter": "Dhimar",
+                    "toponym_search": "Dhimar",
+                    "toponym_translit": "Ḏimār",
+                    "toponym_translit_other": "Ḏimār"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

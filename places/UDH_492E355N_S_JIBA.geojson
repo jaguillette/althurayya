@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [49.25084, 35.59348], "type": "Point"}, "properties": {"arBW": "Udh", "arTitle": "\u0623\u0648\u0630", "arTitleOther": "\u0623\u0648\u0630", "lat": "35.59348", "lon": "49.25084", "region": "Jibal", "searchNames": "Udh", "topType": "waystations", "topTypeAlt": "etape", "topURI": "UDH_492E355N_S_JIBA", "translitTitle": "\u016a\u1e0f", "translitTitleOther": "\u016a\u1e0f"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    49.25084,
+                    35.59348
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.59348",
+                    "coord_lon": "49.25084",
+                    "cornu_URI": "UDH_492E355N_S_JIBA",
+                    "region_code": 8,
+                    "region_spelled": "Jibal",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "أوذ",
+                    "toponym_arabic_other": "أوذ",
+                    "toponym_buckwalter": "Udh",
+                    "toponym_search": "Udh",
+                    "toponym_translit": "Ūḏ",
+                    "toponym_translit_other": "Ūḏ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

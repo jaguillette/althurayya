@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [55.206, 37.19091], "type": "Point"}, "properties": {"arBW": "Shahrastan, Jurjan", "arTitle": "\u0634\u0647\u0631\u0633\u062a\u0627\u0646", "arTitleOther": "\u0634\u0647\u0631\u0633\u062a\u0627\u0646\u060c \u062c\u0631\u062c\u0627\u0646", "lat": "37.19091", "lon": "55.20600", "region": "Daylam", "searchNames": "Shahrastan, Jurjan", "topType": "metropoles", "topTypeAlt": "metropole", "topURI": "SHAHRASTAN_552E371N_S_DAYL", "translitTitle": "\u0160ahrast\u0101n", "translitTitleOther": "\u0160ahrast\u0101n, \u01e6ur\u01e7\u0101n"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    55.206,
+                    37.19091
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.19091",
+                    "coord_lon": "55.20600",
+                    "cornu_URI": "SHAHRASTAN_552E371N_S_DAYL",
+                    "region_code": 4,
+                    "region_spelled": "Daylam",
+                    "top_type_hom": "metropoles",
+                    "top_type_orig": "metropole",
+                    "toponym_arabic": "شهرستان",
+                    "toponym_arabic_other": "شهرستان، جرجان",
+                    "toponym_buckwalter": "Shahrastan, Jurjan",
+                    "toponym_search": "Shahrastan, Jurjan",
+                    "toponym_translit": "Šahrastān",
+                    "toponym_translit_other": "Šahrastān, Ǧurǧān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

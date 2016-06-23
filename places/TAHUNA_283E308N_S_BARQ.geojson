@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [28.30167, 30.84844], "type": "Point"}, "properties": {"arBW": "al-Tahuna", "arTitle": "\ufb50\u0644\u0637\u062d\u0648\u0646\u0629", "arTitleOther": "\ufb50\u0644\u0637\u062d\u0648\u0646\u0629", "lat": "30.84844", "lon": "28.30167", "region": "Barqa", "searchNames": "al-Tahuna", "topType": "waystations", "topTypeAlt": "etape", "topURI": "TAHUNA_283E308N_S_BARQ", "translitTitle": "al-\u1e6ca\u1e25\u016bna\u0167", "translitTitleOther": "al-\u1e6ca\u1e25\u016bna\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    28.30167,
+                    30.84844
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.84844",
+                    "coord_lon": "28.30167",
+                    "cornu_URI": "TAHUNA_283E308N_S_BARQ",
+                    "region_code": 3,
+                    "region_spelled": "Barqa",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "ﭐلطحونة",
+                    "toponym_arabic_other": "ﭐلطحونة",
+                    "toponym_buckwalter": "al-Tahuna",
+                    "toponym_search": "al-Tahuna",
+                    "toponym_translit": "al-Ṭaḥūnaŧ",
+                    "toponym_translit_other": "al-Ṭaḥūnaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

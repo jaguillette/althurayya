@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [48.73262, 34.84758], "type": "Point"}, "properties": {"arBW": "Darnawa", "arTitle": "\u062f\u0631\u0646\u0648\u0649", "arTitleOther": "\u062f\u0631\u0646\u0648\u0649", "lat": "34.84758", "lon": "48.73262", "region": "Jibal", "searchNames": "Darnawa", "topType": "villages", "topTypeAlt": "localite", "topURI": "DARNAWA_487E348N_S_JIBA", "translitTitle": "Darnaw\u00e1", "translitTitleOther": "Darnaw\u00e1"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    48.73262,
+                    34.84758
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.84758",
+                    "coord_lon": "48.73262",
+                    "cornu_URI": "DARNAWA_487E348N_S_JIBA",
+                    "region_code": 8,
+                    "region_spelled": "Jibal",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "درنوى",
+                    "toponym_arabic_other": "درنوى",
+                    "toponym_buckwalter": "Darnawa",
+                    "toponym_search": "Darnawa",
+                    "toponym_translit": "Darnawá",
+                    "toponym_translit_other": "Darnawá"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

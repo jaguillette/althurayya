@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [47.92209, 29.29998], "type": "Point"}, "properties": {"arBW": "Kazima", "arTitle": "\u0643\u0627\u0638\u0645\u0629", "arTitleOther": "\u0643\u0627\u0638\u0645\u0629", "lat": "29.29998", "lon": "47.92209", "region": "Jazirat al-Arab", "searchNames": "Kazima", "topType": "waystations", "topTypeAlt": "etape", "topURI": "KAZIMA_479E292N_S_JAZI", "translitTitle": "K\u0101\u1e93ima\u0167", "translitTitleOther": "K\u0101\u1e93ima\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    47.92209,
+                    29.29998
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "29.29998",
+                    "coord_lon": "47.92209",
+                    "cornu_URI": "KAZIMA_479E292N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "كاظمة",
+                    "toponym_arabic_other": "كاظمة",
+                    "toponym_buckwalter": "Kazima",
+                    "toponym_search": "Kazima",
+                    "toponym_translit": "Kāẓimaŧ",
+                    "toponym_translit_other": "Kāẓimaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

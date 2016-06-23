@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [45.44152, 15.10298], "type": "Point"}, "properties": {"arBW": "Jawf Murad", "arTitle": "\u062c\u0648\u0641 \u0645\u0631\u0627\u062f", "arTitleOther": "\u062c\u0648\u0641 \u0645\u0631\u0627\u062f", "lat": "15.10298", "lon": "45.44152", "region": "Yemen", "searchNames": "Jawf Murad", "topType": "regions", "topTypeAlt": "region", "topURI": "JAWFMURAD_454E151N_R_YEME", "translitTitle": "\u01e6awf Mur\u0101d", "translitTitleOther": "\u01e6awf Mur\u0101d"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    45.44152,
+                    15.10298
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "15.10298",
+                    "coord_lon": "45.44152",
+                    "cornu_URI": "JAWFMURAD_454E151N_R_YEME",
+                    "region_code": 21,
+                    "region_spelled": "Yemen",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "جوف مراد",
+                    "toponym_arabic_other": "جوف مراد",
+                    "toponym_buckwalter": "Jawf Murad",
+                    "toponym_search": "Jawf Murad",
+                    "toponym_translit": "Ǧawf Murād",
+                    "toponym_translit_other": "Ǧawf Murād"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

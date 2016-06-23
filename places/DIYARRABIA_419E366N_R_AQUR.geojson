@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [41.99451, 36.65368], "type": "Point"}, "properties": {"arBW": "Diyar Rabia", "arTitle": "\u062f\u064a\u0627\u0631 \u0631\u0628\u064a\u0639\u0629", "arTitleOther": "\u062f\u064a\u0627\u0631 \u0631\u0628\u064a\u0639\u0629", "lat": "36.65368", "lon": "41.99451", "region": "Aqur", "searchNames": "Diyar Rabia", "topType": "regions", "topTypeAlt": "circonscription", "topURI": "DIYARRABIA_419E366N_R_AQUR", "translitTitle": "Diy\u0101r Rab\u012b\u02bfa\u0167", "translitTitleOther": "Diy\u0101r Rab\u012b\u02bfa\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    41.99451,
+                    36.65368
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.65368",
+                    "coord_lon": "41.99451",
+                    "cornu_URI": "DIYARRABIA_419E366N_R_AQUR",
+                    "region_code": 2,
+                    "region_spelled": "Aqur",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "circonscription",
+                    "toponym_arabic": "ديار ربيعة",
+                    "toponym_arabic_other": "ديار ربيعة",
+                    "toponym_buckwalter": "Diyar Rabia",
+                    "toponym_search": "Diyar Rabia",
+                    "toponym_translit": "Diyār Rabīʿaŧ",
+                    "toponym_translit_other": "Diyār Rabīʿaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

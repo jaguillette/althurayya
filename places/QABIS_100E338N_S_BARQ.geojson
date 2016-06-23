@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [10.08563, 33.86603], "type": "Point"}, "properties": {"arBW": "Qabis", "arTitle": "\u0642\u0627\u0628\u0633", "arTitleOther": "\u0642\u0627\u0628\u0633", "lat": "33.86603", "lon": "10.08563", "region": "Barqa", "searchNames": "Qabis", "topType": "towns", "topTypeAlt": "cite", "topURI": "QABIS_100E338N_S_BARQ", "translitTitle": "Q\u0101bis", "translitTitleOther": "Q\u0101bis"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    10.08563,
+                    33.86603
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.86603",
+                    "coord_lon": "10.08563",
+                    "cornu_URI": "QABIS_100E338N_S_BARQ",
+                    "region_code": 3,
+                    "region_spelled": "Barqa",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "قابس",
+                    "toponym_arabic_other": "قابس",
+                    "toponym_buckwalter": "Qabis",
+                    "toponym_search": "Qabis",
+                    "toponym_translit": "Qābis",
+                    "toponym_translit_other": "Qābis"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

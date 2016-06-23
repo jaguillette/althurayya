@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [48.37368, 28.54666], "type": "Point"}, "properties": {"arBW": "al-Hadutha", "arTitle": "\ufb50\u0644\u062d\u062f\u0648\u062b\u0629", "arTitleOther": "\ufb50\u0644\u062d\u062f\u0648\u062b\u0629", "lat": "28.54666", "lon": "48.37368", "region": "Jazirat al-Arab", "searchNames": "al-Hadutha", "topType": "waystations", "topTypeAlt": "etape", "topURI": "HADUTHA_483E285N_S_JAZI", "translitTitle": "al-\u1e24ad\u016b\u1e6fa\u0167", "translitTitleOther": "al-\u1e24ad\u016b\u1e6fa\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    48.37368,
+                    28.54666
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "28.54666",
+                    "coord_lon": "48.37368",
+                    "cornu_URI": "HADUTHA_483E285N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "ﭐلحدوثة",
+                    "toponym_arabic_other": "ﭐلحدوثة",
+                    "toponym_buckwalter": "al-Hadutha",
+                    "toponym_search": "al-Hadutha",
+                    "toponym_translit": "al-Ḥadūṯaŧ",
+                    "toponym_translit_other": "al-Ḥadūṯaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

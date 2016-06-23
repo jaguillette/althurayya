@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [12.50893, 37.98824], "type": "Point"}, "properties": {"arBW": "Atrabinush", "arTitle": "\u0623\u0637\u0631\u0627\u0628\u0646\u0634", "arTitleOther": "\u0623\u0637\u0631\u0627\u0628\u0646\u0634", "lat": "37.98824", "lon": "12.50893", "region": "Sicile", "searchNames": "Atrabinush", "topType": "towns", "topTypeAlt": "cite", "topURI": "ATRABINUSH_125E379N_S_SICI", "translitTitle": "A\u1e6dr\u0101binu\u0161", "translitTitleOther": "A\u1e6dr\u0101binu\u0161"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    12.50893,
+                    37.98824
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.98824",
+                    "coord_lon": "12.50893",
+                    "cornu_URI": "ATRABINUSH_125E379N_S_SICI",
+                    "region_code": 17,
+                    "region_spelled": "Sicile",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "أطرابنش",
+                    "toponym_arabic_other": "أطرابنش",
+                    "toponym_buckwalter": "Atrabinush",
+                    "toponym_search": "Atrabinush",
+                    "toponym_translit": "Aṭrābinuš",
+                    "toponym_translit_other": "Aṭrābinuš"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

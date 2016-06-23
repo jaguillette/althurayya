@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [-5.56634, 42.6185], "type": "Point"}, "properties": {"arBW": "Liyun", "arTitle": "\u0644\u064a\u0648\u0646", "arTitleOther": "\u0644\u064a\u0648\u0646", "lat": "42.61850", "lon": "-5.56634", "region": "Andalus", "searchNames": "Liyun", "topType": "towns", "topTypeAlt": "cite", "topURI": "LIYUN_055W426N_S_ANDA", "translitTitle": "Liy\u016bn", "translitTitleOther": "Liy\u016bn"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -5.56634,
+                    42.6185
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "42.61850",
+                    "coord_lon": "-5.56634",
+                    "cornu_URI": "LIYUN_055W426N_S_ANDA",
+                    "region_code": 1,
+                    "region_spelled": "Andalus",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ليون",
+                    "toponym_arabic_other": "ليون",
+                    "toponym_buckwalter": "Liyun",
+                    "toponym_search": "Liyun",
+                    "toponym_translit": "Liyūn",
+                    "toponym_translit_other": "Liyūn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

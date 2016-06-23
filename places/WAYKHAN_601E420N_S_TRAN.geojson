@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [60.19436, 42.0552], "type": "Point"}, "properties": {"arBW": "Waykhan", "arTitle": "\u0648\u0627\u064a\u062e\u0627\u0646", "arTitleOther": "\u0648\u0627\u064a\u062e\u0627\u0646", "lat": "42.05520", "lon": "60.19436", "region": "Transoxiana", "searchNames": "Waykhan", "topType": "towns", "topTypeAlt": "cite", "topURI": "WAYKHAN_601E420N_S_TRAN", "translitTitle": "W\u0101y\u1e2b\u0101n", "translitTitleOther": "W\u0101y\u1e2b\u0101n"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    60.19436,
+                    42.0552
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "42.05520",
+                    "coord_lon": "60.19436",
+                    "cornu_URI": "WAYKHAN_601E420N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "وايخان",
+                    "toponym_arabic_other": "وايخان",
+                    "toponym_buckwalter": "Waykhan",
+                    "toponym_search": "Waykhan",
+                    "toponym_translit": "Wāyḫān",
+                    "toponym_translit_other": "Wāyḫān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

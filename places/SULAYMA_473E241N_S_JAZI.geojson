@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [47.35509, 24.15648], "type": "Point"}, "properties": {"arBW": "Sulayma", "arTitle": "\u0633\u0644\u064a\u0645\u0629", "arTitleOther": "\u0633\u0644\u064a\u0645\u0629", "lat": "24.15648", "lon": "47.35509", "region": "Jazirat al-Arab", "searchNames": "Sulayma", "topType": "waystations", "topTypeAlt": "etape", "topURI": "SULAYMA_473E241N_S_JAZI", "translitTitle": "Sulayma\u0167", "translitTitleOther": "Sulayma\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    47.35509,
+                    24.15648
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "24.15648",
+                    "coord_lon": "47.35509",
+                    "cornu_URI": "SULAYMA_473E241N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "سليمة",
+                    "toponym_arabic_other": "سليمة",
+                    "toponym_buckwalter": "Sulayma",
+                    "toponym_search": "Sulayma",
+                    "toponym_translit": "Sulaymaŧ",
+                    "toponym_translit_other": "Sulaymaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

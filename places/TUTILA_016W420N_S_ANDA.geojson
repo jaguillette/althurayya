@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [-1.62697, 42.04634], "type": "Point"}, "properties": {"arBW": "Tutila", "arTitle": "\u062a\u0637\u064a\u0644\u0629", "arTitleOther": "\u062a\u0637\u064a\u0644\u0629", "lat": "42.04634", "lon": "-1.62697", "region": "Andalus", "searchNames": "Tutila", "topType": "towns", "topTypeAlt": "cite", "topURI": "TUTILA_016W420N_S_ANDA", "translitTitle": "Tu\u1e6d\u012bla\u0167", "translitTitleOther": "Tu\u1e6d\u012bla\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.62697,
+                    42.04634
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "42.04634",
+                    "coord_lon": "-1.62697",
+                    "cornu_URI": "TUTILA_016W420N_S_ANDA",
+                    "region_code": 1,
+                    "region_spelled": "Andalus",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "تطيلة",
+                    "toponym_arabic_other": "تطيلة",
+                    "toponym_buckwalter": "Tutila",
+                    "toponym_search": "Tutila",
+                    "toponym_translit": "Tuṭīlaŧ",
+                    "toponym_translit_other": "Tuṭīlaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

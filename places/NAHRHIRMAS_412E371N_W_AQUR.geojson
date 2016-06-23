@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [41.24817, 37.1308], "type": "Point"}, "properties": {"arBW": "Nahr al-Hirmas", "arTitle": "\u0646\u0647\u0631 \ufb50\u0644\u0647\u0631\u0645\u0627\u0633", "arTitleOther": "\u0646\u0647\u0631 \ufb50\u0644\u0647\u0631\u0645\u0627\u0633", "lat": "37.13080", "lon": "41.24817", "region": "Aqur", "searchNames": "Nahr al-Hirmas", "topType": "waters", "topTypeAlt": "riviere", "topURI": "NAHRHIRMAS_412E371N_W_AQUR", "translitTitle": "Nahr al-Hirm\u0101s", "translitTitleOther": "Nahr al-Hirm\u0101s"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    41.24817,
+                    37.1308
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.13080",
+                    "coord_lon": "41.24817",
+                    "cornu_URI": "NAHRHIRMAS_412E371N_W_AQUR",
+                    "region_code": 2,
+                    "region_spelled": "Aqur",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "riviere",
+                    "toponym_arabic": "نهر ﭐلهرماس",
+                    "toponym_arabic_other": "نهر ﭐلهرماس",
+                    "toponym_buckwalter": "Nahr al-Hirmas",
+                    "toponym_search": "Nahr al-Hirmas",
+                    "toponym_translit": "Nahr al-Hirmās",
+                    "toponym_translit_other": "Nahr al-Hirmās"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

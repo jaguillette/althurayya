@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [61.09517, 41.2861], "type": "Point"}, "properties": {"arBW": "Hazarasb", "arTitle": "\u0647\u0632\u0627\u0631\u0627\u0633\u0628", "arTitleOther": "\u0647\u0632\u0627\u0631\u0627\u0633\u0628", "lat": "41.28610", "lon": "61.09517", "region": "Transoxiana", "searchNames": "Hazarasb", "topType": "towns", "topTypeAlt": "cite", "topURI": "HAZARASB_610E412N_S_TRAN", "translitTitle": "Haz\u0101r\u0101sb", "translitTitleOther": "Haz\u0101r\u0101sb"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    61.09517,
+                    41.2861
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "41.28610",
+                    "coord_lon": "61.09517",
+                    "cornu_URI": "HAZARASB_610E412N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "هزاراسب",
+                    "toponym_arabic_other": "هزاراسب",
+                    "toponym_buckwalter": "Hazarasb",
+                    "toponym_search": "Hazarasb",
+                    "toponym_translit": "Hazārāsb",
+                    "toponym_translit_other": "Hazārāsb"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

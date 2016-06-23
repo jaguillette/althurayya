@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [51.91596, 32.45826], "type": "Point"}, "properties": {"arBW": "Nahr Zandarudh, al-Zarinrudh, Zaranrudh", "arTitle": "\u0646\u0647\u0631 \u0632\u0646\u062f\u0631\u0648\u0630", "arTitleOther": "\u0646\u0647\u0631 \u0632\u0646\u062f\u0631\u0648\u0630\u060c \ufb50\u0644\u0632\u0631\u064a\u0646\u0631\u0648\u0630\u060c \u0632\u0631\u0646\u0631\u0648\u0630", "lat": "32.45826", "lon": "51.91596", "region": "Jibal", "searchNames": "Nahr Zandarudh, al-Zarinrudh, Zaranrudh", "topType": "waters", "topTypeAlt": "riviere", "topURI": "NAHRZANDARUDH_519E324N_W_JIBA", "translitTitle": "Nahr Zandar\u016b\u1e0f", "translitTitleOther": "Nahr Zandar\u016b\u1e0f, al-Zar\u012bnr\u016b\u1e0f, Zaranr\u016b\u1e0f"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    51.91596,
+                    32.45826
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.45826",
+                    "coord_lon": "51.91596",
+                    "cornu_URI": "NAHRZANDARUDH_519E324N_W_JIBA",
+                    "region_code": 8,
+                    "region_spelled": "Jibal",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "riviere",
+                    "toponym_arabic": "نهر زندروذ",
+                    "toponym_arabic_other": "نهر زندروذ، ﭐلزرينروذ، زرنروذ",
+                    "toponym_buckwalter": "Nahr Zandarudh, al-Zarinrudh, Zaranrudh",
+                    "toponym_search": "Nahr Zandarudh, al-Zarinrudh, Zaranrudh",
+                    "toponym_translit": "Nahr Zandarūḏ",
+                    "toponym_translit_other": "Nahr Zandarūḏ, al-Zarīnrūḏ, Zaranrūḏ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

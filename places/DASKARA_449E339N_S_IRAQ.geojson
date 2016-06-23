@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [44.9231, 33.94151], "type": "Point"}, "properties": {"arBW": "Daskara, Daskara al-Malik", "arTitle": "\u062f\u0633\u0643\u0631\u0629", "arTitleOther": "\u062f\u0633\u0643\u0631\u0629\u060c \u062f\u0633\u0643\u0631\u0629 \ufb50\u0644\u0645\u0644\u0643", "lat": "33.94151", "lon": "44.92310", "region": "Iraq", "searchNames": "Daskara, Daskara al-Malik", "topType": "towns", "topTypeAlt": "cite", "topURI": "DASKARA_449E339N_S_IRAQ", "translitTitle": "Daskara\u0167", "translitTitleOther": "Daskara\u0167, Daskara\u0167 al-Malik"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    44.9231,
+                    33.94151
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.94151",
+                    "coord_lon": "44.92310",
+                    "cornu_URI": "DASKARA_449E339N_S_IRAQ",
+                    "region_code": 7,
+                    "region_spelled": "Iraq",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "دسكرة",
+                    "toponym_arabic_other": "دسكرة، دسكرة ﭐلملك",
+                    "toponym_buckwalter": "Daskara, Daskara al-Malik",
+                    "toponym_search": "Daskara, Daskara al-Malik",
+                    "toponym_translit": "Daskaraŧ",
+                    "toponym_translit_other": "Daskaraŧ, Daskaraŧ al-Malik"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

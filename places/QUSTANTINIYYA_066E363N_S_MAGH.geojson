@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [6.62703, 36.3379], "type": "Point"}, "properties": {"arBW": "al-Qustantiniyya, Qustantiniyya", "arTitle": "\ufb50\u0644\u0642\u0633\u0637\u0646\u0637\u0646\u064a\u0629", "arTitleOther": "\ufb50\u0644\u0642\u0633\u0637\u0646\u0637\u0646\u064a\u0629\u060c \u0642\u0633\u0637\u0646\u0637\u0646\u064a\u0629", "lat": "36.33790", "lon": "6.62703", "region": "Maghrib", "searchNames": "al-Qustantiniyya, Qustantiniyya", "topType": "towns", "topTypeAlt": "cite", "topURI": "QUSTANTINIYYA_066E363N_S_MAGH", "translitTitle": "al-Qus\u1e6dan\u1e6diniyya\u0167", "translitTitleOther": "al-Qus\u1e6dan\u1e6diniyya\u0167, Qus\u1e6dan\u1e6diniyya\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    6.62703,
+                    36.3379
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.33790",
+                    "coord_lon": "6.62703",
+                    "cornu_URI": "QUSTANTINIYYA_066E363N_S_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ﭐلقسطنطنية",
+                    "toponym_arabic_other": "ﭐلقسطنطنية، قسطنطنية",
+                    "toponym_buckwalter": "al-Qustantiniyya, Qustantiniyya",
+                    "toponym_search": "al-Qustantiniyya, Qustantiniyya",
+                    "toponym_translit": "al-Qusṭanṭiniyyaŧ",
+                    "toponym_translit_other": "al-Qusṭanṭiniyyaŧ, Qusṭanṭiniyyaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

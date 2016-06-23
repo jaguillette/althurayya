@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [44.93375, 33.20675], "type": "Point"}, "properties": {"arBW": "Abarta", "arTitle": "\u0639\u0628\u0631\u062a\u0627", "arTitleOther": "\u0639\u0628\u0631\u062a\u0627", "lat": "33.20675", "lon": "44.93375", "region": "Iraq", "searchNames": "Abarta", "topType": "towns", "topTypeAlt": "cite", "topURI": "ABARTA_449E332N_S_IRAQ", "translitTitle": "\u02bfAbart\u0101", "translitTitleOther": "\u02bfAbart\u0101"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    44.93375,
+                    33.20675
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.20675",
+                    "coord_lon": "44.93375",
+                    "cornu_URI": "ABARTA_449E332N_S_IRAQ",
+                    "region_code": 7,
+                    "region_spelled": "Iraq",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "عبرتا",
+                    "toponym_arabic_other": "عبرتا",
+                    "toponym_buckwalter": "Abarta",
+                    "toponym_search": "Abarta",
+                    "toponym_translit": "ʿAbartā",
+                    "toponym_translit_other": "ʿAbartā"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

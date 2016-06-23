@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [35.46173, 31.3845], "type": "Point"}, "properties": {"arBW": "Buhayra al-Muntina, Buhayra al-Maqluba, Buhayra al-Miyyata, Buhayra al-Sughar", "arTitle": "\u0628\u062d\u064a\u0631\u0629 \ufb50\u0644\u0645\u0646\u062a\u0646\u0629", "arTitleOther": "\u0628\u062d\u064a\u0631\u0629 \ufb50\u0644\u0645\u0646\u062a\u0646\u0629\u060c \u0628\u062d\u064a\u0631\u0629 \ufb50\u0644\u0645\u0642\u0644\u0648\u0628\u0629\u060c \u0628\u062d\u064a\u0631\u0629 \ufb50\u0644\u0645\u064a\u062a\u0629\u060c \u0628\u062d\u064a\u0631\u0629 \ufb50\u0644\u0635\u063a\u0631", "lat": "31.38450", "lon": "35.46173", "region": "Sham", "searchNames": "Buhayra al-Muntina, Buhayra al-Maqluba, Buhayra al-Miyyata, Buhayra al-Sughar", "topType": "waters", "topTypeAlt": "lac", "topURI": "BUHAYRAMUNTINA_354E313N_W_SHAM", "translitTitle": "Bu\u1e25ayra\u0167 al-Muntina\u0167", "translitTitleOther": "Bu\u1e25ayra\u0167 al-Muntina\u0167, Bu\u1e25ayra\u0167 al-Maql\u016bba\u0167, Bu\u1e25ayra\u0167 al-Miyyata\u0167, Bu\u1e25ayra\u0167 al-\u1e62u\u0121ar"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    35.46173,
+                    31.3845
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.38450",
+                    "coord_lon": "35.46173",
+                    "cornu_URI": "BUHAYRAMUNTINA_354E313N_W_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "lac",
+                    "toponym_arabic": "بحيرة ﭐلمنتنة",
+                    "toponym_arabic_other": "بحيرة ﭐلمنتنة، بحيرة ﭐلمقلوبة، بحيرة ﭐلميتة، بحيرة ﭐلصغر",
+                    "toponym_buckwalter": "Buhayra al-Muntina, Buhayra al-Maqluba, Buhayra al-Miyyata, Buhayra al-Sughar",
+                    "toponym_search": "Buhayra al-Muntina, Buhayra al-Maqluba, Buhayra al-Miyyata, Buhayra al-Sughar",
+                    "toponym_translit": "Buḥayraŧ al-Muntinaŧ",
+                    "toponym_translit_other": "Buḥayraŧ al-Muntinaŧ, Buḥayraŧ al-Maqlūbaŧ, Buḥayraŧ al-Miyyataŧ, Buḥayraŧ al-Ṣuġar"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

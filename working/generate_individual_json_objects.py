@@ -10,19 +10,38 @@ places = "/Users/romanov/Documents/GitProjects/maximromanov.github.io/projects/a
 routes = "/Users/romanov/Documents/GitProjects/maximromanov.github.io/projects/althurayya/routes/"
 master = "/Users/romanov/Documents/GitProjects/maximromanov.github.io/projects/althurayya/master/"
 
-#################################
-def placeholder():
-    with open("output/enhanced_dataset.json", 'r',encoding='utf-8') as fp:
-        db = json.load(fp)
-    geojson = {"type":"FeatureCollection","features":[]}
-    for k,v in db.items():
-        if 'geo' in v:
-            feature = {"type":"Feature","geometry":{"type":"Point","coordinates":[v['geo']['x_coord'],v['geo']['y_coord']]}}
-            feature['properties'] = v
-            geojson['features'].append(feature)
-    with open("output/enhanced_dataset.geojson","w",encoding='utf-8') as fp:
-        json.dump(geojson,fp,sort_keys=True)
-#################################
+
+prov = {
+    "Andalus" : 1,
+    "Aqur" : 2,
+    "Aqur/Iraq" : 2,
+    "Barqa" : 3,
+    "Daylam" : 4,
+    "Egypt" : 5,
+    "Faris" : 6,
+    "Iraq" : 7,
+    "Jibal" : 8,
+    "Khazar" : 9,
+    "Khurasan" : 10,
+    "Khuzistan" : 11,
+    "Kirman" : 12,
+    "Mafaza" : 13,
+    "Maghrib" : 14,
+    "Rihab" : 15,
+    "Rihab/Daylam" : 15,
+    "Sham" : 16,
+    "Sicile" : 17,
+    "Sijistan" : 18,
+    "Sind" : 19,
+    "Transoxiana" : 20,
+    "Yemen" : 21,
+    "noData" : 22,
+    "Badiyat al-Arab" : 23,
+    "Jazirat al-Arab" : 24
+    }
+
+def dummy():
+    outdict = {"type":"Feature","geometry":{"type":"Point","coordinates":[lng,lat]},"properties":{"title":name,"description":desc+" "+url,"marker-size":markerSize,"marker-symbol":markerSymbol,"marker-color":markerColor}}
 
 def generateJSONdata(tsvFile):
     geojson = {"type":"FeatureCollection","features":[]}
@@ -31,32 +50,56 @@ def generateJSONdata(tsvFile):
         data = f1.read().split("\n")
 
         n = data[0].split("\t")
-        #print(n)
+        n = ["regNum"]+n
+        n = ['region_code', 'region_spelled',
+             'coord_lon', 'coord_lat',
+             'top_type_hom', 'top_type_orig',
+             'toponym_translit', 'toponym_arabic',
+             'cornu_URI',
+             'toponym_translit_other', 'toponym_arabic_other',
+             'toponym_search',
+             'toponym_buckwalter']
+        print(n)
+        #input()
 
         for l in data[1:]:
             l = l.split("\t")
+            input(l)
+            try:
+                l = [prov[l[0]]] + l
+            except:
+                print(prov[l[0]])
+                l = ["lacking"] + l
 
-            uri = l[7]
+            uri = l[8]
 
+            # cornu data dic
             d = {}
             for i in range(0,len(l)):
                 d[n[i]] = l[i]
 
+            # adding other fields
+            d["coord_certainty"] = "certain"
+            refs = ["muCjamBuldan", "kitabAnsab"]
+
             #input(d)
 
             # writing a feature
-            feature = {"type":"Feature","geometry":{"type":"Point","coordinates":[float(l[1]),float(l[2])]}}
-            feature['properties'] = d
+            #feature = {"type":"Feature","geometry":{"type":"Point","coordinates":[float(l[2]),float(l[3])]}}
+            feature = {"type":"Feature","geometry":{"type":"Point","coordinates":[float(l[2]),float(l[3])]}, "properties": {"cornuData": d, "textual_sources_uris": refs}}
+            #feature['properties'] = d
             geojson['features'].append(feature)
             
             geojsonSingle = {"type":"FeatureCollection","features":[]}
             geojsonSingle['features'].append(feature)
 
             with open(places+"%s.geojson" % uri,"w",encoding='utf-8') as fp:
-                json.dump(geojsonSingle,fp,sort_keys=True)
+                json.dump(geojsonSingle,fp,sort_keys=True, indent=4,ensure_ascii=False)
 
     with open(master+"places.geojson","w",encoding='utf-8') as fp:
-        json.dump(geojson,fp,sort_keys=True)
+        json.dump(geojson,fp,sort_keys=True, indent=4, ensure_ascii=False)
+
+
 
         
 

@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [73.13025, 31.8074], "type": "Point"}, "properties": {"arBW": "Nahr Jandarur", "arTitle": "\u0646\u0647\u0631 \u062c\u0646\u062f\u0631\u0648\u0631", "arTitleOther": "\u0646\u0647\u0631 \u062c\u0646\u062f\u0631\u0648\u0631", "lat": "31.80740", "lon": "73.13025", "region": "Sind", "searchNames": "Nahr Jandarur", "topType": "waters", "topTypeAlt": "riviere", "topURI": "NAHRJANDARUR_731E318N_W_SIND", "translitTitle": "Nahr \u01e6andar\u016br", "translitTitleOther": "Nahr \u01e6andar\u016br"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    73.13025,
+                    31.8074
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.80740",
+                    "coord_lon": "73.13025",
+                    "cornu_URI": "NAHRJANDARUR_731E318N_W_SIND",
+                    "region_code": 19,
+                    "region_spelled": "Sind",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "riviere",
+                    "toponym_arabic": "نهر جندرور",
+                    "toponym_arabic_other": "نهر جندرور",
+                    "toponym_buckwalter": "Nahr Jandarur",
+                    "toponym_search": "Nahr Jandarur",
+                    "toponym_translit": "Nahr Ǧandarūr",
+                    "toponym_translit_other": "Nahr Ǧandarūr"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

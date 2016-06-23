@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [67.29033, 39.42539], "type": "Point"}, "properties": {"arBW": "Wazkard, Wizkarda", "arTitle": "\u0648\u0632\u0643\u0631\u062f", "arTitleOther": "\u0648\u0632\u0643\u0631\u062f\u060c \u0648\u0632\u0643\u0631\u062f\u0629", "lat": "39.42539", "lon": "67.29033", "region": "Transoxiana", "searchNames": "Wazkard, Wizkarda", "topType": "villages", "topTypeAlt": "village", "topURI": "WAZKARD_672E394N_S_TRAN", "translitTitle": "Wazkard", "translitTitleOther": "Wazkard, Wizkarda\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    67.29033,
+                    39.42539
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "39.42539",
+                    "coord_lon": "67.29033",
+                    "cornu_URI": "WAZKARD_672E394N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "village",
+                    "toponym_arabic": "وزكرد",
+                    "toponym_arabic_other": "وزكرد، وزكردة",
+                    "toponym_buckwalter": "Wazkard, Wizkarda",
+                    "toponym_search": "Wazkard, Wizkarda",
+                    "toponym_translit": "Wazkard",
+                    "toponym_translit_other": "Wazkard, Wizkardaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [45.13019, 49.20301], "type": "Point"}, "properties": {"arBW": "Nahr Itil", "arTitle": "\u0646\u0647\u0631 \u0625\u062a\u0644", "arTitleOther": "\u0646\u0647\u0631 \u0625\u062a\u0644", "lat": "49.20301", "lon": "45.13019", "region": "Khazar", "searchNames": "Nahr Itil", "topType": "waters", "topTypeAlt": "riviere", "topURI": "NAHRITIL_451E492N_W_KHAZ", "translitTitle": "Nahr Itil", "translitTitleOther": "Nahr Itil"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    45.13019,
+                    49.20301
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "49.20301",
+                    "coord_lon": "45.13019",
+                    "cornu_URI": "NAHRITIL_451E492N_W_KHAZ",
+                    "region_code": 9,
+                    "region_spelled": "Khazar",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "riviere",
+                    "toponym_arabic": "نهر إتل",
+                    "toponym_arabic_other": "نهر إتل",
+                    "toponym_buckwalter": "Nahr Itil",
+                    "toponym_search": "Nahr Itil",
+                    "toponym_translit": "Nahr Itil",
+                    "toponym_translit_other": "Nahr Itil"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

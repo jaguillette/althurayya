@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [56.13806, 27.7741], "type": "Point"}, "properties": {"arBW": "Dih Barist, Dih Ruwist", "arTitle": "\u062f\u0647 \u0628\u0627\u0631\u0633\u062a", "arTitleOther": "\u062f\u0647 \u0628\u0627\u0631\u0633\u062a\u060c \u062f\u0647 \u0631\u0648\u064a\u0633\u062a", "lat": "27.77410", "lon": "56.13806", "region": "Kirman", "searchNames": "Dih Barist, Dih Ruwist", "topType": "villages", "topTypeAlt": "localite", "topURI": "DIHBARIST_561E277N_S_KIRM", "translitTitle": "Dih B\u0101rist", "translitTitleOther": "Dih B\u0101rist, Dih Ruw\u012bst"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    56.13806,
+                    27.7741
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "27.77410",
+                    "coord_lon": "56.13806",
+                    "cornu_URI": "DIHBARIST_561E277N_S_KIRM",
+                    "region_code": 12,
+                    "region_spelled": "Kirman",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "ده بارست",
+                    "toponym_arabic_other": "ده بارست، ده رويست",
+                    "toponym_buckwalter": "Dih Barist, Dih Ruwist",
+                    "toponym_search": "Dih Barist, Dih Ruwist",
+                    "toponym_translit": "Dih Bārist",
+                    "toponym_translit_other": "Dih Bārist, Dih Ruwīst"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [43.97249, 16.11174], "type": "Point"}, "properties": {"arBW": "Athafit", "arTitle": "\u0623\u062b\u0627\u0641\u062a", "arTitleOther": "\u0623\u062b\u0627\u0641\u062a", "lat": "16.11174", "lon": "43.97249", "region": "Yemen", "searchNames": "Athafit", "topType": "waystations", "topTypeAlt": "etape", "topURI": "ATHAFIT_439E161N_S_YEME", "translitTitle": "A\u1e6f\u0101fit", "translitTitleOther": "A\u1e6f\u0101fit"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    43.97249,
+                    16.11174
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "16.11174",
+                    "coord_lon": "43.97249",
+                    "cornu_URI": "ATHAFIT_439E161N_S_YEME",
+                    "region_code": 21,
+                    "region_spelled": "Yemen",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "أثافت",
+                    "toponym_arabic_other": "أثافت",
+                    "toponym_buckwalter": "Athafit",
+                    "toponym_search": "Athafit",
+                    "toponym_translit": "Aṯāfit",
+                    "toponym_translit_other": "Aṯāfit"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

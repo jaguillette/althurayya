@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [45.10369, 32.53829], "type": "Point"}, "properties": {"arBW": "Nahr al-Nil", "arTitle": "\u0646\u0647\u0631 \ufb50\u0644\u0646\u064a\u0644", "arTitleOther": "\u0646\u0647\u0631 \ufb50\u0644\u0646\u064a\u0644", "lat": "32.53829", "lon": "45.10369", "region": "Iraq", "searchNames": "Nahr al-Nil", "topType": "waters", "topTypeAlt": "canal", "topURI": "NAHRNIL_451E325N_W_IRAQ", "translitTitle": "Nahr al-N\u012bl", "translitTitleOther": "Nahr al-N\u012bl"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    45.10369,
+                    32.53829
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.53829",
+                    "coord_lon": "45.10369",
+                    "cornu_URI": "NAHRNIL_451E325N_W_IRAQ",
+                    "region_code": 7,
+                    "region_spelled": "Iraq",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "canal",
+                    "toponym_arabic": "نهر ﭐلنيل",
+                    "toponym_arabic_other": "نهر ﭐلنيل",
+                    "toponym_buckwalter": "Nahr al-Nil",
+                    "toponym_search": "Nahr al-Nil",
+                    "toponym_translit": "Nahr al-Nīl",
+                    "toponym_translit_other": "Nahr al-Nīl"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

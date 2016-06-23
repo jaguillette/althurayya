@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [-5.97486, 35.58306], "type": "Point"}, "properties": {"arBW": "Azila", "arTitle": "\u0623\u0632\u064a\u0644\u0629", "arTitleOther": "\u0623\u0632\u064a\u0644\u0629", "lat": "35.58306", "lon": "-5.97486", "region": "Maghrib", "searchNames": "Azila", "topType": "towns", "topTypeAlt": "cite", "topURI": "AZILA_059W355N_S_MAGH", "translitTitle": "Az\u012bla\u0167", "translitTitleOther": "Az\u012bla\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -5.97486,
+                    35.58306
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.58306",
+                    "coord_lon": "-5.97486",
+                    "cornu_URI": "AZILA_059W355N_S_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "أزيلة",
+                    "toponym_arabic_other": "أزيلة",
+                    "toponym_buckwalter": "Azila",
+                    "toponym_search": "Azila",
+                    "toponym_translit": "Azīlaŧ",
+                    "toponym_translit_other": "Azīlaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

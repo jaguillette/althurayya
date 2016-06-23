@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [44.62604, 32.75737], "type": "Point"}, "properties": {"arBW": "Kutha Rabba", "arTitle": "\u0643\u0648\u062b\u0649 \u0631\u0628\u0629", "arTitleOther": "\u0643\u0648\u062b\u0649 \u0631\u0628\u0629", "lat": "32.75737", "lon": "44.62604", "region": "Iraq", "searchNames": "Kutha Rabba", "topType": "towns", "topTypeAlt": "cite", "topURI": "KUTHARABBA_446E327N_S_IRAQ", "translitTitle": "K\u016b\u1e6f\u00e1 Rabba\u0167", "translitTitleOther": "K\u016b\u1e6f\u00e1 Rabba\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    44.62604,
+                    32.75737
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.75737",
+                    "coord_lon": "44.62604",
+                    "cornu_URI": "KUTHARABBA_446E327N_S_IRAQ",
+                    "region_code": 7,
+                    "region_spelled": "Iraq",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "كوثى ربة",
+                    "toponym_arabic_other": "كوثى ربة",
+                    "toponym_buckwalter": "Kutha Rabba",
+                    "toponym_search": "Kutha Rabba",
+                    "toponym_translit": "Kūṯá Rabbaŧ",
+                    "toponym_translit_other": "Kūṯá Rabbaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

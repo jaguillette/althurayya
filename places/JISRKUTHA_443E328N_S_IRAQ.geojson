@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [44.36973, 32.87594], "type": "Point"}, "properties": {"arBW": "Jisr Kutha", "arTitle": "\u062c\u0633\u0631 \u0643\u0648\u062b\u0649", "arTitleOther": "\u062c\u0633\u0631 \u0643\u0648\u062b\u0649", "lat": "32.87594", "lon": "44.36973", "region": "Iraq", "searchNames": "Jisr Kutha", "topType": "waystations", "topTypeAlt": "etape", "topURI": "JISRKUTHA_443E328N_S_IRAQ", "translitTitle": "\u01e6isr K\u016b\u1e6f\u00e1", "translitTitleOther": "\u01e6isr K\u016b\u1e6f\u00e1"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    44.36973,
+                    32.87594
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.87594",
+                    "coord_lon": "44.36973",
+                    "cornu_URI": "JISRKUTHA_443E328N_S_IRAQ",
+                    "region_code": 7,
+                    "region_spelled": "Iraq",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "جسر كوثى",
+                    "toponym_arabic_other": "جسر كوثى",
+                    "toponym_buckwalter": "Jisr Kutha",
+                    "toponym_search": "Jisr Kutha",
+                    "toponym_translit": "Ǧisr Kūṯá",
+                    "toponym_translit_other": "Ǧisr Kūṯá"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

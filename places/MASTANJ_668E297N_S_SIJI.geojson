@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [66.84894, 29.79695], "type": "Point"}, "properties": {"arBW": "Mastanj, Mastank", "arTitle": "\u0645\u0633\u062a\u0646\u062c", "arTitleOther": "\u0645\u0633\u062a\u0646\u062c\u060c \u0645\u0633\u062a\u0646\u0643", "lat": "29.79695", "lon": "66.84894", "region": "Sijistan", "searchNames": "Mastanj, Mastank", "topType": "towns", "topTypeAlt": "cite", "topURI": "MASTANJ_668E297N_S_SIJI", "translitTitle": "Mastan\u01e7", "translitTitleOther": "Mastan\u01e7, Mastank"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    66.84894,
+                    29.79695
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "29.79695",
+                    "coord_lon": "66.84894",
+                    "cornu_URI": "MASTANJ_668E297N_S_SIJI",
+                    "region_code": 18,
+                    "region_spelled": "Sijistan",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "مستنج",
+                    "toponym_arabic_other": "مستنج، مستنك",
+                    "toponym_buckwalter": "Mastanj, Mastank",
+                    "toponym_search": "Mastanj, Mastank",
+                    "toponym_translit": "Mastanǧ",
+                    "toponym_translit_other": "Mastanǧ, Mastank"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

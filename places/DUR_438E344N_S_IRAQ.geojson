@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [43.80541, 34.46814], "type": "Point"}, "properties": {"arBW": "al-Dur", "arTitle": "\ufb50\u0644\u062f\u0648\u0631", "arTitleOther": "\ufb50\u0644\u062f\u0648\u0631", "lat": "34.46814", "lon": "43.80541", "region": "Iraq", "searchNames": "al-Dur", "topType": "towns", "topTypeAlt": "cite", "topURI": "DUR_438E344N_S_IRAQ", "translitTitle": "al-D\u016br", "translitTitleOther": "al-D\u016br"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    43.80541,
+                    34.46814
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.46814",
+                    "coord_lon": "43.80541",
+                    "cornu_URI": "DUR_438E344N_S_IRAQ",
+                    "region_code": 7,
+                    "region_spelled": "Iraq",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ﭐلدور",
+                    "toponym_arabic_other": "ﭐلدور",
+                    "toponym_buckwalter": "al-Dur",
+                    "toponym_search": "al-Dur",
+                    "toponym_translit": "al-Dūr",
+                    "toponym_translit_other": "al-Dūr"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

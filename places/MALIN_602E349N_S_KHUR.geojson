@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [60.26487, 34.93776], "type": "Point"}, "properties": {"arBW": "Malin, Kuwakharz", "arTitle": "\u0645\u0627\u0644\u0646", "arTitleOther": "\u0645\u0627\u0644\u0646\u060c \u0643\u0648\u0627\u062e\u0631\u0632", "lat": "34.93776", "lon": "60.26487", "region": "Khurasan", "searchNames": "Malin, Kuwakharz", "topType": "towns", "topTypeAlt": "cite", "topURI": "MALIN_602E349N_S_KHUR", "translitTitle": "M\u0101lin", "translitTitleOther": "M\u0101lin, Kuw\u0101\u1e2barz"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    60.26487,
+                    34.93776
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.93776",
+                    "coord_lon": "60.26487",
+                    "cornu_URI": "MALIN_602E349N_S_KHUR",
+                    "region_code": 10,
+                    "region_spelled": "Khurasan",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "مالن",
+                    "toponym_arabic_other": "مالن، كواخرز",
+                    "toponym_buckwalter": "Malin, Kuwakharz",
+                    "toponym_search": "Malin, Kuwakharz",
+                    "toponym_translit": "Mālin",
+                    "toponym_translit_other": "Mālin, Kuwāḫarz"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

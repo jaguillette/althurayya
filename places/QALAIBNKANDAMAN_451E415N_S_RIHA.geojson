@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [45.1678, 41.56808], "type": "Point"}, "properties": {"arBW": "Qala Ibn Kandaman", "arTitle": "\u0642\u0644\u0639\u0629 \u0625\u0628\u0646 \u0643\u0646\u062f\u0645\u0627\u0646", "arTitleOther": "\u0642\u0644\u0639\u0629 \u0625\u0628\u0646 \u0643\u0646\u062f\u0645\u0627\u0646", "lat": "41.56808", "lon": "45.16780", "region": "Rihab", "searchNames": "Qala Ibn Kandaman", "topType": "towns", "topTypeAlt": "cite", "topURI": "QALAIBNKANDAMAN_451E415N_S_RIHA", "translitTitle": "Qal\u02bfa\u0167 Ibn Kandam\u0101n", "translitTitleOther": "Qal\u02bfa\u0167 Ibn Kandam\u0101n"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    45.1678,
+                    41.56808
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "41.56808",
+                    "coord_lon": "45.16780",
+                    "cornu_URI": "QALAIBNKANDAMAN_451E415N_S_RIHA",
+                    "region_code": 15,
+                    "region_spelled": "Rihab",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "قلعة إبن كندمان",
+                    "toponym_arabic_other": "قلعة إبن كندمان",
+                    "toponym_buckwalter": "Qala Ibn Kandaman",
+                    "toponym_search": "Qala Ibn Kandaman",
+                    "toponym_translit": "Qalʿaŧ Ibn Kandamān",
+                    "toponym_translit_other": "Qalʿaŧ Ibn Kandamān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

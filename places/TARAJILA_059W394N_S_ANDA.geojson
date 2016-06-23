@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [-5.93861, 39.48654], "type": "Point"}, "properties": {"arBW": "Tarajila", "arTitle": "\u062a\u0631\u062c\u064a\u0644\u0629", "arTitleOther": "\u062a\u0631\u062c\u064a\u0644\u0629", "lat": "39.48654", "lon": "-5.93861", "region": "Andalus", "searchNames": "Tarajila", "topType": "towns", "topTypeAlt": "cite", "topURI": "TARAJILA_059W394N_S_ANDA", "translitTitle": "Tara\u01e7\u012bla\u0167", "translitTitleOther": "Tara\u01e7\u012bla\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -5.93861,
+                    39.48654
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "39.48654",
+                    "coord_lon": "-5.93861",
+                    "cornu_URI": "TARAJILA_059W394N_S_ANDA",
+                    "region_code": 1,
+                    "region_spelled": "Andalus",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ترجيلة",
+                    "toponym_arabic_other": "ترجيلة",
+                    "toponym_buckwalter": "Tarajila",
+                    "toponym_search": "Tarajila",
+                    "toponym_translit": "Taraǧīlaŧ",
+                    "toponym_translit_other": "Taraǧīlaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

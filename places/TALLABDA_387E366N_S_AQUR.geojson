@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [38.72906, 36.69218], "type": "Point"}, "properties": {"arBW": "Tall Abda", "arTitle": "\u062a\u0644 \u0639\u0628\u062f\u0627", "arTitleOther": "\u062a\u0644 \u0639\u0628\u062f\u0627", "lat": "36.69218", "lon": "38.72906", "region": "Aqur", "searchNames": "Tall Abda", "topType": "waystations", "topTypeAlt": "etape", "topURI": "TALLABDA_387E366N_S_AQUR", "translitTitle": "Tall \u02bfAbd\u0101", "translitTitleOther": "Tall \u02bfAbd\u0101"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    38.72906,
+                    36.69218
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.69218",
+                    "coord_lon": "38.72906",
+                    "cornu_URI": "TALLABDA_387E366N_S_AQUR",
+                    "region_code": 2,
+                    "region_spelled": "Aqur",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "تل عبدا",
+                    "toponym_arabic_other": "تل عبدا",
+                    "toponym_buckwalter": "Tall Abda",
+                    "toponym_search": "Tall Abda",
+                    "toponym_translit": "Tall ʿAbdā",
+                    "toponym_translit_other": "Tall ʿAbdā"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

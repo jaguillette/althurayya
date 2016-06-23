@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [45.29796, 31.98716], "type": "Point"}, "properties": {"arBW": "al-Bataih, al-Batiha", "arTitle": "\ufb50\u0644\u0628\u0637\u0627\u0626\u062d", "arTitleOther": "\ufb50\u0644\u0628\u0637\u0627\u0626\u062d\u060c \ufb50\u0644\u0628\u0637\u064a\u062d\u0629", "lat": "31.98716", "lon": "45.29796", "region": "Iraq", "searchNames": "al-Bataih, al-Batiha", "topType": "regions", "topTypeAlt": "region", "topURI": "BATAIH_452E319N_R_IRAQ", "translitTitle": "al-Ba\u1e6d\u0101\u02bei\u1e25", "translitTitleOther": "al-Ba\u1e6d\u0101\u02bei\u1e25, al-Ba\u1e6d\u012b\u1e25a\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    45.29796,
+                    31.98716
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.98716",
+                    "coord_lon": "45.29796",
+                    "cornu_URI": "BATAIH_452E319N_R_IRAQ",
+                    "region_code": 7,
+                    "region_spelled": "Iraq",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "ﭐلبطائح",
+                    "toponym_arabic_other": "ﭐلبطائح، ﭐلبطيحة",
+                    "toponym_buckwalter": "al-Bataih, al-Batiha",
+                    "toponym_search": "al-Bataih, al-Batiha",
+                    "toponym_translit": "al-Baṭāʾiḥ",
+                    "toponym_translit_other": "al-Baṭāʾiḥ, al-Baṭīḥaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

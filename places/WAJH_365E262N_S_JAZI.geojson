@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [36.5001, 26.29359], "type": "Point"}, "properties": {"arBW": "al-Wajh", "arTitle": "\ufb50\u0644\u0648\u062c\u0647", "arTitleOther": "\ufb50\u0644\u0648\u062c\u0647", "lat": "26.29359", "lon": "36.50010", "region": "Jazirat al-Arab", "searchNames": "al-Wajh", "topType": "waystations", "topTypeAlt": "etape", "topURI": "WAJH_365E262N_S_JAZI", "translitTitle": "al-Wa\u01e7h", "translitTitleOther": "al-Wa\u01e7h"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    36.5001,
+                    26.29359
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "26.29359",
+                    "coord_lon": "36.50010",
+                    "cornu_URI": "WAJH_365E262N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "ﭐلوجه",
+                    "toponym_arabic_other": "ﭐلوجه",
+                    "toponym_buckwalter": "al-Wajh",
+                    "toponym_search": "al-Wajh",
+                    "toponym_translit": "al-Waǧh",
+                    "toponym_translit_other": "al-Waǧh"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

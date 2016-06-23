@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [37.07106, 35.00401], "type": "Point"}, "properties": {"arBW": "Salamiyya", "arTitle": "\u0633\u0644\u0645\u064a\u0629", "arTitleOther": "\u0633\u0644\u0645\u064a\u0629", "lat": "35.00401", "lon": "37.07106", "region": "Sham", "searchNames": "Salamiyya", "topType": "towns", "topTypeAlt": "cite", "topURI": "SALAMIYYA_370E350N_S_SHAM", "translitTitle": "Salamiyya\u0167", "translitTitleOther": "Salamiyya\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    37.07106,
+                    35.00401
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.00401",
+                    "coord_lon": "37.07106",
+                    "cornu_URI": "SALAMIYYA_370E350N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "سلمية",
+                    "toponym_arabic_other": "سلمية",
+                    "toponym_buckwalter": "Salamiyya",
+                    "toponym_search": "Salamiyya",
+                    "toponym_translit": "Salamiyyaŧ",
+                    "toponym_translit_other": "Salamiyyaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

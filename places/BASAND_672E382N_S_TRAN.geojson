@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [67.24396, 38.21375], "type": "Point"}, "properties": {"arBW": "Basand", "arTitle": "\u0628\u0627\u0633\u0646\u062f", "arTitleOther": "\u0628\u0627\u0633\u0646\u062f", "lat": "38.21375", "lon": "67.24396", "region": "Transoxiana", "searchNames": "Basand", "topType": "towns", "topTypeAlt": "cite", "topURI": "BASAND_672E382N_S_TRAN", "translitTitle": "B\u0101sand", "translitTitleOther": "B\u0101sand"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    67.24396,
+                    38.21375
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "38.21375",
+                    "coord_lon": "67.24396",
+                    "cornu_URI": "BASAND_672E382N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "باسند",
+                    "toponym_arabic_other": "باسند",
+                    "toponym_buckwalter": "Basand",
+                    "toponym_search": "Basand",
+                    "toponym_translit": "Bāsand",
+                    "toponym_translit_other": "Bāsand"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

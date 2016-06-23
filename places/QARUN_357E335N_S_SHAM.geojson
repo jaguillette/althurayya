@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [35.71229, 33.57083], "type": "Point"}, "properties": {"arBW": "al-Qarun", "arTitle": "\ufb50\u0644\u0642\u0631\u0639\u0648\u0646", "arTitleOther": "\ufb50\u0644\u0642\u0631\u0639\u0648\u0646", "lat": "33.57083", "lon": "35.71229", "region": "Sham", "searchNames": "al-Qarun", "topType": "waystations", "topTypeAlt": "etape", "topURI": "QARUN_357E335N_S_SHAM", "translitTitle": "al-Qar\u02bf\u016bn", "translitTitleOther": "al-Qar\u02bf\u016bn"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    35.71229,
+                    33.57083
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.57083",
+                    "coord_lon": "35.71229",
+                    "cornu_URI": "QARUN_357E335N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "ﭐلقرعون",
+                    "toponym_arabic_other": "ﭐلقرعون",
+                    "toponym_buckwalter": "al-Qarun",
+                    "toponym_search": "al-Qarun",
+                    "toponym_translit": "al-Qarʿūn",
+                    "toponym_translit_other": "al-Qarʿūn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

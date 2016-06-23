@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [44.54578, 32.25849], "type": "Point"}, "properties": {"arBW": "Bada, Buda", "arTitle": "\u0628\u062f\u0627\u0629", "arTitleOther": "\u0628\u062f\u0627\u0629\u060c \u0628\u062f\u0627\u0629", "lat": "32.25849", "lon": "44.54578", "region": "Iraq", "searchNames": "Bada, Buda", "topType": "towns", "topTypeAlt": "canton", "topURI": "BADA_445E322N_S_IRAQ", "translitTitle": "Bad\u0101\u0167", "translitTitleOther": "Bad\u0101\u0167, Bud\u0101\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    44.54578,
+                    32.25849
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.25849",
+                    "coord_lon": "44.54578",
+                    "cornu_URI": "BADA_445E322N_S_IRAQ",
+                    "region_code": 7,
+                    "region_spelled": "Iraq",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "canton",
+                    "toponym_arabic": "بداة",
+                    "toponym_arabic_other": "بداة، بداة",
+                    "toponym_buckwalter": "Bada, Buda",
+                    "toponym_search": "Bada, Buda",
+                    "toponym_translit": "Badāŧ",
+                    "toponym_translit_other": "Badāŧ, Budāŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

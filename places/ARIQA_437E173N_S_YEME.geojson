@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [43.71306, 17.31174], "type": "Point"}, "properties": {"arBW": "Ariqa", "arTitle": "\u0639\u0631\u0642\u0629", "arTitleOther": "\u0639\u0631\u0642\u0629", "lat": "17.31174", "lon": "43.71306", "region": "Yemen", "searchNames": "Ariqa", "topType": "waystations", "topTypeAlt": "etape", "topURI": "ARIQA_437E173N_S_YEME", "translitTitle": "\u02bfAriqa\u0167", "translitTitleOther": "\u02bfAriqa\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    43.71306,
+                    17.31174
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "17.31174",
+                    "coord_lon": "43.71306",
+                    "cornu_URI": "ARIQA_437E173N_S_YEME",
+                    "region_code": 21,
+                    "region_spelled": "Yemen",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "عرقة",
+                    "toponym_arabic_other": "عرقة",
+                    "toponym_buckwalter": "Ariqa",
+                    "toponym_search": "Ariqa",
+                    "toponym_translit": "ʿAriqaŧ",
+                    "toponym_translit_other": "ʿAriqaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

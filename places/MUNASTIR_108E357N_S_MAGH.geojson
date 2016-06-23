@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [10.80402, 35.75548], "type": "Point"}, "properties": {"arBW": "Munastir", "arTitle": "\u0645\u0646\u0633\u062a\u064a\u0631", "arTitleOther": "\u0645\u0646\u0633\u062a\u064a\u0631", "lat": "35.75548", "lon": "10.80402", "region": "Maghrib", "searchNames": "Munastir", "topType": "towns", "topTypeAlt": "cite", "topURI": "MUNASTIR_108E357N_S_MAGH", "translitTitle": "Munast\u012br", "translitTitleOther": "Munast\u012br"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    10.80402,
+                    35.75548
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.75548",
+                    "coord_lon": "10.80402",
+                    "cornu_URI": "MUNASTIR_108E357N_S_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "منستير",
+                    "toponym_arabic_other": "منستير",
+                    "toponym_buckwalter": "Munastir",
+                    "toponym_search": "Munastir",
+                    "toponym_translit": "Munastīr",
+                    "toponym_translit_other": "Munastīr"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

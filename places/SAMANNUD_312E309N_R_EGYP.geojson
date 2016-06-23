@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [31.24509, 30.94986], "type": "Point"}, "properties": {"arBW": "Samannud", "arTitle": "\u0633\u0645\u0646\u0648\u062f", "arTitleOther": "\u0633\u0645\u0646\u0648\u062f", "lat": "30.94986", "lon": "31.24509", "region": "Egypt", "searchNames": "Samannud", "topType": "regions", "topTypeAlt": "district", "topURI": "SAMANNUD_312E309N_R_EGYP", "translitTitle": "Samann\u016bd", "translitTitleOther": "Samann\u016bd"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    31.24509,
+                    30.94986
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.94986",
+                    "coord_lon": "31.24509",
+                    "cornu_URI": "SAMANNUD_312E309N_R_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "district",
+                    "toponym_arabic": "سمنود",
+                    "toponym_arabic_other": "سمنود",
+                    "toponym_buckwalter": "Samannud",
+                    "toponym_search": "Samannud",
+                    "toponym_translit": "Samannūd",
+                    "toponym_translit_other": "Samannūd"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

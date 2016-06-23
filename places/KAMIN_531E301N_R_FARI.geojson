@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [53.16106, 30.17019], "type": "Point"}, "properties": {"arBW": "Kamin", "arTitle": "\u0643\u0645\u064a\u0646", "arTitleOther": "\u0643\u0645\u064a\u0646", "lat": "30.17019", "lon": "53.16106", "region": "Faris", "searchNames": "Kamin", "topType": "regions", "topTypeAlt": "district", "topURI": "KAMIN_531E301N_R_FARI", "translitTitle": "Kam\u012bn", "translitTitleOther": "Kam\u012bn"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    53.16106,
+                    30.17019
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.17019",
+                    "coord_lon": "53.16106",
+                    "cornu_URI": "KAMIN_531E301N_R_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "district",
+                    "toponym_arabic": "كمين",
+                    "toponym_arabic_other": "كمين",
+                    "toponym_buckwalter": "Kamin",
+                    "toponym_search": "Kamin",
+                    "toponym_translit": "Kamīn",
+                    "toponym_translit_other": "Kamīn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

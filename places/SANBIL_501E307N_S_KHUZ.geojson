@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [50.14499, 30.7244], "type": "Point"}, "properties": {"arBW": "Sanbil, Suq Sanbil", "arTitle": "\u0633\u0646\u0628\u064a\u0644", "arTitleOther": "\u0633\u0646\u0628\u064a\u0644\u060c \u0633\u0648\u0642 \u0633\u0646\u0628\u064a\u0644", "lat": "30.72440", "lon": "50.14499", "region": "Khuzistan", "searchNames": "Sanbil, Suq Sanbil", "topType": "towns", "topTypeAlt": "cite", "topURI": "SANBIL_501E307N_S_KHUZ", "translitTitle": "Sanb\u012bl", "translitTitleOther": "Sanb\u012bl, S\u016bq Sanb\u012bl"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    50.14499,
+                    30.7244
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.72440",
+                    "coord_lon": "50.14499",
+                    "cornu_URI": "SANBIL_501E307N_S_KHUZ",
+                    "region_code": 11,
+                    "region_spelled": "Khuzistan",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "سنبيل",
+                    "toponym_arabic_other": "سنبيل، سوق سنبيل",
+                    "toponym_buckwalter": "Sanbil, Suq Sanbil",
+                    "toponym_search": "Sanbil, Suq Sanbil",
+                    "toponym_translit": "Sanbīl",
+                    "toponym_translit_other": "Sanbīl, Sūq Sanbīl"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [33.05753, 31.14397], "type": "Point"}, "properties": {"arBW": "Dayr al-Nasara, Hisn al-Nasara, al-Qasr", "arTitle": "\u062f\u064a\u0631 \ufb50\u0644\u0646\u0635\u0627\u0631\u0649", "arTitleOther": "\u062f\u064a\u0631 \ufb50\u0644\u0646\u0635\u0627\u0631\u0649\u060c \u062d\u0635\u0646 \ufb50\u0644\u0646\u0635\u0627\u0631\u0649\u060c \ufb50\u0644\u0642\u0635\u0631", "lat": "31.14397", "lon": "33.05753", "region": "Egypt", "searchNames": "Dayr al-Nasara, Hisn al-Nasara, al-Qasr", "topType": "waystations", "topTypeAlt": "etape", "topURI": "DAYRNASARA_330E311N_S_EGYP", "translitTitle": "Dayr al-Na\u1e63\u0101r\u00e1", "translitTitleOther": "Dayr al-Na\u1e63\u0101r\u00e1, \u1e24i\u1e63n al-Na\u1e63\u0101r\u00e1, al-Qa\u1e63r"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    33.05753,
+                    31.14397
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.14397",
+                    "coord_lon": "33.05753",
+                    "cornu_URI": "DAYRNASARA_330E311N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "دير ﭐلنصارى",
+                    "toponym_arabic_other": "دير ﭐلنصارى، حصن ﭐلنصارى، ﭐلقصر",
+                    "toponym_buckwalter": "Dayr al-Nasara, Hisn al-Nasara, al-Qasr",
+                    "toponym_search": "Dayr al-Nasara, Hisn al-Nasara, al-Qasr",
+                    "toponym_translit": "Dayr al-Naṣārá",
+                    "toponym_translit_other": "Dayr al-Naṣārá, Ḥiṣn al-Naṣārá, al-Qaṣr"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

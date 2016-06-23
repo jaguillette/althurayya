@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [51.51373, 29.57692], "type": "Point"}, "properties": {"arBW": "Kumarij", "arTitle": "\u0643\u0645\u0627\u0631\u062c", "arTitleOther": "\u0643\u0645\u0627\u0631\u062c", "lat": "29.57692", "lon": "51.51373", "region": "Faris", "searchNames": "Kumarij", "topType": "towns", "topTypeAlt": "ville", "topURI": "KUMARIJ_515E295N_S_FARI", "translitTitle": "Kum\u0101ri\u01e7", "translitTitleOther": "Kum\u0101ri\u01e7"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    51.51373,
+                    29.57692
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "29.57692",
+                    "coord_lon": "51.51373",
+                    "cornu_URI": "KUMARIJ_515E295N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "ville",
+                    "toponym_arabic": "كمارج",
+                    "toponym_arabic_other": "كمارج",
+                    "toponym_buckwalter": "Kumarij",
+                    "toponym_search": "Kumarij",
+                    "toponym_translit": "Kumāriǧ",
+                    "toponym_translit_other": "Kumāriǧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

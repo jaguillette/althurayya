@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [-2.50099, 36.86202], "type": "Point"}, "properties": {"arBW": "al-Mariyya", "arTitle": "\ufb50\u0644\u0645\u0631\u064a\u0629", "arTitleOther": "\ufb50\u0644\u0645\u0631\u064a\u0629", "lat": "36.86202", "lon": "-2.50099", "region": "Andalus", "searchNames": "al-Mariyya", "topType": "towns", "topTypeAlt": "cite", "topURI": "MARIYYA_025W368N_S_ANDA", "translitTitle": "al-Mariyya\u0167", "translitTitleOther": "al-Mariyya\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.50099,
+                    36.86202
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.86202",
+                    "coord_lon": "-2.50099",
+                    "cornu_URI": "MARIYYA_025W368N_S_ANDA",
+                    "region_code": 1,
+                    "region_spelled": "Andalus",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ﭐلمرية",
+                    "toponym_arabic_other": "ﭐلمرية",
+                    "toponym_buckwalter": "al-Mariyya",
+                    "toponym_search": "al-Mariyya",
+                    "toponym_translit": "al-Mariyyaŧ",
+                    "toponym_translit_other": "al-Mariyyaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

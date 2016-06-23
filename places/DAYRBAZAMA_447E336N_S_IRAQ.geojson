@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [44.70196, 33.60709], "type": "Point"}, "properties": {"arBW": "Dayr Bazama ,  Dayr Tirma", "arTitle": "\u062f\u064a\u0631 \u0628\u0627\u0632\u0645\u0629 ", "arTitleOther": "\u062f\u064a\u0631 \u0628\u0627\u0632\u0645\u0629 \u060c  \u062f\u064a\u0631 \u062a\u064a\u0631\u0645\u0629", "lat": "33.60709", "lon": "44.70196", "region": "Iraq", "searchNames": "Dayr Bazama ,  Dayr Tirma", "topType": "waystations", "topTypeAlt": "etape", "topURI": "DAYRBAZAMA_447E336N_S_IRAQ", "translitTitle": "Dayr B\u0101zama\u0167 ", "translitTitleOther": "Dayr B\u0101zama\u0167 ,  Dayr T\u012brma\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    44.70196,
+                    33.60709
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.60709",
+                    "coord_lon": "44.70196",
+                    "cornu_URI": "DAYRBAZAMA_447E336N_S_IRAQ",
+                    "region_code": 7,
+                    "region_spelled": "Iraq",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "دير بازمة ",
+                    "toponym_arabic_other": "دير بازمة ،  دير تيرمة",
+                    "toponym_buckwalter": "Dayr Bazama ,  Dayr Tirma",
+                    "toponym_search": "Dayr Bazama ,  Dayr Tirma",
+                    "toponym_translit": "Dayr Bāzamaŧ ",
+                    "toponym_translit_other": "Dayr Bāzamaŧ ,  Dayr Tīrmaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

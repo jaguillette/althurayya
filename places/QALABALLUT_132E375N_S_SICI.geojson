@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [13.21986, 37.57066], "type": "Point"}, "properties": {"arBW": "Qala al-Ballut", "arTitle": "\u0642\u0644\u0639\u0629 \ufb50\u0644\u0628\u0644\u0648\u0637", "arTitleOther": "\u0642\u0644\u0639\u0629 \ufb50\u0644\u0628\u0644\u0648\u0637", "lat": "37.57066", "lon": "13.21986", "region": "Sicile", "searchNames": "Qala al-Ballut", "topType": "towns", "topTypeAlt": "cite", "topURI": "QALABALLUT_132E375N_S_SICI", "translitTitle": "Qal\u02bfa\u0167 al-Ball\u016b\u1e6d", "translitTitleOther": "Qal\u02bfa\u0167 al-Ball\u016b\u1e6d"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    13.21986,
+                    37.57066
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.57066",
+                    "coord_lon": "13.21986",
+                    "cornu_URI": "QALABALLUT_132E375N_S_SICI",
+                    "region_code": 17,
+                    "region_spelled": "Sicile",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "قلعة ﭐلبلوط",
+                    "toponym_arabic_other": "قلعة ﭐلبلوط",
+                    "toponym_buckwalter": "Qala al-Ballut",
+                    "toponym_search": "Qala al-Ballut",
+                    "toponym_translit": "Qalʿaŧ al-Ballūṭ",
+                    "toponym_translit_other": "Qalʿaŧ al-Ballūṭ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [52.79142, 31.05956], "type": "Point"}, "properties": {"arBW": "Sarmaq, al-Surmaq", "arTitle": "\u0633\u0631\u0645\u0642", "arTitleOther": "\u0633\u0631\u0645\u0642\u060c \ufb50\u0644\u0633\u0631\u0645\u0642", "lat": "31.05956", "lon": "52.79142", "region": "Faris", "searchNames": "Sarmaq, al-Surmaq", "topType": "towns", "topTypeAlt": "cite", "topURI": "SARMAQ_527E310N_S_FARI", "translitTitle": "Sarmaq", "translitTitleOther": "Sarmaq, al-Surmaq"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    52.79142,
+                    31.05956
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.05956",
+                    "coord_lon": "52.79142",
+                    "cornu_URI": "SARMAQ_527E310N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "سرمق",
+                    "toponym_arabic_other": "سرمق، ﭐلسرمق",
+                    "toponym_buckwalter": "Sarmaq, al-Surmaq",
+                    "toponym_search": "Sarmaq, al-Surmaq",
+                    "toponym_translit": "Sarmaq",
+                    "toponym_translit_other": "Sarmaq, al-Surmaq"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

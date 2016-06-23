@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [36.74697, 35.63129], "type": "Point"}, "properties": {"arBW": "Tall Mannas", "arTitle": "\u062a\u0644 \u0645\u0646\u0633", "arTitleOther": "\u062a\u0644 \u0645\u0646\u0633", "lat": "35.63129", "lon": "36.74697", "region": "Sham", "searchNames": "Tall Mannas", "topType": "regions", "topTypeAlt": "district", "topURI": "TALLMANNAS_367E356N_R_SHAM", "translitTitle": "Tall Mannas", "translitTitleOther": "Tall Mannas"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    36.74697,
+                    35.63129
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.63129",
+                    "coord_lon": "36.74697",
+                    "cornu_URI": "TALLMANNAS_367E356N_R_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "district",
+                    "toponym_arabic": "تل منس",
+                    "toponym_arabic_other": "تل منس",
+                    "toponym_buckwalter": "Tall Mannas",
+                    "toponym_search": "Tall Mannas",
+                    "toponym_translit": "Tall Mannas",
+                    "toponym_translit_other": "Tall Mannas"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [-3.64184, 33.37702], "type": "Point"}, "properties": {"arBW": "Wadi Malwiyya", "arTitle": "\u0648\u0627\u062f\u064a \u0645\u0644\u0648\u064a\u0629", "arTitleOther": "\u0648\u0627\u062f\u064a \u0645\u0644\u0648\u064a\u0629", "lat": "33.37702", "lon": "-3.64184", "region": "Maghrib", "searchNames": "Wadi Malwiyya", "topType": "waters", "topTypeAlt": "wadi", "topURI": "WADIMALWIYYA_036W333N_W_MAGH", "translitTitle": "W\u0101d\u012b Malwiyya\u0167", "translitTitleOther": "W\u0101d\u012b Malwiyya\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.64184,
+                    33.37702
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.37702",
+                    "coord_lon": "-3.64184",
+                    "cornu_URI": "WADIMALWIYYA_036W333N_W_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "wadi",
+                    "toponym_arabic": "وادي ملوية",
+                    "toponym_arabic_other": "وادي ملوية",
+                    "toponym_buckwalter": "Wadi Malwiyya",
+                    "toponym_search": "Wadi Malwiyya",
+                    "toponym_translit": "Wādī Malwiyyaŧ",
+                    "toponym_translit_other": "Wādī Malwiyyaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

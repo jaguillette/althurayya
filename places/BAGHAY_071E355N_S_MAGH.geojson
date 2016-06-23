@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [7.12454, 35.50598], "type": "Point"}, "properties": {"arBW": "Baghay", "arTitle": "\u0628\u0627\u063a\u0627\u064a", "arTitleOther": "\u0628\u0627\u063a\u0627\u064a", "lat": "35.50598", "lon": "7.12454", "region": "Maghrib", "searchNames": "Baghay", "topType": "towns", "topTypeAlt": "cite", "topURI": "BAGHAY_071E355N_S_MAGH", "translitTitle": "B\u0101\u0121\u0101y", "translitTitleOther": "B\u0101\u0121\u0101y"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    7.12454,
+                    35.50598
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.50598",
+                    "coord_lon": "7.12454",
+                    "cornu_URI": "BAGHAY_071E355N_S_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "باغاي",
+                    "toponym_arabic_other": "باغاي",
+                    "toponym_buckwalter": "Baghay",
+                    "toponym_search": "Baghay",
+                    "toponym_translit": "Bāġāy",
+                    "toponym_translit_other": "Bāġāy"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

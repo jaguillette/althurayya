@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [75.81567, 41.16025], "type": "Point"}, "properties": {"arBW": "Atbash, Tabash", "arTitle": "\u0623\u0637\u0628\u0627\u0634", "arTitleOther": "\u0623\u0637\u0628\u0627\u0634\u060c \u0637\u0628\u0627\u0634", "lat": "41.16025", "lon": "75.81567", "region": "Transoxiana", "searchNames": "Atbash, Tabash", "topType": "villages", "topTypeAlt": "localite", "topURI": "ATBASH_758E411N_S_TRAN", "translitTitle": "A\u1e6db\u0101\u0161", "translitTitleOther": "A\u1e6db\u0101\u0161, \u1e6cab\u0101\u0161"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    75.81567,
+                    41.16025
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "41.16025",
+                    "coord_lon": "75.81567",
+                    "cornu_URI": "ATBASH_758E411N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "أطباش",
+                    "toponym_arabic_other": "أطباش، طباش",
+                    "toponym_buckwalter": "Atbash, Tabash",
+                    "toponym_search": "Atbash, Tabash",
+                    "toponym_translit": "Aṭbāš",
+                    "toponym_translit_other": "Aṭbāš, Ṭabāš"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

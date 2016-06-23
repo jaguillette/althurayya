@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [35.28606, 33.45495], "type": "Point"}, "properties": {"arBW": "Sarafanda", "arTitle": "\u0635\u0631\u0641\u0646\u062f\u0629", "arTitleOther": "\u0635\u0631\u0641\u0646\u062f\u0629", "lat": "33.45495", "lon": "35.28606", "region": "Sham", "searchNames": "Sarafanda", "topType": "towns", "topTypeAlt": "cite", "topURI": "SARAFANDA_352E334N_S_SHAM", "translitTitle": "\u1e62arafanda\u0167", "translitTitleOther": "\u1e62arafanda\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    35.28606,
+                    33.45495
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.45495",
+                    "coord_lon": "35.28606",
+                    "cornu_URI": "SARAFANDA_352E334N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "صرفندة",
+                    "toponym_arabic_other": "صرفندة",
+                    "toponym_buckwalter": "Sarafanda",
+                    "toponym_search": "Sarafanda",
+                    "toponym_translit": "Ṣarafandaŧ",
+                    "toponym_translit_other": "Ṣarafandaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [-4.22025, 37.87073], "type": "Point"}, "properties": {"arBW": "Hisn Bulkuna", "arTitle": "\u062d\u0635\u0646 \u0628\u0644\u0643\u0648\u0646\u0629", "arTitleOther": "\u062d\u0635\u0646 \u0628\u0644\u0643\u0648\u0646\u0629", "lat": "37.87073", "lon": "-4.22025", "region": "Andalus", "searchNames": "Hisn Bulkuna", "topType": "towns", "topTypeAlt": "cite", "topURI": "HISNBULKUNA_042W378N_S_ANDA", "translitTitle": "\u1e24i\u1e63n Bulk\u016bna\u0167", "translitTitleOther": "\u1e24i\u1e63n Bulk\u016bna\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -4.22025,
+                    37.87073
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.87073",
+                    "coord_lon": "-4.22025",
+                    "cornu_URI": "HISNBULKUNA_042W378N_S_ANDA",
+                    "region_code": 1,
+                    "region_spelled": "Andalus",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "حصن بلكونة",
+                    "toponym_arabic_other": "حصن بلكونة",
+                    "toponym_buckwalter": "Hisn Bulkuna",
+                    "toponym_search": "Hisn Bulkuna",
+                    "toponym_translit": "Ḥiṣn Bulkūnaŧ",
+                    "toponym_translit_other": "Ḥiṣn Bulkūnaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

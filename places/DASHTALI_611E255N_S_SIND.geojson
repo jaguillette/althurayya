@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [61.15124, 25.58676], "type": "Point"}, "properties": {"arBW": "Dasht Ali", "arTitle": "\u062f\u0634\u062a \u0639\u0644\u064a", "arTitleOther": "\u062f\u0634\u062a \u0639\u0644\u064a", "lat": "25.58676", "lon": "61.15124", "region": "Sind", "searchNames": "Dasht Ali", "topType": "towns", "topTypeAlt": "cite", "topURI": "DASHTALI_611E255N_S_SIND", "translitTitle": "Da\u0161t \u02bfAl\u012b", "translitTitleOther": "Da\u0161t \u02bfAl\u012b"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    61.15124,
+                    25.58676
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "25.58676",
+                    "coord_lon": "61.15124",
+                    "cornu_URI": "DASHTALI_611E255N_S_SIND",
+                    "region_code": 19,
+                    "region_spelled": "Sind",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "دشت علي",
+                    "toponym_arabic_other": "دشت علي",
+                    "toponym_buckwalter": "Dasht Ali",
+                    "toponym_search": "Dasht Ali",
+                    "toponym_translit": "Dašt ʿAlī",
+                    "toponym_translit_other": "Dašt ʿAlī"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

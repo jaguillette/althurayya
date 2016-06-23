@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [36.19234, 36.57473], "type": "Point"}, "properties": {"arBW": "Iskandaruna, Iskandariya", "arTitle": "\u0625\u0633\u0643\u0646\u062f\u0631\u0648\u0646\u0629", "arTitleOther": "\u0625\u0633\u0643\u0646\u062f\u0631\u0648\u0646\u0629\u060c \u0625\u0633\u0643\u0646\u062f\u0631\u064a\u064a\u0629", "lat": "36.57473", "lon": "36.19234", "region": "Sham", "searchNames": "Iskandaruna, Iskandariya", "topType": "towns", "topTypeAlt": "cite", "topURI": "ISKANDARUNA_361E365N_S_SHAM", "translitTitle": "Iskandar\u016bna\u0167", "translitTitleOther": "Iskandar\u016bna\u0167, Iskandar\u012bya\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    36.19234,
+                    36.57473
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.57473",
+                    "coord_lon": "36.19234",
+                    "cornu_URI": "ISKANDARUNA_361E365N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "إسكندرونة",
+                    "toponym_arabic_other": "إسكندرونة، إسكندريية",
+                    "toponym_buckwalter": "Iskandaruna, Iskandariya",
+                    "toponym_search": "Iskandaruna, Iskandariya",
+                    "toponym_translit": "Iskandarūnaŧ",
+                    "toponym_translit_other": "Iskandarūnaŧ, Iskandarīyaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

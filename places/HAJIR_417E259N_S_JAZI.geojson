@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [41.75129, 25.9691], "type": "Point"}, "properties": {"arBW": "al-Hajir", "arTitle": "\ufb50\u0644\u062d\u0627\u062c\u0631", "arTitleOther": "\ufb50\u0644\u062d\u0627\u062c\u0631", "lat": "25.96910", "lon": "41.75129", "region": "Jazirat al-Arab", "searchNames": "al-Hajir", "topType": "waystations", "topTypeAlt": "etape", "topURI": "HAJIR_417E259N_S_JAZI", "translitTitle": "al-\u1e24\u0101\u01e7ir", "translitTitleOther": "al-\u1e24\u0101\u01e7ir"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    41.75129,
+                    25.9691
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "25.96910",
+                    "coord_lon": "41.75129",
+                    "cornu_URI": "HAJIR_417E259N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "ﭐلحاجر",
+                    "toponym_arabic_other": "ﭐلحاجر",
+                    "toponym_buckwalter": "al-Hajir",
+                    "toponym_search": "al-Hajir",
+                    "toponym_translit": "al-Ḥāǧir",
+                    "toponym_translit_other": "al-Ḥāǧir"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

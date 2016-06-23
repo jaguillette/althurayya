@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [60.05406, 31.5777], "type": "Point"}, "properties": {"arBW": "Nih, Nih", "arTitle": "\u0646\u0647", "arTitleOther": "\u0646\u0647\u060c \u0646\u064a\u0647", "lat": "31.57770", "lon": "60.05406", "region": "Sijistan", "searchNames": "Nih, Nih", "topType": "towns", "topTypeAlt": "cite", "topURI": "NIH_600E315N_S_SIJI", "translitTitle": "Nih", "translitTitleOther": "Nih, N\u012bh"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    60.05406,
+                    31.5777
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.57770",
+                    "coord_lon": "60.05406",
+                    "cornu_URI": "NIH_600E315N_S_SIJI",
+                    "region_code": 18,
+                    "region_spelled": "Sijistan",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "نه",
+                    "toponym_arabic_other": "نه، نيه",
+                    "toponym_buckwalter": "Nih, Nih",
+                    "toponym_search": "Nih, Nih",
+                    "toponym_translit": "Nih",
+                    "toponym_translit_other": "Nih, Nīh"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

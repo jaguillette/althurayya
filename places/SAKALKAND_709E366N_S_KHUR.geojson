@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [70.91488, 36.65244], "type": "Point"}, "properties": {"arBW": "Sakalkand, Iskalkand", "arTitle": "\u0633\u0643\u0644\u0643\u0646\u062f", "arTitleOther": "\u0633\u0643\u0644\u0643\u0646\u062f\u060c \u0625\u0633\u0643\u0644\u0643\u0646\u062f", "lat": "36.65244", "lon": "70.91488", "region": "Khurasan", "searchNames": "Sakalkand, Iskalkand", "topType": "towns", "topTypeAlt": "cite", "topURI": "SAKALKAND_709E366N_S_KHUR", "translitTitle": "Sakalkand", "translitTitleOther": "Sakalkand, Iskalkand"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    70.91488,
+                    36.65244
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.65244",
+                    "coord_lon": "70.91488",
+                    "cornu_URI": "SAKALKAND_709E366N_S_KHUR",
+                    "region_code": 10,
+                    "region_spelled": "Khurasan",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "سكلكند",
+                    "toponym_arabic_other": "سكلكند، إسكلكند",
+                    "toponym_buckwalter": "Sakalkand, Iskalkand",
+                    "toponym_search": "Sakalkand, Iskalkand",
+                    "toponym_translit": "Sakalkand",
+                    "toponym_translit_other": "Sakalkand, Iskalkand"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [43.41491, 29.08495], "type": "Point"}, "properties": {"arBW": "al-Shuquq", "arTitle": "\ufb50\u0644\u0634\u0642\u0648\u0642", "arTitleOther": "\ufb50\u0644\u0634\u0642\u0648\u0642", "lat": "29.08495", "lon": "43.41491", "region": "Badiyat al-Arab", "searchNames": "al-Shuquq", "topType": "waystations", "topTypeAlt": "etape", "topURI": "SHUQUQ_434E290N_S_BADI", "translitTitle": "al-\u0160uq\u016bq", "translitTitleOther": "al-\u0160uq\u016bq"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    43.41491,
+                    29.08495
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "29.08495",
+                    "coord_lon": "43.41491",
+                    "cornu_URI": "SHUQUQ_434E290N_S_BADI",
+                    "region_code": 23,
+                    "region_spelled": "Badiyat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "ﭐلشقوق",
+                    "toponym_arabic_other": "ﭐلشقوق",
+                    "toponym_buckwalter": "al-Shuquq",
+                    "toponym_search": "al-Shuquq",
+                    "toponym_translit": "al-Šuqūq",
+                    "toponym_translit_other": "al-Šuqūq"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [32.87999, 25.01203], "type": "Point"}, "properties": {"arBW": "Atfu", "arTitle": "\u0623\u062a\u0641\u0648", "arTitleOther": "\u0623\u062a\u0641\u0648", "lat": "25.01203", "lon": "32.87999", "region": "Egypt", "searchNames": "Atfu", "topType": "regions", "topTypeAlt": "district", "topURI": "ATFU_328E250N_R_EGYP", "translitTitle": "Atf\u016b", "translitTitleOther": "Atf\u016b"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    32.87999,
+                    25.01203
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "25.01203",
+                    "coord_lon": "32.87999",
+                    "cornu_URI": "ATFU_328E250N_R_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "district",
+                    "toponym_arabic": "أتفو",
+                    "toponym_arabic_other": "أتفو",
+                    "toponym_buckwalter": "Atfu",
+                    "toponym_search": "Atfu",
+                    "toponym_translit": "Atfū",
+                    "toponym_translit_other": "Atfū"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [62.36792, 40.23331], "type": "Point"}, "properties": {"arBW": "Jikarband", "arTitle": "\u062c\u0643\u0631\u0628\u0646\u062f", "arTitleOther": "\u062c\u0643\u0631\u0628\u0646\u062f", "lat": "40.23331", "lon": "62.36792", "region": "Transoxiana", "searchNames": "Jikarband", "topType": "towns", "topTypeAlt": "cite", "topURI": "JIKARBAND_623E402N_S_TRAN", "translitTitle": "\u01e6ikarband", "translitTitleOther": "\u01e6ikarband"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    62.36792,
+                    40.23331
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "40.23331",
+                    "coord_lon": "62.36792",
+                    "cornu_URI": "JIKARBAND_623E402N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "جكربند",
+                    "toponym_arabic_other": "جكربند",
+                    "toponym_buckwalter": "Jikarband",
+                    "toponym_search": "Jikarband",
+                    "toponym_translit": "Ǧikarband",
+                    "toponym_translit_other": "Ǧikarband"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

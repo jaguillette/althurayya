@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [35.08912, 31.53018], "type": "Point"}, "properties": {"arBW": "Habra, al-Khalil, Habrun, Masjid Ibrahim", "arTitle": "\u062d\u0628\u0631\u0629", "arTitleOther": "\u062d\u0628\u0631\u0629\u060c \ufb50\u0644\u062e\u0644\u064a\u0644\u060c \u062d\u0628\u0631\u0648\u0646\u060c \u0645\u0633\u062c\u062f \u0625\u0628\u0631\u0627\u0647\u064a\u0645", "lat": "31.53018", "lon": "35.08912", "region": "Sham", "searchNames": "Habra, al-Khalil, Habrun, Masjid Ibrahim", "topType": "towns", "topTypeAlt": "cite", "topURI": "HABRA_350E315N_S_SHAM", "translitTitle": "\u1e24abra\u0167", "translitTitleOther": "\u1e24abra\u0167, al-\u1e2aal\u012bl, \u1e24abr\u016bn, Mas\u01e7id Ibr\u0101h\u012bm"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    35.08912,
+                    31.53018
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.53018",
+                    "coord_lon": "35.08912",
+                    "cornu_URI": "HABRA_350E315N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "حبرة",
+                    "toponym_arabic_other": "حبرة، ﭐلخليل، حبرون، مسجد إبراهيم",
+                    "toponym_buckwalter": "Habra, al-Khalil, Habrun, Masjid Ibrahim",
+                    "toponym_search": "Habra, al-Khalil, Habrun, Masjid Ibrahim",
+                    "toponym_translit": "Ḥabraŧ",
+                    "toponym_translit_other": "Ḥabraŧ, al-Ḫalīl, Ḥabrūn, Masǧid Ibrāhīm"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

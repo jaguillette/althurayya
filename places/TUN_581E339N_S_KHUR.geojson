@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [58.11679, 33.92591], "type": "Point"}, "properties": {"arBW": "Tun", "arTitle": "\u062a\u0648\u0646", "arTitleOther": "\u062a\u0648\u0646", "lat": "33.92591", "lon": "58.11679", "region": "Khurasan", "searchNames": "Tun", "topType": "towns", "topTypeAlt": "cite", "topURI": "TUN_581E339N_S_KHUR", "translitTitle": "T\u016bn", "translitTitleOther": "T\u016bn"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    58.11679,
+                    33.92591
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.92591",
+                    "coord_lon": "58.11679",
+                    "cornu_URI": "TUN_581E339N_S_KHUR",
+                    "region_code": 10,
+                    "region_spelled": "Khurasan",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "تون",
+                    "toponym_arabic_other": "تون",
+                    "toponym_buckwalter": "Tun",
+                    "toponym_search": "Tun",
+                    "toponym_translit": "Tūn",
+                    "toponym_translit_other": "Tūn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

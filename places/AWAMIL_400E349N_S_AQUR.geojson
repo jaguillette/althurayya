@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [40.09518, 34.93204], "type": "Point"}, "properties": {"arBW": "al-Awamil", "arTitle": "\ufb50\u0644\u0639\u0648\u0627\u0645\u0644", "arTitleOther": "\ufb50\u0644\u0639\u0648\u0627\u0645\u0644", "lat": "34.93204", "lon": "40.09518", "region": "Aqur", "searchNames": "al-Awamil", "topType": "waystations", "topTypeAlt": "etape", "topURI": "AWAMIL_400E349N_S_AQUR", "translitTitle": "al-\u02bfAw\u0101mil", "translitTitleOther": "al-\u02bfAw\u0101mil"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    40.09518,
+                    34.93204
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.93204",
+                    "coord_lon": "40.09518",
+                    "cornu_URI": "AWAMIL_400E349N_S_AQUR",
+                    "region_code": 2,
+                    "region_spelled": "Aqur",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "ﭐلعوامل",
+                    "toponym_arabic_other": "ﭐلعوامل",
+                    "toponym_buckwalter": "al-Awamil",
+                    "toponym_search": "al-Awamil",
+                    "toponym_translit": "al-ʿAwāmil",
+                    "toponym_translit_other": "al-ʿAwāmil"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [61.72109, 32.01209], "type": "Point"}, "properties": {"arBW": "Nahr Farah", "arTitle": "\u0646\u0647\u0631 \u0641\u0631\u0647", "arTitleOther": "\u0646\u0647\u0631 \u0641\u0631\u0647", "lat": "32.01209", "lon": "61.72109", "region": "Sijistan", "searchNames": "Nahr Farah", "topType": "waters", "topTypeAlt": "riviere", "topURI": "NAHRFARAH_617E320N_W_SIJI", "translitTitle": "Nahr Farah", "translitTitleOther": "Nahr Farah"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    61.72109,
+                    32.01209
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.01209",
+                    "coord_lon": "61.72109",
+                    "cornu_URI": "NAHRFARAH_617E320N_W_SIJI",
+                    "region_code": 18,
+                    "region_spelled": "Sijistan",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "riviere",
+                    "toponym_arabic": "نهر فره",
+                    "toponym_arabic_other": "نهر فره",
+                    "toponym_buckwalter": "Nahr Farah",
+                    "toponym_search": "Nahr Farah",
+                    "toponym_translit": "Nahr Farah",
+                    "toponym_translit_other": "Nahr Farah"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

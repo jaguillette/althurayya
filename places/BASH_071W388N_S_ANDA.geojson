@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [-7.1741, 38.87561], "type": "Point"}, "properties": {"arBW": "al-Bash, Albas", "arTitle": "\ufb50\u0644\u0628\u0634", "arTitleOther": "\ufb50\u0644\u0628\u0634\u060c \u0623\u0644\u0628\u0633", "lat": "38.87561", "lon": "-7.17410", "region": "Andalus", "searchNames": "al-Bash, Albas", "topType": "towns", "topTypeAlt": "cite", "topURI": "BASH_071W388N_S_ANDA", "translitTitle": "al-Ba\u0161", "translitTitleOther": "al-Ba\u0161, Albas"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -7.1741,
+                    38.87561
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "38.87561",
+                    "coord_lon": "-7.17410",
+                    "cornu_URI": "BASH_071W388N_S_ANDA",
+                    "region_code": 1,
+                    "region_spelled": "Andalus",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ﭐلبش",
+                    "toponym_arabic_other": "ﭐلبش، ألبس",
+                    "toponym_buckwalter": "al-Bash, Albas",
+                    "toponym_search": "al-Bash, Albas",
+                    "toponym_translit": "al-Baš",
+                    "toponym_translit_other": "al-Baš, Albas"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

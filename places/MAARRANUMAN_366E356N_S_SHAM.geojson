@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [36.69124, 35.64344], "type": "Point"}, "properties": {"arBW": "Maarra al-Numan", "arTitle": "\u0645\u0639\u0631\u0629 \ufb50\u0644\u0646\u0639\u0645\u0627\u0646", "arTitleOther": "\u0645\u0639\u0631\u0629 \ufb50\u0644\u0646\u0639\u0645\u0627\u0646", "lat": "35.64344", "lon": "36.69124", "region": "Sham", "searchNames": "Maarra al-Numan", "topType": "towns", "topTypeAlt": "cite", "topURI": "MAARRANUMAN_366E356N_S_SHAM", "translitTitle": "Ma\u02bfarra\u0167 al-Nu\u02bfm\u0101n", "translitTitleOther": "Ma\u02bfarra\u0167 al-Nu\u02bfm\u0101n"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    36.69124,
+                    35.64344
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.64344",
+                    "coord_lon": "36.69124",
+                    "cornu_URI": "MAARRANUMAN_366E356N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "معرة ﭐلنعمان",
+                    "toponym_arabic_other": "معرة ﭐلنعمان",
+                    "toponym_buckwalter": "Maarra al-Numan",
+                    "toponym_search": "Maarra al-Numan",
+                    "toponym_translit": "Maʿarraŧ al-Nuʿmān",
+                    "toponym_translit_other": "Maʿarraŧ al-Nuʿmān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

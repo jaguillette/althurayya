@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [-4.053, 37.9204], "type": "Point"}, "properties": {"arBW": "Arjuna", "arTitle": "\u0623\u0631\u062c\u0648\u0646\u0629", "arTitleOther": "\u0623\u0631\u062c\u0648\u0646\u0629", "lat": "37.92040", "lon": "-4.05300", "region": "Andalus", "searchNames": "Arjuna", "topType": "towns", "topTypeAlt": "cite", "topURI": "ARJUNA_040W379N_S_ANDA", "translitTitle": "Ar\u01e7\u016bna\u0167", "translitTitleOther": "Ar\u01e7\u016bna\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -4.053,
+                    37.9204
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.92040",
+                    "coord_lon": "-4.05300",
+                    "cornu_URI": "ARJUNA_040W379N_S_ANDA",
+                    "region_code": 1,
+                    "region_spelled": "Andalus",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "أرجونة",
+                    "toponym_arabic_other": "أرجونة",
+                    "toponym_buckwalter": "Arjuna",
+                    "toponym_search": "Arjuna",
+                    "toponym_translit": "Arǧūnaŧ",
+                    "toponym_translit_other": "Arǧūnaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

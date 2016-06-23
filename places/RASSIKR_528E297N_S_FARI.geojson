@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [52.87257, 29.7751], "type": "Point"}, "properties": {"arBW": "Ras al-Sikr", "arTitle": "\u0631\u0623\u0633 \ufb50\u0644\u0633\u0643\u0631", "arTitleOther": "\u0631\u0623\u0633 \ufb50\u0644\u0633\u0643\u0631", "lat": "29.77510", "lon": "52.87257", "region": "Faris", "searchNames": "Ras al-Sikr", "topType": "waystations", "topTypeAlt": "barrage", "topURI": "RASSIKR_528E297N_S_FARI", "translitTitle": "Ra\u02bes al-Sikr", "translitTitleOther": "Ra\u02bes al-Sikr"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    52.87257,
+                    29.7751
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "29.77510",
+                    "coord_lon": "52.87257",
+                    "cornu_URI": "RASSIKR_528E297N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "barrage",
+                    "toponym_arabic": "رأس ﭐلسكر",
+                    "toponym_arabic_other": "رأس ﭐلسكر",
+                    "toponym_buckwalter": "Ras al-Sikr",
+                    "toponym_search": "Ras al-Sikr",
+                    "toponym_translit": "Raʾs al-Sikr",
+                    "toponym_translit_other": "Raʾs al-Sikr"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

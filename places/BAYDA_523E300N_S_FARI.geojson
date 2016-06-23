@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [52.36712, 30.03958], "type": "Point"}, "properties": {"arBW": "al-Bayda, Nasa", "arTitle": "\ufb50\u0644\u0628\u064a\u0636\u0627\u0621", "arTitleOther": "\ufb50\u0644\u0628\u064a\u0636\u0627\u0621\u060c \u0646\u0633\u0627", "lat": "30.03958", "lon": "52.36712", "region": "Faris", "searchNames": "al-Bayda, Nasa", "topType": "towns", "topTypeAlt": "cite", "topURI": "BAYDA_523E300N_S_FARI", "translitTitle": "al-Bay\u1e0d\u0101\u02be", "translitTitleOther": "al-Bay\u1e0d\u0101\u02be, Nas\u0101"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    52.36712,
+                    30.03958
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.03958",
+                    "coord_lon": "52.36712",
+                    "cornu_URI": "BAYDA_523E300N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ﭐلبيضاء",
+                    "toponym_arabic_other": "ﭐلبيضاء، نسا",
+                    "toponym_buckwalter": "al-Bayda, Nasa",
+                    "toponym_search": "al-Bayda, Nasa",
+                    "toponym_translit": "al-Bayḍāʾ",
+                    "toponym_translit_other": "al-Bayḍāʾ, Nasā"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

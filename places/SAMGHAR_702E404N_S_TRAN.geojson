@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [70.22677, 40.46049], "type": "Point"}, "properties": {"arBW": "Samghar", "arTitle": "\u0635\u0627\u0645\u063a\u0627\u0631", "arTitleOther": "\u0635\u0627\u0645\u063a\u0627\u0631", "lat": "40.46049", "lon": "70.22677", "region": "Transoxiana", "searchNames": "Samghar", "topType": "villages", "topTypeAlt": "localite", "topURI": "SAMGHAR_702E404N_S_TRAN", "translitTitle": "\u1e62\u0101m\u0121\u0101r", "translitTitleOther": "\u1e62\u0101m\u0121\u0101r"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    70.22677,
+                    40.46049
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "40.46049",
+                    "coord_lon": "70.22677",
+                    "cornu_URI": "SAMGHAR_702E404N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "صامغار",
+                    "toponym_arabic_other": "صامغار",
+                    "toponym_buckwalter": "Samghar",
+                    "toponym_search": "Samghar",
+                    "toponym_translit": "Ṣāmġār",
+                    "toponym_translit_other": "Ṣāmġār"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

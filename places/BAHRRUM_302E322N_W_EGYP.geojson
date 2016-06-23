@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [30.28697, 32.20303], "type": "Point"}, "properties": {"arBW": "Bahr al-Rum", "arTitle": "\u0628\u062d\u0631 \ufb50\u0644\u0631\u0648\u0645", "arTitleOther": "\u0628\u062d\u0631 \ufb50\u0644\u0631\u0648\u0645", "lat": "32.20303", "lon": "30.28697", "region": "Egypt", "searchNames": "Bahr al-Rum", "topType": "waters", "topTypeAlt": "mer", "topURI": "BAHRRUM_302E322N_W_EGYP", "translitTitle": "Ba\u1e25r al-R\u016bm", "translitTitleOther": "Ba\u1e25r al-R\u016bm"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    30.28697,
+                    32.20303
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.20303",
+                    "coord_lon": "30.28697",
+                    "cornu_URI": "BAHRRUM_302E322N_W_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "mer",
+                    "toponym_arabic": "بحر ﭐلروم",
+                    "toponym_arabic_other": "بحر ﭐلروم",
+                    "toponym_buckwalter": "Bahr al-Rum",
+                    "toponym_search": "Bahr al-Rum",
+                    "toponym_translit": "Baḥr al-Rūm",
+                    "toponym_translit_other": "Baḥr al-Rūm"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

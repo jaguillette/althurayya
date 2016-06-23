@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [50.95356, 33.08994], "type": "Point"}, "properties": {"arBW": "Marj wa-Zahr", "arTitle": "\u0645\u0631\u062c \u0648\u0632\u0647\u0631", "arTitleOther": "\u0645\u0631\u062c \u0648\u0632\u0647\u0631", "lat": "33.08994", "lon": "50.95356", "region": "Jibal", "searchNames": "Marj wa-Zahr", "topType": "waystations", "topTypeAlt": "etape", "topURI": "MARJWA-ZAHR_509E330N_S_JIBA", "translitTitle": "Mar\u01e7 wa-Zahr", "translitTitleOther": "Mar\u01e7 wa-Zahr"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    50.95356,
+                    33.08994
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.08994",
+                    "coord_lon": "50.95356",
+                    "cornu_URI": "MARJWA-ZAHR_509E330N_S_JIBA",
+                    "region_code": 8,
+                    "region_spelled": "Jibal",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "مرج وزهر",
+                    "toponym_arabic_other": "مرج وزهر",
+                    "toponym_buckwalter": "Marj wa-Zahr",
+                    "toponym_search": "Marj wa-Zahr",
+                    "toponym_translit": "Marǧ wa-Zahr",
+                    "toponym_translit_other": "Marǧ wa-Zahr"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

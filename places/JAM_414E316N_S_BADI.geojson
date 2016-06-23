@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [41.46573, 31.67372], "type": "Point"}, "properties": {"arBW": "al-Jam", "arTitle": "\ufb50\u0644\u062c\u0645\u0639", "arTitleOther": "\ufb50\u0644\u062c\u0645\u0639", "lat": "31.67372", "lon": "41.46573", "region": "Badiyat al-Arab", "searchNames": "al-Jam", "topType": "waystations", "topTypeAlt": "etape", "topURI": "JAM_414E316N_S_BADI", "translitTitle": "al-\u01e6am\u02bf", "translitTitleOther": "al-\u01e6am\u02bf"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    41.46573,
+                    31.67372
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.67372",
+                    "coord_lon": "41.46573",
+                    "cornu_URI": "JAM_414E316N_S_BADI",
+                    "region_code": 23,
+                    "region_spelled": "Badiyat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "ﭐلجمع",
+                    "toponym_arabic_other": "ﭐلجمع",
+                    "toponym_buckwalter": "al-Jam",
+                    "toponym_search": "al-Jam",
+                    "toponym_translit": "al-Ǧamʿ",
+                    "toponym_translit_other": "al-Ǧamʿ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

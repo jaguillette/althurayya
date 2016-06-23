@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [37.19786, 27.92136], "type": "Point"}, "properties": {"arBW": "al-Junayna", "arTitle": "\ufb50\u0644\u062c\u0646\u064a\u0646\u0629", "arTitleOther": "\ufb50\u0644\u062c\u0646\u064a\u0646\u0629", "lat": "27.92136", "lon": "37.19786", "region": "Badiyat al-Arab", "searchNames": "al-Junayna", "topType": "waystations", "topTypeAlt": "etape", "topURI": "JUNAYNA_371E279N_S_BADI", "translitTitle": "al-\u01e6unayna\u0167", "translitTitleOther": "al-\u01e6unayna\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    37.19786,
+                    27.92136
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "27.92136",
+                    "coord_lon": "37.19786",
+                    "cornu_URI": "JUNAYNA_371E279N_S_BADI",
+                    "region_code": 23,
+                    "region_spelled": "Badiyat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "ﭐلجنينة",
+                    "toponym_arabic_other": "ﭐلجنينة",
+                    "toponym_buckwalter": "al-Junayna",
+                    "toponym_search": "al-Junayna",
+                    "toponym_translit": "al-Ǧunaynaŧ",
+                    "toponym_translit_other": "al-Ǧunaynaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

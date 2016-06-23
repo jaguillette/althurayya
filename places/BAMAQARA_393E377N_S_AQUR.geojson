@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [39.3345, 37.75537], "type": "Point"}, "properties": {"arBW": "Bamaqara, Bamaqda", "arTitle": "\u0628\u0627\u0645\u0642\u0631\u0627", "arTitleOther": "\u0628\u0627\u0645\u0642\u0631\u0627\u060c \u0628\u0627\u0645\u0642\u062f\u0629", "lat": "37.75537", "lon": "39.33450", "region": "Aqur", "searchNames": "Bamaqara, Bamaqda", "topType": "waystations", "topTypeAlt": "etape", "topURI": "BAMAQARA_393E377N_S_AQUR", "translitTitle": "B\u0101maqar\u0101", "translitTitleOther": "B\u0101maqar\u0101, B\u0101maqda\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    39.3345,
+                    37.75537
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.75537",
+                    "coord_lon": "39.33450",
+                    "cornu_URI": "BAMAQARA_393E377N_S_AQUR",
+                    "region_code": 2,
+                    "region_spelled": "Aqur",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "بامقرا",
+                    "toponym_arabic_other": "بامقرا، بامقدة",
+                    "toponym_buckwalter": "Bamaqara, Bamaqda",
+                    "toponym_search": "Bamaqara, Bamaqda",
+                    "toponym_translit": "Bāmaqarā",
+                    "toponym_translit_other": "Bāmaqarā, Bāmaqdaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

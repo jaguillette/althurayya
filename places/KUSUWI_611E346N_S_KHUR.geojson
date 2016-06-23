@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [61.1747, 34.61574], "type": "Point"}, "properties": {"arBW": "Kusuwi, Kusari", "arTitle": "\u0643\u0648\u0633\u0648\u064a", "arTitleOther": "\u0643\u0648\u0633\u0648\u064a\u060c \u0643\u0648\u0633\u0631\u064a", "lat": "34.61574", "lon": "61.17470", "region": "Khurasan", "searchNames": "Kusuwi, Kusari", "topType": "towns", "topTypeAlt": "cite", "topURI": "KUSUWI_611E346N_S_KHUR", "translitTitle": "K\u016bsuw\u012b", "translitTitleOther": "K\u016bsuw\u012b, K\u016bsar\u012b"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    61.1747,
+                    34.61574
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.61574",
+                    "coord_lon": "61.17470",
+                    "cornu_URI": "KUSUWI_611E346N_S_KHUR",
+                    "region_code": 10,
+                    "region_spelled": "Khurasan",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "كوسوي",
+                    "toponym_arabic_other": "كوسوي، كوسري",
+                    "toponym_buckwalter": "Kusuwi, Kusari",
+                    "toponym_search": "Kusuwi, Kusari",
+                    "toponym_translit": "Kūsuwī",
+                    "toponym_translit_other": "Kūsuwī, Kūsarī"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

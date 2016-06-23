@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [53.07601, 35.37647], "type": "Point"}, "properties": {"arBW": "Ras al-Kalb", "arTitle": "\u0631\u0623\u0633 \ufb50\u0644\u0643\u0644\u0628", "arTitleOther": "\u0631\u0623\u0633 \ufb50\u0644\u0643\u0644\u0628", "lat": "35.37647", "lon": "53.07601", "region": "Daylam", "searchNames": "Ras al-Kalb", "topType": "villages", "topTypeAlt": "localite", "topURI": "RASKALB_530E353N_S_DAYL", "translitTitle": "Ra\u02bes al-Kalb", "translitTitleOther": "Ra\u02bes al-Kalb"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    53.07601,
+                    35.37647
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.37647",
+                    "coord_lon": "53.07601",
+                    "cornu_URI": "RASKALB_530E353N_S_DAYL",
+                    "region_code": 4,
+                    "region_spelled": "Daylam",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "رأس ﭐلكلب",
+                    "toponym_arabic_other": "رأس ﭐلكلب",
+                    "toponym_buckwalter": "Ras al-Kalb",
+                    "toponym_search": "Ras al-Kalb",
+                    "toponym_translit": "Raʾs al-Kalb",
+                    "toponym_translit_other": "Raʾs al-Kalb"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

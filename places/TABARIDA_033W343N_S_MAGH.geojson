@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [-3.30734, 34.32074], "type": "Point"}, "properties": {"arBW": "Tabarida", "arTitle": "\u062a\u0627\u0628\u0631\u064a\u062f\u0627", "arTitleOther": "\u062a\u0627\u0628\u0631\u064a\u062f\u0627", "lat": "34.32074", "lon": "-3.30734", "region": "Maghrib", "searchNames": "Tabarida", "topType": "towns", "topTypeAlt": "cite", "topURI": "TABARIDA_033W343N_S_MAGH", "translitTitle": "T\u0101bar\u012bd\u0101", "translitTitleOther": "T\u0101bar\u012bd\u0101"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.30734,
+                    34.32074
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.32074",
+                    "coord_lon": "-3.30734",
+                    "cornu_URI": "TABARIDA_033W343N_S_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "تابريدا",
+                    "toponym_arabic_other": "تابريدا",
+                    "toponym_buckwalter": "Tabarida",
+                    "toponym_search": "Tabarida",
+                    "toponym_translit": "Tābarīdā",
+                    "toponym_translit_other": "Tābarīdā"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

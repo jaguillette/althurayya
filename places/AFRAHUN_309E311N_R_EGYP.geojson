@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [30.91239, 31.19144], "type": "Point"}, "properties": {"arBW": "al-Afrahun", "arTitle": "\ufb50\u0644\u0623\u0641\u0631\u0627\u062d\u0648\u0646", "arTitleOther": "\ufb50\u0644\u0623\u0641\u0631\u0627\u062d\u0648\u0646", "lat": "31.19144", "lon": "30.91239", "region": "Egypt", "searchNames": "al-Afrahun", "topType": "regions", "topTypeAlt": "region", "topURI": "AFRAHUN_309E311N_R_EGYP", "translitTitle": "al-Afr\u0101\u1e25\u016bn", "translitTitleOther": "al-Afr\u0101\u1e25\u016bn"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    30.91239,
+                    31.19144
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.19144",
+                    "coord_lon": "30.91239",
+                    "cornu_URI": "AFRAHUN_309E311N_R_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "ﭐلأفراحون",
+                    "toponym_arabic_other": "ﭐلأفراحون",
+                    "toponym_buckwalter": "al-Afrahun",
+                    "toponym_search": "al-Afrahun",
+                    "toponym_translit": "al-Afrāḥūn",
+                    "toponym_translit_other": "al-Afrāḥūn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

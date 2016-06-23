@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [49.04158, 31.24752], "type": "Point"}, "properties": {"arBW": "Azam, Ajam", "arTitle": "\u0623\u0632\u0645", "arTitleOther": "\u0623\u0632\u0645\u060c \u0623\u062c\u0645", "lat": "31.24752", "lon": "49.04158", "region": "Khuzistan", "searchNames": "Azam, Ajam", "topType": "towns", "topTypeAlt": "cite", "topURI": "AZAM_490E312N_S_KHUZ", "translitTitle": "Azam", "translitTitleOther": "Azam, A\u01e7am"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    49.04158,
+                    31.24752
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.24752",
+                    "coord_lon": "49.04158",
+                    "cornu_URI": "AZAM_490E312N_S_KHUZ",
+                    "region_code": 11,
+                    "region_spelled": "Khuzistan",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "أزم",
+                    "toponym_arabic_other": "أزم، أجم",
+                    "toponym_buckwalter": "Azam, Ajam",
+                    "toponym_search": "Azam, Ajam",
+                    "toponym_translit": "Azam",
+                    "toponym_translit_other": "Azam, Aǧam"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

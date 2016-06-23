@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [39.03019, 25.04884], "type": "Point"}, "properties": {"arBW": "al-Suwayda, al-Suwaydiyya", "arTitle": "\ufb50\u0644\u0633\u0648\u064a\u062f\u0627\u0621", "arTitleOther": "\ufb50\u0644\u0633\u0648\u064a\u062f\u0627\u0621\u060c \ufb50\u0644\u0633\u0648\u064a\u062f\u064a\u0629", "lat": "25.04884", "lon": "39.03019", "region": "Jazirat al-Arab", "searchNames": "al-Suwayda, al-Suwaydiyya", "topType": "villages", "topTypeAlt": "localite", "topURI": "SUWAYDA_390E250N_S_JAZI", "translitTitle": "al-Suwayd\u0101\u02be", "translitTitleOther": "al-Suwayd\u0101\u02be, al-Suwaydiyya\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    39.03019,
+                    25.04884
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "25.04884",
+                    "coord_lon": "39.03019",
+                    "cornu_URI": "SUWAYDA_390E250N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "ﭐلسويداء",
+                    "toponym_arabic_other": "ﭐلسويداء، ﭐلسويدية",
+                    "toponym_buckwalter": "al-Suwayda, al-Suwaydiyya",
+                    "toponym_search": "al-Suwayda, al-Suwaydiyya",
+                    "toponym_translit": "al-Suwaydāʾ",
+                    "toponym_translit_other": "al-Suwaydāʾ, al-Suwaydiyyaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [69.86876, 33.95277], "type": "Point"}, "properties": {"arBW": "Ugh, Awagh", "arTitle": "\u0623\u0648\u063a", "arTitleOther": "\u0623\u0648\u063a\u060c \u0623\u0648\u063a", "lat": "33.95277", "lon": "69.86876", "region": "Sijistan", "searchNames": "Ugh, Awagh", "topType": "villages", "topTypeAlt": "localite", "topURI": "UGH_698E339N_S_SIJI", "translitTitle": "\u016a\u0121", "translitTitleOther": "\u016a\u0121, Awa\u0121"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    69.86876,
+                    33.95277
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.95277",
+                    "coord_lon": "69.86876",
+                    "cornu_URI": "UGH_698E339N_S_SIJI",
+                    "region_code": 18,
+                    "region_spelled": "Sijistan",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "أوغ",
+                    "toponym_arabic_other": "أوغ، أوغ",
+                    "toponym_buckwalter": "Ugh, Awagh",
+                    "toponym_search": "Ugh, Awagh",
+                    "toponym_translit": "Ūġ",
+                    "toponym_translit_other": "Ūġ, Awaġ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

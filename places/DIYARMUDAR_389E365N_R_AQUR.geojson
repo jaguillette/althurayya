@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [38.98256, 36.56338], "type": "Point"}, "properties": {"arBW": "Diyar Mudar", "arTitle": "\u062f\u064a\u0627\u0631 \u0645\u0636\u0631", "arTitleOther": "\u062f\u064a\u0627\u0631 \u0645\u0636\u0631", "lat": "36.56338", "lon": "38.98256", "region": "Aqur", "searchNames": "Diyar Mudar", "topType": "regions", "topTypeAlt": "circonscription", "topURI": "DIYARMUDAR_389E365N_R_AQUR", "translitTitle": "Diy\u0101r Mu\u1e0dar", "translitTitleOther": "Diy\u0101r Mu\u1e0dar"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    38.98256,
+                    36.56338
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.56338",
+                    "coord_lon": "38.98256",
+                    "cornu_URI": "DIYARMUDAR_389E365N_R_AQUR",
+                    "region_code": 2,
+                    "region_spelled": "Aqur",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "circonscription",
+                    "toponym_arabic": "ديار مضر",
+                    "toponym_arabic_other": "ديار مضر",
+                    "toponym_buckwalter": "Diyar Mudar",
+                    "toponym_search": "Diyar Mudar",
+                    "toponym_translit": "Diyār Muḍar",
+                    "toponym_translit_other": "Diyār Muḍar"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

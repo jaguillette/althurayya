@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [50.02954, 35.0274], "type": "Point"}, "properties": {"arBW": "Susanqin, Susnaqin, Sunaqin", "arTitle": "\u0633\u0648\u0633\u0646\u0642\u064a\u0646", "arTitleOther": "\u0633\u0648\u0633\u0646\u0642\u064a\u0646\u060c \u0633\u0648\u0633\u0646\u0642\u064a\u0646\u060c \u0633\u0648\u0646\u0642\u064a\u0646", "lat": "35.02740", "lon": "50.02954", "region": "Jibal", "searchNames": "Susanqin, Susnaqin, Sunaqin", "topType": "waystations", "topTypeAlt": "etape", "topURI": "SUSANQIN_500E350N_S_JIBA", "translitTitle": "S\u016bsanq\u012bn", "translitTitleOther": "S\u016bsanq\u012bn, S\u016bsnaq\u012bn, S\u016bnaq\u012bn"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    50.02954,
+                    35.0274
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.02740",
+                    "coord_lon": "50.02954",
+                    "cornu_URI": "SUSANQIN_500E350N_S_JIBA",
+                    "region_code": 8,
+                    "region_spelled": "Jibal",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "سوسنقين",
+                    "toponym_arabic_other": "سوسنقين، سوسنقين، سونقين",
+                    "toponym_buckwalter": "Susanqin, Susnaqin, Sunaqin",
+                    "toponym_search": "Susanqin, Susnaqin, Sunaqin",
+                    "toponym_translit": "Sūsanqīn",
+                    "toponym_translit_other": "Sūsanqīn, Sūsnaqīn, Sūnaqīn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

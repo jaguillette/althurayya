@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [48.55981, 37.57057], "type": "Point"}, "properties": {"arBW": "Barwan", "arTitle": "\u0628\u0631\u0648\u0627\u0646", "arTitleOther": "\u0628\u0631\u0648\u0627\u0646", "lat": "37.57057", "lon": "48.55981", "region": "Daylam", "searchNames": "Barwan", "topType": "towns", "topTypeAlt": "cite", "topURI": "BARWAN_485E375N_S_DAYL", "translitTitle": "Barw\u0101n", "translitTitleOther": "Barw\u0101n"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    48.55981,
+                    37.57057
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.57057",
+                    "coord_lon": "48.55981",
+                    "cornu_URI": "BARWAN_485E375N_S_DAYL",
+                    "region_code": 4,
+                    "region_spelled": "Daylam",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "بروان",
+                    "toponym_arabic_other": "بروان",
+                    "toponym_buckwalter": "Barwan",
+                    "toponym_search": "Barwan",
+                    "toponym_translit": "Barwān",
+                    "toponym_translit_other": "Barwān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

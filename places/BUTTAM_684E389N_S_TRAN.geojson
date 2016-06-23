@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [68.49336, 38.95345], "type": "Point"}, "properties": {"arBW": "al-Buttam", "arTitle": "\ufb50\u0644\u0628\u062a\u0645", "arTitleOther": "\ufb50\u0644\u0628\u062a\u0645", "lat": "38.95345", "lon": "68.49336", "region": "Transoxiana", "searchNames": "al-Buttam", "topType": "towns", "topTypeAlt": "montagnes/canton", "topURI": "BUTTAM_684E389N_S_TRAN", "translitTitle": "al-Buttam", "translitTitleOther": "al-Buttam"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    68.49336,
+                    38.95345
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "38.95345",
+                    "coord_lon": "68.49336",
+                    "cornu_URI": "BUTTAM_684E389N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "montagnes/canton",
+                    "toponym_arabic": "ﭐلبتم",
+                    "toponym_arabic_other": "ﭐلبتم",
+                    "toponym_buckwalter": "al-Buttam",
+                    "toponym_search": "al-Buttam",
+                    "toponym_translit": "al-Buttam",
+                    "toponym_translit_other": "al-Buttam"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

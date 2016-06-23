@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [43.60292, 34.81448], "type": "Point"}, "properties": {"arBW": "al-Sudaqaniyya", "arTitle": "\ufb50\u0644\u0633\u0648\u062f\u0642\u0627\u0646\u064a\u0629", "arTitleOther": "\ufb50\u0644\u0633\u0648\u062f\u0642\u0627\u0646\u064a\u0629", "lat": "34.81448", "lon": "43.60292", "region": "Iraq", "searchNames": "al-Sudaqaniyya", "topType": "waystations", "topTypeAlt": "etape", "topURI": "SUDAQANIYYA_436E348N_S_IRAQ", "translitTitle": "al-S\u016bdaq\u0101niyya\u0167", "translitTitleOther": "al-S\u016bdaq\u0101niyya\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    43.60292,
+                    34.81448
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.81448",
+                    "coord_lon": "43.60292",
+                    "cornu_URI": "SUDAQANIYYA_436E348N_S_IRAQ",
+                    "region_code": 7,
+                    "region_spelled": "Iraq",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "ﭐلسودقانية",
+                    "toponym_arabic_other": "ﭐلسودقانية",
+                    "toponym_buckwalter": "al-Sudaqaniyya",
+                    "toponym_search": "al-Sudaqaniyya",
+                    "toponym_translit": "al-Sūdaqāniyyaŧ",
+                    "toponym_translit_other": "al-Sūdaqāniyyaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

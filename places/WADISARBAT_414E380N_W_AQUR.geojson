@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [41.49366, 38.01078], "type": "Point"}, "properties": {"arBW": "Wadi Sarbat, Nahr Sarbat, Sarbat", "arTitle": "\u0648\u0627\u062f\u064a \u0635\u0631\u0628\u0637", "arTitleOther": "\u0648\u0627\u062f\u064a \u0635\u0631\u0628\u0637\u060c \u0646\u0647\u0631 \u0635\u0631\u0628\u0637\u060c \u0635\u0631\u0628\u0637", "lat": "38.01078", "lon": "41.49366", "region": "Aqur", "searchNames": "Wadi Sarbat, Nahr Sarbat, Sarbat", "topType": "waters", "topTypeAlt": "riviere", "topURI": "WADISARBAT_414E380N_W_AQUR", "translitTitle": "W\u0101d\u012b \u1e62arba\u1e6d", "translitTitleOther": "W\u0101d\u012b \u1e62arba\u1e6d, Nahr \u1e62arba\u1e6d, \u1e62arba\u1e6d"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    41.49366,
+                    38.01078
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "38.01078",
+                    "coord_lon": "41.49366",
+                    "cornu_URI": "WADISARBAT_414E380N_W_AQUR",
+                    "region_code": 2,
+                    "region_spelled": "Aqur",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "riviere",
+                    "toponym_arabic": "وادي صربط",
+                    "toponym_arabic_other": "وادي صربط، نهر صربط، صربط",
+                    "toponym_buckwalter": "Wadi Sarbat, Nahr Sarbat, Sarbat",
+                    "toponym_search": "Wadi Sarbat, Nahr Sarbat, Sarbat",
+                    "toponym_translit": "Wādī Ṣarbaṭ",
+                    "toponym_translit_other": "Wādī Ṣarbaṭ, Nahr Ṣarbaṭ, Ṣarbaṭ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

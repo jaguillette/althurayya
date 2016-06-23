@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [63.81969, 35.61955], "type": "Point"}, "properties": {"arBW": "Ribat Karzwan", "arTitle": "\u0631\u0628\u0627\u0637 \u0643\u0631\u0632\u0648\u0627\u0646", "arTitleOther": "\u0631\u0628\u0627\u0637 \u0643\u0631\u0632\u0648\u0627\u0646", "lat": "35.61955", "lon": "63.81969", "region": "Khurasan", "searchNames": "Ribat Karzwan", "topType": "villages", "topTypeAlt": "localite", "topURI": "RIBATKARZWAN_638E356N_S_KHUR", "translitTitle": "Rib\u0101\u1e6d Karzw\u0101n", "translitTitleOther": "Rib\u0101\u1e6d Karzw\u0101n"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    63.81969,
+                    35.61955
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.61955",
+                    "coord_lon": "63.81969",
+                    "cornu_URI": "RIBATKARZWAN_638E356N_S_KHUR",
+                    "region_code": 10,
+                    "region_spelled": "Khurasan",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "رباط كرزوان",
+                    "toponym_arabic_other": "رباط كرزوان",
+                    "toponym_buckwalter": "Ribat Karzwan",
+                    "toponym_search": "Ribat Karzwan",
+                    "toponym_translit": "Ribāṭ Karzwān",
+                    "toponym_translit_other": "Ribāṭ Karzwān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

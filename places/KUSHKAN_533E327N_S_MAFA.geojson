@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [53.32456, 32.70128], "type": "Point"}, "properties": {"arBW": "Kushkan", "arTitle": "\u0643\u0634\u0643\u0627\u0646", "arTitleOther": "\u0643\u0634\u0643\u0627\u0646", "lat": "32.70128", "lon": "53.32456", "region": "Mafaza", "searchNames": "Kushkan", "topType": "waystations", "topTypeAlt": "etape", "topURI": "KUSHKAN_533E327N_S_MAFA", "translitTitle": "Ku\u0161k\u0101n", "translitTitleOther": "Ku\u0161k\u0101n"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    53.32456,
+                    32.70128
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.70128",
+                    "coord_lon": "53.32456",
+                    "cornu_URI": "KUSHKAN_533E327N_S_MAFA",
+                    "region_code": 13,
+                    "region_spelled": "Mafaza",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "كشكان",
+                    "toponym_arabic_other": "كشكان",
+                    "toponym_buckwalter": "Kushkan",
+                    "toponym_search": "Kushkan",
+                    "toponym_translit": "Kuškān",
+                    "toponym_translit_other": "Kuškān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

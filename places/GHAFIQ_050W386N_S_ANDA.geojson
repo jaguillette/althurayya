@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [-5.01064, 38.68214], "type": "Point"}, "properties": {"arBW": "Ghafiq", "arTitle": "\u063a\u0627\u0641\u0642", "arTitleOther": "\u063a\u0627\u0641\u0642", "lat": "38.68214", "lon": "-5.01064", "region": "Andalus", "searchNames": "Ghafiq", "topType": "towns", "topTypeAlt": "cite", "topURI": "GHAFIQ_050W386N_S_ANDA", "translitTitle": "\u0120\u0101fiq", "translitTitleOther": "\u0120\u0101fiq"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -5.01064,
+                    38.68214
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "38.68214",
+                    "coord_lon": "-5.01064",
+                    "cornu_URI": "GHAFIQ_050W386N_S_ANDA",
+                    "region_code": 1,
+                    "region_spelled": "Andalus",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "غافق",
+                    "toponym_arabic_other": "غافق",
+                    "toponym_buckwalter": "Ghafiq",
+                    "toponym_search": "Ghafiq",
+                    "toponym_translit": "Ġāfiq",
+                    "toponym_translit_other": "Ġāfiq"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

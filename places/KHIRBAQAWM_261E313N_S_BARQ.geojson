@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [26.11423, 31.35376], "type": "Point"}, "properties": {"arBW": "Khirba al-Qawm", "arTitle": "\u062e\u0631\u0628\u0629 \ufb50\u0644\u0642\u0648\u0645", "arTitleOther": "\u062e\u0631\u0628\u0629 \ufb50\u0644\u0642\u0648\u0645", "lat": "31.35376", "lon": "26.11423", "region": "Barqa", "searchNames": "Khirba al-Qawm", "topType": "waystations", "topTypeAlt": "etape", "topURI": "KHIRBAQAWM_261E313N_S_BARQ", "translitTitle": "\u1e2airba\u0167 al-Qawm", "translitTitleOther": "\u1e2airba\u0167 al-Qawm"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    26.11423,
+                    31.35376
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.35376",
+                    "coord_lon": "26.11423",
+                    "cornu_URI": "KHIRBAQAWM_261E313N_S_BARQ",
+                    "region_code": 3,
+                    "region_spelled": "Barqa",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "خربة ﭐلقوم",
+                    "toponym_arabic_other": "خربة ﭐلقوم",
+                    "toponym_buckwalter": "Khirba al-Qawm",
+                    "toponym_search": "Khirba al-Qawm",
+                    "toponym_translit": "Ḫirbaŧ al-Qawm",
+                    "toponym_translit_other": "Ḫirbaŧ al-Qawm"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [52.62743, 31.1799], "type": "Point"}, "properties": {"arBW": "Arjuman", "arTitle": "\u0623\u0631\u062c\u0645\u0627\u0646", "arTitleOther": "\u0623\u0631\u062c\u0645\u0627\u0646", "lat": "31.17990", "lon": "52.62743", "region": "Faris", "searchNames": "Arjuman", "topType": "regions", "topTypeAlt": "region", "topURI": "ARJUMAN_526E311N_R_FARI", "translitTitle": "Ar\u01e7um\u0101n", "translitTitleOther": "Ar\u01e7um\u0101n"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    52.62743,
+                    31.1799
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.17990",
+                    "coord_lon": "52.62743",
+                    "cornu_URI": "ARJUMAN_526E311N_R_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "أرجمان",
+                    "toponym_arabic_other": "أرجمان",
+                    "toponym_buckwalter": "Arjuman",
+                    "toponym_search": "Arjuman",
+                    "toponym_translit": "Arǧumān",
+                    "toponym_translit_other": "Arǧumān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

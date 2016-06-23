@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [68.43871, 40.57316], "type": "Point"}, "properties": {"arBW": "Winkard", "arTitle": "\u0648\u064a\u0646\u0643\u0631\u062f", "arTitleOther": "\u0648\u064a\u0646\u0643\u0631\u062f", "lat": "40.57316", "lon": "68.43871", "region": "Transoxiana", "searchNames": "Winkard", "topType": "villages", "topTypeAlt": "bourgade", "topURI": "WINKARD_684E405N_S_TRAN", "translitTitle": "W\u012bnkard", "translitTitleOther": "W\u012bnkard"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    68.43871,
+                    40.57316
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "40.57316",
+                    "coord_lon": "68.43871",
+                    "cornu_URI": "WINKARD_684E405N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "bourgade",
+                    "toponym_arabic": "وينكرد",
+                    "toponym_arabic_other": "وينكرد",
+                    "toponym_buckwalter": "Winkard",
+                    "toponym_search": "Winkard",
+                    "toponym_translit": "Wīnkard",
+                    "toponym_translit_other": "Wīnkard"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

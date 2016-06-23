@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [46.3645, 31.78987], "type": "Point"}, "properties": {"arBW": "al-Rusafa", "arTitle": "\ufb50\u0644\u0631\u0635\u0627\u0641\u0629", "arTitleOther": "\ufb50\u0644\u0631\u0635\u0627\u0641\u0629", "lat": "31.78987", "lon": "46.36450", "region": "Iraq", "searchNames": "al-Rusafa", "topType": "waystations", "topTypeAlt": "etape", "topURI": "RUSAFA_463E317N_S_IRAQ", "translitTitle": "al-Ru\u1e63\u0101fa\u0167", "translitTitleOther": "al-Ru\u1e63\u0101fa\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    46.3645,
+                    31.78987
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.78987",
+                    "coord_lon": "46.36450",
+                    "cornu_URI": "RUSAFA_463E317N_S_IRAQ",
+                    "region_code": 7,
+                    "region_spelled": "Iraq",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "ﭐلرصافة",
+                    "toponym_arabic_other": "ﭐلرصافة",
+                    "toponym_buckwalter": "al-Rusafa",
+                    "toponym_search": "al-Rusafa",
+                    "toponym_translit": "al-Ruṣāfaŧ",
+                    "toponym_translit_other": "al-Ruṣāfaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

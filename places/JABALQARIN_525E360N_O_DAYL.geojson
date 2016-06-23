@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [52.55968, 36.01794], "type": "Point"}, "properties": {"arBW": "Jabal Qarin", "arTitle": "\u062c\u0628\u0644 \u0642\u0627\u0631\u064a\u0646", "arTitleOther": "\u062c\u0628\u0644 \u0642\u0627\u0631\u064a\u0646", "lat": "36.01794", "lon": "52.55968", "region": "Daylam", "searchNames": "Jabal Qarin", "topType": "sites", "topTypeAlt": "mont", "topURI": "JABALQARIN_525E360N_O_DAYL", "translitTitle": "\u01e6abal Q\u0101r\u012bn", "translitTitleOther": "\u01e6abal Q\u0101r\u012bn"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    52.55968,
+                    36.01794
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.01794",
+                    "coord_lon": "52.55968",
+                    "cornu_URI": "JABALQARIN_525E360N_O_DAYL",
+                    "region_code": 4,
+                    "region_spelled": "Daylam",
+                    "top_type_hom": "sites",
+                    "top_type_orig": "mont",
+                    "toponym_arabic": "جبل قارين",
+                    "toponym_arabic_other": "جبل قارين",
+                    "toponym_buckwalter": "Jabal Qarin",
+                    "toponym_search": "Jabal Qarin",
+                    "toponym_translit": "Ǧabal Qārīn",
+                    "toponym_translit_other": "Ǧabal Qārīn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [56.6147, 29.7101], "type": "Point"}, "properties": {"arBW": "Karistan", "arTitle": "\u0643\u0631\u0633\u062a\u0627\u0646", "arTitleOther": "\u0643\u0631\u0633\u062a\u0627\u0646", "lat": "29.71010", "lon": "56.61470", "region": "Kirman", "searchNames": "Karistan", "topType": "towns", "topTypeAlt": "cite", "topURI": "KARISTAN_566E297N_S_KIRM", "translitTitle": "Karist\u0101n", "translitTitleOther": "Karist\u0101n"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    56.6147,
+                    29.7101
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "29.71010",
+                    "coord_lon": "56.61470",
+                    "cornu_URI": "KARISTAN_566E297N_S_KIRM",
+                    "region_code": 12,
+                    "region_spelled": "Kirman",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "كرستان",
+                    "toponym_arabic_other": "كرستان",
+                    "toponym_buckwalter": "Karistan",
+                    "toponym_search": "Karistan",
+                    "toponym_translit": "Karistān",
+                    "toponym_translit_other": "Karistān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

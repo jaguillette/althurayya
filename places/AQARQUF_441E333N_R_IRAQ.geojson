@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [44.18108, 33.34374], "type": "Point"}, "properties": {"arBW": "Aqarquf", "arTitle": "\u0639\u0642\u0631\u0642\u0648\u0641", "arTitleOther": "\u0639\u0642\u0631\u0642\u0648\u0641", "lat": "33.34374", "lon": "44.18108", "region": "Iraq", "searchNames": "Aqarquf", "topType": "regions", "topTypeAlt": "tall", "topURI": "AQARQUF_441E333N_R_IRAQ", "translitTitle": "\u02bfAqarq\u016bf", "translitTitleOther": "\u02bfAqarq\u016bf"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    44.18108,
+                    33.34374
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.34374",
+                    "coord_lon": "44.18108",
+                    "cornu_URI": "AQARQUF_441E333N_R_IRAQ",
+                    "region_code": 7,
+                    "region_spelled": "Iraq",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "tall",
+                    "toponym_arabic": "عقرقوف",
+                    "toponym_arabic_other": "عقرقوف",
+                    "toponym_buckwalter": "Aqarquf",
+                    "toponym_search": "Aqarquf",
+                    "toponym_translit": "ʿAqarqūf",
+                    "toponym_translit_other": "ʿAqarqūf"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

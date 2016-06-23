@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [44.44618, 33.97797], "type": "Point"}, "properties": {"arBW": "Nahr al-Qatul", "arTitle": "\u0646\u0647\u0631 \ufb50\u0644\u0642\u0627\u0637\u0648\u0644", "arTitleOther": "\u0646\u0647\u0631 \ufb50\u0644\u0642\u0627\u0637\u0648\u0644", "lat": "33.97797", "lon": "44.44618", "region": "Iraq", "searchNames": "Nahr al-Qatul", "topType": "waters", "topTypeAlt": "canal", "topURI": "NAHRQATUL_444E339N_W_IRAQ", "translitTitle": "Nahr al-Q\u0101\u1e6d\u016bl", "translitTitleOther": "Nahr al-Q\u0101\u1e6d\u016bl"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    44.44618,
+                    33.97797
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.97797",
+                    "coord_lon": "44.44618",
+                    "cornu_URI": "NAHRQATUL_444E339N_W_IRAQ",
+                    "region_code": 7,
+                    "region_spelled": "Iraq",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "canal",
+                    "toponym_arabic": "نهر ﭐلقاطول",
+                    "toponym_arabic_other": "نهر ﭐلقاطول",
+                    "toponym_buckwalter": "Nahr al-Qatul",
+                    "toponym_search": "Nahr al-Qatul",
+                    "toponym_translit": "Nahr al-Qāṭūl",
+                    "toponym_translit_other": "Nahr al-Qāṭūl"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [65.56778, 37.69255], "type": "Point"}, "properties": {"arBW": "Qarya al-Khuwarizmiyyin", "arTitle": "\u0642\u0631\u064a\u0629 \ufb50\u0644\u062e\u0648\u0627\u0631\u0632\u0645\u064a\u064a\u0646", "arTitleOther": "\u0642\u0631\u064a\u0629 \ufb50\u0644\u062e\u0648\u0627\u0631\u0632\u0645\u064a\u064a\u0646", "lat": "37.69255", "lon": "65.56778", "region": "Transoxiana", "searchNames": "Qarya al-Khuwarizmiyyin", "topType": "waystations", "topTypeAlt": "etape", "topURI": "QARYAKHUWARIZMIYYIN_655E376N_S_TRAN", "translitTitle": "Qarya\u0167 al-\u1e2auw\u0101rizmiyy\u012bn", "translitTitleOther": "Qarya\u0167 al-\u1e2auw\u0101rizmiyy\u012bn"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    65.56778,
+                    37.69255
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.69255",
+                    "coord_lon": "65.56778",
+                    "cornu_URI": "QARYAKHUWARIZMIYYIN_655E376N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "قرية ﭐلخوارزميين",
+                    "toponym_arabic_other": "قرية ﭐلخوارزميين",
+                    "toponym_buckwalter": "Qarya al-Khuwarizmiyyin",
+                    "toponym_search": "Qarya al-Khuwarizmiyyin",
+                    "toponym_translit": "Qaryaŧ al-Ḫuwārizmiyyīn",
+                    "toponym_translit_other": "Qaryaŧ al-Ḫuwārizmiyyīn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

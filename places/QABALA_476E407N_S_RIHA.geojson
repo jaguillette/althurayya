@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [47.65158, 40.79878], "type": "Point"}, "properties": {"arBW": "Qabala", "arTitle": "\u0642\u0628\u0644\u0629", "arTitleOther": "\u0642\u0628\u0644\u0629", "lat": "40.79878", "lon": "47.65158", "region": "Rihab", "searchNames": "Qabala", "topType": "towns", "topTypeAlt": "cite", "topURI": "QABALA_476E407N_S_RIHA", "translitTitle": "Qabala\u0167", "translitTitleOther": "Qabala\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    47.65158,
+                    40.79878
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "40.79878",
+                    "coord_lon": "47.65158",
+                    "cornu_URI": "QABALA_476E407N_S_RIHA",
+                    "region_code": 15,
+                    "region_spelled": "Rihab",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "قبلة",
+                    "toponym_arabic_other": "قبلة",
+                    "toponym_buckwalter": "Qabala",
+                    "toponym_search": "Qabala",
+                    "toponym_translit": "Qabalaŧ",
+                    "toponym_translit_other": "Qabalaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

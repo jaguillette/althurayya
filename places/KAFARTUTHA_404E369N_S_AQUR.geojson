@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [40.42704, 36.98749], "type": "Point"}, "properties": {"arBW": "Kafartutha", "arTitle": "\u0643\u0641\u0631\u062a\u0648\u062b\u0627", "arTitleOther": "\u0643\u0641\u0631\u062a\u0648\u062b\u0627", "lat": "36.98749", "lon": "40.42704", "region": "Aqur", "searchNames": "Kafartutha", "topType": "towns", "topTypeAlt": "cite", "topURI": "KAFARTUTHA_404E369N_S_AQUR", "translitTitle": "Kafart\u016b\u1e6f\u0101", "translitTitleOther": "Kafart\u016b\u1e6f\u0101"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    40.42704,
+                    36.98749
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.98749",
+                    "coord_lon": "40.42704",
+                    "cornu_URI": "KAFARTUTHA_404E369N_S_AQUR",
+                    "region_code": 2,
+                    "region_spelled": "Aqur",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "كفرتوثا",
+                    "toponym_arabic_other": "كفرتوثا",
+                    "toponym_buckwalter": "Kafartutha",
+                    "toponym_search": "Kafartutha",
+                    "toponym_translit": "Kafartūṯā",
+                    "toponym_translit_other": "Kafartūṯā"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

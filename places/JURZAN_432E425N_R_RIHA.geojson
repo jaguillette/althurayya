@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [43.20001, 42.55502], "type": "Point"}, "properties": {"arBW": "Jurzan", "arTitle": "\u062c\u0631\u0632\u0627\u0646", "arTitleOther": "\u062c\u0631\u0632\u0627\u0646", "lat": "42.55502", "lon": "43.20001", "region": "Rihab", "searchNames": "Jurzan", "topType": "regions", "topTypeAlt": "district", "topURI": "JURZAN_432E425N_R_RIHA", "translitTitle": "\u01e6urz\u0101n", "translitTitleOther": "\u01e6urz\u0101n"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    43.20001,
+                    42.55502
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "42.55502",
+                    "coord_lon": "43.20001",
+                    "cornu_URI": "JURZAN_432E425N_R_RIHA",
+                    "region_code": 15,
+                    "region_spelled": "Rihab",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "district",
+                    "toponym_arabic": "جرزان",
+                    "toponym_arabic_other": "جرزان",
+                    "toponym_buckwalter": "Jurzan",
+                    "toponym_search": "Jurzan",
+                    "toponym_translit": "Ǧurzān",
+                    "toponym_translit_other": "Ǧurzān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

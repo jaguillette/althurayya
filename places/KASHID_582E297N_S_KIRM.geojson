@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [58.26785, 29.71534], "type": "Point"}, "properties": {"arBW": "Kashid", "arTitle": "\u0643\u0634\u064a\u062f", "arTitleOther": "\u0643\u0634\u064a\u062f", "lat": "29.71534", "lon": "58.26785", "region": "Kirman", "searchNames": "Kashid", "topType": "towns", "topTypeAlt": "cite", "topURI": "KASHID_582E297N_S_KIRM", "translitTitle": "Ka\u0161\u012bd", "translitTitleOther": "Ka\u0161\u012bd"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    58.26785,
+                    29.71534
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "29.71534",
+                    "coord_lon": "58.26785",
+                    "cornu_URI": "KASHID_582E297N_S_KIRM",
+                    "region_code": 12,
+                    "region_spelled": "Kirman",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "كشيد",
+                    "toponym_arabic_other": "كشيد",
+                    "toponym_buckwalter": "Kashid",
+                    "toponym_search": "Kashid",
+                    "toponym_translit": "Kašīd",
+                    "toponym_translit_other": "Kašīd"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

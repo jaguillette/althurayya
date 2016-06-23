@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [71.36392, 40.91733], "type": "Point"}, "properties": {"arBW": "Akhshikath", "arTitle": "\u0623\u062e\u0634\u064a\u0643\u062b", "arTitleOther": "\u0623\u062e\u0634\u064a\u0643\u062b", "lat": "40.91733", "lon": "71.36392", "region": "Transoxiana", "searchNames": "Akhshikath", "topType": "capitals", "topTypeAlt": "capitale", "topURI": "AKHSHIKATH_713E409N_S_TRAN", "translitTitle": "A\u1e2b\u0161\u012bka\u1e6f", "translitTitleOther": "A\u1e2b\u0161\u012bka\u1e6f"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    71.36392,
+                    40.91733
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "40.91733",
+                    "coord_lon": "71.36392",
+                    "cornu_URI": "AKHSHIKATH_713E409N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "capitals",
+                    "top_type_orig": "capitale",
+                    "toponym_arabic": "أخشيكث",
+                    "toponym_arabic_other": "أخشيكث",
+                    "toponym_buckwalter": "Akhshikath",
+                    "toponym_search": "Akhshikath",
+                    "toponym_translit": "Aḫšīkaṯ",
+                    "toponym_translit_other": "Aḫšīkaṯ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

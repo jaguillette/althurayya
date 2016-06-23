@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [46.38603, 40.81356], "type": "Point"}, "properties": {"arBW": "Janza, Janja", "arTitle": "\u062c\u0646\u0632\u0629", "arTitleOther": "\u062c\u0646\u0632\u0629\u060c \u062c\u0646\u062c\u0629", "lat": "40.81356", "lon": "46.38603", "region": "Rihab", "searchNames": "Janza, Janja", "topType": "towns", "topTypeAlt": "cite", "topURI": "JANZA_463E408N_S_RIHA", "translitTitle": "\u01e6anza\u0167", "translitTitleOther": "\u01e6anza\u0167, \u01e6an\u01e7a\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    46.38603,
+                    40.81356
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "40.81356",
+                    "coord_lon": "46.38603",
+                    "cornu_URI": "JANZA_463E408N_S_RIHA",
+                    "region_code": 15,
+                    "region_spelled": "Rihab",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "جنزة",
+                    "toponym_arabic_other": "جنزة، جنجة",
+                    "toponym_buckwalter": "Janza, Janja",
+                    "toponym_search": "Janza, Janja",
+                    "toponym_translit": "Ǧanzaŧ",
+                    "toponym_translit_other": "Ǧanzaŧ, Ǧanǧaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

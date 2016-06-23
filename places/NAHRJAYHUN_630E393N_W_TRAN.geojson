@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [63.09182, 39.3967], "type": "Point"}, "properties": {"arBW": "Nahr Jayhun", "arTitle": "\u0646\u0647\u0631 \u062c\u064a\u062d\u0648\u0646", "arTitleOther": "\u0646\u0647\u0631 \u062c\u064a\u062d\u0648\u0646", "lat": "39.39670", "lon": "63.09182", "region": "Transoxiana", "searchNames": "Nahr Jayhun", "topType": "waters", "topTypeAlt": "riviere", "topURI": "NAHRJAYHUN_630E393N_W_TRAN", "translitTitle": "Nahr \u01e6ay\u1e25\u016bn", "translitTitleOther": "Nahr \u01e6ay\u1e25\u016bn"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    63.09182,
+                    39.3967
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "39.39670",
+                    "coord_lon": "63.09182",
+                    "cornu_URI": "NAHRJAYHUN_630E393N_W_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "riviere",
+                    "toponym_arabic": "نهر جيحون",
+                    "toponym_arabic_other": "نهر جيحون",
+                    "toponym_buckwalter": "Nahr Jayhun",
+                    "toponym_search": "Nahr Jayhun",
+                    "toponym_translit": "Nahr Ǧayḥūn",
+                    "toponym_translit_other": "Nahr Ǧayḥūn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

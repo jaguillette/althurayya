@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [30.45872, 31.03855], "type": "Point"}, "properties": {"arBW": "Damanhur", "arTitle": "\u062f\u0645\u0646\u0647\u0648\u0631", "arTitleOther": "\u062f\u0645\u0646\u0647\u0648\u0631", "lat": "31.03855", "lon": "30.45872", "region": "Egypt", "searchNames": "Damanhur", "topType": "towns", "topTypeAlt": "cite", "topURI": "DAMANHUR_304E310N_S_EGYP", "translitTitle": "Damanh\u016br", "translitTitleOther": "Damanh\u016br"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    30.45872,
+                    31.03855
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.03855",
+                    "coord_lon": "30.45872",
+                    "cornu_URI": "DAMANHUR_304E310N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "دمنهور",
+                    "toponym_arabic_other": "دمنهور",
+                    "toponym_buckwalter": "Damanhur",
+                    "toponym_search": "Damanhur",
+                    "toponym_translit": "Damanhūr",
+                    "toponym_translit_other": "Damanhūr"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

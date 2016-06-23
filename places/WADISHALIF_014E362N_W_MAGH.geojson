@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [1.45396, 36.21758], "type": "Point"}, "properties": {"arBW": "Wadi Shalif", "arTitle": "\u0648\u0627\u062f\u064a \u0634\u0644\u0641", "arTitleOther": "\u0648\u0627\u062f\u064a \u0634\u0644\u0641", "lat": "36.21758", "lon": "1.45396", "region": "Maghrib", "searchNames": "Wadi Shalif", "topType": "waters", "topTypeAlt": "wadi", "topURI": "WADISHALIF_014E362N_W_MAGH", "translitTitle": "W\u0101d\u012b \u0160alif", "translitTitleOther": "W\u0101d\u012b \u0160alif"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    1.45396,
+                    36.21758
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.21758",
+                    "coord_lon": "1.45396",
+                    "cornu_URI": "WADISHALIF_014E362N_W_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "wadi",
+                    "toponym_arabic": "وادي شلف",
+                    "toponym_arabic_other": "وادي شلف",
+                    "toponym_buckwalter": "Wadi Shalif",
+                    "toponym_search": "Wadi Shalif",
+                    "toponym_translit": "Wādī Šalif",
+                    "toponym_translit_other": "Wādī Šalif"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

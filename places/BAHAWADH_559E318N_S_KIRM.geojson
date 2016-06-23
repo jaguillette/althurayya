@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [55.96459, 31.83238], "type": "Point"}, "properties": {"arBW": "Bahawadh", "arTitle": "\u0628\u0647\u0627\u0648\u0630", "arTitleOther": "\u0628\u0647\u0627\u0648\u0630", "lat": "31.83238", "lon": "55.96459", "region": "Kirman", "searchNames": "Bahawadh", "topType": "towns", "topTypeAlt": "cite", "topURI": "BAHAWADH_559E318N_S_KIRM", "translitTitle": "Bah\u0101wa\u1e0f", "translitTitleOther": "Bah\u0101wa\u1e0f"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    55.96459,
+                    31.83238
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.83238",
+                    "coord_lon": "55.96459",
+                    "cornu_URI": "BAHAWADH_559E318N_S_KIRM",
+                    "region_code": 12,
+                    "region_spelled": "Kirman",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "بهاوذ",
+                    "toponym_arabic_other": "بهاوذ",
+                    "toponym_buckwalter": "Bahawadh",
+                    "toponym_search": "Bahawadh",
+                    "toponym_translit": "Bahāwaḏ",
+                    "toponym_translit_other": "Bahāwaḏ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

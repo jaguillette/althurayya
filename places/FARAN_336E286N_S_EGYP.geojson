@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [33.67254, 28.67926], "type": "Point"}, "properties": {"arBW": "Faran", "arTitle": "\u0641\u0627\u0631\u0627\u0646", "arTitleOther": "\u0641\u0627\u0631\u0627\u0646", "lat": "28.67926", "lon": "33.67254", "region": "Egypt", "searchNames": "Faran", "topType": "towns", "topTypeAlt": "district/oasis/cite?", "topURI": "FARAN_336E286N_S_EGYP", "translitTitle": "F\u0101r\u0101n", "translitTitleOther": "F\u0101r\u0101n"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    33.67254,
+                    28.67926
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "28.67926",
+                    "coord_lon": "33.67254",
+                    "cornu_URI": "FARAN_336E286N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "district/oasis/cite?",
+                    "toponym_arabic": "فاران",
+                    "toponym_arabic_other": "فاران",
+                    "toponym_buckwalter": "Faran",
+                    "toponym_search": "Faran",
+                    "toponym_translit": "Fārān",
+                    "toponym_translit_other": "Fārān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

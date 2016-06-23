@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [54.34286, 31.90975], "type": "Point"}, "properties": {"arBW": "Yazd, Katha", "arTitle": "\u064a\u0632\u062f", "arTitleOther": "\u064a\u0632\u062f\u060c \u0643\u062b\u0629", "lat": "31.90975", "lon": "54.34286", "region": "Faris", "searchNames": "Yazd, Katha", "topType": "towns", "topTypeAlt": "cite", "topURI": "YAZD_543E319N_S_FARI", "translitTitle": "Yazd", "translitTitleOther": "Yazd, Ka\u1e6fa\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    54.34286,
+                    31.90975
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.90975",
+                    "coord_lon": "54.34286",
+                    "cornu_URI": "YAZD_543E319N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "يزد",
+                    "toponym_arabic_other": "يزد، كثة",
+                    "toponym_buckwalter": "Yazd, Katha",
+                    "toponym_search": "Yazd, Katha",
+                    "toponym_translit": "Yazd",
+                    "toponym_translit_other": "Yazd, Kaṯaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

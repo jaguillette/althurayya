@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [55.30802, 36.65798], "type": "Point"}, "properties": {"arBW": "Ziradabadh, Zirdabadh", "arTitle": "\u0632\u0631\u062f\u0627\u0628\u0627\u0630", "arTitleOther": "\u0632\u0631\u062f\u0627\u0628\u0627\u0630\u060c \u0632\u0631\u062f\u0627\u0628\u0627\u0630", "lat": "36.65798", "lon": "55.30802", "region": "Daylam", "searchNames": "Ziradabadh, Zirdabadh", "topType": "waystations", "topTypeAlt": "etape", "topURI": "ZIRADABADH_553E366N_S_DAYL", "translitTitle": "Zirad\u0101b\u0101\u1e0f", "translitTitleOther": "Zirad\u0101b\u0101\u1e0f, Zird\u0101b\u0101\u1e0f"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    55.30802,
+                    36.65798
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.65798",
+                    "coord_lon": "55.30802",
+                    "cornu_URI": "ZIRADABADH_553E366N_S_DAYL",
+                    "region_code": 4,
+                    "region_spelled": "Daylam",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "زرداباذ",
+                    "toponym_arabic_other": "زرداباذ، زرداباذ",
+                    "toponym_buckwalter": "Ziradabadh, Zirdabadh",
+                    "toponym_search": "Ziradabadh, Zirdabadh",
+                    "toponym_translit": "Ziradābāḏ",
+                    "toponym_translit_other": "Ziradābāḏ, Zirdābāḏ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [40.43747, 35.1462], "type": "Point"}, "properties": {"arBW": "Qarqisiyya", "arTitle": "\u0642\u0631\u0642\u064a\u0633\u064a\u0629", "arTitleOther": "\u0642\u0631\u0642\u064a\u0633\u064a\u0629", "lat": "35.14620", "lon": "40.43747", "region": "Aqur", "searchNames": "Qarqisiyya", "topType": "towns", "topTypeAlt": "cite", "topURI": "QARQISIYYA_404E351N_S_AQUR", "translitTitle": "Qarq\u012bsiyya\u0167", "translitTitleOther": "Qarq\u012bsiyya\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    40.43747,
+                    35.1462
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.14620",
+                    "coord_lon": "40.43747",
+                    "cornu_URI": "QARQISIYYA_404E351N_S_AQUR",
+                    "region_code": 2,
+                    "region_spelled": "Aqur",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "قرقيسية",
+                    "toponym_arabic_other": "قرقيسية",
+                    "toponym_buckwalter": "Qarqisiyya",
+                    "toponym_search": "Qarqisiyya",
+                    "toponym_translit": "Qarqīsiyyaŧ",
+                    "toponym_translit_other": "Qarqīsiyyaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

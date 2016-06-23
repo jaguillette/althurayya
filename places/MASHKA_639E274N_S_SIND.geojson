@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [63.94609, 27.46467], "type": "Point"}, "properties": {"arBW": "Mashka, Mashki", "arTitle": "\u0645\u0634\u0643\u0649", "arTitleOther": "\u0645\u0634\u0643\u0649\u060c \u0645\u0634\u0643\u064a", "lat": "27.46467", "lon": "63.94609", "region": "Sind", "searchNames": "Mashka, Mashki", "topType": "towns", "topTypeAlt": "cite", "topURI": "MASHKA_639E274N_S_SIND", "translitTitle": "Ma\u0161k\u00e1", "translitTitleOther": "Ma\u0161k\u00e1, Ma\u0161k\u012b"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    63.94609,
+                    27.46467
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "27.46467",
+                    "coord_lon": "63.94609",
+                    "cornu_URI": "MASHKA_639E274N_S_SIND",
+                    "region_code": 19,
+                    "region_spelled": "Sind",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "مشكى",
+                    "toponym_arabic_other": "مشكى، مشكي",
+                    "toponym_buckwalter": "Mashka, Mashki",
+                    "toponym_search": "Mashka, Mashki",
+                    "toponym_translit": "Mašká",
+                    "toponym_translit_other": "Mašká, Maškī"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

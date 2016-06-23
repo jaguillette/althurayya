@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [45.07411, 37.52011], "type": "Point"}, "properties": {"arBW": "Urmiya", "arTitle": "\u0623\u0631\u0645\u064a\u064a\u0629", "arTitleOther": "\u0623\u0631\u0645\u064a\u064a\u0629", "lat": "37.52011", "lon": "45.07411", "region": "Rihab", "searchNames": "Urmiya", "topType": "towns", "topTypeAlt": "cite", "topURI": "URMIYA_450E375N_S_RIHA", "translitTitle": "Urm\u012bya\u0167", "translitTitleOther": "Urm\u012bya\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    45.07411,
+                    37.52011
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.52011",
+                    "coord_lon": "45.07411",
+                    "cornu_URI": "URMIYA_450E375N_S_RIHA",
+                    "region_code": 15,
+                    "region_spelled": "Rihab",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "أرميية",
+                    "toponym_arabic_other": "أرميية",
+                    "toponym_buckwalter": "Urmiya",
+                    "toponym_search": "Urmiya",
+                    "toponym_translit": "Urmīyaŧ",
+                    "toponym_translit_other": "Urmīyaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

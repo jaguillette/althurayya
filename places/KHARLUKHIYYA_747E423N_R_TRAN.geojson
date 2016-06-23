@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [74.76957, 42.38249], "type": "Point"}, "properties": {"arBW": "al-Kharlukhiyya", "arTitle": "\ufb50\u0644\u062e\u0631\u0644\u062e\u064a\u0629", "arTitleOther": "\ufb50\u0644\u062e\u0631\u0644\u062e\u064a\u0629", "lat": "42.38249", "lon": "74.76957", "region": "Transoxiana", "searchNames": "al-Kharlukhiyya", "topType": "regions", "topTypeAlt": "region", "topURI": "KHARLUKHIYYA_747E423N_R_TRAN", "translitTitle": "al-\u1e2aarlu\u1e2biyya\u0167", "translitTitleOther": "al-\u1e2aarlu\u1e2biyya\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    74.76957,
+                    42.38249
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "42.38249",
+                    "coord_lon": "74.76957",
+                    "cornu_URI": "KHARLUKHIYYA_747E423N_R_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "ﭐلخرلخية",
+                    "toponym_arabic_other": "ﭐلخرلخية",
+                    "toponym_buckwalter": "al-Kharlukhiyya",
+                    "toponym_search": "al-Kharlukhiyya",
+                    "toponym_translit": "al-Ḫarluḫiyyaŧ",
+                    "toponym_translit_other": "al-Ḫarluḫiyyaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

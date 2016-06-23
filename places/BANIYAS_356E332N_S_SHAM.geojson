@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [35.67787, 33.2515], "type": "Point"}, "properties": {"arBW": "Baniyas", "arTitle": "\u0628\u0627\u0646\u064a\u0627\u0633", "arTitleOther": "\u0628\u0627\u0646\u064a\u0627\u0633", "lat": "33.25150", "lon": "35.67787", "region": "Sham", "searchNames": "Baniyas", "topType": "towns", "topTypeAlt": "cite", "topURI": "BANIYAS_356E332N_S_SHAM", "translitTitle": "B\u0101niy\u0101s", "translitTitleOther": "B\u0101niy\u0101s"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    35.67787,
+                    33.2515
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.25150",
+                    "coord_lon": "35.67787",
+                    "cornu_URI": "BANIYAS_356E332N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "بانياس",
+                    "toponym_arabic_other": "بانياس",
+                    "toponym_buckwalter": "Baniyas",
+                    "toponym_search": "Baniyas",
+                    "toponym_translit": "Bāniyās",
+                    "toponym_translit_other": "Bāniyās"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

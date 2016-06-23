@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [51.44858, 30.01617], "type": "Point"}, "properties": {"arBW": "Khumayjan", "arTitle": "\u062e\u0645\u064a\u062c\u0627\u0646", "arTitleOther": "\u062e\u0645\u064a\u062c\u0627\u0646", "lat": "30.01617", "lon": "51.44858", "region": "Faris", "searchNames": "Khumayjan", "topType": "regions", "topTypeAlt": "region", "topURI": "KHUMAYJAN_514E300N_R_FARI", "translitTitle": "\u1e2aumay\u01e7\u0101n", "translitTitleOther": "\u1e2aumay\u01e7\u0101n"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    51.44858,
+                    30.01617
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.01617",
+                    "coord_lon": "51.44858",
+                    "cornu_URI": "KHUMAYJAN_514E300N_R_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "خميجان",
+                    "toponym_arabic_other": "خميجان",
+                    "toponym_buckwalter": "Khumayjan",
+                    "toponym_search": "Khumayjan",
+                    "toponym_translit": "Ḫumayǧān",
+                    "toponym_translit_other": "Ḫumayǧān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

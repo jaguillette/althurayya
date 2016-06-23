@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [-5.64097, 37.42933], "type": "Point"}, "properties": {"arBW": "Qarmuna", "arTitle": "\u0642\u0631\u0645\u0648\u0646\u0629", "arTitleOther": "\u0642\u0631\u0645\u0648\u0646\u0629", "lat": "37.42933", "lon": "-5.64097", "region": "Andalus", "searchNames": "Qarmuna", "topType": "towns", "topTypeAlt": "cite", "topURI": "QARMUNA_056W374N_S_ANDA", "translitTitle": "Qarm\u016bna\u0167", "translitTitleOther": "Qarm\u016bna\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -5.64097,
+                    37.42933
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.42933",
+                    "coord_lon": "-5.64097",
+                    "cornu_URI": "QARMUNA_056W374N_S_ANDA",
+                    "region_code": 1,
+                    "region_spelled": "Andalus",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "قرمونة",
+                    "toponym_arabic_other": "قرمونة",
+                    "toponym_buckwalter": "Qarmuna",
+                    "toponym_search": "Qarmuna",
+                    "toponym_translit": "Qarmūnaŧ",
+                    "toponym_translit_other": "Qarmūnaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

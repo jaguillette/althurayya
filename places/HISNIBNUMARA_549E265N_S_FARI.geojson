@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [54.90122, 26.57451], "type": "Point"}, "properties": {"arBW": "Hisn Ibn Umara, Qala Ibn Umara", "arTitle": "\u062d\u0635\u0646 \u0625\u0628\u0646 \u0639\u0645\u0627\u0631\u0629", "arTitleOther": "\u062d\u0635\u0646 \u0625\u0628\u0646 \u0639\u0645\u0627\u0631\u0629\u060c \u0642\u0644\u0639\u0629 \u0625\u0628\u0646 \u0639\u0645\u0627\u0631\u0629", "lat": "26.57451", "lon": "54.90122", "region": "Faris", "searchNames": "Hisn Ibn Umara, Qala Ibn Umara", "topType": "waystations", "topTypeAlt": "citadelle", "topURI": "HISNIBNUMARA_549E265N_S_FARI", "translitTitle": "\u1e24i\u1e63n Ibn \u02bfUm\u0101ra\u0167", "translitTitleOther": "\u1e24i\u1e63n Ibn \u02bfUm\u0101ra\u0167, Qal\u02bfa\u0167 Ibn \u02bfUm\u0101ra\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    54.90122,
+                    26.57451
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "26.57451",
+                    "coord_lon": "54.90122",
+                    "cornu_URI": "HISNIBNUMARA_549E265N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "citadelle",
+                    "toponym_arabic": "حصن إبن عمارة",
+                    "toponym_arabic_other": "حصن إبن عمارة، قلعة إبن عمارة",
+                    "toponym_buckwalter": "Hisn Ibn Umara, Qala Ibn Umara",
+                    "toponym_search": "Hisn Ibn Umara, Qala Ibn Umara",
+                    "toponym_translit": "Ḥiṣn Ibn ʿUmāraŧ",
+                    "toponym_translit_other": "Ḥiṣn Ibn ʿUmāraŧ, Qalʿaŧ Ibn ʿUmāraŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

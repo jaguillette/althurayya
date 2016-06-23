@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [46.32366, 24.02771], "type": "Point"}, "properties": {"arBW": "al-Thaniyya", "arTitle": "\ufb50\u0644\u062b\u0646\u064a\u0629", "arTitleOther": "\ufb50\u0644\u062b\u0646\u064a\u0629", "lat": "24.02771", "lon": "46.32366", "region": "Jazirat al-Arab", "searchNames": "al-Thaniyya", "topType": "regions", "topTypeAlt": "region", "topURI": "THANIYYA_463E240N_R_JAZI", "translitTitle": "al-\u1e6eaniyya\u0167", "translitTitleOther": "al-\u1e6eaniyya\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    46.32366,
+                    24.02771
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "24.02771",
+                    "coord_lon": "46.32366",
+                    "cornu_URI": "THANIYYA_463E240N_R_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "ﭐلثنية",
+                    "toponym_arabic_other": "ﭐلثنية",
+                    "toponym_buckwalter": "al-Thaniyya",
+                    "toponym_search": "al-Thaniyya",
+                    "toponym_translit": "al-Ṯaniyyaŧ",
+                    "toponym_translit_other": "al-Ṯaniyyaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

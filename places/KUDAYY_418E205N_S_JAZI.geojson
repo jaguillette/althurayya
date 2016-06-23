@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [41.8722, 20.55409], "type": "Point"}, "properties": {"arBW": "Kudayy", "arTitle": "\u0643\u062f\u064a", "arTitleOther": "\u0643\u062f\u064a", "lat": "20.55409", "lon": "41.87220", "region": "Jazirat al-Arab", "searchNames": "Kudayy", "topType": "waystations", "topTypeAlt": "etape?", "topURI": "KUDAYY_418E205N_S_JAZI", "translitTitle": "Kudayy", "translitTitleOther": "Kudayy"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    41.8722,
+                    20.55409
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "20.55409",
+                    "coord_lon": "41.87220",
+                    "cornu_URI": "KUDAYY_418E205N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape?",
+                    "toponym_arabic": "كدي",
+                    "toponym_arabic_other": "كدي",
+                    "toponym_buckwalter": "Kudayy",
+                    "toponym_search": "Kudayy",
+                    "toponym_translit": "Kudayy",
+                    "toponym_translit_other": "Kudayy"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

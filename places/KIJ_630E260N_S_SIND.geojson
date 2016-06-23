@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [63.09359, 26.02584], "type": "Point"}, "properties": {"arBW": "Kij, Kiz", "arTitle": "\u0643\u064a\u062c", "arTitleOther": "\u0643\u064a\u062c\u060c \u0643\u064a\u0632", "lat": "26.02584", "lon": "63.09359", "region": "Sind", "searchNames": "Kij, Kiz", "topType": "towns", "topTypeAlt": "cite", "topURI": "KIJ_630E260N_S_SIND", "translitTitle": "K\u012b\u01e7", "translitTitleOther": "K\u012b\u01e7, K\u012bz"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    63.09359,
+                    26.02584
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "26.02584",
+                    "coord_lon": "63.09359",
+                    "cornu_URI": "KIJ_630E260N_S_SIND",
+                    "region_code": 19,
+                    "region_spelled": "Sind",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "كيج",
+                    "toponym_arabic_other": "كيج، كيز",
+                    "toponym_buckwalter": "Kij, Kiz",
+                    "toponym_search": "Kij, Kiz",
+                    "toponym_translit": "Kīǧ",
+                    "toponym_translit_other": "Kīǧ, Kīz"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

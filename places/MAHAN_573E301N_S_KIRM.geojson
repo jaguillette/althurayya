@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [57.31039, 30.11166], "type": "Point"}, "properties": {"arBW": "Mahan", "arTitle": "\u0645\u0627\u0647\u0627\u0646", "arTitleOther": "\u0645\u0627\u0647\u0627\u0646", "lat": "30.11166", "lon": "57.31039", "region": "Kirman", "searchNames": "Mahan", "topType": "towns", "topTypeAlt": "cite", "topURI": "MAHAN_573E301N_S_KIRM", "translitTitle": "M\u0101h\u0101n", "translitTitleOther": "M\u0101h\u0101n"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    57.31039,
+                    30.11166
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.11166",
+                    "coord_lon": "57.31039",
+                    "cornu_URI": "MAHAN_573E301N_S_KIRM",
+                    "region_code": 12,
+                    "region_spelled": "Kirman",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ماهان",
+                    "toponym_arabic_other": "ماهان",
+                    "toponym_buckwalter": "Mahan",
+                    "toponym_search": "Mahan",
+                    "toponym_translit": "Māhān",
+                    "toponym_translit_other": "Māhān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [31.55816, 31.11972], "type": "Point"}, "properties": {"arBW": "Khalij Sardus", "arTitle": "\u062e\u0644\u064a\u062c \u0633\u0631\u062f\u0648\u0633", "arTitleOther": "\u062e\u0644\u064a\u062c \u0633\u0631\u062f\u0648\u0633", "lat": "31.11972", "lon": "31.55816", "region": "Egypt", "searchNames": "Khalij Sardus", "topType": "waters", "topTypeAlt": "riviere", "topURI": "KHALIJSARDUS_315E311N_W_EGYP", "translitTitle": "\u1e2aal\u012b\u01e7 Sard\u016bs", "translitTitleOther": "\u1e2aal\u012b\u01e7 Sard\u016bs"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    31.55816,
+                    31.11972
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.11972",
+                    "coord_lon": "31.55816",
+                    "cornu_URI": "KHALIJSARDUS_315E311N_W_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "riviere",
+                    "toponym_arabic": "خليج سردوس",
+                    "toponym_arabic_other": "خليج سردوس",
+                    "toponym_buckwalter": "Khalij Sardus",
+                    "toponym_search": "Khalij Sardus",
+                    "toponym_translit": "Ḫalīǧ Sardūs",
+                    "toponym_translit_other": "Ḫalīǧ Sardūs"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

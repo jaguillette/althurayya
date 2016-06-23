@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [47.95801, 38.24076], "type": "Point"}, "properties": {"arBW": "Adharbayjan", "arTitle": "\u0623\u0630\u0631\u0628\u064a\u062c\u0627\u0646", "arTitleOther": "\u0623\u0630\u0631\u0628\u064a\u062c\u0627\u0646", "lat": "38.24076", "lon": "47.95801", "region": "Rihab", "searchNames": "Adharbayjan", "topType": "regions", "topTypeAlt": "region", "topURI": "ADHARBAYJAN_479E382N_R_RIHA", "translitTitle": "A\u1e0farbay\u01e7\u0101n", "translitTitleOther": "A\u1e0farbay\u01e7\u0101n"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    47.95801,
+                    38.24076
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "38.24076",
+                    "coord_lon": "47.95801",
+                    "cornu_URI": "ADHARBAYJAN_479E382N_R_RIHA",
+                    "region_code": 15,
+                    "region_spelled": "Rihab",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "أذربيجان",
+                    "toponym_arabic_other": "أذربيجان",
+                    "toponym_buckwalter": "Adharbayjan",
+                    "toponym_search": "Adharbayjan",
+                    "toponym_translit": "Aḏarbayǧān",
+                    "toponym_translit_other": "Aḏarbayǧān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

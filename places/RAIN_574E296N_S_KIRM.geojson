@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [57.49859, 29.61311], "type": "Point"}, "properties": {"arBW": "Rain, Rayin", "arTitle": "\u0631\u0627\u0626\u0646", "arTitleOther": "\u0631\u0627\u0626\u0646\u060c \u0631\u0627\u064a\u0646", "lat": "29.61311", "lon": "57.49859", "region": "Kirman", "searchNames": "Rain, Rayin", "topType": "towns", "topTypeAlt": "cite", "topURI": "RAIN_574E296N_S_KIRM", "translitTitle": "R\u0101\u02bein", "translitTitleOther": "R\u0101\u02bein, R\u0101yin"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    57.49859,
+                    29.61311
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "29.61311",
+                    "coord_lon": "57.49859",
+                    "cornu_URI": "RAIN_574E296N_S_KIRM",
+                    "region_code": 12,
+                    "region_spelled": "Kirman",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "رائن",
+                    "toponym_arabic_other": "رائن، راين",
+                    "toponym_buckwalter": "Rain, Rayin",
+                    "toponym_search": "Rain, Rayin",
+                    "toponym_translit": "Rāʾin",
+                    "toponym_translit_other": "Rāʾin, Rāyin"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

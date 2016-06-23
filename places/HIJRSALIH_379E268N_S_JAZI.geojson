@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [37.93999, 26.86125], "type": "Point"}, "properties": {"arBW": "Hijr Salih, al-Hijr", "arTitle": "\u062d\u062c\u0631 \u0635\u0627\u0644\u062d", "arTitleOther": "\u062d\u062c\u0631 \u0635\u0627\u0644\u062d\u060c \ufb50\u0644\u062d\u062c\u0631", "lat": "26.86125", "lon": "37.93999", "region": "Jazirat al-Arab", "searchNames": "Hijr Salih, al-Hijr", "topType": "towns", "topTypeAlt": "cite", "topURI": "HIJRSALIH_379E268N_S_JAZI", "translitTitle": "\u1e24i\u01e7r \u1e62\u0101li\u1e25", "translitTitleOther": "\u1e24i\u01e7r \u1e62\u0101li\u1e25, al-\u1e24i\u01e7r"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    37.93999,
+                    26.86125
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "26.86125",
+                    "coord_lon": "37.93999",
+                    "cornu_URI": "HIJRSALIH_379E268N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "حجر صالح",
+                    "toponym_arabic_other": "حجر صالح، ﭐلحجر",
+                    "toponym_buckwalter": "Hijr Salih, al-Hijr",
+                    "toponym_search": "Hijr Salih, al-Hijr",
+                    "toponym_translit": "Ḥiǧr Ṣāliḥ",
+                    "toponym_translit_other": "Ḥiǧr Ṣāliḥ, al-Ḥiǧr"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

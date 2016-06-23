@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [51.63759, 36.0318], "type": "Point"}, "properties": {"arBW": "Jabal Rubanj, Ruyanj", "arTitle": "\u062c\u0628\u0644 \u0631\u0648\u0628\u0646\u062c", "arTitleOther": "\u062c\u0628\u0644 \u0631\u0648\u0628\u0646\u062c\u060c \u0631\u064a\u0646\u062c", "lat": "36.03180", "lon": "51.63759", "region": "Daylam", "searchNames": "Jabal Rubanj, Ruyanj", "topType": "sites", "topTypeAlt": "mont", "topURI": "JABALRUBANJ_516E360N_O_DAYL", "translitTitle": "\u01e6abal R\u016bban\u01e7", "translitTitleOther": "\u01e6abal R\u016bban\u01e7, Ruyan\u01e7"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    51.63759,
+                    36.0318
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.03180",
+                    "coord_lon": "51.63759",
+                    "cornu_URI": "JABALRUBANJ_516E360N_O_DAYL",
+                    "region_code": 4,
+                    "region_spelled": "Daylam",
+                    "top_type_hom": "sites",
+                    "top_type_orig": "mont",
+                    "toponym_arabic": "جبل روبنج",
+                    "toponym_arabic_other": "جبل روبنج، رينج",
+                    "toponym_buckwalter": "Jabal Rubanj, Ruyanj",
+                    "toponym_search": "Jabal Rubanj, Ruyanj",
+                    "toponym_translit": "Ǧabal Rūbanǧ",
+                    "toponym_translit_other": "Ǧabal Rūbanǧ, Ruyanǧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [30.75642, 30.87466], "type": "Point"}, "properties": {"arBW": "Babij", "arTitle": "\u0628\u0628\u064a\u062c", "arTitleOther": "\u0628\u0628\u064a\u062c", "lat": "30.87466", "lon": "30.75642", "region": "Egypt", "searchNames": "Babij", "topType": "towns", "topTypeAlt": "cite", "topURI": "BABIJ_307E308N_S_EGYP", "translitTitle": "Bab\u012b\u01e7", "translitTitleOther": "Bab\u012b\u01e7"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    30.75642,
+                    30.87466
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.87466",
+                    "coord_lon": "30.75642",
+                    "cornu_URI": "BABIJ_307E308N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ببيج",
+                    "toponym_arabic_other": "ببيج",
+                    "toponym_buckwalter": "Babij",
+                    "toponym_search": "Babij",
+                    "toponym_translit": "Babīǧ",
+                    "toponym_translit_other": "Babīǧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

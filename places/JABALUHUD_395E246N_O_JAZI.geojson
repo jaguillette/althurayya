@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [39.59145, 24.64886], "type": "Point"}, "properties": {"arBW": "Jabal Uhud", "arTitle": "\u062c\u0628\u0644 \u0623\u062d\u062f", "arTitleOther": "\u062c\u0628\u0644 \u0623\u062d\u062f", "lat": "24.64886", "lon": "39.59145", "region": "Jazirat al-Arab", "searchNames": "Jabal Uhud", "topType": "sites", "topTypeAlt": "mont", "topURI": "JABALUHUD_395E246N_O_JAZI", "translitTitle": "\u01e6abal U\u1e25ud", "translitTitleOther": "\u01e6abal U\u1e25ud"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    39.59145,
+                    24.64886
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "24.64886",
+                    "coord_lon": "39.59145",
+                    "cornu_URI": "JABALUHUD_395E246N_O_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "sites",
+                    "top_type_orig": "mont",
+                    "toponym_arabic": "جبل أحد",
+                    "toponym_arabic_other": "جبل أحد",
+                    "toponym_buckwalter": "Jabal Uhud",
+                    "toponym_search": "Jabal Uhud",
+                    "toponym_translit": "Ǧabal Uḥud",
+                    "toponym_translit_other": "Ǧabal Uḥud"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [35.37475, 33.56642], "type": "Point"}, "properties": {"arBW": "Sayda", "arTitle": "\u0635\u064a\u062f\u0627\u0621", "arTitleOther": "\u0635\u064a\u062f\u0627\u0621", "lat": "33.56642", "lon": "35.37475", "region": "Sham", "searchNames": "Sayda", "topType": "towns", "topTypeAlt": "cite", "topURI": "SAYDA_353E335N_S_SHAM", "translitTitle": "\u1e62ayd\u0101\u02be", "translitTitleOther": "\u1e62ayd\u0101\u02be"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    35.37475,
+                    33.56642
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.56642",
+                    "coord_lon": "35.37475",
+                    "cornu_URI": "SAYDA_353E335N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "صيداء",
+                    "toponym_arabic_other": "صيداء",
+                    "toponym_buckwalter": "Sayda",
+                    "toponym_search": "Sayda",
+                    "toponym_translit": "Ṣaydāʾ",
+                    "toponym_translit_other": "Ṣaydāʾ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

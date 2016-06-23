@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [45.33616, 15.40854], "type": "Point"}, "properties": {"arBW": "Saba", "arTitle": "\u0633\u0628\u0627\u0621", "arTitleOther": "\u0633\u0628\u0627\u0621", "lat": "15.40854", "lon": "45.33616", "region": "Yemen", "searchNames": "Saba", "topType": "regions", "topTypeAlt": "region", "topURI": "SABA_453E154N_R_YEME", "translitTitle": "Sab\u0101\u02be", "translitTitleOther": "Sab\u0101\u02be"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    45.33616,
+                    15.40854
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "15.40854",
+                    "coord_lon": "45.33616",
+                    "cornu_URI": "SABA_453E154N_R_YEME",
+                    "region_code": 21,
+                    "region_spelled": "Yemen",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "سباء",
+                    "toponym_arabic_other": "سباء",
+                    "toponym_buckwalter": "Saba",
+                    "toponym_search": "Saba",
+                    "toponym_translit": "Sabāʾ",
+                    "toponym_translit_other": "Sabāʾ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

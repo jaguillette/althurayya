@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [36.766, 35.28804], "type": "Point"}, "properties": {"arBW": "Sawwaran", "arTitle": "\u0635\u0648\u0631\u0627\u0646", "arTitleOther": "\u0635\u0648\u0631\u0627\u0646", "lat": "35.28804", "lon": "36.76600", "region": "Sham", "searchNames": "Sawwaran", "topType": "regions", "topTypeAlt": "district", "topURI": "SAWWARAN_367E352N_R_SHAM", "translitTitle": "\u1e62awwar\u0101n", "translitTitleOther": "\u1e62awwar\u0101n"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    36.766,
+                    35.28804
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.28804",
+                    "coord_lon": "36.76600",
+                    "cornu_URI": "SAWWARAN_367E352N_R_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "district",
+                    "toponym_arabic": "صوران",
+                    "toponym_arabic_other": "صوران",
+                    "toponym_buckwalter": "Sawwaran",
+                    "toponym_search": "Sawwaran",
+                    "toponym_translit": "Ṣawwarān",
+                    "toponym_translit_other": "Ṣawwarān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

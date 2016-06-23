@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [43.03638, 15.18964], "type": "Point"}, "properties": {"arBW": "Surdud, Surdad", "arTitle": "\u0633\u0631\u062f\u062f", "arTitleOther": "\u0633\u0631\u062f\u062f\u060c \u0633\u0631\u062f\u062f", "lat": "15.18964", "lon": "43.03638", "region": "Yemen", "searchNames": "Surdud, Surdad", "topType": "regions", "topTypeAlt": "region", "topURI": "SURDUD_430E151N_R_YEME", "translitTitle": "Surdud", "translitTitleOther": "Surdud, Surdad"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    43.03638,
+                    15.18964
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "15.18964",
+                    "coord_lon": "43.03638",
+                    "cornu_URI": "SURDUD_430E151N_R_YEME",
+                    "region_code": 21,
+                    "region_spelled": "Yemen",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "سردد",
+                    "toponym_arabic_other": "سردد، سردد",
+                    "toponym_buckwalter": "Surdud, Surdad",
+                    "toponym_search": "Surdud, Surdad",
+                    "toponym_translit": "Surdud",
+                    "toponym_translit_other": "Surdud, Surdad"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

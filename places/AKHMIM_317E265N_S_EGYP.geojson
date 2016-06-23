@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [31.72957, 26.56301], "type": "Point"}, "properties": {"arBW": "Akhmim", "arTitle": "\u0623\u062e\u0645\u064a\u0645", "arTitleOther": "\u0623\u062e\u0645\u064a\u0645", "lat": "26.56301", "lon": "31.72957", "region": "Egypt", "searchNames": "Akhmim", "topType": "towns", "topTypeAlt": "cite", "topURI": "AKHMIM_317E265N_S_EGYP", "translitTitle": "A\u1e2bm\u012bm", "translitTitleOther": "A\u1e2bm\u012bm"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    31.72957,
+                    26.56301
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "26.56301",
+                    "coord_lon": "31.72957",
+                    "cornu_URI": "AKHMIM_317E265N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "أخميم",
+                    "toponym_arabic_other": "أخميم",
+                    "toponym_buckwalter": "Akhmim",
+                    "toponym_search": "Akhmim",
+                    "toponym_translit": "Aḫmīm",
+                    "toponym_translit_other": "Aḫmīm"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

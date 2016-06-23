@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [36.43071, 32.51503], "type": "Point"}, "properties": {"arBW": "Busra", "arTitle": "\u0628\u0635\u0631\u0649", "arTitleOther": "\u0628\u0635\u0631\u0649", "lat": "32.51503", "lon": "36.43071", "region": "Sham", "searchNames": "Busra", "topType": "towns", "topTypeAlt": "cite", "topURI": "BUSRA_364E325N_S_SHAM", "translitTitle": "Bu\u1e63r\u00e1", "translitTitleOther": "Bu\u1e63r\u00e1"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    36.43071,
+                    32.51503
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.51503",
+                    "coord_lon": "36.43071",
+                    "cornu_URI": "BUSRA_364E325N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "بصرى",
+                    "toponym_arabic_other": "بصرى",
+                    "toponym_buckwalter": "Busra",
+                    "toponym_search": "Busra",
+                    "toponym_translit": "Buṣrá",
+                    "toponym_translit_other": "Buṣrá"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

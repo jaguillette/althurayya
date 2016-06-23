@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [59.129, 36.03203], "type": "Point"}, "properties": {"arBW": "Qasr al-Rih", "arTitle": "\u0642\u0635\u0631 \ufb50\u0644\u0631\u064a\u062d", "arTitleOther": "\u0642\u0635\u0631 \ufb50\u0644\u0631\u064a\u062d", "lat": "36.03203", "lon": "59.12900", "region": "Khurasan", "searchNames": "Qasr al-Rih", "topType": "villages", "topTypeAlt": "localite", "topURI": "QASRRIH_591E360N_S_KHUR", "translitTitle": "Qa\u1e63r al-R\u012b\u1e25", "translitTitleOther": "Qa\u1e63r al-R\u012b\u1e25"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    59.129,
+                    36.03203
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.03203",
+                    "coord_lon": "59.12900",
+                    "cornu_URI": "QASRRIH_591E360N_S_KHUR",
+                    "region_code": 10,
+                    "region_spelled": "Khurasan",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "قصر ﭐلريح",
+                    "toponym_arabic_other": "قصر ﭐلريح",
+                    "toponym_buckwalter": "Qasr al-Rih",
+                    "toponym_search": "Qasr al-Rih",
+                    "toponym_translit": "Qaṣr al-Rīḥ",
+                    "toponym_translit_other": "Qaṣr al-Rīḥ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

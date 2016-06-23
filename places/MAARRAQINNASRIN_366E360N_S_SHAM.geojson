@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [36.69667, 36.01376], "type": "Point"}, "properties": {"arBW": "Maarra Qinnasrin", "arTitle": "\u0645\u0639\u0631\u0629 \u0642\u0646\u0633\u0631\u064a\u0646", "arTitleOther": "\u0645\u0639\u0631\u0629 \u0642\u0646\u0633\u0631\u064a\u0646", "lat": "36.01376", "lon": "36.69667", "region": "Sham", "searchNames": "Maarra Qinnasrin", "topType": "towns", "topTypeAlt": "cite", "topURI": "MAARRAQINNASRIN_366E360N_S_SHAM", "translitTitle": "Ma\u02bfarra\u0167 Qinnasr\u012bn", "translitTitleOther": "Ma\u02bfarra\u0167 Qinnasr\u012bn"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    36.69667,
+                    36.01376
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.01376",
+                    "coord_lon": "36.69667",
+                    "cornu_URI": "MAARRAQINNASRIN_366E360N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "معرة قنسرين",
+                    "toponym_arabic_other": "معرة قنسرين",
+                    "toponym_buckwalter": "Maarra Qinnasrin",
+                    "toponym_search": "Maarra Qinnasrin",
+                    "toponym_translit": "Maʿarraŧ Qinnasrīn",
+                    "toponym_translit_other": "Maʿarraŧ Qinnasrīn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [34.95381, 32.7475], "type": "Point"}, "properties": {"arBW": "al-Kanisa", "arTitle": "\ufb50\u0644\u0643\u0646\u064a\u0633\u0629", "arTitleOther": "\ufb50\u0644\u0643\u0646\u064a\u0633\u0629", "lat": "32.74750", "lon": "34.95381", "region": "Sham", "searchNames": "al-Kanisa", "topType": "villages", "topTypeAlt": "localite", "topURI": "KANISA_349E327N_S_SHAM", "translitTitle": "al-Kan\u012bsa\u0167", "translitTitleOther": "al-Kan\u012bsa\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    34.95381,
+                    32.7475
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.74750",
+                    "coord_lon": "34.95381",
+                    "cornu_URI": "KANISA_349E327N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "ﭐلكنيسة",
+                    "toponym_arabic_other": "ﭐلكنيسة",
+                    "toponym_buckwalter": "al-Kanisa",
+                    "toponym_search": "al-Kanisa",
+                    "toponym_translit": "al-Kanīsaŧ",
+                    "toponym_translit_other": "al-Kanīsaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

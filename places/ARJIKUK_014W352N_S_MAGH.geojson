@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [-1.45702, 35.28205], "type": "Point"}, "properties": {"arBW": "Arjikuk, al-Shaqur", "arTitle": "\u0623\u0631\u062c\u0643\u0648\u0643", "arTitleOther": "\u0623\u0631\u062c\u0643\u0648\u0643\u060c \ufb50\u0644\u0634\u0642\u0648\u0631", "lat": "35.28205", "lon": "-1.45702", "region": "Maghrib", "searchNames": "Arjikuk, al-Shaqur", "topType": "towns", "topTypeAlt": "cite", "topURI": "ARJIKUK_014W352N_S_MAGH", "translitTitle": "Ar\u01e7ik\u016bk", "translitTitleOther": "Ar\u01e7ik\u016bk, al-\u0160aq\u016br"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.45702,
+                    35.28205
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.28205",
+                    "coord_lon": "-1.45702",
+                    "cornu_URI": "ARJIKUK_014W352N_S_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "أرجكوك",
+                    "toponym_arabic_other": "أرجكوك، ﭐلشقور",
+                    "toponym_buckwalter": "Arjikuk, al-Shaqur",
+                    "toponym_search": "Arjikuk, al-Shaqur",
+                    "toponym_translit": "Arǧikūk",
+                    "toponym_translit_other": "Arǧikūk, al-Šaqūr"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

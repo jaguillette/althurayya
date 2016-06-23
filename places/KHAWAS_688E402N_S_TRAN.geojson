@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [68.82906, 40.22314], "type": "Point"}, "properties": {"arBW": "Khawas, Hawas", "arTitle": "\u062e\u0627\u0648\u0635", "arTitleOther": "\u062e\u0627\u0648\u0635\u060c \u062d\u0627\u0648\u0633", "lat": "40.22314", "lon": "68.82906", "region": "Transoxiana", "searchNames": "Khawas, Hawas", "topType": "villages", "topTypeAlt": "bourgade", "topURI": "KHAWAS_688E402N_S_TRAN", "translitTitle": "\u1e2a\u0101wa\u1e63", "translitTitleOther": "\u1e2a\u0101wa\u1e63, \u1e24\u0101was"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    68.82906,
+                    40.22314
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "40.22314",
+                    "coord_lon": "68.82906",
+                    "cornu_URI": "KHAWAS_688E402N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "bourgade",
+                    "toponym_arabic": "خاوص",
+                    "toponym_arabic_other": "خاوص، حاوس",
+                    "toponym_buckwalter": "Khawas, Hawas",
+                    "toponym_search": "Khawas, Hawas",
+                    "toponym_translit": "Ḫāwaṣ",
+                    "toponym_translit_other": "Ḫāwaṣ, Ḥāwas"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

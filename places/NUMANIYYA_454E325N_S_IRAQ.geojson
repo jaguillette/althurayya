@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [45.4265, 32.59694], "type": "Point"}, "properties": {"arBW": "al-Numaniyya, Tall Numan", "arTitle": "\ufb50\u0644\u0646\u0639\u0645\u0627\u0646\u064a\u0629", "arTitleOther": "\ufb50\u0644\u0646\u0639\u0645\u0627\u0646\u064a\u0629\u060c \u062a\u0644 \u0646\u0639\u0645\u0627\u0646", "lat": "32.59694", "lon": "45.42650", "region": "Iraq", "searchNames": "al-Numaniyya, Tall Numan", "topType": "towns", "topTypeAlt": "cite", "topURI": "NUMANIYYA_454E325N_S_IRAQ", "translitTitle": "al-Nu\u02bfm\u0101niyya\u0167", "translitTitleOther": "al-Nu\u02bfm\u0101niyya\u0167, Tall Nu\u02bfm\u0101n"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    45.4265,
+                    32.59694
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.59694",
+                    "coord_lon": "45.42650",
+                    "cornu_URI": "NUMANIYYA_454E325N_S_IRAQ",
+                    "region_code": 7,
+                    "region_spelled": "Iraq",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ﭐلنعمانية",
+                    "toponym_arabic_other": "ﭐلنعمانية، تل نعمان",
+                    "toponym_buckwalter": "al-Numaniyya, Tall Numan",
+                    "toponym_search": "al-Numaniyya, Tall Numan",
+                    "toponym_translit": "al-Nuʿmāniyyaŧ",
+                    "toponym_translit_other": "al-Nuʿmāniyyaŧ, Tall Nuʿmān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

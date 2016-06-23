@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [15.10968, 37.52663], "type": "Point"}, "properties": {"arBW": "Qataniya", "arTitle": "\u0642\u0637\u0627\u0646\u064a\u0629", "arTitleOther": "\u0642\u0637\u0627\u0646\u064a\u0629", "lat": "37.52663", "lon": "15.10968", "region": "Sicile", "searchNames": "Qataniya", "topType": "towns", "topTypeAlt": "cite", "topURI": "QATANIYA_151E375N_S_SICI", "translitTitle": "Qa\u1e6d\u0101niya\u0167", "translitTitleOther": "Qa\u1e6d\u0101niya\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    15.10968,
+                    37.52663
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.52663",
+                    "coord_lon": "15.10968",
+                    "cornu_URI": "QATANIYA_151E375N_S_SICI",
+                    "region_code": 17,
+                    "region_spelled": "Sicile",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "قطانية",
+                    "toponym_arabic_other": "قطانية",
+                    "toponym_buckwalter": "Qataniya",
+                    "toponym_search": "Qataniya",
+                    "toponym_translit": "Qaṭāniyaŧ",
+                    "toponym_translit_other": "Qaṭāniyaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

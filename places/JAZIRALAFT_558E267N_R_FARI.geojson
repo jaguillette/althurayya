@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [55.80019, 26.74974], "type": "Point"}, "properties": {"arBW": "Jazira Laft, Jazira Barkawan, Jazira Banu Kawan", "arTitle": "\u062c\u0632\u064a\u0631\u0629 \u0644\u0641\u062a", "arTitleOther": "\u062c\u0632\u064a\u0631\u0629 \u0644\u0641\u062a\u060c \u062c\u0632\u064a\u0631\u0629 \u0628\u0631\u0643\u0627\u0648\u0627\u0646\u060c \u062c\u0632\u064a\u0631\u0629 \u0628\u0646\u0648 \u0643\u0627\u0648\u0627\u0646", "lat": "26.74974", "lon": "55.80019", "region": "Faris", "searchNames": "Jazira Laft, Jazira Barkawan, Jazira Banu Kawan", "topType": "regions", "topTypeAlt": "ile", "topURI": "JAZIRALAFT_558E267N_R_FARI", "translitTitle": "\u01e6az\u012bra\u0167 Laft", "translitTitleOther": "\u01e6az\u012bra\u0167 Laft, \u01e6az\u012bra\u0167 Bark\u0101w\u0101n, \u01e6az\u012bra\u0167 Ban\u016b K\u0101w\u0101n"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    55.80019,
+                    26.74974
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "26.74974",
+                    "coord_lon": "55.80019",
+                    "cornu_URI": "JAZIRALAFT_558E267N_R_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "ile",
+                    "toponym_arabic": "جزيرة لفت",
+                    "toponym_arabic_other": "جزيرة لفت، جزيرة بركاوان، جزيرة بنو كاوان",
+                    "toponym_buckwalter": "Jazira Laft, Jazira Barkawan, Jazira Banu Kawan",
+                    "toponym_search": "Jazira Laft, Jazira Barkawan, Jazira Banu Kawan",
+                    "toponym_translit": "Ǧazīraŧ Laft",
+                    "toponym_translit_other": "Ǧazīraŧ Laft, Ǧazīraŧ Barkāwān, Ǧazīraŧ Banū Kāwān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

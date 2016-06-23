@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [66.0174, 39.93282], "type": "Point"}, "properties": {"arBW": "Dabusiya", "arTitle": "\u062f\u0628\u0648\u0633\u064a\u0629", "arTitleOther": "\u062f\u0628\u0648\u0633\u064a\u0629", "lat": "39.93282", "lon": "66.01740", "region": "Transoxiana", "searchNames": "Dabusiya", "topType": "towns", "topTypeAlt": "canton", "topURI": "DABUSIYA_660E399N_S_TRAN", "translitTitle": "Dab\u016bsiya\u0167", "translitTitleOther": "Dab\u016bsiya\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    66.0174,
+                    39.93282
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "39.93282",
+                    "coord_lon": "66.01740",
+                    "cornu_URI": "DABUSIYA_660E399N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "canton",
+                    "toponym_arabic": "دبوسية",
+                    "toponym_arabic_other": "دبوسية",
+                    "toponym_buckwalter": "Dabusiya",
+                    "toponym_search": "Dabusiya",
+                    "toponym_translit": "Dabūsiyaŧ",
+                    "toponym_translit_other": "Dabūsiyaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

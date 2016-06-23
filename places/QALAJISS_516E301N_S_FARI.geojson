@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [51.64606, 30.15444], "type": "Point"}, "properties": {"arBW": "Qala al-Jiss", "arTitle": "\u0642\u0644\u0639\u0629 \ufb50\u0644\u062c\u0635", "arTitleOther": "\u0642\u0644\u0639\u0629 \ufb50\u0644\u062c\u0635", "lat": "30.15444", "lon": "51.64606", "region": "Faris", "searchNames": "Qala al-Jiss", "topType": "waystations", "topTypeAlt": "citadelle", "topURI": "QALAJISS_516E301N_S_FARI", "translitTitle": "Qal\u02bfa\u0167 al-\u01e6i\u1e63\u1e63", "translitTitleOther": "Qal\u02bfa\u0167 al-\u01e6i\u1e63\u1e63"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    51.64606,
+                    30.15444
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.15444",
+                    "coord_lon": "51.64606",
+                    "cornu_URI": "QALAJISS_516E301N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "citadelle",
+                    "toponym_arabic": "قلعة ﭐلجص",
+                    "toponym_arabic_other": "قلعة ﭐلجص",
+                    "toponym_buckwalter": "Qala al-Jiss",
+                    "toponym_search": "Qala al-Jiss",
+                    "toponym_translit": "Qalʿaŧ al-Ǧiṣṣ",
+                    "toponym_translit_other": "Qalʿaŧ al-Ǧiṣṣ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

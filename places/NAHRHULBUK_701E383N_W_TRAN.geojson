@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [70.17895, 38.3061], "type": "Point"}, "properties": {"arBW": "Nahr Hulbuk", "arTitle": "\u0646\u0647\u0631 \u0647\u0644\u0628\u0643", "arTitleOther": "\u0646\u0647\u0631 \u0647\u0644\u0628\u0643", "lat": "38.30610", "lon": "70.17895", "region": "Transoxiana", "searchNames": "Nahr Hulbuk", "topType": "waters", "topTypeAlt": "riviere", "topURI": "NAHRHULBUK_701E383N_W_TRAN", "translitTitle": "Nahr Hulbuk", "translitTitleOther": "Nahr Hulbuk"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    70.17895,
+                    38.3061
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "38.30610",
+                    "coord_lon": "70.17895",
+                    "cornu_URI": "NAHRHULBUK_701E383N_W_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "riviere",
+                    "toponym_arabic": "نهر هلبك",
+                    "toponym_arabic_other": "نهر هلبك",
+                    "toponym_buckwalter": "Nahr Hulbuk",
+                    "toponym_search": "Nahr Hulbuk",
+                    "toponym_translit": "Nahr Hulbuk",
+                    "toponym_translit_other": "Nahr Hulbuk"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [33.43051, 19.40078], "type": "Point"}, "properties": {"arBW": "al-Santa", "arTitle": "\ufb50\u0644\u0633\u0646\u0637\u0629", "arTitleOther": "\ufb50\u0644\u0633\u0646\u0637\u0629", "lat": "19.40078", "lon": "33.43051", "region": "Egypt", "searchNames": "al-Santa", "topType": "villages", "topTypeAlt": "localite", "topURI": "SANTA_334E194N_S_EGYP", "translitTitle": "al-San\u1e6da\u0167", "translitTitleOther": "al-San\u1e6da\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    33.43051,
+                    19.40078
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "19.40078",
+                    "coord_lon": "33.43051",
+                    "cornu_URI": "SANTA_334E194N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "ﭐلسنطة",
+                    "toponym_arabic_other": "ﭐلسنطة",
+                    "toponym_buckwalter": "al-Santa",
+                    "toponym_search": "al-Santa",
+                    "toponym_translit": "al-Sanṭaŧ",
+                    "toponym_translit_other": "al-Sanṭaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

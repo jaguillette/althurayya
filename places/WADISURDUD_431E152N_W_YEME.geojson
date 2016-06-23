@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [43.17773, 15.28451], "type": "Point"}, "properties": {"arBW": "Wadi Surdud", "arTitle": "\u0648\u0627\u062f\u064a \u0633\u0631\u062f\u062f", "arTitleOther": "\u0648\u0627\u062f\u064a \u0633\u0631\u062f\u062f", "lat": "15.28451", "lon": "43.17773", "region": "Yemen", "searchNames": "Wadi Surdud", "topType": "waters", "topTypeAlt": "wadi", "topURI": "WADISURDUD_431E152N_W_YEME", "translitTitle": "W\u0101d\u012b Surdud", "translitTitleOther": "W\u0101d\u012b Surdud"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    43.17773,
+                    15.28451
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "15.28451",
+                    "coord_lon": "43.17773",
+                    "cornu_URI": "WADISURDUD_431E152N_W_YEME",
+                    "region_code": 21,
+                    "region_spelled": "Yemen",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "wadi",
+                    "toponym_arabic": "وادي سردد",
+                    "toponym_arabic_other": "وادي سردد",
+                    "toponym_buckwalter": "Wadi Surdud",
+                    "toponym_search": "Wadi Surdud",
+                    "toponym_translit": "Wādī Surdud",
+                    "toponym_translit_other": "Wādī Surdud"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [-5.76776, 41.44051], "type": "Point"}, "properties": {"arBW": "Sammura", "arTitle": "\u0633\u0645\u0648\u0631\u0629", "arTitleOther": "\u0633\u0645\u0648\u0631\u0629", "lat": "41.44051", "lon": "-5.76776", "region": "Andalus", "searchNames": "Sammura", "topType": "towns", "topTypeAlt": "cite", "topURI": "SAMMURA_057W414N_S_ANDA", "translitTitle": "Samm\u016bra\u0167", "translitTitleOther": "Samm\u016bra\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -5.76776,
+                    41.44051
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "41.44051",
+                    "coord_lon": "-5.76776",
+                    "cornu_URI": "SAMMURA_057W414N_S_ANDA",
+                    "region_code": 1,
+                    "region_spelled": "Andalus",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "سمورة",
+                    "toponym_arabic_other": "سمورة",
+                    "toponym_buckwalter": "Sammura",
+                    "toponym_search": "Sammura",
+                    "toponym_translit": "Sammūraŧ",
+                    "toponym_translit_other": "Sammūraŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

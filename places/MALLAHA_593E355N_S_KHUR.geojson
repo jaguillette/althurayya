@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [59.36352, 35.53664], "type": "Point"}, "properties": {"arBW": "al-Mallaha", "arTitle": "\ufb50\u0644\u0645\u0644\u0627\u062d\u0629", "arTitleOther": "\ufb50\u0644\u0645\u0644\u0627\u062d\u0629", "lat": "35.53664", "lon": "59.36352", "region": "Khurasan", "searchNames": "al-Mallaha", "topType": "waystations", "topTypeAlt": "etape", "topURI": "MALLAHA_593E355N_S_KHUR", "translitTitle": "al-Mall\u0101\u1e25a\u0167", "translitTitleOther": "al-Mall\u0101\u1e25a\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    59.36352,
+                    35.53664
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.53664",
+                    "coord_lon": "59.36352",
+                    "cornu_URI": "MALLAHA_593E355N_S_KHUR",
+                    "region_code": 10,
+                    "region_spelled": "Khurasan",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "ﭐلملاحة",
+                    "toponym_arabic_other": "ﭐلملاحة",
+                    "toponym_buckwalter": "al-Mallaha",
+                    "toponym_search": "al-Mallaha",
+                    "toponym_translit": "al-Mallāḥaŧ",
+                    "toponym_translit_other": "al-Mallāḥaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [35.18792, 31.70926], "type": "Point"}, "properties": {"arBW": "Bayt Lahm", "arTitle": "\u0628\u064a\u062a \u0644\u062d\u0645", "arTitleOther": "\u0628\u064a\u062a \u0644\u062d\u0645", "lat": "31.70926", "lon": "35.18792", "region": "Sham", "searchNames": "Bayt Lahm", "topType": "villages", "topTypeAlt": "localite", "topURI": "BAYTLAHM_351E317N_S_SHAM", "translitTitle": "Bayt La\u1e25m", "translitTitleOther": "Bayt La\u1e25m"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    35.18792,
+                    31.70926
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.70926",
+                    "coord_lon": "35.18792",
+                    "cornu_URI": "BAYTLAHM_351E317N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "بيت لحم",
+                    "toponym_arabic_other": "بيت لحم",
+                    "toponym_buckwalter": "Bayt Lahm",
+                    "toponym_search": "Bayt Lahm",
+                    "toponym_translit": "Bayt Laḥm",
+                    "toponym_translit_other": "Bayt Laḥm"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

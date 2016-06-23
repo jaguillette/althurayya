@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [45.74661, 32.54476], "type": "Point"}, "properties": {"arBW": "RoutPoint0301", "arTitle": "RoutPoint0301", "arTitleOther": "RoutPoint0301", "lat": "32.54476", "lon": "45.74661", "region": "noData", "searchNames": "RoutPoint0301", "topType": "xroads", "topTypeAlt": "rPoint", "topURI": "ROUTPOINT0301_457E325N_O_NODA", "translitTitle": "RoutPoint0301", "translitTitleOther": "RoutPoint0301"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    45.74661,
+                    32.54476
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.54476",
+                    "coord_lon": "45.74661",
+                    "cornu_URI": "ROUTPOINT0301_457E325N_O_NODA",
+                    "region_code": 22,
+                    "region_spelled": "noData",
+                    "top_type_hom": "xroads",
+                    "top_type_orig": "rPoint",
+                    "toponym_arabic": "RoutPoint0301",
+                    "toponym_arabic_other": "RoutPoint0301",
+                    "toponym_buckwalter": "RoutPoint0301",
+                    "toponym_search": "RoutPoint0301",
+                    "toponym_translit": "RoutPoint0301",
+                    "toponym_translit_other": "RoutPoint0301"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

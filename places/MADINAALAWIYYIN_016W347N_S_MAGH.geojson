@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [-1.65814, 34.73932], "type": "Point"}, "properties": {"arBW": "Madina Alawiyyin", "arTitle": "\u0645\u062f\u064a\u0646\u0629 \u0639\u0644\u0648\u064a\u064a\u0646", "arTitleOther": "\u0645\u062f\u064a\u0646\u0629 \u0639\u0644\u0648\u064a\u064a\u0646", "lat": "34.73932", "lon": "-1.65814", "region": "Maghrib", "searchNames": "Madina Alawiyyin", "topType": "towns", "topTypeAlt": "cite", "topURI": "MADINAALAWIYYIN_016W347N_S_MAGH", "translitTitle": "Mad\u012bna\u0167 \u02bfAlawiyy\u012bn", "translitTitleOther": "Mad\u012bna\u0167 \u02bfAlawiyy\u012bn"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.65814,
+                    34.73932
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.73932",
+                    "coord_lon": "-1.65814",
+                    "cornu_URI": "MADINAALAWIYYIN_016W347N_S_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "مدينة علويين",
+                    "toponym_arabic_other": "مدينة علويين",
+                    "toponym_buckwalter": "Madina Alawiyyin",
+                    "toponym_search": "Madina Alawiyyin",
+                    "toponym_translit": "Madīnaŧ ʿAlawiyyīn",
+                    "toponym_translit_other": "Madīnaŧ ʿAlawiyyīn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [61.08287, 34.27729], "type": "Point"}, "properties": {"arBW": "Farkird", "arTitle": "\u0641\u0631\u0643\u0631\u062f", "arTitleOther": "\u0641\u0631\u0643\u0631\u062f", "lat": "34.27729", "lon": "61.08287", "region": "Khurasan", "searchNames": "Farkird", "topType": "towns", "topTypeAlt": "cite", "topURI": "FARKIRD_610E342N_S_KHUR", "translitTitle": "Farkird", "translitTitleOther": "Farkird"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    61.08287,
+                    34.27729
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.27729",
+                    "coord_lon": "61.08287",
+                    "cornu_URI": "FARKIRD_610E342N_S_KHUR",
+                    "region_code": 10,
+                    "region_spelled": "Khurasan",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "فركرد",
+                    "toponym_arabic_other": "فركرد",
+                    "toponym_buckwalter": "Farkird",
+                    "toponym_search": "Farkird",
+                    "toponym_translit": "Farkird",
+                    "toponym_translit_other": "Farkird"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

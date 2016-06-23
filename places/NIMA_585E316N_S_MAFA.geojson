@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [58.52604, 31.68852], "type": "Point"}, "properties": {"arBW": "Nima", "arTitle": "\u0646\u064a\u0645\u0629", "arTitleOther": "\u0646\u064a\u0645\u0629", "lat": "31.68852", "lon": "58.52604", "region": "Mafaza", "searchNames": "Nima", "topType": "waystations", "topTypeAlt": "relais", "topURI": "NIMA_585E316N_S_MAFA", "translitTitle": "N\u012bma\u0167", "translitTitleOther": "N\u012bma\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    58.52604,
+                    31.68852
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.68852",
+                    "coord_lon": "58.52604",
+                    "cornu_URI": "NIMA_585E316N_S_MAFA",
+                    "region_code": 13,
+                    "region_spelled": "Mafaza",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "relais",
+                    "toponym_arabic": "نيمة",
+                    "toponym_arabic_other": "نيمة",
+                    "toponym_buckwalter": "Nima",
+                    "toponym_search": "Nima",
+                    "toponym_translit": "Nīmaŧ",
+                    "toponym_translit_other": "Nīmaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

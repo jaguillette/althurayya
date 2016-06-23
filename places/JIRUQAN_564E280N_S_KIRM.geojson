@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [56.46959, 28.02089], "type": "Point"}, "properties": {"arBW": "Jiruqan", "arTitle": "\u062c\u064a\u0631\u0648\u0642\u0627\u0646", "arTitleOther": "\u062c\u064a\u0631\u0648\u0642\u0627\u0646", "lat": "28.02089", "lon": "56.46959", "region": "Kirman", "searchNames": "Jiruqan", "topType": "villages", "topTypeAlt": "localite", "topURI": "JIRUQAN_564E280N_S_KIRM", "translitTitle": "\u01e6\u012br\u016bq\u0101n", "translitTitleOther": "\u01e6\u012br\u016bq\u0101n"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    56.46959,
+                    28.02089
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "28.02089",
+                    "coord_lon": "56.46959",
+                    "cornu_URI": "JIRUQAN_564E280N_S_KIRM",
+                    "region_code": 12,
+                    "region_spelled": "Kirman",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "جيروقان",
+                    "toponym_arabic_other": "جيروقان",
+                    "toponym_buckwalter": "Jiruqan",
+                    "toponym_search": "Jiruqan",
+                    "toponym_translit": "Ǧīrūqān",
+                    "toponym_translit_other": "Ǧīrūqān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

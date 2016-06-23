@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [43.32428, 35.62554], "type": "Point"}, "properties": {"arBW": "al-Baqia", "arTitle": "\ufb50\u0644\u0628\u0642\u064a\u0639\u0629", "arTitleOther": "\ufb50\u0644\u0628\u0642\u064a\u0639\u0629", "lat": "35.62554", "lon": "43.32428", "region": "Aqur", "searchNames": "al-Baqia", "topType": "waystations", "topTypeAlt": "etape", "topURI": "BAQIA_433E356N_S_AQUR", "translitTitle": "al-Baq\u012b\u02bfa\u0167", "translitTitleOther": "al-Baq\u012b\u02bfa\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    43.32428,
+                    35.62554
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.62554",
+                    "coord_lon": "43.32428",
+                    "cornu_URI": "BAQIA_433E356N_S_AQUR",
+                    "region_code": 2,
+                    "region_spelled": "Aqur",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "ﭐلبقيعة",
+                    "toponym_arabic_other": "ﭐلبقيعة",
+                    "toponym_buckwalter": "al-Baqia",
+                    "toponym_search": "al-Baqia",
+                    "toponym_translit": "al-Baqīʿaŧ",
+                    "toponym_translit_other": "al-Baqīʿaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

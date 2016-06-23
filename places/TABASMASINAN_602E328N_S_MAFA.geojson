@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [60.20763, 32.81573], "type": "Point"}, "properties": {"arBW": "Tabas Masinan, Tabas al-Unnab", "arTitle": "\u0637\u0628\u0633 \u0645\u0633\u064a\u0646\u0627\u0646", "arTitleOther": "\u0637\u0628\u0633 \u0645\u0633\u064a\u0646\u0627\u0646\u060c \u0637\u0628\u0633 \ufb50\u0644\u0639\u0646\u0627\u0628", "lat": "32.81573", "lon": "60.20763", "region": "Mafaza", "searchNames": "Tabas Masinan, Tabas al-Unnab", "topType": "towns", "topTypeAlt": "ville?", "topURI": "TABASMASINAN_602E328N_S_MAFA", "translitTitle": "\u1e6cabas Mas\u012bn\u0101n", "translitTitleOther": "\u1e6cabas Mas\u012bn\u0101n, \u1e6cabas al-\u02bfUnn\u0101b"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    60.20763,
+                    32.81573
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.81573",
+                    "coord_lon": "60.20763",
+                    "cornu_URI": "TABASMASINAN_602E328N_S_MAFA",
+                    "region_code": 13,
+                    "region_spelled": "Mafaza",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "ville?",
+                    "toponym_arabic": "طبس مسينان",
+                    "toponym_arabic_other": "طبس مسينان، طبس ﭐلعناب",
+                    "toponym_buckwalter": "Tabas Masinan, Tabas al-Unnab",
+                    "toponym_search": "Tabas Masinan, Tabas al-Unnab",
+                    "toponym_translit": "Ṭabas Masīnān",
+                    "toponym_translit_other": "Ṭabas Masīnān, Ṭabas al-ʿUnnāb"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

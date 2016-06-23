@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [46.59233, 32.17087], "type": "Point"}, "properties": {"arBW": "Badhibin", "arTitle": "\u0628\u0627\u0630\u0628\u064a\u0646", "arTitleOther": "\u0628\u0627\u0630\u0628\u064a\u0646", "lat": "32.17087", "lon": "46.59233", "region": "Iraq", "searchNames": "Badhibin", "topType": "towns", "topTypeAlt": "cite", "topURI": "BADHIBIN_465E321N_S_IRAQ", "translitTitle": "B\u0101\u1e0fib\u012bn", "translitTitleOther": "B\u0101\u1e0fib\u012bn"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    46.59233,
+                    32.17087
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.17087",
+                    "coord_lon": "46.59233",
+                    "cornu_URI": "BADHIBIN_465E321N_S_IRAQ",
+                    "region_code": 7,
+                    "region_spelled": "Iraq",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "باذبين",
+                    "toponym_arabic_other": "باذبين",
+                    "toponym_buckwalter": "Badhibin",
+                    "toponym_search": "Badhibin",
+                    "toponym_translit": "Bāḏibīn",
+                    "toponym_translit_other": "Bāḏibīn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [35.56778, 33.36423], "type": "Point"}, "properties": {"arBW": "Qarya al-Uyun", "arTitle": "\u0642\u0631\u064a\u0629 \ufb50\u0644\u0639\u064a\u0648\u0646", "arTitleOther": "\u0642\u0631\u064a\u0629 \ufb50\u0644\u0639\u064a\u0648\u0646", "lat": "33.36423", "lon": "35.56778", "region": "Sham", "searchNames": "Qarya al-Uyun", "topType": "waystations", "topTypeAlt": "etape", "topURI": "QARYAUYUN_355E333N_S_SHAM", "translitTitle": "Qarya\u0167 al-\u02bfUy\u016bn", "translitTitleOther": "Qarya\u0167 al-\u02bfUy\u016bn"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    35.56778,
+                    33.36423
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.36423",
+                    "coord_lon": "35.56778",
+                    "cornu_URI": "QARYAUYUN_355E333N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "قرية ﭐلعيون",
+                    "toponym_arabic_other": "قرية ﭐلعيون",
+                    "toponym_buckwalter": "Qarya al-Uyun",
+                    "toponym_search": "Qarya al-Uyun",
+                    "toponym_translit": "Qaryaŧ al-ʿUyūn",
+                    "toponym_translit_other": "Qaryaŧ al-ʿUyūn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

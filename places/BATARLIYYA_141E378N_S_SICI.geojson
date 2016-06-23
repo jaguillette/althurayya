@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [14.13046, 37.81415], "type": "Point"}, "properties": {"arBW": "Batarliyya", "arTitle": "\u0628\u0637\u0631\u0644\u064a\u0629", "arTitleOther": "\u0628\u0637\u0631\u0644\u064a\u0629", "lat": "37.81415", "lon": "14.13046", "region": "Sicile", "searchNames": "Batarliyya", "topType": "towns", "topTypeAlt": "cite/citadelle", "topURI": "BATARLIYYA_141E378N_S_SICI", "translitTitle": "Ba\u1e6darliyya\u0167", "translitTitleOther": "Ba\u1e6darliyya\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    14.13046,
+                    37.81415
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.81415",
+                    "coord_lon": "14.13046",
+                    "cornu_URI": "BATARLIYYA_141E378N_S_SICI",
+                    "region_code": 17,
+                    "region_spelled": "Sicile",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite/citadelle",
+                    "toponym_arabic": "بطرلية",
+                    "toponym_arabic_other": "بطرلية",
+                    "toponym_buckwalter": "Batarliyya",
+                    "toponym_search": "Batarliyya",
+                    "toponym_translit": "Baṭarliyyaŧ",
+                    "toponym_translit_other": "Baṭarliyyaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [30.47608, 31.25387], "type": "Point"}, "properties": {"arBW": "Sandiyun", "arTitle": "\u0633\u0646\u062f\u064a\u0648\u0646", "arTitleOther": "\u0633\u0646\u062f\u064a\u0648\u0646", "lat": "31.25387", "lon": "30.47608", "region": "Egypt", "searchNames": "Sandiyun", "topType": "villages", "topTypeAlt": "localite", "topURI": "SANDIYUN_304E312N_S_EGYP", "translitTitle": "Sandiy\u016bn", "translitTitleOther": "Sandiy\u016bn"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    30.47608,
+                    31.25387
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.25387",
+                    "coord_lon": "30.47608",
+                    "cornu_URI": "SANDIYUN_304E312N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "سنديون",
+                    "toponym_arabic_other": "سنديون",
+                    "toponym_buckwalter": "Sandiyun",
+                    "toponym_search": "Sandiyun",
+                    "toponym_translit": "Sandiyūn",
+                    "toponym_translit_other": "Sandiyūn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

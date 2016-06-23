@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [31.24225, 30.11048], "type": "Point"}, "properties": {"arBW": "Shabruwa, Shubru", "arTitle": "\u0634\u0628\u0631\u0648\u0627", "arTitleOther": "\u0634\u0628\u0631\u0648\u0627\u060c \u0634\u0628\u0631\u0648", "lat": "30.11048", "lon": "31.24225", "region": "Egypt", "searchNames": "Shabruwa, Shubru", "topType": "towns", "topTypeAlt": "cite", "topURI": "SHABRUWA_312E301N_S_EGYP", "translitTitle": "\u0160abruw\u0101", "translitTitleOther": "\u0160abruw\u0101, \u0160ubr\u016b"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    31.24225,
+                    30.11048
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.11048",
+                    "coord_lon": "31.24225",
+                    "cornu_URI": "SHABRUWA_312E301N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "شبروا",
+                    "toponym_arabic_other": "شبروا، شبرو",
+                    "toponym_buckwalter": "Shabruwa, Shubru",
+                    "toponym_search": "Shabruwa, Shubru",
+                    "toponym_translit": "Šabruwā",
+                    "toponym_translit_other": "Šabruwā, Šubrū"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

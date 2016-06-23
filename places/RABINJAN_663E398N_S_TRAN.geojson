@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [66.37226, 39.86785], "type": "Point"}, "properties": {"arBW": "Rabinjan, Arbinjan", "arTitle": "\u0631\u0628\u0646\u062c\u0646", "arTitleOther": "\u0631\u0628\u0646\u062c\u0646\u060c \u0623\u0631\u0628\u0646\u062c\u0646", "lat": "39.86785", "lon": "66.37226", "region": "Transoxiana", "searchNames": "Rabinjan, Arbinjan", "topType": "towns", "topTypeAlt": "cite", "topURI": "RABINJAN_663E398N_S_TRAN", "translitTitle": "Rabin\u01e7an", "translitTitleOther": "Rabin\u01e7an, Arbin\u01e7an"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    66.37226,
+                    39.86785
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "39.86785",
+                    "coord_lon": "66.37226",
+                    "cornu_URI": "RABINJAN_663E398N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ربنجن",
+                    "toponym_arabic_other": "ربنجن، أربنجن",
+                    "toponym_buckwalter": "Rabinjan, Arbinjan",
+                    "toponym_search": "Rabinjan, Arbinjan",
+                    "toponym_translit": "Rabinǧan",
+                    "toponym_translit_other": "Rabinǧan, Arbinǧan"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

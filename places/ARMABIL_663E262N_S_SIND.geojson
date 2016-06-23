@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [66.38343, 26.23769], "type": "Point"}, "properties": {"arBW": "Armabil, Armail", "arTitle": "\u0623\u0631\u0645\u0627\u0628\u064a\u0644", "arTitleOther": "\u0623\u0631\u0645\u0627\u0628\u064a\u0644\u060c \u0623\u0631\u0645\u0627\u0626\u064a\u0644", "lat": "26.23769", "lon": "66.38343", "region": "Sind", "searchNames": "Armabil, Armail", "topType": "villages", "topTypeAlt": "localite", "topURI": "ARMABIL_663E262N_S_SIND", "translitTitle": "Arm\u0101b\u012bl", "translitTitleOther": "Arm\u0101b\u012bl, Arm\u0101\u02be\u012bl"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    66.38343,
+                    26.23769
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "26.23769",
+                    "coord_lon": "66.38343",
+                    "cornu_URI": "ARMABIL_663E262N_S_SIND",
+                    "region_code": 19,
+                    "region_spelled": "Sind",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "أرمابيل",
+                    "toponym_arabic_other": "أرمابيل، أرمائيل",
+                    "toponym_buckwalter": "Armabil, Armail",
+                    "toponym_search": "Armabil, Armail",
+                    "toponym_translit": "Armābīl",
+                    "toponym_translit_other": "Armābīl, Armāʾīl"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

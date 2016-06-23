@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [30.61583, 31.02501], "type": "Point"}, "properties": {"arBW": "Mahalla Abu Khurasha", "arTitle": "\u0645\u062d\u0644\u0629 \u0623\u0628\u0648 \u062e\u0631\u0627\u0634\u0629", "arTitleOther": "\u0645\u062d\u0644\u0629 \u0623\u0628\u0648 \u062e\u0631\u0627\u0634\u0629", "lat": "31.02501", "lon": "30.61583", "region": "Egypt", "searchNames": "Mahalla Abu Khurasha", "topType": "villages", "topTypeAlt": "village", "topURI": "MAHALLAABUKHURASHA_306E310N_S_EGYP", "translitTitle": "Ma\u1e25alla\u0167 Ab\u016b \u1e2aur\u0101\u0161a\u0167", "translitTitleOther": "Ma\u1e25alla\u0167 Ab\u016b \u1e2aur\u0101\u0161a\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    30.61583,
+                    31.02501
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.02501",
+                    "coord_lon": "30.61583",
+                    "cornu_URI": "MAHALLAABUKHURASHA_306E310N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "village",
+                    "toponym_arabic": "محلة أبو خراشة",
+                    "toponym_arabic_other": "محلة أبو خراشة",
+                    "toponym_buckwalter": "Mahalla Abu Khurasha",
+                    "toponym_search": "Mahalla Abu Khurasha",
+                    "toponym_translit": "Maḥallaŧ Abū Ḫurāšaŧ",
+                    "toponym_translit_other": "Maḥallaŧ Abū Ḫurāšaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

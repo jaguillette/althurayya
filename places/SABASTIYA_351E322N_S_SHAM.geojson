@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [35.15237, 32.27085], "type": "Point"}, "properties": {"arBW": "Sabastiya", "arTitle": "\u0633\u0628\u0633\u0637\u064a\u0629", "arTitleOther": "\u0633\u0628\u0633\u0637\u064a\u0629", "lat": "32.27085", "lon": "35.15237", "region": "Sham", "searchNames": "Sabastiya", "topType": "villages", "topTypeAlt": "localite", "topURI": "SABASTIYA_351E322N_S_SHAM", "translitTitle": "Sabas\u1e6diya\u0167", "translitTitleOther": "Sabas\u1e6diya\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    35.15237,
+                    32.27085
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.27085",
+                    "coord_lon": "35.15237",
+                    "cornu_URI": "SABASTIYA_351E322N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "سبسطية",
+                    "toponym_arabic_other": "سبسطية",
+                    "toponym_buckwalter": "Sabastiya",
+                    "toponym_search": "Sabastiya",
+                    "toponym_translit": "Sabasṭiyaŧ",
+                    "toponym_translit_other": "Sabasṭiyaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

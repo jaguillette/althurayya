@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [52.62743, 31.1799], "type": "Point"}, "properties": {"arBW": "Barm", "arTitle": "\u0628\u0631\u0645", "arTitleOther": "\u0628\u0631\u0645", "lat": "31.17990", "lon": "52.62743", "region": "Faris", "searchNames": "Barm", "topType": "regions", "topTypeAlt": "region", "topURI": "BARM_526E311N_R_FARI", "translitTitle": "Barm", "translitTitleOther": "Barm"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    52.62743,
+                    31.1799
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.17990",
+                    "coord_lon": "52.62743",
+                    "cornu_URI": "BARM_526E311N_R_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "برم",
+                    "toponym_arabic_other": "برم",
+                    "toponym_buckwalter": "Barm",
+                    "toponym_search": "Barm",
+                    "toponym_translit": "Barm",
+                    "toponym_translit_other": "Barm"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

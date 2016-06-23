@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [13.5929, 37.30538], "type": "Point"}, "properties": {"arBW": "Jirjant", "arTitle": "\u062c\u0631\u062c\u0646\u062a", "arTitleOther": "\u062c\u0631\u062c\u0646\u062a", "lat": "37.30538", "lon": "13.59290", "region": "Sicile", "searchNames": "Jirjant", "topType": "towns", "topTypeAlt": "cite", "topURI": "JIRJANT_135E373N_S_SICI", "translitTitle": "\u01e6ir\u01e7ant", "translitTitleOther": "\u01e6ir\u01e7ant"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    13.5929,
+                    37.30538
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.30538",
+                    "coord_lon": "13.59290",
+                    "cornu_URI": "JIRJANT_135E373N_S_SICI",
+                    "region_code": 17,
+                    "region_spelled": "Sicile",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "جرجنت",
+                    "toponym_arabic_other": "جرجنت",
+                    "toponym_buckwalter": "Jirjant",
+                    "toponym_search": "Jirjant",
+                    "toponym_translit": "Ǧirǧant",
+                    "toponym_translit_other": "Ǧirǧant"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

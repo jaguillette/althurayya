@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [60.71473, 26.29231], "type": "Point"}, "properties": {"arBW": "Qasrqand", "arTitle": "\u0642\u0635\u0631\u0642\u0646\u062f", "arTitleOther": "\u0642\u0635\u0631\u0642\u0646\u062f", "lat": "26.29231", "lon": "60.71473", "region": "Sind", "searchNames": "Qasrqand", "topType": "towns", "topTypeAlt": "cite", "topURI": "QASRQAND_607E262N_S_SIND", "translitTitle": "Qa\u1e63rqand", "translitTitleOther": "Qa\u1e63rqand"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    60.71473,
+                    26.29231
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "26.29231",
+                    "coord_lon": "60.71473",
+                    "cornu_URI": "QASRQAND_607E262N_S_SIND",
+                    "region_code": 19,
+                    "region_spelled": "Sind",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "قصرقند",
+                    "toponym_arabic_other": "قصرقند",
+                    "toponym_buckwalter": "Qasrqand",
+                    "toponym_search": "Qasrqand",
+                    "toponym_translit": "Qaṣrqand",
+                    "toponym_translit_other": "Qaṣrqand"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

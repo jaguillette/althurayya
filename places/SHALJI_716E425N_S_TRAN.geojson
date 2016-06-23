@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [71.66129, 42.59356], "type": "Point"}, "properties": {"arBW": "Shalji", "arTitle": "\u0634\u0644\u062c\u064a", "arTitleOther": "\u0634\u0644\u062c\u064a", "lat": "42.59356", "lon": "71.66129", "region": "Transoxiana", "searchNames": "Shalji", "topType": "towns", "topTypeAlt": "cite", "topURI": "SHALJI_716E425N_S_TRAN", "translitTitle": "\u0160al\u01e7\u012b", "translitTitleOther": "\u0160al\u01e7\u012b"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    71.66129,
+                    42.59356
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "42.59356",
+                    "coord_lon": "71.66129",
+                    "cornu_URI": "SHALJI_716E425N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "شلجي",
+                    "toponym_arabic_other": "شلجي",
+                    "toponym_buckwalter": "Shalji",
+                    "toponym_search": "Shalji",
+                    "toponym_translit": "Šalǧī",
+                    "toponym_translit_other": "Šalǧī"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [66.87902, 39.94544], "type": "Point"}, "properties": {"arBW": "Ishtikhan", "arTitle": "\u0625\u0634\u062a\u064a\u062e\u0627\u0646", "arTitleOther": "\u0625\u0634\u062a\u064a\u062e\u0627\u0646", "lat": "39.94544", "lon": "66.87902", "region": "Transoxiana", "searchNames": "Ishtikhan", "topType": "towns", "topTypeAlt": "cite", "topURI": "ISHTIKHAN_668E399N_S_TRAN", "translitTitle": "I\u0161t\u012b\u1e2b\u0101n", "translitTitleOther": "I\u0161t\u012b\u1e2b\u0101n"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    66.87902,
+                    39.94544
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "39.94544",
+                    "coord_lon": "66.87902",
+                    "cornu_URI": "ISHTIKHAN_668E399N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "إشتيخان",
+                    "toponym_arabic_other": "إشتيخان",
+                    "toponym_buckwalter": "Ishtikhan",
+                    "toponym_search": "Ishtikhan",
+                    "toponym_translit": "Ištīḫān",
+                    "toponym_translit_other": "Ištīḫān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

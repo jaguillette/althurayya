@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [52.86431, 30.60582], "type": "Point"}, "properties": {"arBW": "Mushkan", "arTitle": "\u0645\u0634\u0643\u0627\u0646", "arTitleOther": "\u0645\u0634\u0643\u0627\u0646", "lat": "30.60582", "lon": "52.86431", "region": "Faris", "searchNames": "Mushkan", "topType": "towns", "topTypeAlt": "cite", "topURI": "MUSHKAN_528E306N_S_FARI", "translitTitle": "Mu\u0161k\u0101n", "translitTitleOther": "Mu\u0161k\u0101n"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    52.86431,
+                    30.60582
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.60582",
+                    "coord_lon": "52.86431",
+                    "cornu_URI": "MUSHKAN_528E306N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "مشكان",
+                    "toponym_arabic_other": "مشكان",
+                    "toponym_buckwalter": "Mushkan",
+                    "toponym_search": "Mushkan",
+                    "toponym_translit": "Muškān",
+                    "toponym_translit_other": "Muškān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [-3.45773, 37.9998], "type": "Point"}, "properties": {"arBW": "Bayyasa", "arTitle": "\u0628\u064a\u0627\u0633\u0629", "arTitleOther": "\u0628\u064a\u0627\u0633\u0629", "lat": "37.99980", "lon": "-3.45773", "region": "Andalus", "searchNames": "Bayyasa", "topType": "towns", "topTypeAlt": "cite", "topURI": "BAYYASA_034W379N_S_ANDA", "translitTitle": "Bayy\u0101sa\u0167", "translitTitleOther": "Bayy\u0101sa\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.45773,
+                    37.9998
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.99980",
+                    "coord_lon": "-3.45773",
+                    "cornu_URI": "BAYYASA_034W379N_S_ANDA",
+                    "region_code": 1,
+                    "region_spelled": "Andalus",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "بياسة",
+                    "toponym_arabic_other": "بياسة",
+                    "toponym_buckwalter": "Bayyasa",
+                    "toponym_search": "Bayyasa",
+                    "toponym_translit": "Bayyāsaŧ",
+                    "toponym_translit_other": "Bayyāsaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

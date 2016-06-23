@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [15.87924, 31.25883], "type": "Point"}, "properties": {"arBW": "Qusur Hassan", "arTitle": "\u0642\u0635\u0648\u0631 \u062d\u0633\u0627\u0646", "arTitleOther": "\u0642\u0635\u0648\u0631 \u062d\u0633\u0627\u0646", "lat": "31.25883", "lon": "15.87924", "region": "Barqa", "searchNames": "Qusur Hassan", "topType": "waystations", "topTypeAlt": "etape", "topURI": "QUSURHASSAN_158E312N_S_BARQ", "translitTitle": "Qu\u1e63\u016br \u1e24ass\u0101n", "translitTitleOther": "Qu\u1e63\u016br \u1e24ass\u0101n"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    15.87924,
+                    31.25883
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.25883",
+                    "coord_lon": "15.87924",
+                    "cornu_URI": "QUSURHASSAN_158E312N_S_BARQ",
+                    "region_code": 3,
+                    "region_spelled": "Barqa",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "قصور حسان",
+                    "toponym_arabic_other": "قصور حسان",
+                    "toponym_buckwalter": "Qusur Hassan",
+                    "toponym_search": "Qusur Hassan",
+                    "toponym_translit": "Quṣūr Ḥassān",
+                    "toponym_translit_other": "Quṣūr Ḥassān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

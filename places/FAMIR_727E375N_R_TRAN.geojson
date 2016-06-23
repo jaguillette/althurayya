@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [72.79201, 37.57252], "type": "Point"}, "properties": {"arBW": "Famir", "arTitle": "\u0641\u0627\u0645\u0631", "arTitleOther": "\u0641\u0627\u0645\u0631", "lat": "37.57252", "lon": "72.79201", "region": "Transoxiana", "searchNames": "Famir", "topType": "regions", "topTypeAlt": "region", "topURI": "FAMIR_727E375N_R_TRAN", "translitTitle": "F\u0101mir", "translitTitleOther": "F\u0101mir"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    72.79201,
+                    37.57252
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.57252",
+                    "coord_lon": "72.79201",
+                    "cornu_URI": "FAMIR_727E375N_R_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "فامر",
+                    "toponym_arabic_other": "فامر",
+                    "toponym_buckwalter": "Famir",
+                    "toponym_search": "Famir",
+                    "toponym_translit": "Fāmir",
+                    "toponym_translit_other": "Fāmir"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

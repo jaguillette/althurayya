@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [-4.0521, 39.88926], "type": "Point"}, "properties": {"arBW": "Tulaytila", "arTitle": "\u0637\u0644\u064a\u0637\u0644\u0629", "arTitleOther": "\u0637\u0644\u064a\u0637\u0644\u0629", "lat": "39.88926", "lon": "-4.05210", "region": "Andalus", "searchNames": "Tulaytila", "topType": "regions", "topTypeAlt": "district", "topURI": "TULAYTILA_040W398N_R_ANDA", "translitTitle": "\u1e6culay\u1e6dila\u0167", "translitTitleOther": "\u1e6culay\u1e6dila\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -4.0521,
+                    39.88926
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "39.88926",
+                    "coord_lon": "-4.05210",
+                    "cornu_URI": "TULAYTILA_040W398N_R_ANDA",
+                    "region_code": 1,
+                    "region_spelled": "Andalus",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "district",
+                    "toponym_arabic": "طليطلة",
+                    "toponym_arabic_other": "طليطلة",
+                    "toponym_buckwalter": "Tulaytila",
+                    "toponym_search": "Tulaytila",
+                    "toponym_translit": "Ṭulayṭilaŧ",
+                    "toponym_translit_other": "Ṭulayṭilaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

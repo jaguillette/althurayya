@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [-4.6284, 34.13739], "type": "Point"}, "properties": {"arBW": "Namalata", "arTitle": "\u0646\u0645\u0627\u0644\u062a\u0629", "arTitleOther": "\u0646\u0645\u0627\u0644\u062a\u0629", "lat": "34.13739", "lon": "-4.62840", "region": "Maghrib", "searchNames": "Namalata", "topType": "towns", "topTypeAlt": "cite", "topURI": "NAMALATA_046W341N_S_MAGH", "translitTitle": "Nam\u0101lata\u0167", "translitTitleOther": "Nam\u0101lata\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -4.6284,
+                    34.13739
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.13739",
+                    "coord_lon": "-4.62840",
+                    "cornu_URI": "NAMALATA_046W341N_S_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "نمالتة",
+                    "toponym_arabic_other": "نمالتة",
+                    "toponym_buckwalter": "Namalata",
+                    "toponym_search": "Namalata",
+                    "toponym_translit": "Namālataŧ",
+                    "toponym_translit_other": "Namālataŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

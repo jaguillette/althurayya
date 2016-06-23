@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [34.94527, 29.57226], "type": "Point"}, "properties": {"arBW": "Ayla, Wayla", "arTitle": "\u0623\u064a\u0644\u0629", "arTitleOther": "\u0623\u064a\u0644\u0629\u060c \u0648\u064a\u0644\u0629", "lat": "29.57226", "lon": "34.94527", "region": "Sham", "searchNames": "Ayla, Wayla", "topType": "towns", "topTypeAlt": "cite/port", "topURI": "AYLA_349E295N_S_SHAM", "translitTitle": "Ayla\u0167", "translitTitleOther": "Ayla\u0167, Wayla\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    34.94527,
+                    29.57226
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "29.57226",
+                    "coord_lon": "34.94527",
+                    "cornu_URI": "AYLA_349E295N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite/port",
+                    "toponym_arabic": "أيلة",
+                    "toponym_arabic_other": "أيلة، ويلة",
+                    "toponym_buckwalter": "Ayla, Wayla",
+                    "toponym_search": "Ayla, Wayla",
+                    "toponym_translit": "Aylaŧ",
+                    "toponym_translit_other": "Aylaŧ, Waylaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

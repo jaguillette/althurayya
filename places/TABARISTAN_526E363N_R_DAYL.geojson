@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [52.60329, 36.34732], "type": "Point"}, "properties": {"arBW": "Tabaristan", "arTitle": "\u0637\u0628\u0631\u0633\u062a\u0627\u0646", "arTitleOther": "\u0637\u0628\u0631\u0633\u062a\u0627\u0646", "lat": "36.34732", "lon": "52.60329", "region": "Daylam", "searchNames": "Tabaristan", "topType": "regions", "topTypeAlt": "circon", "topURI": "TABARISTAN_526E363N_R_DAYL", "translitTitle": "\u1e6cabarist\u0101n", "translitTitleOther": "\u1e6cabarist\u0101n"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    52.60329,
+                    36.34732
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.34732",
+                    "coord_lon": "52.60329",
+                    "cornu_URI": "TABARISTAN_526E363N_R_DAYL",
+                    "region_code": 4,
+                    "region_spelled": "Daylam",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "circon",
+                    "toponym_arabic": "طبرستان",
+                    "toponym_arabic_other": "طبرستان",
+                    "toponym_buckwalter": "Tabaristan",
+                    "toponym_search": "Tabaristan",
+                    "toponym_translit": "Ṭabaristān",
+                    "toponym_translit_other": "Ṭabaristān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

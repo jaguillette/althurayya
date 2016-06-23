@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [64.30515, 40.15432], "type": "Point"}, "properties": {"arBW": "Wardhana, Awradhana", "arTitle": "\u0648\u0631\u0630\u0627\u0646\u0629", "arTitleOther": "\u0648\u0631\u0630\u0627\u0646\u0629\u060c \u0623\u0648\u0631\u0630\u0627\u0646\u0629", "lat": "40.15432", "lon": "64.30515", "region": "Transoxiana", "searchNames": "Wardhana, Awradhana", "topType": "towns", "topTypeAlt": "cite", "topURI": "WARDHANA_643E401N_S_TRAN", "translitTitle": "War\u1e0f\u0101na\u0167", "translitTitleOther": "War\u1e0f\u0101na\u0167, Awra\u1e0f\u0101na\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    64.30515,
+                    40.15432
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "40.15432",
+                    "coord_lon": "64.30515",
+                    "cornu_URI": "WARDHANA_643E401N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ورذانة",
+                    "toponym_arabic_other": "ورذانة، أورذانة",
+                    "toponym_buckwalter": "Wardhana, Awradhana",
+                    "toponym_search": "Wardhana, Awradhana",
+                    "toponym_translit": "Warḏānaŧ",
+                    "toponym_translit_other": "Warḏānaŧ, Awraḏānaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [53.47044, 29.697], "type": "Point"}, "properties": {"arBW": "Buhayra al-Bashfuya,  Buhayra al-Bashfuriyya", "arTitle": "\u0628\u062d\u064a\u0631\u0629 \ufb50\u0644\u0628\u0627\u0634\u0641\u0648\u064a\u0629", "arTitleOther": "\u0628\u062d\u064a\u0631\u0629 \ufb50\u0644\u0628\u0627\u0634\u0641\u0648\u064a\u0629\u060c  \u0628\u062d\u064a\u0631\u0629 \ufb50\u0644\u0628\u0627\u0634\u0641\u0648\u0631\u064a\u0629", "lat": "29.69700", "lon": "53.47044", "region": "Faris", "searchNames": "Buhayra al-Bashfuya,  Buhayra al-Bashfuriyya", "topType": "waters", "topTypeAlt": "lac", "topURI": "BUHAYRABASHFUYA_534E296N_W_FARI", "translitTitle": "Bu\u1e25ayra\u0167 al-B\u0101\u0161f\u016bya\u0167", "translitTitleOther": "Bu\u1e25ayra\u0167 al-B\u0101\u0161f\u016bya\u0167,  Bu\u1e25ayra\u0167 al-B\u0101\u0161f\u016briyya\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    53.47044,
+                    29.697
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "29.69700",
+                    "coord_lon": "53.47044",
+                    "cornu_URI": "BUHAYRABASHFUYA_534E296N_W_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "lac",
+                    "toponym_arabic": "بحيرة ﭐلباشفوية",
+                    "toponym_arabic_other": "بحيرة ﭐلباشفوية،  بحيرة ﭐلباشفورية",
+                    "toponym_buckwalter": "Buhayra al-Bashfuya,  Buhayra al-Bashfuriyya",
+                    "toponym_search": "Buhayra al-Bashfuya,  Buhayra al-Bashfuriyya",
+                    "toponym_translit": "Buḥayraŧ al-Bāšfūyaŧ",
+                    "toponym_translit_other": "Buḥayraŧ al-Bāšfūyaŧ,  Buḥayraŧ al-Bāšfūriyyaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

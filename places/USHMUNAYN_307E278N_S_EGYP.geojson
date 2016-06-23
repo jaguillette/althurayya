@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [30.75576, 27.85616], "type": "Point"}, "properties": {"arBW": "al-Ushmunayn", "arTitle": "\ufb50\u0644\u0623\u0634\u0645\u0648\u0646\u064a\u0646", "arTitleOther": "\ufb50\u0644\u0623\u0634\u0645\u0648\u0646\u064a\u0646", "lat": "27.85616", "lon": "30.75576", "region": "Egypt", "searchNames": "al-Ushmunayn", "topType": "towns", "topTypeAlt": "cite", "topURI": "USHMUNAYN_307E278N_S_EGYP", "translitTitle": "al-U\u0161m\u016bnayn", "translitTitleOther": "al-U\u0161m\u016bnayn"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    30.75576,
+                    27.85616
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "27.85616",
+                    "coord_lon": "30.75576",
+                    "cornu_URI": "USHMUNAYN_307E278N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ﭐلأشمونين",
+                    "toponym_arabic_other": "ﭐلأشمونين",
+                    "toponym_buckwalter": "al-Ushmunayn",
+                    "toponym_search": "al-Ushmunayn",
+                    "toponym_translit": "al-Ušmūnayn",
+                    "toponym_translit_other": "al-Ušmūnayn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

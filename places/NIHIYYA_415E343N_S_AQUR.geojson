@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [41.5567, 34.39307], "type": "Point"}, "properties": {"arBW": "al-Nihiyya", "arTitle": "\ufb50\u0644\u0646\u0647\u064a\u0629", "arTitleOther": "\ufb50\u0644\u0646\u0647\u064a\u0629", "lat": "34.39307", "lon": "41.55670", "region": "Aqur", "searchNames": "al-Nihiyya", "topType": "towns", "topTypeAlt": "cite", "topURI": "NIHIYYA_415E343N_S_AQUR", "translitTitle": "al-Nihiyya\u0167", "translitTitleOther": "al-Nihiyya\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    41.5567,
+                    34.39307
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.39307",
+                    "coord_lon": "41.55670",
+                    "cornu_URI": "NIHIYYA_415E343N_S_AQUR",
+                    "region_code": 2,
+                    "region_spelled": "Aqur",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ﭐلنهية",
+                    "toponym_arabic_other": "ﭐلنهية",
+                    "toponym_buckwalter": "al-Nihiyya",
+                    "toponym_search": "al-Nihiyya",
+                    "toponym_translit": "al-Nihiyyaŧ",
+                    "toponym_translit_other": "al-Nihiyyaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

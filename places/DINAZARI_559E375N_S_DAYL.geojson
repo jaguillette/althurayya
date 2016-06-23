@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [55.99881, 37.57458], "type": "Point"}, "properties": {"arBW": "Dinazari", "arTitle": "\u062f\u064a\u0646\u0627\u0632\u0627\u0631\u064a", "arTitleOther": "\u062f\u064a\u0646\u0627\u0632\u0627\u0631\u064a", "lat": "37.57458", "lon": "55.99881", "region": "Daylam", "searchNames": "Dinazari", "topType": "waystations", "topTypeAlt": "etape", "topURI": "DINAZARI_559E375N_S_DAYL", "translitTitle": "D\u012bn\u0101z\u0101r\u012b", "translitTitleOther": "D\u012bn\u0101z\u0101r\u012b"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    55.99881,
+                    37.57458
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.57458",
+                    "coord_lon": "55.99881",
+                    "cornu_URI": "DINAZARI_559E375N_S_DAYL",
+                    "region_code": 4,
+                    "region_spelled": "Daylam",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "دينازاري",
+                    "toponym_arabic_other": "دينازاري",
+                    "toponym_buckwalter": "Dinazari",
+                    "toponym_search": "Dinazari",
+                    "toponym_translit": "Dīnāzārī",
+                    "toponym_translit_other": "Dīnāzārī"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

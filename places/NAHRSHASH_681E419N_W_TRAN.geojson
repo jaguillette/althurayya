@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [68.10841, 41.90165], "type": "Point"}, "properties": {"arBW": "Nahr Shash, Sayhun", "arTitle": "\u0646\u0647\u0631 \u0634\u0627\u0634", "arTitleOther": "\u0646\u0647\u0631 \u0634\u0627\u0634\u060c \u0635\u064a\u062d\u0648\u0646", "lat": "41.90165", "lon": "68.10841", "region": "Transoxiana", "searchNames": "Nahr Shash, Sayhun", "topType": "waters", "topTypeAlt": "riviere", "topURI": "NAHRSHASH_681E419N_W_TRAN", "translitTitle": "Nahr \u0160\u0101\u0161", "translitTitleOther": "Nahr \u0160\u0101\u0161, \u1e62ay\u1e25\u016bn"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    68.10841,
+                    41.90165
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "41.90165",
+                    "coord_lon": "68.10841",
+                    "cornu_URI": "NAHRSHASH_681E419N_W_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "riviere",
+                    "toponym_arabic": "نهر شاش",
+                    "toponym_arabic_other": "نهر شاش، صيحون",
+                    "toponym_buckwalter": "Nahr Shash, Sayhun",
+                    "toponym_search": "Nahr Shash, Sayhun",
+                    "toponym_translit": "Nahr Šāš",
+                    "toponym_translit_other": "Nahr Šāš, Ṣayḥūn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [42.21215, 27.2743], "type": "Point"}, "properties": {"arBW": "al-Manhab", "arTitle": "\ufb50\u0644\u0645\u0646\u0647\u0628", "arTitleOther": "\ufb50\u0644\u0645\u0646\u0647\u0628", "lat": "27.27430", "lon": "42.21215", "region": "Badiyat al-Arab", "searchNames": "al-Manhab", "topType": "regions", "topTypeAlt": "region", "topURI": "MANHAB_422E272N_R_BADI", "translitTitle": "al-Manhab", "translitTitleOther": "al-Manhab"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    42.21215,
+                    27.2743
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "27.27430",
+                    "coord_lon": "42.21215",
+                    "cornu_URI": "MANHAB_422E272N_R_BADI",
+                    "region_code": 23,
+                    "region_spelled": "Badiyat al-Arab",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "ﭐلمنهب",
+                    "toponym_arabic_other": "ﭐلمنهب",
+                    "toponym_buckwalter": "al-Manhab",
+                    "toponym_search": "al-Manhab",
+                    "toponym_translit": "al-Manhab",
+                    "toponym_translit_other": "al-Manhab"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

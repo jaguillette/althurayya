@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [59.28094, 31.25781], "type": "Point"}, "properties": {"arBW": "Qarya Salm", "arTitle": "\u0642\u0631\u064a\u0629 \u0633\u0644\u0645", "arTitleOther": "\u0642\u0631\u064a\u0629 \u0633\u0644\u0645", "lat": "31.25781", "lon": "59.28094", "region": "Mafaza", "searchNames": "Qarya Salm", "topType": "waystations", "topTypeAlt": "etape", "topURI": "QARYASALM_592E312N_S_MAFA", "translitTitle": "Qarya\u0167 Salm", "translitTitleOther": "Qarya\u0167 Salm"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    59.28094,
+                    31.25781
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.25781",
+                    "coord_lon": "59.28094",
+                    "cornu_URI": "QARYASALM_592E312N_S_MAFA",
+                    "region_code": 13,
+                    "region_spelled": "Mafaza",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "قرية سلم",
+                    "toponym_arabic_other": "قرية سلم",
+                    "toponym_buckwalter": "Qarya Salm",
+                    "toponym_search": "Qarya Salm",
+                    "toponym_translit": "Qaryaŧ Salm",
+                    "toponym_translit_other": "Qaryaŧ Salm"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

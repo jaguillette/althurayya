@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [35.2662, 33.39418], "type": "Point"}, "properties": {"arBW": "Adhnun", "arTitle": "\u0639\u0630\u0646\u0648\u0646", "arTitleOther": "\u0639\u0630\u0646\u0648\u0646", "lat": "33.39418", "lon": "35.26620", "region": "Sham", "searchNames": "Adhnun", "topType": "towns", "topTypeAlt": "site", "topURI": "ADHNUN_352E333N_S_SHAM", "translitTitle": "\u02bfA\u1e0fn\u016bn", "translitTitleOther": "\u02bfA\u1e0fn\u016bn"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    35.2662,
+                    33.39418
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.39418",
+                    "coord_lon": "35.26620",
+                    "cornu_URI": "ADHNUN_352E333N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "site",
+                    "toponym_arabic": "عذنون",
+                    "toponym_arabic_other": "عذنون",
+                    "toponym_buckwalter": "Adhnun",
+                    "toponym_search": "Adhnun",
+                    "toponym_translit": "ʿAḏnūn",
+                    "toponym_translit_other": "ʿAḏnūn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

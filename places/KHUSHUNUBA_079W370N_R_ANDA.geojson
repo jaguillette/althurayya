@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [-7.90515, 37.06463], "type": "Point"}, "properties": {"arBW": "Khushunuba, Ukhshunuba", "arTitle": "\u062e\u0634\u0646\u0628\u0629", "arTitleOther": "\u062e\u0634\u0646\u0628\u0629\u060c \u0623\u062e\u0634\u0646\u0628\u0629", "lat": "37.06463", "lon": "-7.90515", "region": "Andalus", "searchNames": "Khushunuba, Ukhshunuba", "topType": "regions", "topTypeAlt": "district", "topURI": "KHUSHUNUBA_079W370N_R_ANDA", "translitTitle": "\u1e2au\u0161unuba\u0167", "translitTitleOther": "\u1e2au\u0161unuba\u0167, U\u1e2b\u0161unuba\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -7.90515,
+                    37.06463
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.06463",
+                    "coord_lon": "-7.90515",
+                    "cornu_URI": "KHUSHUNUBA_079W370N_R_ANDA",
+                    "region_code": 1,
+                    "region_spelled": "Andalus",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "district",
+                    "toponym_arabic": "خشنبة",
+                    "toponym_arabic_other": "خشنبة، أخشنبة",
+                    "toponym_buckwalter": "Khushunuba, Ukhshunuba",
+                    "toponym_search": "Khushunuba, Ukhshunuba",
+                    "toponym_translit": "Ḫušunubaŧ",
+                    "toponym_translit_other": "Ḫušunubaŧ, Uḫšunubaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

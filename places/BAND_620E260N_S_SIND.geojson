@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [62.05375, 26.0929], "type": "Point"}, "properties": {"arBW": "Band, Bidh", "arTitle": "\u0628\u0646\u062f", "arTitleOther": "\u0628\u0646\u062f\u060c \u0628\u064a\u0630", "lat": "26.09290", "lon": "62.05375", "region": "Sind", "searchNames": "Band, Bidh", "topType": "towns", "topTypeAlt": "cite", "topURI": "BAND_620E260N_S_SIND", "translitTitle": "Band", "translitTitleOther": "Band, B\u012b\u1e0f"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    62.05375,
+                    26.0929
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "26.09290",
+                    "coord_lon": "62.05375",
+                    "cornu_URI": "BAND_620E260N_S_SIND",
+                    "region_code": 19,
+                    "region_spelled": "Sind",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "بند",
+                    "toponym_arabic_other": "بند، بيذ",
+                    "toponym_buckwalter": "Band, Bidh",
+                    "toponym_search": "Band, Bidh",
+                    "toponym_translit": "Band",
+                    "toponym_translit_other": "Band, Bīḏ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

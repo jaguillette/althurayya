@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [51.26816, 29.28011], "type": "Point"}, "properties": {"arBW": "Dasht Barin", "arTitle": "\u062f\u0634\u062a \u0628\u0627\u0631\u064a\u0646", "arTitleOther": "\u062f\u0634\u062a \u0628\u0627\u0631\u064a\u0646", "lat": "29.28011", "lon": "51.26816", "region": "Faris", "searchNames": "Dasht Barin", "topType": "towns", "topTypeAlt": "canton", "topURI": "DASHTBARIN_512E292N_S_FARI", "translitTitle": "Da\u0161t B\u0101r\u012bn", "translitTitleOther": "Da\u0161t B\u0101r\u012bn"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    51.26816,
+                    29.28011
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "29.28011",
+                    "coord_lon": "51.26816",
+                    "cornu_URI": "DASHTBARIN_512E292N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "canton",
+                    "toponym_arabic": "دشت بارين",
+                    "toponym_arabic_other": "دشت بارين",
+                    "toponym_buckwalter": "Dasht Barin",
+                    "toponym_search": "Dasht Barin",
+                    "toponym_translit": "Dašt Bārīn",
+                    "toponym_translit_other": "Dašt Bārīn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

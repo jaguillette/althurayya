@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [7.74061, 36.88509], "type": "Point"}, "properties": {"arBW": "Buna", "arTitle": "\u0628\u0648\u0646\u0629", "arTitleOther": "\u0628\u0648\u0646\u0629", "lat": "36.88509", "lon": "7.74061", "region": "Maghrib", "searchNames": "Buna", "topType": "towns", "topTypeAlt": "cite", "topURI": "BUNA_077E368N_S_MAGH", "translitTitle": "B\u016bna\u0167", "translitTitleOther": "B\u016bna\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    7.74061,
+                    36.88509
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.88509",
+                    "coord_lon": "7.74061",
+                    "cornu_URI": "BUNA_077E368N_S_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "بونة",
+                    "toponym_arabic_other": "بونة",
+                    "toponym_buckwalter": "Buna",
+                    "toponym_search": "Buna",
+                    "toponym_translit": "Būnaŧ",
+                    "toponym_translit_other": "Būnaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

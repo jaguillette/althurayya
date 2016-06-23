@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [14.36712, 38.00365], "type": "Point"}, "properties": {"arBW": "Qala al-Qawarib", "arTitle": "\u0642\u0644\u0639\u0629 \ufb50\u0644\u0642\u0648\u0627\u0631\u0628", "arTitleOther": "\u0642\u0644\u0639\u0629 \ufb50\u0644\u0642\u0648\u0627\u0631\u0628", "lat": "38.00365", "lon": "14.36712", "region": "Sicile", "searchNames": "Qala al-Qawarib", "topType": "towns", "topTypeAlt": "cite", "topURI": "QALAQAWARIB_143E380N_S_SICI", "translitTitle": "Qal\u02bfa\u0167 al-Qaw\u0101rib", "translitTitleOther": "Qal\u02bfa\u0167 al-Qaw\u0101rib"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    14.36712,
+                    38.00365
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "38.00365",
+                    "coord_lon": "14.36712",
+                    "cornu_URI": "QALAQAWARIB_143E380N_S_SICI",
+                    "region_code": 17,
+                    "region_spelled": "Sicile",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "قلعة ﭐلقوارب",
+                    "toponym_arabic_other": "قلعة ﭐلقوارب",
+                    "toponym_buckwalter": "Qala al-Qawarib",
+                    "toponym_search": "Qala al-Qawarib",
+                    "toponym_translit": "Qalʿaŧ al-Qawārib",
+                    "toponym_translit_other": "Qalʿaŧ al-Qawārib"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

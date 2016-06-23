@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [41.51032, 22.44819], "type": "Point"}, "properties": {"arBW": "al-Shubayka", "arTitle": "\ufb50\u0644\u0634\u0628\u064a\u0643\u0629", "arTitleOther": "\ufb50\u0644\u0634\u0628\u064a\u0643\u0629", "lat": "22.44819", "lon": "41.51032", "region": "Jazirat al-Arab", "searchNames": "al-Shubayka", "topType": "waystations", "topTypeAlt": "etape", "topURI": "SHUBAYKA_415E224N_S_JAZI", "translitTitle": "al-\u0160ubayka\u0167", "translitTitleOther": "al-\u0160ubayka\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    41.51032,
+                    22.44819
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "22.44819",
+                    "coord_lon": "41.51032",
+                    "cornu_URI": "SHUBAYKA_415E224N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "ﭐلشبيكة",
+                    "toponym_arabic_other": "ﭐلشبيكة",
+                    "toponym_buckwalter": "al-Shubayka",
+                    "toponym_search": "al-Shubayka",
+                    "toponym_translit": "al-Šubaykaŧ",
+                    "toponym_translit_other": "al-Šubaykaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

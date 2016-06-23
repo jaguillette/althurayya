@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [54.47005, 36.7886], "type": "Point"}, "properties": {"arBW": "Astarabadh", "arTitle": "\u0623\u0633\u062a\u0627\u0631\u0628\u0627\u0630", "arTitleOther": "\u0623\u0633\u062a\u0627\u0631\u0628\u0627\u0630", "lat": "36.78860", "lon": "54.47005", "region": "Daylam", "searchNames": "Astarabadh", "topType": "towns", "topTypeAlt": "cite", "topURI": "ASTARABADH_544E367N_S_DAYL", "translitTitle": "Ast\u0101rab\u0101\u1e0f", "translitTitleOther": "Ast\u0101rab\u0101\u1e0f"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    54.47005,
+                    36.7886
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.78860",
+                    "coord_lon": "54.47005",
+                    "cornu_URI": "ASTARABADH_544E367N_S_DAYL",
+                    "region_code": 4,
+                    "region_spelled": "Daylam",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "أستارباذ",
+                    "toponym_arabic_other": "أستارباذ",
+                    "toponym_buckwalter": "Astarabadh",
+                    "toponym_search": "Astarabadh",
+                    "toponym_translit": "Astārabāḏ",
+                    "toponym_translit_other": "Astārabāḏ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

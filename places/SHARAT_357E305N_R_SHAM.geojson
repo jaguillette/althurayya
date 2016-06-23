@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [35.7745, 30.59382], "type": "Point"}, "properties": {"arBW": "al-Sharat", "arTitle": "\ufb50\u0644\u0634\u0631\u0627\u062a", "arTitleOther": "\ufb50\u0644\u0634\u0631\u0627\u062a", "lat": "30.59382", "lon": "35.77450", "region": "Sham", "searchNames": "al-Sharat", "topType": "regions", "topTypeAlt": "circon", "topURI": "SHARAT_357E305N_R_SHAM", "translitTitle": "al-\u0160ar\u0101t", "translitTitleOther": "al-\u0160ar\u0101t"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    35.7745,
+                    30.59382
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.59382",
+                    "coord_lon": "35.77450",
+                    "cornu_URI": "SHARAT_357E305N_R_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "circon",
+                    "toponym_arabic": "ﭐلشرات",
+                    "toponym_arabic_other": "ﭐلشرات",
+                    "toponym_buckwalter": "al-Sharat",
+                    "toponym_search": "al-Sharat",
+                    "toponym_translit": "al-Šarāt",
+                    "toponym_translit_other": "al-Šarāt"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

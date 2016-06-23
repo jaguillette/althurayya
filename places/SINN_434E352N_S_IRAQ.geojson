@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [43.46591, 35.26076], "type": "Point"}, "properties": {"arBW": "al-Sinn", "arTitle": "\ufb50\u0644\u0633\u0646", "arTitleOther": "\ufb50\u0644\u0633\u0646", "lat": "35.26076", "lon": "43.46591", "region": "Iraq", "searchNames": "al-Sinn", "topType": "towns", "topTypeAlt": "cite", "topURI": "SINN_434E352N_S_IRAQ", "translitTitle": "al-Sinn", "translitTitleOther": "al-Sinn"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    43.46591,
+                    35.26076
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.26076",
+                    "coord_lon": "43.46591",
+                    "cornu_URI": "SINN_434E352N_S_IRAQ",
+                    "region_code": 7,
+                    "region_spelled": "Iraq",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ﭐلسن",
+                    "toponym_arabic_other": "ﭐلسن",
+                    "toponym_buckwalter": "al-Sinn",
+                    "toponym_search": "al-Sinn",
+                    "toponym_translit": "al-Sinn",
+                    "toponym_translit_other": "al-Sinn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

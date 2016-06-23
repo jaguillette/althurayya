@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [38.71981, 31.65819], "type": "Point"}, "properties": {"arBW": "al-Ujayfir", "arTitle": "\ufb50\u0644\u0623\u062c\u064a\u0641\u0631", "arTitleOther": "\ufb50\u0644\u0623\u062c\u064a\u0641\u0631", "lat": "31.65819", "lon": "38.71981", "region": "Badiyat al-Arab", "searchNames": "al-Ujayfir", "topType": "waystations", "topTypeAlt": "etape", "topURI": "UJAYFIR_387E316N_S_BADI", "translitTitle": "al-U\u01e7ayfir", "translitTitleOther": "al-U\u01e7ayfir"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    38.71981,
+                    31.65819
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.65819",
+                    "coord_lon": "38.71981",
+                    "cornu_URI": "UJAYFIR_387E316N_S_BADI",
+                    "region_code": 23,
+                    "region_spelled": "Badiyat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "ﭐلأجيفر",
+                    "toponym_arabic_other": "ﭐلأجيفر",
+                    "toponym_buckwalter": "al-Ujayfir",
+                    "toponym_search": "al-Ujayfir",
+                    "toponym_translit": "al-Uǧayfir",
+                    "toponym_translit_other": "al-Uǧayfir"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

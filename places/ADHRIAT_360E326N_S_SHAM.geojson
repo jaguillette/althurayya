@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [36.09087, 32.61046], "type": "Point"}, "properties": {"arBW": "Adhriat", "arTitle": "\u0623\u0630\u0631\u0639\u0627\u062a", "arTitleOther": "\u0623\u0630\u0631\u0639\u0627\u062a", "lat": "32.61046", "lon": "36.09087", "region": "Sham", "searchNames": "Adhriat", "topType": "capitals", "topTypeAlt": "cheflieu", "topURI": "ADHRIAT_360E326N_S_SHAM", "translitTitle": "A\u1e0fri\u02bf\u0101t", "translitTitleOther": "A\u1e0fri\u02bf\u0101t"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    36.09087,
+                    32.61046
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.61046",
+                    "coord_lon": "36.09087",
+                    "cornu_URI": "ADHRIAT_360E326N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "capitals",
+                    "top_type_orig": "cheflieu",
+                    "toponym_arabic": "أذرعات",
+                    "toponym_arabic_other": "أذرعات",
+                    "toponym_buckwalter": "Adhriat",
+                    "toponym_search": "Adhriat",
+                    "toponym_translit": "Aḏriʿāt",
+                    "toponym_translit_other": "Aḏriʿāt"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

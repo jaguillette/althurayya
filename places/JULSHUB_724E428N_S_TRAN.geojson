@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [72.4972, 42.89268], "type": "Point"}, "properties": {"arBW": "Jul Shub", "arTitle": "\u062c\u0648\u0644 \u0634\u0648\u0628", "arTitleOther": "\u062c\u0648\u0644 \u0634\u0648\u0628", "lat": "42.89268", "lon": "72.49720", "region": "Transoxiana", "searchNames": "Jul Shub", "topType": "waystations", "topTypeAlt": "etape", "topURI": "JULSHUB_724E428N_S_TRAN", "translitTitle": "\u01e6\u016bl \u0160\u016bb", "translitTitleOther": "\u01e6\u016bl \u0160\u016bb"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    72.4972,
+                    42.89268
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "42.89268",
+                    "coord_lon": "72.49720",
+                    "cornu_URI": "JULSHUB_724E428N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "جول شوب",
+                    "toponym_arabic_other": "جول شوب",
+                    "toponym_buckwalter": "Jul Shub",
+                    "toponym_search": "Jul Shub",
+                    "toponym_translit": "Ǧūl Šūb",
+                    "toponym_translit_other": "Ǧūl Šūb"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [28.8519, 30.80549], "type": "Point"}, "properties": {"arBW": "Haniyya al-Rum, Qusur al-Rum", "arTitle": "\u062d\u0646\u064a\u0629 \ufb50\u0644\u0631\u0648\u0645", "arTitleOther": "\u062d\u0646\u064a\u0629 \ufb50\u0644\u0631\u0648\u0645\u060c \u0642\u0635\u0648\u0631 \ufb50\u0644\u0631\u0648\u0645", "lat": "30.80549", "lon": "28.85190", "region": "Barqa", "searchNames": "Haniyya al-Rum, Qusur al-Rum", "topType": "waystations", "topTypeAlt": "etape", "topURI": "HANIYYARUM_288E308N_S_BARQ", "translitTitle": "\u1e24aniyya\u0167 al-R\u016bm", "translitTitleOther": "\u1e24aniyya\u0167 al-R\u016bm, Qu\u1e63\u016br al-R\u016bm"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    28.8519,
+                    30.80549
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.80549",
+                    "coord_lon": "28.85190",
+                    "cornu_URI": "HANIYYARUM_288E308N_S_BARQ",
+                    "region_code": 3,
+                    "region_spelled": "Barqa",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "حنية ﭐلروم",
+                    "toponym_arabic_other": "حنية ﭐلروم، قصور ﭐلروم",
+                    "toponym_buckwalter": "Haniyya al-Rum, Qusur al-Rum",
+                    "toponym_search": "Haniyya al-Rum, Qusur al-Rum",
+                    "toponym_translit": "Ḥaniyyaŧ al-Rūm",
+                    "toponym_translit_other": "Ḥaniyyaŧ al-Rūm, Quṣūr al-Rūm"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

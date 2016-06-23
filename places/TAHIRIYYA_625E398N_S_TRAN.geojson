@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [62.52055, 39.80992], "type": "Point"}, "properties": {"arBW": "al-Tahiriyya", "arTitle": "\ufb50\u0644\u0637\u0627\u0647\u0631\u064a\u0629", "arTitleOther": "\ufb50\u0644\u0637\u0627\u0647\u0631\u064a\u0629", "lat": "39.80992", "lon": "62.52055", "region": "Transoxiana", "searchNames": "al-Tahiriyya", "topType": "villages", "topTypeAlt": "localite", "topURI": "TAHIRIYYA_625E398N_S_TRAN", "translitTitle": "al-\u1e6c\u0101hiriyya\u0167", "translitTitleOther": "al-\u1e6c\u0101hiriyya\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    62.52055,
+                    39.80992
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "39.80992",
+                    "coord_lon": "62.52055",
+                    "cornu_URI": "TAHIRIYYA_625E398N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "ﭐلطاهرية",
+                    "toponym_arabic_other": "ﭐلطاهرية",
+                    "toponym_buckwalter": "al-Tahiriyya",
+                    "toponym_search": "al-Tahiriyya",
+                    "toponym_translit": "al-Ṭāhiriyyaŧ",
+                    "toponym_translit_other": "al-Ṭāhiriyyaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

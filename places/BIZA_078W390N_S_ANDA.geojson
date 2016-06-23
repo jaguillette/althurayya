@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [-7.87188, 39.02806], "type": "Point"}, "properties": {"arBW": "Biza", "arTitle": "\u0628\u064a\u0632\u0629", "arTitleOther": "\u0628\u064a\u0632\u0629", "lat": "39.02806", "lon": "-7.87188", "region": "Andalus", "searchNames": "Biza", "topType": "towns", "topTypeAlt": "cite", "topURI": "BIZA_078W390N_S_ANDA", "translitTitle": "B\u012bza\u0167", "translitTitleOther": "B\u012bza\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -7.87188,
+                    39.02806
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "39.02806",
+                    "coord_lon": "-7.87188",
+                    "cornu_URI": "BIZA_078W390N_S_ANDA",
+                    "region_code": 1,
+                    "region_spelled": "Andalus",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "بيزة",
+                    "toponym_arabic_other": "بيزة",
+                    "toponym_buckwalter": "Biza",
+                    "toponym_search": "Biza",
+                    "toponym_translit": "Bīzaŧ",
+                    "toponym_translit_other": "Bīzaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

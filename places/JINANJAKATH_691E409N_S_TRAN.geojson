@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [69.11286, 40.9956], "type": "Point"}, "properties": {"arBW": "Jinanjakath", "arTitle": "\u062c\u064a\u0646\u0627\u0646\u062c\u0643\u062b", "arTitleOther": "\u062c\u064a\u0646\u0627\u0646\u062c\u0643\u062b", "lat": "40.99560", "lon": "69.11286", "region": "Transoxiana", "searchNames": "Jinanjakath", "topType": "towns", "topTypeAlt": "cite", "topURI": "JINANJAKATH_691E409N_S_TRAN", "translitTitle": "\u01e6\u012bn\u0101n\u01e7aka\u1e6f", "translitTitleOther": "\u01e6\u012bn\u0101n\u01e7aka\u1e6f"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    69.11286,
+                    40.9956
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "40.99560",
+                    "coord_lon": "69.11286",
+                    "cornu_URI": "JINANJAKATH_691E409N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "جينانجكث",
+                    "toponym_arabic_other": "جينانجكث",
+                    "toponym_buckwalter": "Jinanjakath",
+                    "toponym_search": "Jinanjakath",
+                    "toponym_translit": "Ǧīnānǧakaṯ",
+                    "toponym_translit_other": "Ǧīnānǧakaṯ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

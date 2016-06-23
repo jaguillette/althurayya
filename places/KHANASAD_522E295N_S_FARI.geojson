@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [52.22036, 29.5682], "type": "Point"}, "properties": {"arBW": "Khan al-Asad", "arTitle": "\u062e\u0627\u0646 \ufb50\u0644\u0623\u0633\u062f", "arTitleOther": "\u062e\u0627\u0646 \ufb50\u0644\u0623\u0633\u062f", "lat": "29.56820", "lon": "52.22036", "region": "Faris", "searchNames": "Khan al-Asad", "topType": "waystations", "topTypeAlt": "etape", "topURI": "KHANASAD_522E295N_S_FARI", "translitTitle": "\u1e2a\u0101n al-Asad", "translitTitleOther": "\u1e2a\u0101n al-Asad"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    52.22036,
+                    29.5682
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "29.56820",
+                    "coord_lon": "52.22036",
+                    "cornu_URI": "KHANASAD_522E295N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "خان ﭐلأسد",
+                    "toponym_arabic_other": "خان ﭐلأسد",
+                    "toponym_buckwalter": "Khan al-Asad",
+                    "toponym_search": "Khan al-Asad",
+                    "toponym_translit": "Ḫān al-Asad",
+                    "toponym_translit_other": "Ḫān al-Asad"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

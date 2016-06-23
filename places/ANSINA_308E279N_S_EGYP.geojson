@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [30.84685, 27.90125], "type": "Point"}, "properties": {"arBW": "Ansina", "arTitle": "\u0623\u0646\u0635\u0646\u0627", "arTitleOther": "\u0623\u0646\u0635\u0646\u0627", "lat": "27.90125", "lon": "30.84685", "region": "Egypt", "searchNames": "Ansina", "topType": "towns", "topTypeAlt": "cite", "topURI": "ANSINA_308E279N_S_EGYP", "translitTitle": "An\u1e63in\u0101", "translitTitleOther": "An\u1e63in\u0101"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    30.84685,
+                    27.90125
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "27.90125",
+                    "coord_lon": "30.84685",
+                    "cornu_URI": "ANSINA_308E279N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "أنصنا",
+                    "toponym_arabic_other": "أنصنا",
+                    "toponym_buckwalter": "Ansina",
+                    "toponym_search": "Ansina",
+                    "toponym_translit": "Anṣinā",
+                    "toponym_translit_other": "Anṣinā"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

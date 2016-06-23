@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [51.76932, 29.326], "type": "Point"}, "properties": {"arBW": "Nahr Jarsiq, Nahr Jarshiq", "arTitle": "\u0646\u0647\u0631 \u062c\u0631\u0633\u064a\u0642", "arTitleOther": "\u0646\u0647\u0631 \u062c\u0631\u0633\u064a\u0642\u060c \u0646\u0647\u0631 \u062c\u0631\u0634\u064a\u0642", "lat": "29.32600", "lon": "51.76932", "region": "Faris", "searchNames": "Nahr Jarsiq, Nahr Jarshiq", "topType": "waters", "topTypeAlt": "riviere", "topURI": "NAHRJARSIQ_517E293N_W_FARI", "translitTitle": "Nahr \u01e6ars\u012bq", "translitTitleOther": "Nahr \u01e6ars\u012bq, Nahr \u01e6ar\u0161\u012bq"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    51.76932,
+                    29.326
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "29.32600",
+                    "coord_lon": "51.76932",
+                    "cornu_URI": "NAHRJARSIQ_517E293N_W_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "riviere",
+                    "toponym_arabic": "نهر جرسيق",
+                    "toponym_arabic_other": "نهر جرسيق، نهر جرشيق",
+                    "toponym_buckwalter": "Nahr Jarsiq, Nahr Jarshiq",
+                    "toponym_search": "Nahr Jarsiq, Nahr Jarshiq",
+                    "toponym_translit": "Nahr Ǧarsīq",
+                    "toponym_translit_other": "Nahr Ǧarsīq, Nahr Ǧaršīq"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

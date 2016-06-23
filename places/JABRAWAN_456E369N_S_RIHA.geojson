@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [45.60275, 36.96475], "type": "Point"}, "properties": {"arBW": "Jabrawan", "arTitle": "\u062c\u0628\u0631\u0648\u0627\u0646", "arTitleOther": "\u062c\u0628\u0631\u0648\u0627\u0646", "lat": "36.96475", "lon": "45.60275", "region": "Rihab", "searchNames": "Jabrawan", "topType": "towns", "topTypeAlt": "cite", "topURI": "JABRAWAN_456E369N_S_RIHA", "translitTitle": "\u01e6abraw\u0101n", "translitTitleOther": "\u01e6abraw\u0101n"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    45.60275,
+                    36.96475
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.96475",
+                    "coord_lon": "45.60275",
+                    "cornu_URI": "JABRAWAN_456E369N_S_RIHA",
+                    "region_code": 15,
+                    "region_spelled": "Rihab",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "جبروان",
+                    "toponym_arabic_other": "جبروان",
+                    "toponym_buckwalter": "Jabrawan",
+                    "toponym_search": "Jabrawan",
+                    "toponym_translit": "Ǧabrawān",
+                    "toponym_translit_other": "Ǧabrawān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [76.21861, 43.21825], "type": "Point"}, "properties": {"arBW": "Kubal", "arTitle": "\u0643\u0628\u0627\u0644", "arTitleOther": "\u0643\u0628\u0627\u0644", "lat": "43.21825", "lon": "76.21861", "region": "Transoxiana", "searchNames": "Kubal", "topType": "villages", "topTypeAlt": "localite", "topURI": "KUBAL_762E432N_S_TRAN", "translitTitle": "Kub\u0101l", "translitTitleOther": "Kub\u0101l"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    76.21861,
+                    43.21825
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "43.21825",
+                    "coord_lon": "76.21861",
+                    "cornu_URI": "KUBAL_762E432N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "كبال",
+                    "toponym_arabic_other": "كبال",
+                    "toponym_buckwalter": "Kubal",
+                    "toponym_search": "Kubal",
+                    "toponym_translit": "Kubāl",
+                    "toponym_translit_other": "Kubāl"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

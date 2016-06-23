@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [52.27735, 34.57768], "type": "Point"}, "properties": {"arBW": "Siyah Kuh", "arTitle": "\u0633\u064a\u0627\u0647 \u0643\u0648\u0647", "arTitleOther": "\u0633\u064a\u0627\u0647 \u0643\u0648\u0647", "lat": "34.57768", "lon": "52.27735", "region": "Mafaza", "searchNames": "Siyah Kuh", "topType": "sites", "topTypeAlt": "mont", "topURI": "SIYAHKUH_522E345N_O_MAFA", "translitTitle": "Siy\u0101h K\u016bh", "translitTitleOther": "Siy\u0101h K\u016bh"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    52.27735,
+                    34.57768
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.57768",
+                    "coord_lon": "52.27735",
+                    "cornu_URI": "SIYAHKUH_522E345N_O_MAFA",
+                    "region_code": 13,
+                    "region_spelled": "Mafaza",
+                    "top_type_hom": "sites",
+                    "top_type_orig": "mont",
+                    "toponym_arabic": "سياه كوه",
+                    "toponym_arabic_other": "سياه كوه",
+                    "toponym_buckwalter": "Siyah Kuh",
+                    "toponym_search": "Siyah Kuh",
+                    "toponym_translit": "Siyāh Kūh",
+                    "toponym_translit_other": "Siyāh Kūh"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

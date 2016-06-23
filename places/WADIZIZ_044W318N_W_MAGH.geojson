@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [-4.48761, 31.87198], "type": "Point"}, "properties": {"arBW": "Wadi Ziz", "arTitle": "\u0648\u0627\u062f\u064a \u0632\u064a\u0632", "arTitleOther": "\u0648\u0627\u062f\u064a \u0632\u064a\u0632", "lat": "31.87198", "lon": "-4.48761", "region": "Maghrib", "searchNames": "Wadi Ziz", "topType": "waters", "topTypeAlt": "wadi", "topURI": "WADIZIZ_044W318N_W_MAGH", "translitTitle": "W\u0101d\u012b Z\u012bz", "translitTitleOther": "W\u0101d\u012b Z\u012bz"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -4.48761,
+                    31.87198
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.87198",
+                    "coord_lon": "-4.48761",
+                    "cornu_URI": "WADIZIZ_044W318N_W_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "wadi",
+                    "toponym_arabic": "وادي زيز",
+                    "toponym_arabic_other": "وادي زيز",
+                    "toponym_buckwalter": "Wadi Ziz",
+                    "toponym_search": "Wadi Ziz",
+                    "toponym_translit": "Wādī Zīz",
+                    "toponym_translit_other": "Wādī Zīz"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

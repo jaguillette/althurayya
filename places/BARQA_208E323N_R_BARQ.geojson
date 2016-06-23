@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [20.84475, 32.37576], "type": "Point"}, "properties": {"arBW": "Barqa", "arTitle": "\u0628\u0631\u0642\u0629", "arTitleOther": "\u0628\u0631\u0642\u0629", "lat": "32.37576", "lon": "20.84475", "region": "Barqa", "searchNames": "Barqa", "topType": "regions", "topTypeAlt": "circon", "topURI": "BARQA_208E323N_R_BARQ", "translitTitle": "Barqa\u0167", "translitTitleOther": "Barqa\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    20.84475,
+                    32.37576
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.37576",
+                    "coord_lon": "20.84475",
+                    "cornu_URI": "BARQA_208E323N_R_BARQ",
+                    "region_code": 3,
+                    "region_spelled": "Barqa",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "circon",
+                    "toponym_arabic": "برقة",
+                    "toponym_arabic_other": "برقة",
+                    "toponym_buckwalter": "Barqa",
+                    "toponym_search": "Barqa",
+                    "toponym_translit": "Barqaŧ",
+                    "toponym_translit_other": "Barqaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

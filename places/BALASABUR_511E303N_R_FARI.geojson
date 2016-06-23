@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [51.1775, 30.39947], "type": "Point"}, "properties": {"arBW": "Bala Sabur", "arTitle": "\u0628\u0644\u0627 \u0633\u0627\u0628\u0648\u0631", "arTitleOther": "\u0628\u0644\u0627 \u0633\u0627\u0628\u0648\u0631", "lat": "30.39947", "lon": "51.17750", "region": "Faris", "searchNames": "Bala Sabur", "topType": "regions", "topTypeAlt": "region", "topURI": "BALASABUR_511E303N_R_FARI", "translitTitle": "Bal\u0101 S\u0101b\u016br", "translitTitleOther": "Bal\u0101 S\u0101b\u016br"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    51.1775,
+                    30.39947
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.39947",
+                    "coord_lon": "51.17750",
+                    "cornu_URI": "BALASABUR_511E303N_R_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "بلا سابور",
+                    "toponym_arabic_other": "بلا سابور",
+                    "toponym_buckwalter": "Bala Sabur",
+                    "toponym_search": "Bala Sabur",
+                    "toponym_translit": "Balā Sābūr",
+                    "toponym_translit_other": "Balā Sābūr"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

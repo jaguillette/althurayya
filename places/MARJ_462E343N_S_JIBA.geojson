@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [46.22379, 34.30577], "type": "Point"}, "properties": {"arBW": "al-Marj, Marj al-Qala", "arTitle": "\ufb50\u0644\u0645\u0631\u062c", "arTitleOther": "\ufb50\u0644\u0645\u0631\u062c\u060c \u0645\u0631\u062c \ufb50\u0644\u0642\u0644\u0639\u0629", "lat": "34.30577", "lon": "46.22379", "region": "Jibal", "searchNames": "al-Marj, Marj al-Qala", "topType": "waystations", "topTypeAlt": "etape", "topURI": "MARJ_462E343N_S_JIBA", "translitTitle": "al-Mar\u01e7", "translitTitleOther": "al-Mar\u01e7, Mar\u01e7 al-Qal\u02bfa\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    46.22379,
+                    34.30577
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.30577",
+                    "coord_lon": "46.22379",
+                    "cornu_URI": "MARJ_462E343N_S_JIBA",
+                    "region_code": 8,
+                    "region_spelled": "Jibal",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "ﭐلمرج",
+                    "toponym_arabic_other": "ﭐلمرج، مرج ﭐلقلعة",
+                    "toponym_buckwalter": "al-Marj, Marj al-Qala",
+                    "toponym_search": "al-Marj, Marj al-Qala",
+                    "toponym_translit": "al-Marǧ",
+                    "toponym_translit_other": "al-Marǧ, Marǧ al-Qalʿaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

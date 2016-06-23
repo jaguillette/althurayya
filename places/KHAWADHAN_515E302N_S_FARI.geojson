@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [51.50809, 30.24443], "type": "Point"}, "properties": {"arBW": "Khawadhan, Khawrawadhan, Khawrabadhan, Khubadhan", "arTitle": "\u062e\u0648\u0627\u0630\u0627\u0646", "arTitleOther": "\u062e\u0648\u0627\u0630\u0627\u0646\u060c \u062e\u0648\u0631\u0627\u0648\u0627\u0630\u0627\u0646\u060c \u062e\u0648\u0631\u0627\u0628\u0627\u0630\u0627\u0646\u060c \u062e\u0648\u0628\u0630\u0627\u0646", "lat": "30.24443", "lon": "51.50809", "region": "Faris", "searchNames": "Khawadhan, Khawrawadhan, Khawrabadhan, Khubadhan", "topType": "villages", "topTypeAlt": "localite", "topURI": "KHAWADHAN_515E302N_S_FARI", "translitTitle": "\u1e2aaw\u0101\u1e0f\u0101n", "translitTitleOther": "\u1e2aaw\u0101\u1e0f\u0101n, \u1e2aawr\u0101w\u0101\u1e0f\u0101n, \u1e2aawr\u0101b\u0101\u1e0f\u0101n, \u1e2a\u016bba\u1e0f\u0101n"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    51.50809,
+                    30.24443
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.24443",
+                    "coord_lon": "51.50809",
+                    "cornu_URI": "KHAWADHAN_515E302N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "خواذان",
+                    "toponym_arabic_other": "خواذان، خوراواذان، خوراباذان، خوبذان",
+                    "toponym_buckwalter": "Khawadhan, Khawrawadhan, Khawrabadhan, Khubadhan",
+                    "toponym_search": "Khawadhan, Khawrawadhan, Khawrabadhan, Khubadhan",
+                    "toponym_translit": "Ḫawāḏān",
+                    "toponym_translit_other": "Ḫawāḏān, Ḫawrāwāḏān, Ḫawrābāḏān, Ḫūbaḏān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [41.65964, 37.9789], "type": "Point"}, "properties": {"arBW": "Arzan", "arTitle": "\u0623\u0631\u0632\u0646", "arTitleOther": "\u0623\u0631\u0632\u0646", "lat": "37.97890", "lon": "41.65964", "region": "Aqur", "searchNames": "Arzan", "topType": "villages", "topTypeAlt": "localite", "topURI": "ARZAN_416E379N_S_AQUR", "translitTitle": "Arzan", "translitTitleOther": "Arzan"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    41.65964,
+                    37.9789
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.97890",
+                    "coord_lon": "41.65964",
+                    "cornu_URI": "ARZAN_416E379N_S_AQUR",
+                    "region_code": 2,
+                    "region_spelled": "Aqur",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "أرزن",
+                    "toponym_arabic_other": "أرزن",
+                    "toponym_buckwalter": "Arzan",
+                    "toponym_search": "Arzan",
+                    "toponym_translit": "Arzan",
+                    "toponym_translit_other": "Arzan"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

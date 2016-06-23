@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [68.86234, 37.23952], "type": "Point"}, "properties": {"arBW": "Arhan", "arTitle": "\u0622\u0631\u0647\u0646", "arTitleOther": "\u0622\u0631\u0647\u0646", "lat": "37.23952", "lon": "68.86234", "region": "Khurasan", "searchNames": "Arhan", "topType": "towns", "topTypeAlt": "cite", "topURI": "ARHAN_688E372N_S_KHUR", "translitTitle": "\u0100rhan", "translitTitleOther": "\u0100rhan"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    68.86234,
+                    37.23952
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.23952",
+                    "coord_lon": "68.86234",
+                    "cornu_URI": "ARHAN_688E372N_S_KHUR",
+                    "region_code": 10,
+                    "region_spelled": "Khurasan",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "آرهن",
+                    "toponym_arabic_other": "آرهن",
+                    "toponym_buckwalter": "Arhan",
+                    "toponym_search": "Arhan",
+                    "toponym_translit": "Ārhan",
+                    "toponym_translit_other": "Ārhan"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

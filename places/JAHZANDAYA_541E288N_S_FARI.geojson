@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [54.18928, 28.85635], "type": "Point"}, "properties": {"arBW": "Jah Zandaya", "arTitle": "\u062c\u0627\u0647 \u0632\u0646\u062f\u0627\u064a\u0629", "arTitleOther": "\u062c\u0627\u0647 \u0632\u0646\u062f\u0627\u064a\u0629", "lat": "28.85635", "lon": "54.18928", "region": "Faris", "searchNames": "Jah Zandaya", "topType": "towns", "topTypeAlt": "cite", "topURI": "JAHZANDAYA_541E288N_S_FARI", "translitTitle": "\u01e6\u0101h Zand\u0101ya\u0167", "translitTitleOther": "\u01e6\u0101h Zand\u0101ya\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    54.18928,
+                    28.85635
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "28.85635",
+                    "coord_lon": "54.18928",
+                    "cornu_URI": "JAHZANDAYA_541E288N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "جاه زنداية",
+                    "toponym_arabic_other": "جاه زنداية",
+                    "toponym_buckwalter": "Jah Zandaya",
+                    "toponym_search": "Jah Zandaya",
+                    "toponym_translit": "Ǧāh Zandāyaŧ",
+                    "toponym_translit_other": "Ǧāh Zandāyaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

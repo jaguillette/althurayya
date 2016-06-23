@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [53.92036, 29.69008], "type": "Point"}, "properties": {"arBW": "Qarya al-As", "arTitle": "\u0642\u0631\u064a\u0629 \ufb50\u0644\u0622\u0633", "arTitleOther": "\u0642\u0631\u064a\u0629 \ufb50\u0644\u0622\u0633", "lat": "29.69008", "lon": "53.92036", "region": "Faris", "searchNames": "Qarya al-As", "topType": "waystations", "topTypeAlt": "citadelle", "topURI": "QARYAAS_539E296N_S_FARI", "translitTitle": "Qarya\u0167 al-\u0100s", "translitTitleOther": "Qarya\u0167 al-\u0100s"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    53.92036,
+                    29.69008
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "29.69008",
+                    "coord_lon": "53.92036",
+                    "cornu_URI": "QARYAAS_539E296N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "citadelle",
+                    "toponym_arabic": "قرية ﭐلآس",
+                    "toponym_arabic_other": "قرية ﭐلآس",
+                    "toponym_buckwalter": "Qarya al-As",
+                    "toponym_search": "Qarya al-As",
+                    "toponym_translit": "Qaryaŧ al-Ās",
+                    "toponym_translit_other": "Qaryaŧ al-Ās"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

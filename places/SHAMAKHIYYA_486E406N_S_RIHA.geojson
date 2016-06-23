@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [48.68505, 40.67871], "type": "Point"}, "properties": {"arBW": "al-Shamakhiyya", "arTitle": "\ufb50\u0644\u0634\u0645\u0627\u062e\u064a\u0629", "arTitleOther": "\ufb50\u0644\u0634\u0645\u0627\u062e\u064a\u0629", "lat": "40.67871", "lon": "48.68505", "region": "Rihab", "searchNames": "al-Shamakhiyya", "topType": "villages", "topTypeAlt": "localite", "topURI": "SHAMAKHIYYA_486E406N_S_RIHA", "translitTitle": "al-\u0160am\u0101\u1e2biyya\u0167", "translitTitleOther": "al-\u0160am\u0101\u1e2biyya\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    48.68505,
+                    40.67871
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "40.67871",
+                    "coord_lon": "48.68505",
+                    "cornu_URI": "SHAMAKHIYYA_486E406N_S_RIHA",
+                    "region_code": 15,
+                    "region_spelled": "Rihab",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "ﭐلشماخية",
+                    "toponym_arabic_other": "ﭐلشماخية",
+                    "toponym_buckwalter": "al-Shamakhiyya",
+                    "toponym_search": "al-Shamakhiyya",
+                    "toponym_translit": "al-Šamāḫiyyaŧ",
+                    "toponym_translit_other": "al-Šamāḫiyyaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [48.42279, 34.83858], "type": "Point"}, "properties": {"arBW": "Zafaraniyya", "arTitle": "\u0632\u0639\u0641\u0631\u0646\u064a\u0629", "arTitleOther": "\u0632\u0639\u0641\u0631\u0646\u064a\u0629", "lat": "34.83858", "lon": "48.42279", "region": "Jibal", "searchNames": "Zafaraniyya", "topType": "waystations", "topTypeAlt": "etape", "topURI": "ZAFARANIYYA_484E348N_S_JIBA", "translitTitle": "Za\u02bffaraniyya\u0167", "translitTitleOther": "Za\u02bffaraniyya\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    48.42279,
+                    34.83858
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.83858",
+                    "coord_lon": "48.42279",
+                    "cornu_URI": "ZAFARANIYYA_484E348N_S_JIBA",
+                    "region_code": 8,
+                    "region_spelled": "Jibal",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "زعفرنية",
+                    "toponym_arabic_other": "زعفرنية",
+                    "toponym_buckwalter": "Zafaraniyya",
+                    "toponym_search": "Zafaraniyya",
+                    "toponym_translit": "Zaʿfaraniyyaŧ",
+                    "toponym_translit_other": "Zaʿfaraniyyaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

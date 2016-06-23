@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [71.21396, 39.97506], "type": "Point"}, "properties": {"arBW": "Sukh, Suj", "arTitle": "\u0633\u0648\u062e", "arTitleOther": "\u0633\u0648\u062e\u060c \u0633\u0648\u062c", "lat": "39.97506", "lon": "71.21396", "region": "Transoxiana", "searchNames": "Sukh, Suj", "topType": "towns", "topTypeAlt": "cite", "topURI": "SUKH_712E399N_S_TRAN", "translitTitle": "S\u016b\u1e2b", "translitTitleOther": "S\u016b\u1e2b, S\u016b\u01e7"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    71.21396,
+                    39.97506
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "39.97506",
+                    "coord_lon": "71.21396",
+                    "cornu_URI": "SUKH_712E399N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "سوخ",
+                    "toponym_arabic_other": "سوخ، سوج",
+                    "toponym_buckwalter": "Sukh, Suj",
+                    "toponym_search": "Sukh, Suj",
+                    "toponym_translit": "Sūḫ",
+                    "toponym_translit_other": "Sūḫ, Sūǧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

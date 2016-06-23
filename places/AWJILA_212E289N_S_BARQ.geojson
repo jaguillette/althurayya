@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [21.21413, 28.95651], "type": "Point"}, "properties": {"arBW": "Awjila", "arTitle": "\u0623\u0648\u062c\u0644\u0629", "arTitleOther": "\u0623\u0648\u062c\u0644\u0629", "lat": "28.95651", "lon": "21.21413", "region": "Barqa", "searchNames": "Awjila", "topType": "villages", "topTypeAlt": "oasis", "topURI": "AWJILA_212E289N_S_BARQ", "translitTitle": "Aw\u01e7ila\u0167", "translitTitleOther": "Aw\u01e7ila\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    21.21413,
+                    28.95651
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "28.95651",
+                    "coord_lon": "21.21413",
+                    "cornu_URI": "AWJILA_212E289N_S_BARQ",
+                    "region_code": 3,
+                    "region_spelled": "Barqa",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "oasis",
+                    "toponym_arabic": "أوجلة",
+                    "toponym_arabic_other": "أوجلة",
+                    "toponym_buckwalter": "Awjila",
+                    "toponym_search": "Awjila",
+                    "toponym_translit": "Awǧilaŧ",
+                    "toponym_translit_other": "Awǧilaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

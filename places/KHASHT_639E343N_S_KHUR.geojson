@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [63.94658, 34.34906], "type": "Point"}, "properties": {"arBW": "Khasht, Khast, Khast, Khwasht", "arTitle": "\u062e\u0634\u062a", "arTitleOther": "\u062e\u0634\u062a\u060c \u062e\u0633\u062a\u060c \u062e\u0627\u0633\u062a\u060c \u062e\u0648\u0634\u062a", "lat": "34.34906", "lon": "63.94658", "region": "Khurasan", "searchNames": "Khasht, Khast, Khast, Khwasht", "topType": "towns", "topTypeAlt": "cite", "topURI": "KHASHT_639E343N_S_KHUR", "translitTitle": "\u1e2aa\u0161t", "translitTitleOther": "\u1e2aa\u0161t, \u1e2aast, \u1e2a\u0101st, \u1e2awa\u0161t"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    63.94658,
+                    34.34906
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.34906",
+                    "coord_lon": "63.94658",
+                    "cornu_URI": "KHASHT_639E343N_S_KHUR",
+                    "region_code": 10,
+                    "region_spelled": "Khurasan",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "خشت",
+                    "toponym_arabic_other": "خشت، خست، خاست، خوشت",
+                    "toponym_buckwalter": "Khasht, Khast, Khast, Khwasht",
+                    "toponym_search": "Khasht, Khast, Khast, Khwasht",
+                    "toponym_translit": "Ḫašt",
+                    "toponym_translit_other": "Ḫašt, Ḫast, Ḫāst, Ḫwašt"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

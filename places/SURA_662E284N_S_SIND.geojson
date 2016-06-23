@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [66.29529, 28.4859], "type": "Point"}, "properties": {"arBW": "Sura", "arTitle": "\u0633\u0648\u0631\u0629", "arTitleOther": "\u0633\u0648\u0631\u0629", "lat": "28.48590", "lon": "66.29529", "region": "Sind", "searchNames": "Sura", "topType": "towns", "topTypeAlt": "cite", "topURI": "SURA_662E284N_S_SIND", "translitTitle": "S\u016bra\u0167", "translitTitleOther": "S\u016bra\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    66.29529,
+                    28.4859
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "28.48590",
+                    "coord_lon": "66.29529",
+                    "cornu_URI": "SURA_662E284N_S_SIND",
+                    "region_code": 19,
+                    "region_spelled": "Sind",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "سورة",
+                    "toponym_arabic_other": "سورة",
+                    "toponym_buckwalter": "Sura",
+                    "toponym_search": "Sura",
+                    "toponym_translit": "Sūraŧ",
+                    "toponym_translit_other": "Sūraŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

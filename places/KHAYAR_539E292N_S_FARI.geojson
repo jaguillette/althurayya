@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [53.93868, 29.25944], "type": "Point"}, "properties": {"arBW": "Khayar, Khayr, Khayra", "arTitle": "\u062e\u064a\u0627\u0631", "arTitleOther": "\u062e\u064a\u0627\u0631\u060c \u062e\u064a\u0631\u060c \u062e\u064a\u0631\u0629", "lat": "29.25944", "lon": "53.93868", "region": "Faris", "searchNames": "Khayar, Khayr, Khayra", "topType": "villages", "topTypeAlt": "localite", "topURI": "KHAYAR_539E292N_S_FARI", "translitTitle": "\u1e2aay\u0101r", "translitTitleOther": "\u1e2aay\u0101r, \u1e2aayr, \u1e2aayra\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    53.93868,
+                    29.25944
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "29.25944",
+                    "coord_lon": "53.93868",
+                    "cornu_URI": "KHAYAR_539E292N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "خيار",
+                    "toponym_arabic_other": "خيار، خير، خيرة",
+                    "toponym_buckwalter": "Khayar, Khayr, Khayra",
+                    "toponym_search": "Khayar, Khayr, Khayra",
+                    "toponym_translit": "Ḫayār",
+                    "toponym_translit_other": "Ḫayār, Ḫayr, Ḫayraŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

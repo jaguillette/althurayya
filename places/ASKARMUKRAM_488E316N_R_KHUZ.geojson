@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [48.8982, 31.66531], "type": "Point"}, "properties": {"arBW": "Askar Mukram", "arTitle": "\u0639\u0633\u0643\u0631 \u0645\u0643\u0631\u0645", "arTitleOther": "\u0639\u0633\u0643\u0631 \u0645\u0643\u0631\u0645", "lat": "31.66531", "lon": "48.89820", "region": "Khuzistan", "searchNames": "Askar Mukram", "topType": "regions", "topTypeAlt": "region", "topURI": "ASKARMUKRAM_488E316N_R_KHUZ", "translitTitle": "\u02bfAskar Mukram", "translitTitleOther": "\u02bfAskar Mukram"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    48.8982,
+                    31.66531
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.66531",
+                    "coord_lon": "48.89820",
+                    "cornu_URI": "ASKARMUKRAM_488E316N_R_KHUZ",
+                    "region_code": 11,
+                    "region_spelled": "Khuzistan",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "عسكر مكرم",
+                    "toponym_arabic_other": "عسكر مكرم",
+                    "toponym_buckwalter": "Askar Mukram",
+                    "toponym_search": "Askar Mukram",
+                    "toponym_translit": "ʿAskar Mukram",
+                    "toponym_translit_other": "ʿAskar Mukram"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

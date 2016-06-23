@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [3.58797, 36.73169], "type": "Point"}, "properties": {"arBW": "Marsa al-Dajjaj", "arTitle": "\u0645\u0631\u0633\u0649 \ufb50\u0644\u062f\u062c\u0627\u062c", "arTitleOther": "\u0645\u0631\u0633\u0649 \ufb50\u0644\u062f\u062c\u0627\u062c", "lat": "36.73169", "lon": "3.58797", "region": "Maghrib", "searchNames": "Marsa al-Dajjaj", "topType": "towns", "topTypeAlt": "cite", "topURI": "MARSADAJJAJ_035E367N_S_MAGH", "translitTitle": "Mars\u00e1 al-Da\u01e7\u01e7\u0101\u01e7", "translitTitleOther": "Mars\u00e1 al-Da\u01e7\u01e7\u0101\u01e7"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    3.58797,
+                    36.73169
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.73169",
+                    "coord_lon": "3.58797",
+                    "cornu_URI": "MARSADAJJAJ_035E367N_S_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "مرسى ﭐلدجاج",
+                    "toponym_arabic_other": "مرسى ﭐلدجاج",
+                    "toponym_buckwalter": "Marsa al-Dajjaj",
+                    "toponym_search": "Marsa al-Dajjaj",
+                    "toponym_translit": "Marsá al-Daǧǧāǧ",
+                    "toponym_translit_other": "Marsá al-Daǧǧāǧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [56.75347, 27.96611], "type": "Point"}, "properties": {"arBW": "Marzaqan", "arTitle": "\u0645\u0631\u0632\u0642\u0627\u0646", "arTitleOther": "\u0645\u0631\u0632\u0642\u0627\u0646", "lat": "27.96611", "lon": "56.75347", "region": "Kirman", "searchNames": "Marzaqan", "topType": "villages", "topTypeAlt": "localite", "topURI": "MARZAQAN_567E279N_S_KIRM", "translitTitle": "Marzaq\u0101n", "translitTitleOther": "Marzaq\u0101n"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    56.75347,
+                    27.96611
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "27.96611",
+                    "coord_lon": "56.75347",
+                    "cornu_URI": "MARZAQAN_567E279N_S_KIRM",
+                    "region_code": 12,
+                    "region_spelled": "Kirman",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "مرزقان",
+                    "toponym_arabic_other": "مرزقان",
+                    "toponym_buckwalter": "Marzaqan",
+                    "toponym_search": "Marzaqan",
+                    "toponym_translit": "Marzaqān",
+                    "toponym_translit_other": "Marzaqān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

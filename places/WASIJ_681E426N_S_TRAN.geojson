@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [68.12972, 42.63098], "type": "Point"}, "properties": {"arBW": "Wasij", "arTitle": "\u0648\u0633\u064a\u062c", "arTitleOther": "\u0648\u0633\u064a\u062c", "lat": "42.63098", "lon": "68.12972", "region": "Transoxiana", "searchNames": "Wasij", "topType": "towns", "topTypeAlt": "cite", "topURI": "WASIJ_681E426N_S_TRAN", "translitTitle": "Was\u012b\u01e7", "translitTitleOther": "Was\u012b\u01e7"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    68.12972,
+                    42.63098
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "42.63098",
+                    "coord_lon": "68.12972",
+                    "cornu_URI": "WASIJ_681E426N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "وسيج",
+                    "toponym_arabic_other": "وسيج",
+                    "toponym_buckwalter": "Wasij",
+                    "toponym_search": "Wasij",
+                    "toponym_translit": "Wasīǧ",
+                    "toponym_translit_other": "Wasīǧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

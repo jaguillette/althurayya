@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [30.6995, 31.04306], "type": "Point"}, "properties": {"arBW": "al-Safiyya", "arTitle": "\ufb50\u0644\u0635\u0627\u0641\u064a\u0629", "arTitleOther": "\ufb50\u0644\u0635\u0627\u0641\u064a\u0629", "lat": "31.04306", "lon": "30.69950", "region": "Egypt", "searchNames": "al-Safiyya", "topType": "villages", "topTypeAlt": "localite", "topURI": "SAFIYYA_306E310N_S_EGYP", "translitTitle": "al-\u1e62\u0101fiyya\u0167", "translitTitleOther": "al-\u1e62\u0101fiyya\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    30.6995,
+                    31.04306
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.04306",
+                    "coord_lon": "30.69950",
+                    "cornu_URI": "SAFIYYA_306E310N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "ﭐلصافية",
+                    "toponym_arabic_other": "ﭐلصافية",
+                    "toponym_buckwalter": "al-Safiyya",
+                    "toponym_search": "al-Safiyya",
+                    "toponym_translit": "al-Ṣāfiyyaŧ",
+                    "toponym_translit_other": "al-Ṣāfiyyaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

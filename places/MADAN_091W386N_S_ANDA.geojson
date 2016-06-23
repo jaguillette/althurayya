@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [-9.19189, 38.64984], "type": "Point"}, "properties": {"arBW": "al-Madan", "arTitle": "\ufb50\u0644\u0645\u0639\u062f\u0646", "arTitleOther": "\ufb50\u0644\u0645\u0639\u062f\u0646", "lat": "38.64984", "lon": "-9.19189", "region": "Andalus", "searchNames": "al-Madan", "topType": "towns", "topTypeAlt": "cite", "topURI": "MADAN_091W386N_S_ANDA", "translitTitle": "al-Ma\u02bfdan", "translitTitleOther": "al-Ma\u02bfdan"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -9.19189,
+                    38.64984
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "38.64984",
+                    "coord_lon": "-9.19189",
+                    "cornu_URI": "MADAN_091W386N_S_ANDA",
+                    "region_code": 1,
+                    "region_spelled": "Andalus",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ﭐلمعدن",
+                    "toponym_arabic_other": "ﭐلمعدن",
+                    "toponym_buckwalter": "al-Madan",
+                    "toponym_search": "al-Madan",
+                    "toponym_translit": "al-Maʿdan",
+                    "toponym_translit_other": "al-Maʿdan"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

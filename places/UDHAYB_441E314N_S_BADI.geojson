@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [44.13666, 31.49049], "type": "Point"}, "properties": {"arBW": "al-Udhayb", "arTitle": "\ufb50\u0644\u0623\u0630\u064a\u0628", "arTitleOther": "\ufb50\u0644\u0623\u0630\u064a\u0628", "lat": "31.49049", "lon": "44.13666", "region": "Badiyat al-Arab", "searchNames": "al-Udhayb", "topType": "villages", "topTypeAlt": "localite", "topURI": "UDHAYB_441E314N_S_BADI", "translitTitle": "al-U\u1e0fayb", "translitTitleOther": "al-U\u1e0fayb"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    44.13666,
+                    31.49049
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.49049",
+                    "coord_lon": "44.13666",
+                    "cornu_URI": "UDHAYB_441E314N_S_BADI",
+                    "region_code": 23,
+                    "region_spelled": "Badiyat al-Arab",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "ﭐلأذيب",
+                    "toponym_arabic_other": "ﭐلأذيب",
+                    "toponym_buckwalter": "al-Udhayb",
+                    "toponym_search": "al-Udhayb",
+                    "toponym_translit": "al-Uḏayb",
+                    "toponym_translit_other": "al-Uḏayb"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

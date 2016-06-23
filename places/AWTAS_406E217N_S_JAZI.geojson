@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [40.68003, 21.733], "type": "Point"}, "properties": {"arBW": "Awtas", "arTitle": "\u0623\u0648\u0637\u0627\u0633", "arTitleOther": "\u0623\u0648\u0637\u0627\u0633", "lat": "21.73300", "lon": "40.68003", "region": "Jazirat al-Arab", "searchNames": "Awtas", "topType": "waystations", "topTypeAlt": "etape", "topURI": "AWTAS_406E217N_S_JAZI", "translitTitle": "Aw\u1e6d\u0101s", "translitTitleOther": "Aw\u1e6d\u0101s"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    40.68003,
+                    21.733
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "21.73300",
+                    "coord_lon": "40.68003",
+                    "cornu_URI": "AWTAS_406E217N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "أوطاس",
+                    "toponym_arabic_other": "أوطاس",
+                    "toponym_buckwalter": "Awtas",
+                    "toponym_search": "Awtas",
+                    "toponym_translit": "Awṭās",
+                    "toponym_translit_other": "Awṭās"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

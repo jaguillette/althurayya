@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [31.49925, 30.56736], "type": "Point"}, "properties": {"arBW": "Basta", "arTitle": "\u0628\u0633\u0637\u0629", "arTitleOther": "\u0628\u0633\u0637\u0629", "lat": "30.56736", "lon": "31.49925", "region": "Egypt", "searchNames": "Basta", "topType": "regions", "topTypeAlt": "district", "topURI": "BASTA_314E305N_R_EGYP", "translitTitle": "Bas\u1e6da\u0167", "translitTitleOther": "Bas\u1e6da\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    31.49925,
+                    30.56736
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.56736",
+                    "coord_lon": "31.49925",
+                    "cornu_URI": "BASTA_314E305N_R_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "district",
+                    "toponym_arabic": "بسطة",
+                    "toponym_arabic_other": "بسطة",
+                    "toponym_buckwalter": "Basta",
+                    "toponym_search": "Basta",
+                    "toponym_translit": "Basṭaŧ",
+                    "toponym_translit_other": "Basṭaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

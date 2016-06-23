@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [50.29766, 30.6103], "type": "Point"}, "properties": {"arBW": "Arrajan", "arTitle": "\u0623\u0631\u0627\u062c\u0627\u0646", "arTitleOther": "\u0623\u0631\u0627\u062c\u0627\u0646", "lat": "30.61030", "lon": "50.29766", "region": "Faris", "searchNames": "Arrajan", "topType": "capitals", "topTypeAlt": "capitale", "topURI": "ARRAJAN_502E306N_S_FARI", "translitTitle": "Arr\u0101\u01e7\u0101n", "translitTitleOther": "Arr\u0101\u01e7\u0101n"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    50.29766,
+                    30.6103
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.61030",
+                    "coord_lon": "50.29766",
+                    "cornu_URI": "ARRAJAN_502E306N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "capitals",
+                    "top_type_orig": "capitale",
+                    "toponym_arabic": "أراجان",
+                    "toponym_arabic_other": "أراجان",
+                    "toponym_buckwalter": "Arrajan",
+                    "toponym_search": "Arrajan",
+                    "toponym_translit": "Arrāǧān",
+                    "toponym_translit_other": "Arrāǧān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

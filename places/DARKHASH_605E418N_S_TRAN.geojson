@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [60.53918, 41.87659], "type": "Point"}, "properties": {"arBW": "Darkhash", "arTitle": "\u062f\u0631\u062e\u0627\u0634", "arTitleOther": "\u062f\u0631\u062e\u0627\u0634", "lat": "41.87659", "lon": "60.53918", "region": "Transoxiana", "searchNames": "Darkhash", "topType": "villages", "topTypeAlt": "localite", "topURI": "DARKHASH_605E418N_S_TRAN", "translitTitle": "Dar\u1e2b\u0101\u0161", "translitTitleOther": "Dar\u1e2b\u0101\u0161"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    60.53918,
+                    41.87659
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "41.87659",
+                    "coord_lon": "60.53918",
+                    "cornu_URI": "DARKHASH_605E418N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "درخاش",
+                    "toponym_arabic_other": "درخاش",
+                    "toponym_buckwalter": "Darkhash",
+                    "toponym_search": "Darkhash",
+                    "toponym_translit": "Darḫāš",
+                    "toponym_translit_other": "Darḫāš"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

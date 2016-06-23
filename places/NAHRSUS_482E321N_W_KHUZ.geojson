@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [48.20426, 32.16186], "type": "Point"}, "properties": {"arBW": "Nahr Sus", "arTitle": "\u0646\u0647\u0631 \u0633\u0648\u0633", "arTitleOther": "\u0646\u0647\u0631 \u0633\u0648\u0633", "lat": "32.16186", "lon": "48.20426", "region": "Khuzistan", "searchNames": "Nahr Sus", "topType": "waters", "topTypeAlt": "riviere", "topURI": "NAHRSUS_482E321N_W_KHUZ", "translitTitle": "Nahr S\u016bs", "translitTitleOther": "Nahr S\u016bs"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    48.20426,
+                    32.16186
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.16186",
+                    "coord_lon": "48.20426",
+                    "cornu_URI": "NAHRSUS_482E321N_W_KHUZ",
+                    "region_code": 11,
+                    "region_spelled": "Khuzistan",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "riviere",
+                    "toponym_arabic": "نهر سوس",
+                    "toponym_arabic_other": "نهر سوس",
+                    "toponym_buckwalter": "Nahr Sus",
+                    "toponym_search": "Nahr Sus",
+                    "toponym_translit": "Nahr Sūs",
+                    "toponym_translit_other": "Nahr Sūs"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

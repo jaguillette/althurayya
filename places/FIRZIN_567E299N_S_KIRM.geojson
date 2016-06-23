@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [56.77211, 29.95407], "type": "Point"}, "properties": {"arBW": "Firzin, Firdin", "arTitle": "\u0641\u0631\u0632\u064a\u0646", "arTitleOther": "\u0641\u0631\u0632\u064a\u0646\u060c \u0641\u0631\u062f\u064a\u0646", "lat": "29.95407", "lon": "56.77211", "region": "Kirman", "searchNames": "Firzin, Firdin", "topType": "villages", "topTypeAlt": "localite", "topURI": "FIRZIN_567E299N_S_KIRM", "translitTitle": "Firz\u012bn", "translitTitleOther": "Firz\u012bn, Fird\u012bn"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    56.77211,
+                    29.95407
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "29.95407",
+                    "coord_lon": "56.77211",
+                    "cornu_URI": "FIRZIN_567E299N_S_KIRM",
+                    "region_code": 12,
+                    "region_spelled": "Kirman",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "فرزين",
+                    "toponym_arabic_other": "فرزين، فردين",
+                    "toponym_buckwalter": "Firzin, Firdin",
+                    "toponym_search": "Firzin, Firdin",
+                    "toponym_translit": "Firzīn",
+                    "toponym_translit_other": "Firzīn, Firdīn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

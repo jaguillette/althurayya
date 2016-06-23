@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [46.73212, 24.64352], "type": "Point"}, "properties": {"arBW": "al-Hajr", "arTitle": "\ufb50\u0644\u062d\u062c\u0631", "arTitleOther": "\ufb50\u0644\u062d\u062c\u0631", "lat": "24.64352", "lon": "46.73212", "region": "Jazirat al-Arab", "searchNames": "al-Hajr", "topType": "capitals", "topTypeAlt": "capitale", "topURI": "HAJR_467E246N_S_JAZI", "translitTitle": "al-\u1e24a\u01e7r", "translitTitleOther": "al-\u1e24a\u01e7r"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    46.73212,
+                    24.64352
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "24.64352",
+                    "coord_lon": "46.73212",
+                    "cornu_URI": "HAJR_467E246N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "capitals",
+                    "top_type_orig": "capitale",
+                    "toponym_arabic": "ﭐلحجر",
+                    "toponym_arabic_other": "ﭐلحجر",
+                    "toponym_buckwalter": "al-Hajr",
+                    "toponym_search": "al-Hajr",
+                    "toponym_translit": "al-Ḥaǧr",
+                    "toponym_translit_other": "al-Ḥaǧr"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

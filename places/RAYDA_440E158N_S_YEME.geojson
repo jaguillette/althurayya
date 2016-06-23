@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [44.0447, 15.83194], "type": "Point"}, "properties": {"arBW": "al-Rayda", "arTitle": "\ufb50\u0644\u0631\u064a\u062f\u0629", "arTitleOther": "\ufb50\u0644\u0631\u064a\u062f\u0629", "lat": "15.83194", "lon": "44.04470", "region": "Yemen", "searchNames": "al-Rayda", "topType": "villages", "topTypeAlt": "localite", "topURI": "RAYDA_440E158N_S_YEME", "translitTitle": "al-Rayda\u0167", "translitTitleOther": "al-Rayda\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    44.0447,
+                    15.83194
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "15.83194",
+                    "coord_lon": "44.04470",
+                    "cornu_URI": "RAYDA_440E158N_S_YEME",
+                    "region_code": 21,
+                    "region_spelled": "Yemen",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "ﭐلريدة",
+                    "toponym_arabic_other": "ﭐلريدة",
+                    "toponym_buckwalter": "al-Rayda",
+                    "toponym_search": "al-Rayda",
+                    "toponym_translit": "al-Raydaŧ",
+                    "toponym_translit_other": "al-Raydaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

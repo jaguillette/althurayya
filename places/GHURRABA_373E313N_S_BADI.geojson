@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [37.34142, 31.36925], "type": "Point"}, "properties": {"arBW": "al-Ghurraba", "arTitle": "\ufb50\u0644\u063a\u0631\u0628\u0629", "arTitleOther": "\ufb50\u0644\u063a\u0631\u0628\u0629", "lat": "31.36925", "lon": "37.34142", "region": "Badiyat al-Arab", "searchNames": "al-Ghurraba", "topType": "towns", "topTypeAlt": "cite", "topURI": "GHURRABA_373E313N_S_BADI", "translitTitle": "al-\u0120urraba\u0167", "translitTitleOther": "al-\u0120urraba\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    37.34142,
+                    31.36925
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.36925",
+                    "coord_lon": "37.34142",
+                    "cornu_URI": "GHURRABA_373E313N_S_BADI",
+                    "region_code": 23,
+                    "region_spelled": "Badiyat al-Arab",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ﭐلغربة",
+                    "toponym_arabic_other": "ﭐلغربة",
+                    "toponym_buckwalter": "al-Ghurraba",
+                    "toponym_search": "al-Ghurraba",
+                    "toponym_translit": "al-Ġurrabaŧ",
+                    "toponym_translit_other": "al-Ġurrabaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

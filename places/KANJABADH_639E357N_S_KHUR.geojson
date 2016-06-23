@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [63.98233, 35.78873], "type": "Point"}, "properties": {"arBW": "Kanjabadh", "arTitle": "\u0643\u0646\u062c\u0627\u0628\u0627\u0630", "arTitleOther": "\u0643\u0646\u062c\u0627\u0628\u0627\u0630", "lat": "35.78873", "lon": "63.98233", "region": "Khurasan", "searchNames": "Kanjabadh", "topType": "waystations", "topTypeAlt": "etape", "topURI": "KANJABADH_639E357N_S_KHUR", "translitTitle": "Kan\u01e7\u0101b\u0101\u1e0f", "translitTitleOther": "Kan\u01e7\u0101b\u0101\u1e0f"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    63.98233,
+                    35.78873
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.78873",
+                    "coord_lon": "63.98233",
+                    "cornu_URI": "KANJABADH_639E357N_S_KHUR",
+                    "region_code": 10,
+                    "region_spelled": "Khurasan",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "كنجاباذ",
+                    "toponym_arabic_other": "كنجاباذ",
+                    "toponym_buckwalter": "Kanjabadh",
+                    "toponym_search": "Kanjabadh",
+                    "toponym_translit": "Kanǧābāḏ",
+                    "toponym_translit_other": "Kanǧābāḏ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

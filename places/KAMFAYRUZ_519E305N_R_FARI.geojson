@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [51.90116, 30.50943], "type": "Point"}, "properties": {"arBW": "Kam Fayruz", "arTitle": "\u0643\u0627\u0645 \u0641\u064a\u0631\u0648\u0632", "arTitleOther": "\u0643\u0627\u0645 \u0641\u064a\u0631\u0648\u0632", "lat": "30.50943", "lon": "51.90116", "region": "Faris", "searchNames": "Kam Fayruz", "topType": "regions", "topTypeAlt": "region", "topURI": "KAMFAYRUZ_519E305N_R_FARI", "translitTitle": "K\u0101m Fayr\u016bz", "translitTitleOther": "K\u0101m Fayr\u016bz"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    51.90116,
+                    30.50943
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.50943",
+                    "coord_lon": "51.90116",
+                    "cornu_URI": "KAMFAYRUZ_519E305N_R_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "كام فيروز",
+                    "toponym_arabic_other": "كام فيروز",
+                    "toponym_buckwalter": "Kam Fayruz",
+                    "toponym_search": "Kam Fayruz",
+                    "toponym_translit": "Kām Fayrūz",
+                    "toponym_translit_other": "Kām Fayrūz"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

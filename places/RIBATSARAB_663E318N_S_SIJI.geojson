@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [66.38343, 31.85842], "type": "Point"}, "properties": {"arBW": "Ribat Sarab", "arTitle": "\u0631\u0628\u0627\u0637 \u0633\u0631\u0627\u0628", "arTitleOther": "\u0631\u0628\u0627\u0637 \u0633\u0631\u0627\u0628", "lat": "31.85842", "lon": "66.38343", "region": "Sijistan", "searchNames": "Ribat Sarab", "topType": "waystations", "topTypeAlt": "ribat", "topURI": "RIBATSARAB_663E318N_S_SIJI", "translitTitle": "Rib\u0101\u1e6d Sar\u0101b", "translitTitleOther": "Rib\u0101\u1e6d Sar\u0101b"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    66.38343,
+                    31.85842
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.85842",
+                    "coord_lon": "66.38343",
+                    "cornu_URI": "RIBATSARAB_663E318N_S_SIJI",
+                    "region_code": 18,
+                    "region_spelled": "Sijistan",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "ribat",
+                    "toponym_arabic": "رباط سراب",
+                    "toponym_arabic_other": "رباط سراب",
+                    "toponym_buckwalter": "Ribat Sarab",
+                    "toponym_search": "Ribat Sarab",
+                    "toponym_translit": "Ribāṭ Sarāb",
+                    "toponym_translit_other": "Ribāṭ Sarāb"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

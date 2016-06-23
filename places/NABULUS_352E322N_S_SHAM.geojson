@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [35.24238, 32.22047], "type": "Point"}, "properties": {"arBW": "Nabulus", "arTitle": "\u0646\u0627\u0628\u0644\u0633", "arTitleOther": "\u0646\u0627\u0628\u0644\u0633", "lat": "32.22047", "lon": "35.24238", "region": "Sham", "searchNames": "Nabulus", "topType": "towns", "topTypeAlt": "cite", "topURI": "NABULUS_352E322N_S_SHAM", "translitTitle": "N\u0101bulus", "translitTitleOther": "N\u0101bulus"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    35.24238,
+                    32.22047
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.22047",
+                    "coord_lon": "35.24238",
+                    "cornu_URI": "NABULUS_352E322N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "نابلس",
+                    "toponym_arabic_other": "نابلس",
+                    "toponym_buckwalter": "Nabulus",
+                    "toponym_search": "Nabulus",
+                    "toponym_translit": "Nābulus",
+                    "toponym_translit_other": "Nābulus"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

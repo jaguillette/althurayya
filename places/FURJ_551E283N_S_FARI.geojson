@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [55.16805, 28.31921], "type": "Point"}, "properties": {"arBW": "Furj", "arTitle": "\u0641\u0631\u062c", "arTitleOther": "\u0641\u0631\u062c", "lat": "28.31921", "lon": "55.16805", "region": "Faris", "searchNames": "Furj", "topType": "towns", "topTypeAlt": "cite", "topURI": "FURJ_551E283N_S_FARI", "translitTitle": "Fur\u01e7", "translitTitleOther": "Fur\u01e7"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    55.16805,
+                    28.31921
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "28.31921",
+                    "coord_lon": "55.16805",
+                    "cornu_URI": "FURJ_551E283N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "فرج",
+                    "toponym_arabic_other": "فرج",
+                    "toponym_buckwalter": "Furj",
+                    "toponym_search": "Furj",
+                    "toponym_translit": "Furǧ",
+                    "toponym_translit_other": "Furǧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

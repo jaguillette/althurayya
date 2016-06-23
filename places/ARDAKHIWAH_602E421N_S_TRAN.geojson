@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [60.25053, 42.19314], "type": "Point"}, "properties": {"arBW": "Ardakhiwah", "arTitle": "\u0623\u0631\u062f\u062e\u064a\u0648\u0647", "arTitleOther": "\u0623\u0631\u062f\u062e\u064a\u0648\u0647", "lat": "42.19314", "lon": "60.25053", "region": "Transoxiana", "searchNames": "Ardakhiwah", "topType": "towns", "topTypeAlt": "cite", "topURI": "ARDAKHIWAH_602E421N_S_TRAN", "translitTitle": "Arda\u1e2b\u012bwah", "translitTitleOther": "Arda\u1e2b\u012bwah"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    60.25053,
+                    42.19314
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "42.19314",
+                    "coord_lon": "60.25053",
+                    "cornu_URI": "ARDAKHIWAH_602E421N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "أردخيوه",
+                    "toponym_arabic_other": "أردخيوه",
+                    "toponym_buckwalter": "Ardakhiwah",
+                    "toponym_search": "Ardakhiwah",
+                    "toponym_translit": "Ardaḫīwah",
+                    "toponym_translit_other": "Ardaḫīwah"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

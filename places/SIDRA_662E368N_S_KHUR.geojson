@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [66.21231, 36.8377], "type": "Point"}, "properties": {"arBW": "al-Sidra", "arTitle": "\ufb50\u0644\u0633\u062f\u0631\u0629", "arTitleOther": "\ufb50\u0644\u0633\u062f\u0631\u0629", "lat": "36.83770", "lon": "66.21231", "region": "Khurasan", "searchNames": "al-Sidra", "topType": "waystations", "topTypeAlt": "etape", "topURI": "SIDRA_662E368N_S_KHUR", "translitTitle": "al-Sidra\u0167", "translitTitleOther": "al-Sidra\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    66.21231,
+                    36.8377
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.83770",
+                    "coord_lon": "66.21231",
+                    "cornu_URI": "SIDRA_662E368N_S_KHUR",
+                    "region_code": 10,
+                    "region_spelled": "Khurasan",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "ﭐلسدرة",
+                    "toponym_arabic_other": "ﭐلسدرة",
+                    "toponym_buckwalter": "al-Sidra",
+                    "toponym_search": "al-Sidra",
+                    "toponym_translit": "al-Sidraŧ",
+                    "toponym_translit_other": "al-Sidraŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

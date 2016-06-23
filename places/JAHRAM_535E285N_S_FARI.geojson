@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [53.51012, 28.51826], "type": "Point"}, "properties": {"arBW": "Jahram", "arTitle": "\u062c\u0647\u0631\u0645", "arTitleOther": "\u062c\u0647\u0631\u0645", "lat": "28.51826", "lon": "53.51012", "region": "Faris", "searchNames": "Jahram", "topType": "towns", "topTypeAlt": "cite", "topURI": "JAHRAM_535E285N_S_FARI", "translitTitle": "\u01e6ahram", "translitTitleOther": "\u01e6ahram"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    53.51012,
+                    28.51826
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "28.51826",
+                    "coord_lon": "53.51012",
+                    "cornu_URI": "JAHRAM_535E285N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "جهرم",
+                    "toponym_arabic_other": "جهرم",
+                    "toponym_buckwalter": "Jahram",
+                    "toponym_search": "Jahram",
+                    "toponym_translit": "Ǧahram",
+                    "toponym_translit_other": "Ǧahram"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [51.9324, 30.69092], "type": "Point"}, "properties": {"arBW": "Kurd, Kurad", "arTitle": "\u0643\u0648\u0631\u062f", "arTitleOther": "\u0643\u0648\u0631\u062f\u060c \u0643\u0648\u0631\u062f", "lat": "30.69092", "lon": "51.93240", "region": "Faris", "searchNames": "Kurd, Kurad", "topType": "waystations", "topTypeAlt": "etape", "topURI": "KURD_519E306N_S_FARI", "translitTitle": "K\u016brd", "translitTitleOther": "K\u016brd, K\u016brad"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    51.9324,
+                    30.69092
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.69092",
+                    "coord_lon": "51.93240",
+                    "cornu_URI": "KURD_519E306N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "كورد",
+                    "toponym_arabic_other": "كورد، كورد",
+                    "toponym_buckwalter": "Kurd, Kurad",
+                    "toponym_search": "Kurd, Kurad",
+                    "toponym_translit": "Kūrd",
+                    "toponym_translit_other": "Kūrd, Kūrad"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

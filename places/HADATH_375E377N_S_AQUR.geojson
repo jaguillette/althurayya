@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [37.52545, 37.73001], "type": "Point"}, "properties": {"arBW": "al-Hadath", "arTitle": "\ufb50\u0644\u062d\u062f\u062b", "arTitleOther": "\ufb50\u0644\u062d\u062f\u062b", "lat": "37.73001", "lon": "37.52545", "region": "Aqur", "searchNames": "al-Hadath", "topType": "towns", "topTypeAlt": "cite", "topURI": "HADATH_375E377N_S_AQUR", "translitTitle": "al-\u1e24ada\u1e6f", "translitTitleOther": "al-\u1e24ada\u1e6f"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    37.52545,
+                    37.73001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.73001",
+                    "coord_lon": "37.52545",
+                    "cornu_URI": "HADATH_375E377N_S_AQUR",
+                    "region_code": 2,
+                    "region_spelled": "Aqur",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ﭐلحدث",
+                    "toponym_arabic_other": "ﭐلحدث",
+                    "toponym_buckwalter": "al-Hadath",
+                    "toponym_search": "al-Hadath",
+                    "toponym_translit": "al-Ḥadaṯ",
+                    "toponym_translit_other": "al-Ḥadaṯ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

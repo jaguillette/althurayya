@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [20.24835, 31.4018], "type": "Point"}, "properties": {"arBW": "Suluq", "arTitle": "\u0633\u0644\u0648\u0642", "arTitleOther": "\u0633\u0644\u0648\u0642", "lat": "31.40180", "lon": "20.24835", "region": "Barqa", "searchNames": "Suluq", "topType": "waystations", "topTypeAlt": "etape", "topURI": "SULUQ_202E314N_S_BARQ", "translitTitle": "Sul\u016bq", "translitTitleOther": "Sul\u016bq"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    20.24835,
+                    31.4018
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.40180",
+                    "coord_lon": "20.24835",
+                    "cornu_URI": "SULUQ_202E314N_S_BARQ",
+                    "region_code": 3,
+                    "region_spelled": "Barqa",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "سلوق",
+                    "toponym_arabic_other": "سلوق",
+                    "toponym_buckwalter": "Suluq",
+                    "toponym_search": "Suluq",
+                    "toponym_translit": "Sulūq",
+                    "toponym_translit_other": "Sulūq"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

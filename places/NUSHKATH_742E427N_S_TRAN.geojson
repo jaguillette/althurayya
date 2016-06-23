@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [74.26008, 42.77832], "type": "Point"}, "properties": {"arBW": "Nushkath, Nuzkath", "arTitle": "\u0646\u0648\u0634\u0643\u062b", "arTitleOther": "\u0646\u0648\u0634\u0643\u062b\u060c \u0646\u0648\u0632\u0643\u062b", "lat": "42.77832", "lon": "74.26008", "region": "Transoxiana", "searchNames": "Nushkath, Nuzkath", "topType": "towns", "topTypeAlt": "cite", "topURI": "NUSHKATH_742E427N_S_TRAN", "translitTitle": "N\u016b\u0161ka\u1e6f", "translitTitleOther": "N\u016b\u0161ka\u1e6f, N\u016bzka\u1e6f"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    74.26008,
+                    42.77832
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "42.77832",
+                    "coord_lon": "74.26008",
+                    "cornu_URI": "NUSHKATH_742E427N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "نوشكث",
+                    "toponym_arabic_other": "نوشكث، نوزكث",
+                    "toponym_buckwalter": "Nushkath, Nuzkath",
+                    "toponym_search": "Nushkath, Nuzkath",
+                    "toponym_translit": "Nūškaṯ",
+                    "toponym_translit_other": "Nūškaṯ, Nūzkaṯ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

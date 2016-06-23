@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [54.07735, 28.88371], "type": "Point"}, "properties": {"arBW": "al-Fustujan, al-Fustukan, al-Bustajan", "arTitle": "\ufb50\u0644\u0641\u0633\u062a\u062c\u0627\u0646", "arTitleOther": "\ufb50\u0644\u0641\u0633\u062a\u062c\u0627\u0646\u060c \ufb50\u0644\u0641\u0633\u062a\u0643\u0627\u0646\u060c \ufb50\u0644\u0628\u0633\u062a\u062c\u0627\u0646", "lat": "28.88371", "lon": "54.07735", "region": "Faris", "searchNames": "al-Fustujan, al-Fustukan, al-Bustajan", "topType": "towns", "topTypeAlt": "canton/cite", "topURI": "FUSTUJAN_540E288N_S_FARI", "translitTitle": "al-Fustu\u01e7\u0101n", "translitTitleOther": "al-Fustu\u01e7\u0101n, al-Fustuk\u0101n, al-Busta\u01e7\u0101n"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    54.07735,
+                    28.88371
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "28.88371",
+                    "coord_lon": "54.07735",
+                    "cornu_URI": "FUSTUJAN_540E288N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "canton/cite",
+                    "toponym_arabic": "ﭐلفستجان",
+                    "toponym_arabic_other": "ﭐلفستجان، ﭐلفستكان، ﭐلبستجان",
+                    "toponym_buckwalter": "al-Fustujan, al-Fustukan, al-Bustajan",
+                    "toponym_search": "al-Fustujan, al-Fustukan, al-Bustajan",
+                    "toponym_translit": "al-Fustuǧān",
+                    "toponym_translit_other": "al-Fustuǧān, al-Fustukān, al-Bustaǧān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

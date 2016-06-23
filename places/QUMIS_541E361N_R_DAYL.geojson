@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [54.13205, 36.11206], "type": "Point"}, "properties": {"arBW": "Qumis", "arTitle": "\u0642\u0648\u0645\u0633", "arTitleOther": "\u0642\u0648\u0645\u0633", "lat": "36.11206", "lon": "54.13205", "region": "Daylam", "searchNames": "Qumis", "topType": "regions", "topTypeAlt": "region", "topURI": "QUMIS_541E361N_R_DAYL", "translitTitle": "Q\u016bmis", "translitTitleOther": "Q\u016bmis"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    54.13205,
+                    36.11206
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.11206",
+                    "coord_lon": "54.13205",
+                    "cornu_URI": "QUMIS_541E361N_R_DAYL",
+                    "region_code": 4,
+                    "region_spelled": "Daylam",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "قومس",
+                    "toponym_arabic_other": "قومس",
+                    "toponym_buckwalter": "Qumis",
+                    "toponym_search": "Qumis",
+                    "toponym_translit": "Qūmis",
+                    "toponym_translit_other": "Qūmis"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

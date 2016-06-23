@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [35.5091, 33.90162], "type": "Point"}, "properties": {"arBW": "Bayrut", "arTitle": "\u0628\u064a\u0631\u0648\u062a", "arTitleOther": "\u0628\u064a\u0631\u0648\u062a", "lat": "33.90162", "lon": "35.50910", "region": "Sham", "searchNames": "Bayrut", "topType": "towns", "topTypeAlt": "cite", "topURI": "BAYRUT_355E339N_S_SHAM", "translitTitle": "Bayr\u016bt", "translitTitleOther": "Bayr\u016bt"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    35.5091,
+                    33.90162
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.90162",
+                    "coord_lon": "35.50910",
+                    "cornu_URI": "BAYRUT_355E339N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "بيروت",
+                    "toponym_arabic_other": "بيروت",
+                    "toponym_buckwalter": "Bayrut",
+                    "toponym_search": "Bayrut",
+                    "toponym_translit": "Bayrūt",
+                    "toponym_translit_other": "Bayrūt"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

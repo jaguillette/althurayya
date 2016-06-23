@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [40.33707, 20.18053], "type": "Point"}, "properties": {"arBW": "al-Lith", "arTitle": "\ufb50\u0644\u0644\u064a\u062b", "arTitleOther": "\ufb50\u0644\u0644\u064a\u062b", "lat": "20.18053", "lon": "40.33707", "region": "Jazirat al-Arab", "searchNames": "al-Lith", "topType": "waystations", "topTypeAlt": "etape", "topURI": "LITH_403E201N_S_JAZI", "translitTitle": "al-L\u012b\u1e6f", "translitTitleOther": "al-L\u012b\u1e6f"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    40.33707,
+                    20.18053
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "20.18053",
+                    "coord_lon": "40.33707",
+                    "cornu_URI": "LITH_403E201N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "ﭐلليث",
+                    "toponym_arabic_other": "ﭐلليث",
+                    "toponym_buckwalter": "al-Lith",
+                    "toponym_search": "al-Lith",
+                    "toponym_translit": "al-Līṯ",
+                    "toponym_translit_other": "al-Līṯ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

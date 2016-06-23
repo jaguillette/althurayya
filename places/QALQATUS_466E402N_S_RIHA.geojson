@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [46.6459, 40.20714], "type": "Point"}, "properties": {"arBW": "Qalqatus", "arTitle": "\u0642\u0644\u0642\u0627\u0637\u0648\u0633", "arTitleOther": "\u0642\u0644\u0642\u0627\u0637\u0648\u0633", "lat": "40.20714", "lon": "46.64590", "region": "Rihab", "searchNames": "Qalqatus", "topType": "villages", "topTypeAlt": "localite", "topURI": "QALQATUS_466E402N_S_RIHA", "translitTitle": "Qalq\u0101\u1e6d\u016bs", "translitTitleOther": "Qalq\u0101\u1e6d\u016bs"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    46.6459,
+                    40.20714
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "40.20714",
+                    "coord_lon": "46.64590",
+                    "cornu_URI": "QALQATUS_466E402N_S_RIHA",
+                    "region_code": 15,
+                    "region_spelled": "Rihab",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "قلقاطوس",
+                    "toponym_arabic_other": "قلقاطوس",
+                    "toponym_buckwalter": "Qalqatus",
+                    "toponym_search": "Qalqatus",
+                    "toponym_translit": "Qalqāṭūs",
+                    "toponym_translit_other": "Qalqāṭūs"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

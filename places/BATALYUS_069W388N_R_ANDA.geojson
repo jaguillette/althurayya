@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [-6.99606, 38.835], "type": "Point"}, "properties": {"arBW": "Batalyus, Batalyuth", "arTitle": "\u0628\u0637\u0644\u064a\u0648\u0633", "arTitleOther": "\u0628\u0637\u0644\u064a\u0648\u0633\u060c \u0628\u0637\u0644\u064a\u0648\u062b", "lat": "38.83500", "lon": "-6.99606", "region": "Andalus", "searchNames": "Batalyus, Batalyuth", "topType": "regions", "topTypeAlt": "region", "topURI": "BATALYUS_069W388N_R_ANDA", "translitTitle": "Ba\u1e6daly\u016bs", "translitTitleOther": "Ba\u1e6daly\u016bs, Ba\u1e6daly\u016b\u1e6f"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -6.99606,
+                    38.835
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "38.83500",
+                    "coord_lon": "-6.99606",
+                    "cornu_URI": "BATALYUS_069W388N_R_ANDA",
+                    "region_code": 1,
+                    "region_spelled": "Andalus",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "بطليوس",
+                    "toponym_arabic_other": "بطليوس، بطليوث",
+                    "toponym_buckwalter": "Batalyus, Batalyuth",
+                    "toponym_search": "Batalyus, Batalyuth",
+                    "toponym_translit": "Baṭalyūs",
+                    "toponym_translit_other": "Baṭalyūs, Baṭalyūṯ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

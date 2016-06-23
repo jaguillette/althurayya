@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [2.25421, 36.541], "type": "Point"}, "properties": {"arBW": "Ashrashal", "arTitle": "\u0623\u0634\u0631\u0634\u0627\u0644", "arTitleOther": "\u0623\u0634\u0631\u0634\u0627\u0644", "lat": "36.54100", "lon": "2.25421", "region": "Maghrib", "searchNames": "Ashrashal", "topType": "towns", "topTypeAlt": "cite/port", "topURI": "ASHRASHAL_022E365N_S_MAGH", "translitTitle": "A\u0161ra\u0161\u0101l", "translitTitleOther": "A\u0161ra\u0161\u0101l"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    2.25421,
+                    36.541
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.54100",
+                    "coord_lon": "2.25421",
+                    "cornu_URI": "ASHRASHAL_022E365N_S_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite/port",
+                    "toponym_arabic": "أشرشال",
+                    "toponym_arabic_other": "أشرشال",
+                    "toponym_buckwalter": "Ashrashal",
+                    "toponym_search": "Ashrashal",
+                    "toponym_translit": "Ašrašāl",
+                    "toponym_translit_other": "Ašrašāl"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

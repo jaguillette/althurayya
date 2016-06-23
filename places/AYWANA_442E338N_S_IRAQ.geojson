@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [44.26367, 33.81321], "type": "Point"}, "properties": {"arBW": "Aywana, Awana, Uwana", "arTitle": "\u0623\u064a\u0648\u0627\u0646\u0629", "arTitleOther": "\u0623\u064a\u0648\u0627\u0646\u0629\u060c \u0623\u0648\u0627\u0646\u0629\u060c \u0623\u0648\u0627\u0646\u0629", "lat": "33.81321", "lon": "44.26367", "region": "Iraq", "searchNames": "Aywana, Awana, Uwana", "topType": "towns", "topTypeAlt": "cite", "topURI": "AYWANA_442E338N_S_IRAQ", "translitTitle": "Ayw\u0101na\u0167", "translitTitleOther": "Ayw\u0101na\u0167, Aw\u0101na\u0167, Uw\u0101na\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    44.26367,
+                    33.81321
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.81321",
+                    "coord_lon": "44.26367",
+                    "cornu_URI": "AYWANA_442E338N_S_IRAQ",
+                    "region_code": 7,
+                    "region_spelled": "Iraq",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "أيوانة",
+                    "toponym_arabic_other": "أيوانة، أوانة، أوانة",
+                    "toponym_buckwalter": "Aywana, Awana, Uwana",
+                    "toponym_search": "Aywana, Awana, Uwana",
+                    "toponym_translit": "Aywānaŧ",
+                    "toponym_translit_other": "Aywānaŧ, Awānaŧ, Uwānaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

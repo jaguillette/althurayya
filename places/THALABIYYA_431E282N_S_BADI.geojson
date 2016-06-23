@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [43.16528, 28.29472], "type": "Point"}, "properties": {"arBW": "al-Thalabiyya", "arTitle": "\ufb50\u0644\u062b\u0639\u0644\u0628\u064a\u0629", "arTitleOther": "\ufb50\u0644\u062b\u0639\u0644\u0628\u064a\u0629", "lat": "28.29472", "lon": "43.16528", "region": "Badiyat al-Arab", "searchNames": "al-Thalabiyya", "topType": "waystations", "topTypeAlt": "forteresse", "topURI": "THALABIYYA_431E282N_S_BADI", "translitTitle": "al-\u1e6ea\u02bflabiyya\u0167", "translitTitleOther": "al-\u1e6ea\u02bflabiyya\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    43.16528,
+                    28.29472
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "28.29472",
+                    "coord_lon": "43.16528",
+                    "cornu_URI": "THALABIYYA_431E282N_S_BADI",
+                    "region_code": 23,
+                    "region_spelled": "Badiyat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "forteresse",
+                    "toponym_arabic": "ﭐلثعلبية",
+                    "toponym_arabic_other": "ﭐلثعلبية",
+                    "toponym_buckwalter": "al-Thalabiyya",
+                    "toponym_search": "al-Thalabiyya",
+                    "toponym_translit": "al-Ṯaʿlabiyyaŧ",
+                    "toponym_translit_other": "al-Ṯaʿlabiyyaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [44.11406, 15.70742], "type": "Point"}, "properties": {"arBW": "Bawshan", "arTitle": "\u0628\u0648\u0634\u0627\u0646", "arTitleOther": "\u0628\u0648\u0634\u0627\u0646", "lat": "15.70742", "lon": "44.11406", "region": "Yemen", "searchNames": "Bawshan", "topType": "regions", "topTypeAlt": "region", "topURI": "BAWSHAN_441E157N_R_YEME", "translitTitle": "Baw\u0161\u0101n", "translitTitleOther": "Baw\u0161\u0101n"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    44.11406,
+                    15.70742
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "15.70742",
+                    "coord_lon": "44.11406",
+                    "cornu_URI": "BAWSHAN_441E157N_R_YEME",
+                    "region_code": 21,
+                    "region_spelled": "Yemen",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "بوشان",
+                    "toponym_arabic_other": "بوشان",
+                    "toponym_buckwalter": "Bawshan",
+                    "toponym_search": "Bawshan",
+                    "toponym_translit": "Bawšān",
+                    "toponym_translit_other": "Bawšān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

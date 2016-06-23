@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [55.05872, 30.13418], "type": "Point"}, "properties": {"arBW": "Shababak, Shabawak, Shahrbabak", "arTitle": "\u0634\u0627\u0628\u0627\u0628\u0643", "arTitleOther": "\u0634\u0627\u0628\u0627\u0628\u0643\u060c \u0634\u0627\u0628\u0627\u0648\u0643\u060c \u0634\u0647\u0631\u0628\u0627\u0628\u0627\u0643", "lat": "30.13418", "lon": "55.05872", "region": "Faris", "searchNames": "Shababak, Shabawak, Shahrbabak", "topType": "towns", "topTypeAlt": "cite", "topURI": "SHABABAK_550E301N_S_FARI", "translitTitle": "\u0160\u0101b\u0101bak", "translitTitleOther": "\u0160\u0101b\u0101bak, \u0160\u0101b\u0101wak, \u0160ahrb\u0101b\u0101k"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    55.05872,
+                    30.13418
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.13418",
+                    "coord_lon": "55.05872",
+                    "cornu_URI": "SHABABAK_550E301N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "شابابك",
+                    "toponym_arabic_other": "شابابك، شاباوك، شهرباباك",
+                    "toponym_buckwalter": "Shababak, Shabawak, Shahrbabak",
+                    "toponym_search": "Shababak, Shabawak, Shahrbabak",
+                    "toponym_translit": "Šābābak",
+                    "toponym_translit_other": "Šābābak, Šābāwak, Šahrbābāk"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

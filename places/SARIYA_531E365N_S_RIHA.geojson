@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [53.11807, 36.53215], "type": "Point"}, "properties": {"arBW": "Sariya", "arTitle": "\u0633\u0627\u0631\u064a\u0629", "arTitleOther": "\u0633\u0627\u0631\u064a\u0629", "lat": "36.53215", "lon": "53.11807", "region": "Rihab", "searchNames": "Sariya", "topType": "towns", "topTypeAlt": "cite", "topURI": "SARIYA_531E365N_S_RIHA", "translitTitle": "S\u0101riya\u0167", "translitTitleOther": "S\u0101riya\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    53.11807,
+                    36.53215
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.53215",
+                    "coord_lon": "53.11807",
+                    "cornu_URI": "SARIYA_531E365N_S_RIHA",
+                    "region_code": 15,
+                    "region_spelled": "Rihab",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "سارية",
+                    "toponym_arabic_other": "سارية",
+                    "toponym_buckwalter": "Sariya",
+                    "toponym_search": "Sariya",
+                    "toponym_translit": "Sāriyaŧ",
+                    "toponym_translit_other": "Sāriyaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

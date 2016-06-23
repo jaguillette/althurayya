@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [44.07861, 25.98495], "type": "Point"}, "properties": {"arBW": "al-Awsaja", "arTitle": "\ufb50\u0644\u0639\u0648\u0633\u062c\u0629", "arTitleOther": "\ufb50\u0644\u0639\u0648\u0633\u062c\u0629", "lat": "25.98495", "lon": "44.07861", "region": "Jazirat al-Arab", "searchNames": "al-Awsaja", "topType": "waystations", "topTypeAlt": "etape", "topURI": "AWSAJA_440E259N_S_JAZI", "translitTitle": "al-\u02bfAwsa\u01e7a\u0167", "translitTitleOther": "al-\u02bfAwsa\u01e7a\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    44.07861,
+                    25.98495
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "25.98495",
+                    "coord_lon": "44.07861",
+                    "cornu_URI": "AWSAJA_440E259N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "ﭐلعوسجة",
+                    "toponym_arabic_other": "ﭐلعوسجة",
+                    "toponym_buckwalter": "al-Awsaja",
+                    "toponym_search": "al-Awsaja",
+                    "toponym_translit": "al-ʿAwsaǧaŧ",
+                    "toponym_translit_other": "al-ʿAwsaǧaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

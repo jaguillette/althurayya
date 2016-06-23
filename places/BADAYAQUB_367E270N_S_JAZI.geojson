@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [36.74694, 27.03413], "type": "Point"}, "properties": {"arBW": "Bada Yaqub", "arTitle": "\u0628\u062f\u0627\u0621 \u064a\u0639\u0642\u0648\u0628", "arTitleOther": "\u0628\u062f\u0627\u0621 \u064a\u0639\u0642\u0648\u0628", "lat": "27.03413", "lon": "36.74694", "region": "Jazirat al-Arab", "searchNames": "Bada Yaqub", "topType": "waystations", "topTypeAlt": "etape", "topURI": "BADAYAQUB_367E270N_S_JAZI", "translitTitle": "Bad\u0101\u02be Ya\u02bfq\u016bb", "translitTitleOther": "Bad\u0101\u02be Ya\u02bfq\u016bb"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    36.74694,
+                    27.03413
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "27.03413",
+                    "coord_lon": "36.74694",
+                    "cornu_URI": "BADAYAQUB_367E270N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "بداء يعقوب",
+                    "toponym_arabic_other": "بداء يعقوب",
+                    "toponym_buckwalter": "Bada Yaqub",
+                    "toponym_search": "Bada Yaqub",
+                    "toponym_translit": "Badāʾ Yaʿqūb",
+                    "toponym_translit_other": "Badāʾ Yaʿqūb"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

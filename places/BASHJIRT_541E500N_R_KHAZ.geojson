@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [54.16457, 50.04287], "type": "Point"}, "properties": {"arBW": "Bashjirt, Basjird", "arTitle": "\u0628\u0634\u062c\u0631\u062a", "arTitleOther": "\u0628\u0634\u062c\u0631\u062a\u060c \u0628\u0633\u062c\u0631\u062f", "lat": "50.04287", "lon": "54.16457", "region": "Khazar", "searchNames": "Bashjirt, Basjird", "topType": "regions", "topTypeAlt": "region", "topURI": "BASHJIRT_541E500N_R_KHAZ", "translitTitle": "Ba\u0161\u01e7irt", "translitTitleOther": "Ba\u0161\u01e7irt, Bas\u01e7ird"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    54.16457,
+                    50.04287
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "50.04287",
+                    "coord_lon": "54.16457",
+                    "cornu_URI": "BASHJIRT_541E500N_R_KHAZ",
+                    "region_code": 9,
+                    "region_spelled": "Khazar",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "بشجرت",
+                    "toponym_arabic_other": "بشجرت، بسجرد",
+                    "toponym_buckwalter": "Bashjirt, Basjird",
+                    "toponym_search": "Bashjirt, Basjird",
+                    "toponym_translit": "Bašǧirt",
+                    "toponym_translit_other": "Bašǧirt, Basǧird"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

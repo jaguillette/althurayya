@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [51.21056, 32.01123], "type": "Point"}, "properties": {"arBW": "Ribat Barakan", "arTitle": "\u0631\u0628\u0627\u0637 \u0628\u0627\u0631\u0643\u0627\u0646", "arTitleOther": "\u0631\u0628\u0627\u0637 \u0628\u0627\u0631\u0643\u0627\u0646", "lat": "32.01123", "lon": "51.21056", "region": "Khuzistan", "searchNames": "Ribat Barakan", "topType": "waystations", "topTypeAlt": "etape", "topURI": "RIBATBARAKAN_512E320N_S_KHUZ", "translitTitle": "Rib\u0101\u1e6d B\u0101rak\u0101n", "translitTitleOther": "Rib\u0101\u1e6d B\u0101rak\u0101n"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    51.21056,
+                    32.01123
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.01123",
+                    "coord_lon": "51.21056",
+                    "cornu_URI": "RIBATBARAKAN_512E320N_S_KHUZ",
+                    "region_code": 11,
+                    "region_spelled": "Khuzistan",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "رباط باركان",
+                    "toponym_arabic_other": "رباط باركان",
+                    "toponym_buckwalter": "Ribat Barakan",
+                    "toponym_search": "Ribat Barakan",
+                    "toponym_translit": "Ribāṭ Bārakān",
+                    "toponym_translit_other": "Ribāṭ Bārakān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

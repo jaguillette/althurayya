@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [-4.02927, 34.22102], "type": "Point"}, "properties": {"arBW": "Tiza, Taza", "arTitle": "\u062a\u064a\u0632\u0627", "arTitleOther": "\u062a\u064a\u0632\u0627\u060c \u062a\u0627\u0632\u0629", "lat": "34.22102", "lon": "-4.02927", "region": "Maghrib", "searchNames": "Tiza, Taza", "topType": "towns", "topTypeAlt": "cite", "topURI": "TIZA_040W342N_S_MAGH", "translitTitle": "T\u012bz\u0101", "translitTitleOther": "T\u012bz\u0101, T\u0101za\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -4.02927,
+                    34.22102
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.22102",
+                    "coord_lon": "-4.02927",
+                    "cornu_URI": "TIZA_040W342N_S_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "تيزا",
+                    "toponym_arabic_other": "تيزا، تازة",
+                    "toponym_buckwalter": "Tiza, Taza",
+                    "toponym_search": "Tiza, Taza",
+                    "toponym_translit": "Tīzā",
+                    "toponym_translit_other": "Tīzā, Tāzaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

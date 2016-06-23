@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [49.97179, 30.77763], "type": "Point"}, "properties": {"arBW": "Dahlizan", "arTitle": "\u062f\u0647\u0644\u064a\u0632\u0627\u0646", "arTitleOther": "\u062f\u0647\u0644\u064a\u0632\u0627\u0646", "lat": "30.77763", "lon": "49.97179", "region": "Khuzistan", "searchNames": "Dahlizan", "topType": "waystations", "topTypeAlt": "etape", "topURI": "DAHLIZAN_499E307N_S_KHUZ", "translitTitle": "Dahl\u012bz\u0101n", "translitTitleOther": "Dahl\u012bz\u0101n"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    49.97179,
+                    30.77763
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.77763",
+                    "coord_lon": "49.97179",
+                    "cornu_URI": "DAHLIZAN_499E307N_S_KHUZ",
+                    "region_code": 11,
+                    "region_spelled": "Khuzistan",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "دهليزان",
+                    "toponym_arabic_other": "دهليزان",
+                    "toponym_buckwalter": "Dahlizan",
+                    "toponym_search": "Dahlizan",
+                    "toponym_translit": "Dahlīzān",
+                    "toponym_translit_other": "Dahlīzān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

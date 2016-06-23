@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [61.91899, 30.99252], "type": "Point"}, "properties": {"arBW": "Zanbuq, Zanbuk", "arTitle": "\u0632\u0627\u0646\u0628\u0648\u0642", "arTitleOther": "\u0632\u0627\u0646\u0628\u0648\u0642\u060c \u0632\u0627\u0646\u0628\u0648\u0643", "lat": "30.99252", "lon": "61.91899", "region": "Sijistan", "searchNames": "Zanbuq, Zanbuk", "topType": "towns", "topTypeAlt": "cite", "topURI": "ZANBUQ_619E309N_S_SIJI", "translitTitle": "Z\u0101nb\u016bq", "translitTitleOther": "Z\u0101nb\u016bq, Z\u0101nb\u016bk"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    61.91899,
+                    30.99252
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.99252",
+                    "coord_lon": "61.91899",
+                    "cornu_URI": "ZANBUQ_619E309N_S_SIJI",
+                    "region_code": 18,
+                    "region_spelled": "Sijistan",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "زانبوق",
+                    "toponym_arabic_other": "زانبوق، زانبوك",
+                    "toponym_buckwalter": "Zanbuq, Zanbuk",
+                    "toponym_search": "Zanbuq, Zanbuk",
+                    "toponym_translit": "Zānbūq",
+                    "toponym_translit_other": "Zānbūq, Zānbūk"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

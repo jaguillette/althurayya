@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [-8.8413, 30.50052], "type": "Point"}, "properties": {"arBW": "Tarqala", "arTitle": "\u062a\u0631\u0642\u0627\u0644\u0629", "arTitleOther": "\u062a\u0631\u0642\u0627\u0644\u0629", "lat": "30.50052", "lon": "-8.84130", "region": "Maghrib", "searchNames": "Tarqala", "topType": "capitals", "topTypeAlt": "capitale", "topURI": "TARQALA_088W305N_S_MAGH", "translitTitle": "Tarq\u0101la\u0167", "translitTitleOther": "Tarq\u0101la\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.8413,
+                    30.50052
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.50052",
+                    "coord_lon": "-8.84130",
+                    "cornu_URI": "TARQALA_088W305N_S_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "capitals",
+                    "top_type_orig": "capitale",
+                    "toponym_arabic": "ترقالة",
+                    "toponym_arabic_other": "ترقالة",
+                    "toponym_buckwalter": "Tarqala",
+                    "toponym_search": "Tarqala",
+                    "toponym_translit": "Tarqālaŧ",
+                    "toponym_translit_other": "Tarqālaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

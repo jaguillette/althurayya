@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [68.72725, 37.70584], "type": "Point"}, "properties": {"arBW": "Wakhsh", "arTitle": "\u0648\u062e\u0634", "arTitleOther": "\u0648\u062e\u0634", "lat": "37.70584", "lon": "68.72725", "region": "Transoxiana", "searchNames": "Wakhsh", "topType": "regions", "topTypeAlt": "region", "topURI": "WAKHSH_687E377N_R_TRAN", "translitTitle": "Wa\u1e2b\u0161", "translitTitleOther": "Wa\u1e2b\u0161"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    68.72725,
+                    37.70584
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.70584",
+                    "coord_lon": "68.72725",
+                    "cornu_URI": "WAKHSH_687E377N_R_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "وخش",
+                    "toponym_arabic_other": "وخش",
+                    "toponym_buckwalter": "Wakhsh",
+                    "toponym_search": "Wakhsh",
+                    "toponym_translit": "Waḫš",
+                    "toponym_translit_other": "Waḫš"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [40.56368, 34.92311], "type": "Point"}, "properties": {"arBW": "al-Fash", "arTitle": "\ufb50\u0644\u0641\u0627\u0634", "arTitleOther": "\ufb50\u0644\u0641\u0627\u0634", "lat": "34.92311", "lon": "40.56368", "region": "Aqur", "searchNames": "al-Fash", "topType": "waystations", "topTypeAlt": "etape", "topURI": "FASH_405E349N_S_AQUR", "translitTitle": "al-F\u0101\u0161", "translitTitleOther": "al-F\u0101\u0161"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    40.56368,
+                    34.92311
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.92311",
+                    "coord_lon": "40.56368",
+                    "cornu_URI": "FASH_405E349N_S_AQUR",
+                    "region_code": 2,
+                    "region_spelled": "Aqur",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "ﭐلفاش",
+                    "toponym_arabic_other": "ﭐلفاش",
+                    "toponym_buckwalter": "al-Fash",
+                    "toponym_search": "al-Fash",
+                    "toponym_translit": "al-Fāš",
+                    "toponym_translit_other": "al-Fāš"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

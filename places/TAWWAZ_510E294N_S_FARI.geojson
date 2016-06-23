@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [51.03513, 29.44172], "type": "Point"}, "properties": {"arBW": "Tawwaz, Tawwaj !", "arTitle": "\u062a\u0648\u0632", "arTitleOther": "\u062a\u0648\u0632\u060c \u062a\u0648\u062c !", "lat": "29.44172", "lon": "51.03513", "region": "Faris", "searchNames": "Tawwaz, Tawwaj !", "topType": "towns", "topTypeAlt": "cite", "topURI": "TAWWAZ_510E294N_S_FARI", "translitTitle": "Tawwaz", "translitTitleOther": "Tawwaz, Tawwa\u01e7 !"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    51.03513,
+                    29.44172
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "29.44172",
+                    "coord_lon": "51.03513",
+                    "cornu_URI": "TAWWAZ_510E294N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "توز",
+                    "toponym_arabic_other": "توز، توج !",
+                    "toponym_buckwalter": "Tawwaz, Tawwaj !",
+                    "toponym_search": "Tawwaz, Tawwaj !",
+                    "toponym_translit": "Tawwaz",
+                    "toponym_translit_other": "Tawwaz, Tawwaǧ !"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [39.23589, 24.01966], "type": "Point"}, "properties": {"arBW": "Ruwaytha", "arTitle": "\u0631\u0648\u064a\u062b\u0629", "arTitleOther": "\u0631\u0648\u064a\u062b\u0629", "lat": "24.01966", "lon": "39.23589", "region": "Jazirat al-Arab", "searchNames": "Ruwaytha", "topType": "waystations", "topTypeAlt": "etape", "topURI": "RUWAYTHA_392E240N_S_JAZI", "translitTitle": "Ruway\u1e6fa\u0167", "translitTitleOther": "Ruway\u1e6fa\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    39.23589,
+                    24.01966
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "24.01966",
+                    "coord_lon": "39.23589",
+                    "cornu_URI": "RUWAYTHA_392E240N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "رويثة",
+                    "toponym_arabic_other": "رويثة",
+                    "toponym_buckwalter": "Ruwaytha",
+                    "toponym_search": "Ruwaytha",
+                    "toponym_translit": "Ruwayṯaŧ",
+                    "toponym_translit_other": "Ruwayṯaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

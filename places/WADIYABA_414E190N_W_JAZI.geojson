@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [41.48925, 19.08509], "type": "Point"}, "properties": {"arBW": "Wadi Yaba", "arTitle": "\u0648\u0627\u062f\u064a \u064a\u0628\u0629", "arTitleOther": "\u0648\u0627\u062f\u064a \u064a\u0628\u0629", "lat": "19.08509", "lon": "41.48925", "region": "Jazirat al-Arab", "searchNames": "Wadi Yaba", "topType": "waters", "topTypeAlt": "wadi", "topURI": "WADIYABA_414E190N_W_JAZI", "translitTitle": "W\u0101d\u012b Yaba\u0167", "translitTitleOther": "W\u0101d\u012b Yaba\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    41.48925,
+                    19.08509
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "19.08509",
+                    "coord_lon": "41.48925",
+                    "cornu_URI": "WADIYABA_414E190N_W_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "wadi",
+                    "toponym_arabic": "وادي يبة",
+                    "toponym_arabic_other": "وادي يبة",
+                    "toponym_buckwalter": "Wadi Yaba",
+                    "toponym_search": "Wadi Yaba",
+                    "toponym_translit": "Wādī Yabaŧ",
+                    "toponym_translit_other": "Wādī Yabaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

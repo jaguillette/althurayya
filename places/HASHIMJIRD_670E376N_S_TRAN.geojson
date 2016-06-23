@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [67.07594, 37.69255], "type": "Point"}, "properties": {"arBW": "Hashimjird", "arTitle": "\u0647\u0627\u0634\u0645\u062c\u0631\u062f", "arTitleOther": "\u0647\u0627\u0634\u0645\u062c\u0631\u062f", "lat": "37.69255", "lon": "67.07594", "region": "Transoxiana", "searchNames": "Hashimjird", "topType": "towns", "topTypeAlt": "cite", "topURI": "HASHIMJIRD_670E376N_S_TRAN", "translitTitle": "H\u0101\u0161im\u01e7ird", "translitTitleOther": "H\u0101\u0161im\u01e7ird"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    67.07594,
+                    37.69255
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.69255",
+                    "coord_lon": "67.07594",
+                    "cornu_URI": "HASHIMJIRD_670E376N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "هاشمجرد",
+                    "toponym_arabic_other": "هاشمجرد",
+                    "toponym_buckwalter": "Hashimjird",
+                    "toponym_search": "Hashimjird",
+                    "toponym_translit": "Hāšimǧird",
+                    "toponym_translit_other": "Hāšimǧird"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

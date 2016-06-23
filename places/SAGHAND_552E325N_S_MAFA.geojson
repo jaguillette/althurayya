@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [55.21675, 32.52933], "type": "Point"}, "properties": {"arBW": "Saghand", "arTitle": "\u0633\u0627\u063a\u0646\u062f", "arTitleOther": "\u0633\u0627\u063a\u0646\u062f", "lat": "32.52933", "lon": "55.21675", "region": "Mafaza", "searchNames": "Saghand", "topType": "waystations", "topTypeAlt": "relais", "topURI": "SAGHAND_552E325N_S_MAFA", "translitTitle": "S\u0101\u0121and", "translitTitleOther": "S\u0101\u0121and"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    55.21675,
+                    32.52933
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.52933",
+                    "coord_lon": "55.21675",
+                    "cornu_URI": "SAGHAND_552E325N_S_MAFA",
+                    "region_code": 13,
+                    "region_spelled": "Mafaza",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "relais",
+                    "toponym_arabic": "ساغند",
+                    "toponym_arabic_other": "ساغند",
+                    "toponym_buckwalter": "Saghand",
+                    "toponym_search": "Saghand",
+                    "toponym_translit": "Sāġand",
+                    "toponym_translit_other": "Sāġand"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

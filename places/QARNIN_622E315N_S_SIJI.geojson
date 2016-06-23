@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [62.23227, 31.51377], "type": "Point"}, "properties": {"arBW": "Qarnin", "arTitle": "\u0642\u0631\u0646\u064a\u0646", "arTitleOther": "\u0642\u0631\u0646\u064a\u0646", "lat": "31.51377", "lon": "62.23227", "region": "Sijistan", "searchNames": "Qarnin", "topType": "towns", "topTypeAlt": "cite", "topURI": "QARNIN_622E315N_S_SIJI", "translitTitle": "Qarn\u012bn", "translitTitleOther": "Qarn\u012bn"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    62.23227,
+                    31.51377
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.51377",
+                    "coord_lon": "62.23227",
+                    "cornu_URI": "QARNIN_622E315N_S_SIJI",
+                    "region_code": 18,
+                    "region_spelled": "Sijistan",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "قرنين",
+                    "toponym_arabic_other": "قرنين",
+                    "toponym_buckwalter": "Qarnin",
+                    "toponym_search": "Qarnin",
+                    "toponym_translit": "Qarnīn",
+                    "toponym_translit_other": "Qarnīn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

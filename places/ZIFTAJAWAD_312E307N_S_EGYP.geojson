@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [31.21094, 30.70718], "type": "Point"}, "properties": {"arBW": "Zifta Jawad", "arTitle": "\u0632\u0641\u062a\u0627 \u062c\u0648\u0627\u062f", "arTitleOther": "\u0632\u0641\u062a\u0627 \u062c\u0648\u0627\u062f", "lat": "30.70718", "lon": "31.21094", "region": "Egypt", "searchNames": "Zifta Jawad", "topType": "towns", "topTypeAlt": "cite", "topURI": "ZIFTAJAWAD_312E307N_S_EGYP", "translitTitle": "Zift\u0101 \u01e6aw\u0101d", "translitTitleOther": "Zift\u0101 \u01e6aw\u0101d"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    31.21094,
+                    30.70718
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.70718",
+                    "coord_lon": "31.21094",
+                    "cornu_URI": "ZIFTAJAWAD_312E307N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "زفتا جواد",
+                    "toponym_arabic_other": "زفتا جواد",
+                    "toponym_buckwalter": "Zifta Jawad",
+                    "toponym_search": "Zifta Jawad",
+                    "toponym_translit": "Ziftā Ǧawād",
+                    "toponym_translit_other": "Ziftā Ǧawād"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

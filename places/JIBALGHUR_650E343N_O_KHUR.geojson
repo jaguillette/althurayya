@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [65.09941, 34.38521], "type": "Point"}, "properties": {"arBW": "Jibal al-Ghur", "arTitle": "\u062c\u0628\u0644 \ufb50\u0644\u063a\u0648\u0631", "arTitleOther": "\u062c\u0628\u0644 \ufb50\u0644\u063a\u0648\u0631", "lat": "34.38521", "lon": "65.09941", "region": "Khurasan", "searchNames": "Jibal al-Ghur", "topType": "sites", "topTypeAlt": "mont", "topURI": "JIBALGHUR_650E343N_O_KHUR", "translitTitle": "\u01e6ibal al-\u0120\u016br", "translitTitleOther": "\u01e6ibal al-\u0120\u016br"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    65.09941,
+                    34.38521
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.38521",
+                    "coord_lon": "65.09941",
+                    "cornu_URI": "JIBALGHUR_650E343N_O_KHUR",
+                    "region_code": 10,
+                    "region_spelled": "Khurasan",
+                    "top_type_hom": "sites",
+                    "top_type_orig": "mont",
+                    "toponym_arabic": "جبل ﭐلغور",
+                    "toponym_arabic_other": "جبل ﭐلغور",
+                    "toponym_buckwalter": "Jibal al-Ghur",
+                    "toponym_search": "Jibal al-Ghur",
+                    "toponym_translit": "Ǧibal al-Ġūr",
+                    "toponym_translit_other": "Ǧibal al-Ġūr"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

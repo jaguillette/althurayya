@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [54.624, 31.76601], "type": "Point"}, "properties": {"arBW": "al-Fahraj", "arTitle": "\ufb50\u0644\u0641\u0647\u0631\u062c", "arTitleOther": "\ufb50\u0644\u0641\u0647\u0631\u062c", "lat": "31.76601", "lon": "54.62400", "region": "Faris", "searchNames": "al-Fahraj", "topType": "towns", "topTypeAlt": "cite", "topURI": "FAHRAJ_546E317N_S_FARI", "translitTitle": "al-Fahra\u01e7", "translitTitleOther": "al-Fahra\u01e7"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    54.624,
+                    31.76601
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.76601",
+                    "coord_lon": "54.62400",
+                    "cornu_URI": "FAHRAJ_546E317N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ﭐلفهرج",
+                    "toponym_arabic_other": "ﭐلفهرج",
+                    "toponym_buckwalter": "al-Fahraj",
+                    "toponym_search": "al-Fahraj",
+                    "toponym_translit": "al-Fahraǧ",
+                    "toponym_translit_other": "al-Fahraǧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

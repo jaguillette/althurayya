@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [45.31987, 32.74104], "type": "Point"}, "properties": {"arBW": "Jarjaraya", "arTitle": "\u062c\u0631\u062c\u0631\u0627\u064a\u0627", "arTitleOther": "\u062c\u0631\u062c\u0631\u0627\u064a\u0627", "lat": "32.74104", "lon": "45.31987", "region": "Iraq", "searchNames": "Jarjaraya", "topType": "towns", "topTypeAlt": "cite", "topURI": "JARJARAYA_453E327N_S_IRAQ", "translitTitle": "\u01e6ar\u01e7ar\u0101y\u0101", "translitTitleOther": "\u01e6ar\u01e7ar\u0101y\u0101"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    45.31987,
+                    32.74104
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.74104",
+                    "coord_lon": "45.31987",
+                    "cornu_URI": "JARJARAYA_453E327N_S_IRAQ",
+                    "region_code": 7,
+                    "region_spelled": "Iraq",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "جرجرايا",
+                    "toponym_arabic_other": "جرجرايا",
+                    "toponym_buckwalter": "Jarjaraya",
+                    "toponym_search": "Jarjaraya",
+                    "toponym_translit": "Ǧarǧarāyā",
+                    "toponym_translit_other": "Ǧarǧarāyā"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

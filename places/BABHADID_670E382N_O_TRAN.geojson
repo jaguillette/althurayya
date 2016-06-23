@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [67.03158, 38.22114], "type": "Point"}, "properties": {"arBW": "Bab al-Hadid", "arTitle": "\u0628\u0627\u0628 \ufb50\u0644\u062d\u062f\u064a\u062f", "arTitleOther": "\u0628\u0627\u0628 \ufb50\u0644\u062d\u062f\u064a\u062f", "lat": "38.22114", "lon": "67.03158", "region": "Transoxiana", "searchNames": "Bab al-Hadid", "topType": "sites", "topTypeAlt": "defile", "topURI": "BABHADID_670E382N_O_TRAN", "translitTitle": "B\u0101b al-\u1e24ad\u012bd", "translitTitleOther": "B\u0101b al-\u1e24ad\u012bd"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    67.03158,
+                    38.22114
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "38.22114",
+                    "coord_lon": "67.03158",
+                    "cornu_URI": "BABHADID_670E382N_O_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "sites",
+                    "top_type_orig": "defile",
+                    "toponym_arabic": "باب ﭐلحديد",
+                    "toponym_arabic_other": "باب ﭐلحديد",
+                    "toponym_buckwalter": "Bab al-Hadid",
+                    "toponym_search": "Bab al-Hadid",
+                    "toponym_translit": "Bāb al-Ḥadīd",
+                    "toponym_translit_other": "Bāb al-Ḥadīd"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

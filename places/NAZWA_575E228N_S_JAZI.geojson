@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [57.52541, 22.86309], "type": "Point"}, "properties": {"arBW": "Nazwa", "arTitle": "\u0646\u0632\u0648\u0629", "arTitleOther": "\u0646\u0632\u0648\u0629", "lat": "22.86309", "lon": "57.52541", "region": "Jazirat al-Arab", "searchNames": "Nazwa", "topType": "towns", "topTypeAlt": "cite", "topURI": "NAZWA_575E228N_S_JAZI", "translitTitle": "Nazwa\u0167", "translitTitleOther": "Nazwa\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    57.52541,
+                    22.86309
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "22.86309",
+                    "coord_lon": "57.52541",
+                    "cornu_URI": "NAZWA_575E228N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "نزوة",
+                    "toponym_arabic_other": "نزوة",
+                    "toponym_buckwalter": "Nazwa",
+                    "toponym_search": "Nazwa",
+                    "toponym_translit": "Nazwaŧ",
+                    "toponym_translit_other": "Nazwaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

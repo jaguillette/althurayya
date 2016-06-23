@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [69.45575, 41.11173], "type": "Point"}, "properties": {"arBW": "Balayan", "arTitle": "\u0628\u0627\u0644\u0627\u064a\u0627\u0646", "arTitleOther": "\u0628\u0627\u0644\u0627\u064a\u0627\u0646", "lat": "41.11173", "lon": "69.45575", "region": "Transoxiana", "searchNames": "Balayan", "topType": "towns", "topTypeAlt": "cite", "topURI": "BALAYAN_694E411N_S_TRAN", "translitTitle": "B\u0101l\u0101y\u0101n", "translitTitleOther": "B\u0101l\u0101y\u0101n"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    69.45575,
+                    41.11173
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "41.11173",
+                    "coord_lon": "69.45575",
+                    "cornu_URI": "BALAYAN_694E411N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "بالايان",
+                    "toponym_arabic_other": "بالايان",
+                    "toponym_buckwalter": "Balayan",
+                    "toponym_search": "Balayan",
+                    "toponym_translit": "Bālāyān",
+                    "toponym_translit_other": "Bālāyān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

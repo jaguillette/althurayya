@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [44.60835, 12.8341], "type": "Point"}, "properties": {"arBW": "al-Makhnaq", "arTitle": "\ufb50\u0644\u0645\u062e\u0646\u0642", "arTitleOther": "\ufb50\u0644\u0645\u062e\u0646\u0642", "lat": "12.83410", "lon": "44.60835", "region": "Yemen", "searchNames": "al-Makhnaq", "topType": "villages", "topTypeAlt": "localite", "topURI": "MAKHNAQ_446E128N_S_YEME", "translitTitle": "al-Ma\u1e2bnaq", "translitTitleOther": "al-Ma\u1e2bnaq"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    44.60835,
+                    12.8341
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "12.83410",
+                    "coord_lon": "44.60835",
+                    "cornu_URI": "MAKHNAQ_446E128N_S_YEME",
+                    "region_code": 21,
+                    "region_spelled": "Yemen",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "ﭐلمخنق",
+                    "toponym_arabic_other": "ﭐلمخنق",
+                    "toponym_buckwalter": "al-Makhnaq",
+                    "toponym_search": "al-Makhnaq",
+                    "toponym_translit": "al-Maḫnaq",
+                    "toponym_translit_other": "al-Maḫnaq"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

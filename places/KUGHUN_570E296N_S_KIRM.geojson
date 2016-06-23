@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [57.06721, 29.61836], "type": "Point"}, "properties": {"arBW": "Kughun", "arTitle": "\u0643\u0648\u063a\u0648\u0646", "arTitleOther": "\u0643\u0648\u063a\u0648\u0646", "lat": "29.61836", "lon": "57.06721", "region": "Kirman", "searchNames": "Kughun", "topType": "towns", "topTypeAlt": "cite", "topURI": "KUGHUN_570E296N_S_KIRM", "translitTitle": "K\u016b\u0121\u016bn", "translitTitleOther": "K\u016b\u0121\u016bn"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    57.06721,
+                    29.61836
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "29.61836",
+                    "coord_lon": "57.06721",
+                    "cornu_URI": "KUGHUN_570E296N_S_KIRM",
+                    "region_code": 12,
+                    "region_spelled": "Kirman",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "كوغون",
+                    "toponym_arabic_other": "كوغون",
+                    "toponym_buckwalter": "Kughun",
+                    "toponym_search": "Kughun",
+                    "toponym_translit": "Kūġūn",
+                    "toponym_translit_other": "Kūġūn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

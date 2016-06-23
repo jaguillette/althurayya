@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [8.15027, 33.93695], "type": "Point"}, "properties": {"arBW": "Tawzir", "arTitle": "\u062a\u0648\u0632\u0631", "arTitleOther": "\u062a\u0648\u0632\u0631", "lat": "33.93695", "lon": "8.15027", "region": "Maghrib", "searchNames": "Tawzir", "topType": "towns", "topTypeAlt": "cite", "topURI": "TAWZIR_081E339N_S_MAGH", "translitTitle": "Tawzir", "translitTitleOther": "Tawzir"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    8.15027,
+                    33.93695
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.93695",
+                    "coord_lon": "8.15027",
+                    "cornu_URI": "TAWZIR_081E339N_S_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "توزر",
+                    "toponym_arabic_other": "توزر",
+                    "toponym_buckwalter": "Tawzir",
+                    "toponym_search": "Tawzir",
+                    "toponym_translit": "Tawzir",
+                    "toponym_translit_other": "Tawzir"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

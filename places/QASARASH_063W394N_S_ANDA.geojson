@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [-6.3954, 39.46953], "type": "Point"}, "properties": {"arBW": "Qasarash", "arTitle": "\u0642\u0635\u0631\u0627\u0634", "arTitleOther": "\u0642\u0635\u0631\u0627\u0634", "lat": "39.46953", "lon": "-6.39540", "region": "Andalus", "searchNames": "Qasarash", "topType": "towns", "topTypeAlt": "cite", "topURI": "QASARASH_063W394N_S_ANDA", "translitTitle": "Qa\u1e63ar\u0101\u0161", "translitTitleOther": "Qa\u1e63ar\u0101\u0161"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -6.3954,
+                    39.46953
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "39.46953",
+                    "coord_lon": "-6.39540",
+                    "cornu_URI": "QASARASH_063W394N_S_ANDA",
+                    "region_code": 1,
+                    "region_spelled": "Andalus",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "قصراش",
+                    "toponym_arabic_other": "قصراش",
+                    "toponym_buckwalter": "Qasarash",
+                    "toponym_search": "Qasarash",
+                    "toponym_translit": "Qaṣarāš",
+                    "toponym_translit_other": "Qaṣarāš"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

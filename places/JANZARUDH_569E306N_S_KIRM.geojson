@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [56.92513, 30.67077], "type": "Point"}, "properties": {"arBW": "Janzarudh, Jatrud", "arTitle": "\u062c\u0646\u0632\u0631\u0648\u0630", "arTitleOther": "\u062c\u0646\u0632\u0631\u0648\u0630\u060c \u062c\u0627\u062a\u0631\u0648\u062f", "lat": "30.67077", "lon": "56.92513", "region": "Kirman", "searchNames": "Janzarudh, Jatrud", "topType": "towns", "topTypeAlt": "cite", "topURI": "JANZARUDH_569E306N_S_KIRM", "translitTitle": "\u01e6anzar\u016b\u1e0f", "translitTitleOther": "\u01e6anzar\u016b\u1e0f, \u01e6\u0101tr\u016bd"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    56.92513,
+                    30.67077
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.67077",
+                    "coord_lon": "56.92513",
+                    "cornu_URI": "JANZARUDH_569E306N_S_KIRM",
+                    "region_code": 12,
+                    "region_spelled": "Kirman",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "جنزروذ",
+                    "toponym_arabic_other": "جنزروذ، جاترود",
+                    "toponym_buckwalter": "Janzarudh, Jatrud",
+                    "toponym_search": "Janzarudh, Jatrud",
+                    "toponym_translit": "Ǧanzarūḏ",
+                    "toponym_translit_other": "Ǧanzarūḏ, Ǧātrūd"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

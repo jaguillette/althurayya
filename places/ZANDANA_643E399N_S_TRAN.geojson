@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [64.3876, 39.98407], "type": "Point"}, "properties": {"arBW": "Zandana", "arTitle": "\u0632\u0646\u062f\u0646\u0629", "arTitleOther": "\u0632\u0646\u062f\u0646\u0629", "lat": "39.98407", "lon": "64.38760", "region": "Transoxiana", "searchNames": "Zandana", "topType": "towns", "topTypeAlt": "canton", "topURI": "ZANDANA_643E399N_S_TRAN", "translitTitle": "Zandana\u0167", "translitTitleOther": "Zandana\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    64.3876,
+                    39.98407
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "39.98407",
+                    "coord_lon": "64.38760",
+                    "cornu_URI": "ZANDANA_643E399N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "canton",
+                    "toponym_arabic": "زندنة",
+                    "toponym_arabic_other": "زندنة",
+                    "toponym_buckwalter": "Zandana",
+                    "toponym_search": "Zandana",
+                    "toponym_translit": "Zandanaŧ",
+                    "toponym_translit_other": "Zandanaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

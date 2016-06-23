@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [30.44108, 31.05659], "type": "Point"}, "properties": {"arBW": "Qartasa", "arTitle": "\u0642\u0631\u0637\u0633\u0627", "arTitleOther": "\u0642\u0631\u0637\u0633\u0627", "lat": "31.05659", "lon": "30.44108", "region": "Egypt", "searchNames": "Qartasa", "topType": "villages", "topTypeAlt": "localite", "topURI": "QARTASA_304E310N_S_EGYP", "translitTitle": "Qar\u1e6das\u0101", "translitTitleOther": "Qar\u1e6das\u0101"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    30.44108,
+                    31.05659
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.05659",
+                    "coord_lon": "30.44108",
+                    "cornu_URI": "QARTASA_304E310N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "قرطسا",
+                    "toponym_arabic_other": "قرطسا",
+                    "toponym_buckwalter": "Qartasa",
+                    "toponym_search": "Qartasa",
+                    "toponym_translit": "Qarṭasā",
+                    "toponym_translit_other": "Qarṭasā"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

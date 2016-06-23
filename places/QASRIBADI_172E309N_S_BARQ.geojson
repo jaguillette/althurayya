@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [17.29329, 30.94914], "type": "Point"}, "properties": {"arBW": "Qasr al-Ibadi, Qabr al-Ibadi", "arTitle": "\u0642\u0635\u0631 \ufb50\u0644\u0639\u0628\u0627\u062f\u064a", "arTitleOther": "\u0642\u0635\u0631 \ufb50\u0644\u0639\u0628\u0627\u062f\u064a\u060c \u0642\u0628\u0631 \ufb50\u0644\u0639\u0628\u0627\u062f\u064a", "lat": "30.94914", "lon": "17.29329", "region": "Barqa", "searchNames": "Qasr al-Ibadi, Qabr al-Ibadi", "topType": "waystations", "topTypeAlt": "etape", "topURI": "QASRIBADI_172E309N_S_BARQ", "translitTitle": "Qa\u1e63r al-\u02bfIb\u0101d\u012b", "translitTitleOther": "Qa\u1e63r al-\u02bfIb\u0101d\u012b, Qabr al-\u02bfIb\u0101d\u012b"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    17.29329,
+                    30.94914
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.94914",
+                    "coord_lon": "17.29329",
+                    "cornu_URI": "QASRIBADI_172E309N_S_BARQ",
+                    "region_code": 3,
+                    "region_spelled": "Barqa",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "قصر ﭐلعبادي",
+                    "toponym_arabic_other": "قصر ﭐلعبادي، قبر ﭐلعبادي",
+                    "toponym_buckwalter": "Qasr al-Ibadi, Qabr al-Ibadi",
+                    "toponym_search": "Qasr al-Ibadi, Qabr al-Ibadi",
+                    "toponym_translit": "Qaṣr al-ʿIbādī",
+                    "toponym_translit_other": "Qaṣr al-ʿIbādī, Qabr al-ʿIbādī"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

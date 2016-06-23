@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [-8.07804, 29.19903], "type": "Point"}, "properties": {"arBW": "Wadi Dara", "arTitle": "\u0648\u0627\u062f\u064a \u062f\u0631\u0639\u0629", "arTitleOther": "\u0648\u0627\u062f\u064a \u062f\u0631\u0639\u0629", "lat": "29.19903", "lon": "-8.07804", "region": "Maghrib", "searchNames": "Wadi Dara", "topType": "waters", "topTypeAlt": "wadi", "topURI": "WADIDARA_080W291N_W_MAGH", "translitTitle": "W\u0101d\u012b Dar\u02bfa\u0167", "translitTitleOther": "W\u0101d\u012b Dar\u02bfa\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.07804,
+                    29.19903
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "29.19903",
+                    "coord_lon": "-8.07804",
+                    "cornu_URI": "WADIDARA_080W291N_W_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "wadi",
+                    "toponym_arabic": "وادي درعة",
+                    "toponym_arabic_other": "وادي درعة",
+                    "toponym_buckwalter": "Wadi Dara",
+                    "toponym_search": "Wadi Dara",
+                    "toponym_translit": "Wādī Darʿaŧ",
+                    "toponym_translit_other": "Wādī Darʿaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

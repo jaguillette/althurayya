@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [38.12681, 30.48436], "type": "Point"}, "properties": {"arBW": "al-Jarba, al-Jarba", "arTitle": "\ufb50\u0644\u062c\u0631\u0628\u0627", "arTitleOther": "\ufb50\u0644\u062c\u0631\u0628\u0627\u060c \ufb50\u0644\u062c\u0631\u0628\u0649", "lat": "30.48436", "lon": "38.12681", "region": "Badiyat al-Arab", "searchNames": "al-Jarba, al-Jarba", "topType": "waystations", "topTypeAlt": "mares", "topURI": "JARBA_381E304N_S_BADI", "translitTitle": "al-\u01e6arb\u0101", "translitTitleOther": "al-\u01e6arb\u0101, al-\u01e6arb\u00e1"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    38.12681,
+                    30.48436
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.48436",
+                    "coord_lon": "38.12681",
+                    "cornu_URI": "JARBA_381E304N_S_BADI",
+                    "region_code": 23,
+                    "region_spelled": "Badiyat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "mares",
+                    "toponym_arabic": "ﭐلجربا",
+                    "toponym_arabic_other": "ﭐلجربا، ﭐلجربى",
+                    "toponym_buckwalter": "al-Jarba, al-Jarba",
+                    "toponym_search": "al-Jarba, al-Jarba",
+                    "toponym_translit": "al-Ǧarbā",
+                    "toponym_translit_other": "al-Ǧarbā, al-Ǧarbá"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

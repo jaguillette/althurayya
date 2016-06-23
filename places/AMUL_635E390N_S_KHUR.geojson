@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [63.51255, 39.06795], "type": "Point"}, "properties": {"arBW": "Amul", "arTitle": "\u0622\u0645\u0644", "arTitleOther": "\u0622\u0645\u0644", "lat": "39.06795", "lon": "63.51255", "region": "Khurasan", "searchNames": "Amul", "topType": "towns", "topTypeAlt": "cite", "topURI": "AMUL_635E390N_S_KHUR", "translitTitle": "\u0100mul", "translitTitleOther": "\u0100mul"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    63.51255,
+                    39.06795
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "39.06795",
+                    "coord_lon": "63.51255",
+                    "cornu_URI": "AMUL_635E390N_S_KHUR",
+                    "region_code": 10,
+                    "region_spelled": "Khurasan",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "آمل",
+                    "toponym_arabic_other": "آمل",
+                    "toponym_buckwalter": "Amul",
+                    "toponym_search": "Amul",
+                    "toponym_translit": "Āmul",
+                    "toponym_translit_other": "Āmul"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

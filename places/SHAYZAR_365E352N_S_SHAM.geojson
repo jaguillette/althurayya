@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [36.55938, 35.25585], "type": "Point"}, "properties": {"arBW": "Shayzar", "arTitle": "\u0634\u064a\u0632\u0631", "arTitleOther": "\u0634\u064a\u0632\u0631", "lat": "35.25585", "lon": "36.55938", "region": "Sham", "searchNames": "Shayzar", "topType": "towns", "topTypeAlt": "cite", "topURI": "SHAYZAR_365E352N_S_SHAM", "translitTitle": "\u0160ayzar", "translitTitleOther": "\u0160ayzar"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    36.55938,
+                    35.25585
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.25585",
+                    "coord_lon": "36.55938",
+                    "cornu_URI": "SHAYZAR_365E352N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "شيزر",
+                    "toponym_arabic_other": "شيزر",
+                    "toponym_buckwalter": "Shayzar",
+                    "toponym_search": "Shayzar",
+                    "toponym_translit": "Šayzar",
+                    "toponym_translit_other": "Šayzar"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

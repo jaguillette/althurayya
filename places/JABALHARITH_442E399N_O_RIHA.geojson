@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [44.27779, 39.90562], "type": "Point"}, "properties": {"arBW": "Jabal al-Harith, Jabal al-Huwayrith", "arTitle": "\u062c\u0628\u0644 \ufb50\u0644\u062d\u0631\u064a\u062b", "arTitleOther": "\u062c\u0628\u0644 \ufb50\u0644\u062d\u0631\u064a\u062b\u060c \u062c\u0628\u0644 \ufb50\u0644\u062d\u0648\u064a\u0631\u064a\u062b", "lat": "39.90562", "lon": "44.27779", "region": "Rihab", "searchNames": "Jabal al-Harith, Jabal al-Huwayrith", "topType": "sites", "topTypeAlt": "mont", "topURI": "JABALHARITH_442E399N_O_RIHA", "translitTitle": "\u01e6abal al-\u1e24ar\u012b\u1e6f", "translitTitleOther": "\u01e6abal al-\u1e24ar\u012b\u1e6f, \u01e6abal al-\u1e24uwayr\u012b\u1e6f"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    44.27779,
+                    39.90562
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "39.90562",
+                    "coord_lon": "44.27779",
+                    "cornu_URI": "JABALHARITH_442E399N_O_RIHA",
+                    "region_code": 15,
+                    "region_spelled": "Rihab",
+                    "top_type_hom": "sites",
+                    "top_type_orig": "mont",
+                    "toponym_arabic": "جبل ﭐلحريث",
+                    "toponym_arabic_other": "جبل ﭐلحريث، جبل ﭐلحويريث",
+                    "toponym_buckwalter": "Jabal al-Harith, Jabal al-Huwayrith",
+                    "toponym_search": "Jabal al-Harith, Jabal al-Huwayrith",
+                    "toponym_translit": "Ǧabal al-Ḥarīṯ",
+                    "toponym_translit_other": "Ǧabal al-Ḥarīṯ, Ǧabal al-Ḥuwayrīṯ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

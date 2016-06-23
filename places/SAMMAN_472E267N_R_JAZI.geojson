@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [47.21404, 26.78388], "type": "Point"}, "properties": {"arBW": "al-Samman", "arTitle": "\ufb50\u0644\u0635\u0645\u0627\u0646", "arTitleOther": "\ufb50\u0644\u0635\u0645\u0627\u0646", "lat": "26.78388", "lon": "47.21404", "region": "Jazirat al-Arab", "searchNames": "al-Samman", "topType": "regions", "topTypeAlt": "region", "topURI": "SAMMAN_472E267N_R_JAZI", "translitTitle": "al-\u1e62amm\u0101n", "translitTitleOther": "al-\u1e62amm\u0101n"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    47.21404,
+                    26.78388
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "26.78388",
+                    "coord_lon": "47.21404",
+                    "cornu_URI": "SAMMAN_472E267N_R_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "ﭐلصمان",
+                    "toponym_arabic_other": "ﭐلصمان",
+                    "toponym_buckwalter": "al-Samman",
+                    "toponym_search": "al-Samman",
+                    "toponym_translit": "al-Ṣammān",
+                    "toponym_translit_other": "al-Ṣammān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

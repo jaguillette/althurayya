@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [34.88059, 31.60564], "type": "Point"}, "properties": {"arBW": "Bayt Jibril, Bayt Jibrin", "arTitle": "\u0628\u064a\u062a \u062c\u0628\u0631\u064a\u0644", "arTitleOther": "\u0628\u064a\u062a \u062c\u0628\u0631\u064a\u0644\u060c \u0628\u064a\u062a \u062c\u0628\u0631\u064a\u0646", "lat": "31.60564", "lon": "34.88059", "region": "Sham", "searchNames": "Bayt Jibril, Bayt Jibrin", "topType": "towns", "topTypeAlt": "cite", "topURI": "BAYTJIBRIL_348E316N_S_SHAM", "translitTitle": "Bayt \u01e6ibr\u012bl", "translitTitleOther": "Bayt \u01e6ibr\u012bl, Bayt \u01e6ibr\u012bn"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    34.88059,
+                    31.60564
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.60564",
+                    "coord_lon": "34.88059",
+                    "cornu_URI": "BAYTJIBRIL_348E316N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "بيت جبريل",
+                    "toponym_arabic_other": "بيت جبريل، بيت جبرين",
+                    "toponym_buckwalter": "Bayt Jibril, Bayt Jibrin",
+                    "toponym_search": "Bayt Jibril, Bayt Jibrin",
+                    "toponym_translit": "Bayt Ǧibrīl",
+                    "toponym_translit_other": "Bayt Ǧibrīl, Bayt Ǧibrīn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [41.39305, 18.62751], "type": "Point"}, "properties": {"arBW": "Hali", "arTitle": "\u062d\u0644\u064a", "arTitleOther": "\u062d\u0644\u064a", "lat": "18.62751", "lon": "41.39305", "region": "Jazirat al-Arab", "searchNames": "Hali", "topType": "towns", "topTypeAlt": "cite", "topURI": "HALI_413E186N_S_JAZI", "translitTitle": "\u1e24al\u012b", "translitTitleOther": "\u1e24al\u012b"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    41.39305,
+                    18.62751
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "18.62751",
+                    "coord_lon": "41.39305",
+                    "cornu_URI": "HALI_413E186N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "حلي",
+                    "toponym_arabic_other": "حلي",
+                    "toponym_buckwalter": "Hali",
+                    "toponym_search": "Hali",
+                    "toponym_translit": "Ḥalī",
+                    "toponym_translit_other": "Ḥalī"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [44.50953, 32.94875], "type": "Point"}, "properties": {"arBW": "Nahr al-Malik", "arTitle": "\u0646\u0647\u0631 \ufb50\u0644\u0645\u0644\u0643", "arTitleOther": "\u0646\u0647\u0631 \ufb50\u0644\u0645\u0644\u0643", "lat": "32.94875", "lon": "44.50953", "region": "Iraq", "searchNames": "Nahr al-Malik", "topType": "waters", "topTypeAlt": "canal", "topURI": "NAHRMALIK_445E329N_W_IRAQ", "translitTitle": "Nahr al-Malik", "translitTitleOther": "Nahr al-Malik"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    44.50953,
+                    32.94875
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.94875",
+                    "coord_lon": "44.50953",
+                    "cornu_URI": "NAHRMALIK_445E329N_W_IRAQ",
+                    "region_code": 7,
+                    "region_spelled": "Iraq",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "canal",
+                    "toponym_arabic": "نهر ﭐلملك",
+                    "toponym_arabic_other": "نهر ﭐلملك",
+                    "toponym_buckwalter": "Nahr al-Malik",
+                    "toponym_search": "Nahr al-Malik",
+                    "toponym_translit": "Nahr al-Malik",
+                    "toponym_translit_other": "Nahr al-Malik"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

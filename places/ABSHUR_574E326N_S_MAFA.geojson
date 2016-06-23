@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [57.40729, 32.65943], "type": "Point"}, "properties": {"arBW": "Ab Shur", "arTitle": "\u0622\u0628 \u0634\u0648\u0631", "arTitleOther": "\u0622\u0628 \u0634\u0648\u0631", "lat": "32.65943", "lon": "57.40729", "region": "Mafaza", "searchNames": "Ab Shur", "topType": "waystations", "topTypeAlt": "etape", "topURI": "ABSHUR_574E326N_S_MAFA", "translitTitle": "\u0100b \u0160\u016br", "translitTitleOther": "\u0100b \u0160\u016br"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    57.40729,
+                    32.65943
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.65943",
+                    "coord_lon": "57.40729",
+                    "cornu_URI": "ABSHUR_574E326N_S_MAFA",
+                    "region_code": 13,
+                    "region_spelled": "Mafaza",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "آب شور",
+                    "toponym_arabic_other": "آب شور",
+                    "toponym_buckwalter": "Ab Shur",
+                    "toponym_search": "Ab Shur",
+                    "toponym_translit": "Āb Šūr",
+                    "toponym_translit_other": "Āb Šūr"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [35.57727, 32.80982], "type": "Point"}, "properties": {"arBW": "Buhayra Tabariyya", "arTitle": "\u0628\u062d\u064a\u0631\u0629 \u0637\u0628\u0631\u064a\u0629", "arTitleOther": "\u0628\u062d\u064a\u0631\u0629 \u0637\u0628\u0631\u064a\u0629", "lat": "32.80982", "lon": "35.57727", "region": "Sham", "searchNames": "Buhayra Tabariyya", "topType": "waters", "topTypeAlt": "lac", "topURI": "BUHAYRATABARIYYA_355E328N_W_SHAM", "translitTitle": "Bu\u1e25ayra\u0167 \u1e6cabariyya\u0167", "translitTitleOther": "Bu\u1e25ayra\u0167 \u1e6cabariyya\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    35.57727,
+                    32.80982
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.80982",
+                    "coord_lon": "35.57727",
+                    "cornu_URI": "BUHAYRATABARIYYA_355E328N_W_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "lac",
+                    "toponym_arabic": "بحيرة طبرية",
+                    "toponym_arabic_other": "بحيرة طبرية",
+                    "toponym_buckwalter": "Buhayra Tabariyya",
+                    "toponym_search": "Buhayra Tabariyya",
+                    "toponym_translit": "Buḥayraŧ Ṭabariyyaŧ",
+                    "toponym_translit_other": "Buḥayraŧ Ṭabariyyaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

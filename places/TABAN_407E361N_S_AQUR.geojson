@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [40.76153, 36.16114], "type": "Point"}, "properties": {"arBW": "Taban, Talaban", "arTitle": "\u0637\u0627\u0628\u0627\u0646", "arTitleOther": "\u0637\u0627\u0628\u0627\u0646\u060c \u0637\u0644\u0628\u0627\u0646", "lat": "36.16114", "lon": "40.76153", "region": "Aqur", "searchNames": "Taban, Talaban", "topType": "towns", "topTypeAlt": "cite", "topURI": "TABAN_407E361N_S_AQUR", "translitTitle": "\u1e6c\u0101b\u0101n", "translitTitleOther": "\u1e6c\u0101b\u0101n, \u1e6calab\u0101n"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    40.76153,
+                    36.16114
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.16114",
+                    "coord_lon": "40.76153",
+                    "cornu_URI": "TABAN_407E361N_S_AQUR",
+                    "region_code": 2,
+                    "region_spelled": "Aqur",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "طابان",
+                    "toponym_arabic_other": "طابان، طلبان",
+                    "toponym_buckwalter": "Taban, Talaban",
+                    "toponym_search": "Taban, Talaban",
+                    "toponym_translit": "Ṭābān",
+                    "toponym_translit_other": "Ṭābān, Ṭalabān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

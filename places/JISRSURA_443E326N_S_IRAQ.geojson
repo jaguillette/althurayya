@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [44.36585, 32.64626], "type": "Point"}, "properties": {"arBW": "Jisr Sura, Jisr Suran", "arTitle": "\u062c\u0633\u0631 \u0633\u0648\u0631\u0627", "arTitleOther": "\u062c\u0633\u0631 \u0633\u0648\u0631\u0627\u060c \u062c\u0633\u0631 \u0633\u0648\u0631\u0627\u0646", "lat": "32.64626", "lon": "44.36585", "region": "Iraq", "searchNames": "Jisr Sura, Jisr Suran", "topType": "towns", "topTypeAlt": "cite", "topURI": "JISRSURA_443E326N_S_IRAQ", "translitTitle": "\u01e6isr S\u016br\u0101", "translitTitleOther": "\u01e6isr S\u016br\u0101, \u01e6isr S\u016br\u0101n"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    44.36585,
+                    32.64626
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.64626",
+                    "coord_lon": "44.36585",
+                    "cornu_URI": "JISRSURA_443E326N_S_IRAQ",
+                    "region_code": 7,
+                    "region_spelled": "Iraq",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "جسر سورا",
+                    "toponym_arabic_other": "جسر سورا، جسر سوران",
+                    "toponym_buckwalter": "Jisr Sura, Jisr Suran",
+                    "toponym_search": "Jisr Sura, Jisr Suran",
+                    "toponym_translit": "Ǧisr Sūrā",
+                    "toponym_translit_other": "Ǧisr Sūrā, Ǧisr Sūrān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

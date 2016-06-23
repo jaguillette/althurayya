@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [39.13855, 36.61998], "type": "Point"}, "properties": {"arBW": "Tall Mahra, Tall Bahra", "arTitle": "\u062a\u0644 \u0645\u062d\u0631\u0649", "arTitleOther": "\u062a\u0644 \u0645\u062d\u0631\u0649\u060c \u062a\u0644 \u0628\u062d\u0631\u0649", "lat": "36.61998", "lon": "39.13855", "region": "Aqur", "searchNames": "Tall Mahra, Tall Bahra", "topType": "towns", "topTypeAlt": "cite", "topURI": "TALLMAHRA_391E366N_S_AQUR", "translitTitle": "Tall Ma\u1e25r\u00e1", "translitTitleOther": "Tall Ma\u1e25r\u00e1, Tall Ba\u1e25r\u00e1"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    39.13855,
+                    36.61998
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.61998",
+                    "coord_lon": "39.13855",
+                    "cornu_URI": "TALLMAHRA_391E366N_S_AQUR",
+                    "region_code": 2,
+                    "region_spelled": "Aqur",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "تل محرى",
+                    "toponym_arabic_other": "تل محرى، تل بحرى",
+                    "toponym_buckwalter": "Tall Mahra, Tall Bahra",
+                    "toponym_search": "Tall Mahra, Tall Bahra",
+                    "toponym_translit": "Tall Maḥrá",
+                    "toponym_translit_other": "Tall Maḥrá, Tall Baḥrá"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

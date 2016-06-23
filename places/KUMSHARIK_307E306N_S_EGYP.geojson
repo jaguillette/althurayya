@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [30.75642, 30.63742], "type": "Point"}, "properties": {"arBW": "Kum Sharik", "arTitle": "\u0643\u0648\u0645 \u0634\u0631\u064a\u0643", "arTitleOther": "\u0643\u0648\u0645 \u0634\u0631\u064a\u0643", "lat": "30.63742", "lon": "30.75642", "region": "Egypt", "searchNames": "Kum Sharik", "topType": "waystations", "topTypeAlt": "etape", "topURI": "KUMSHARIK_307E306N_S_EGYP", "translitTitle": "K\u016bm \u0160ar\u012bk", "translitTitleOther": "K\u016bm \u0160ar\u012bk"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    30.75642,
+                    30.63742
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.63742",
+                    "coord_lon": "30.75642",
+                    "cornu_URI": "KUMSHARIK_307E306N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "كوم شريك",
+                    "toponym_arabic_other": "كوم شريك",
+                    "toponym_buckwalter": "Kum Sharik",
+                    "toponym_search": "Kum Sharik",
+                    "toponym_translit": "Kūm Šarīk",
+                    "toponym_translit_other": "Kūm Šarīk"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

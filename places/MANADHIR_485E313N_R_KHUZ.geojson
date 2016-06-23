@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [48.53345, 31.39058], "type": "Point"}, "properties": {"arBW": "Manadhir", "arTitle": "\u0645\u0646\u0627\u0630\u0631", "arTitleOther": "\u0645\u0646\u0627\u0630\u0631", "lat": "31.39058", "lon": "48.53345", "region": "Khuzistan", "searchNames": "Manadhir", "topType": "regions", "topTypeAlt": "district", "topURI": "MANADHIR_485E313N_R_KHUZ", "translitTitle": "Man\u0101\u1e0fir", "translitTitleOther": "Man\u0101\u1e0fir"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    48.53345,
+                    31.39058
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.39058",
+                    "coord_lon": "48.53345",
+                    "cornu_URI": "MANADHIR_485E313N_R_KHUZ",
+                    "region_code": 11,
+                    "region_spelled": "Khuzistan",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "district",
+                    "toponym_arabic": "مناذر",
+                    "toponym_arabic_other": "مناذر",
+                    "toponym_buckwalter": "Manadhir",
+                    "toponym_search": "Manadhir",
+                    "toponym_translit": "Manāḏir",
+                    "toponym_translit_other": "Manāḏir"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

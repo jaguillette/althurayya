@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [36.35891, 34.85533], "type": "Point"}, "properties": {"arBW": "Jabal Jalil", "arTitle": "\u062c\u0628\u0644 \u062c\u0644\u064a\u0644", "arTitleOther": "\u062c\u0628\u0644 \u062c\u0644\u064a\u0644", "lat": "34.85533", "lon": "36.35891", "region": "Sham", "searchNames": "Jabal Jalil", "topType": "sites", "topTypeAlt": "montagne", "topURI": "JABALJALIL_363E348N_O_SHAM", "translitTitle": "\u01e6abal \u01e6al\u012bl", "translitTitleOther": "\u01e6abal \u01e6al\u012bl"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    36.35891,
+                    34.85533
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.85533",
+                    "coord_lon": "36.35891",
+                    "cornu_URI": "JABALJALIL_363E348N_O_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "sites",
+                    "top_type_orig": "montagne",
+                    "toponym_arabic": "جبل جليل",
+                    "toponym_arabic_other": "جبل جليل",
+                    "toponym_buckwalter": "Jabal Jalil",
+                    "toponym_search": "Jabal Jalil",
+                    "toponym_translit": "Ǧabal Ǧalīl",
+                    "toponym_translit_other": "Ǧabal Ǧalīl"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

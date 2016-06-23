@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [40.76716, 31.48039], "type": "Point"}, "properties": {"arBW": "al-Khanfas, al-Hanfas, al-Janfas", "arTitle": "\ufb50\u0644\u062e\u0646\u0641\u0633", "arTitleOther": "\ufb50\u0644\u062e\u0646\u0641\u0633\u060c \ufb50\u0644\u062d\u0646\u0641\u0633\u060c \ufb50\u0644\u062c\u0646\u0641\u0633", "lat": "31.48039", "lon": "40.76716", "region": "Badiyat al-Arab", "searchNames": "al-Khanfas, al-Hanfas, al-Janfas", "topType": "waystations", "topTypeAlt": "etape", "topURI": "KHANFAS_407E314N_S_BADI", "translitTitle": "al-\u1e2aanfas", "translitTitleOther": "al-\u1e2aanfas, al-\u1e24anfas, al-\u01e6anfas"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    40.76716,
+                    31.48039
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.48039",
+                    "coord_lon": "40.76716",
+                    "cornu_URI": "KHANFAS_407E314N_S_BADI",
+                    "region_code": 23,
+                    "region_spelled": "Badiyat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "ﭐلخنفس",
+                    "toponym_arabic_other": "ﭐلخنفس، ﭐلحنفس، ﭐلجنفس",
+                    "toponym_buckwalter": "al-Khanfas, al-Hanfas, al-Janfas",
+                    "toponym_search": "al-Khanfas, al-Hanfas, al-Janfas",
+                    "toponym_translit": "al-Ḫanfas",
+                    "toponym_translit_other": "al-Ḫanfas, al-Ḥanfas, al-Ǧanfas"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

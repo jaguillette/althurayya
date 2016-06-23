@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [36.59718, 33.9126], "type": "Point"}, "properties": {"arBW": "Jabal Qalamun, Qalamun", "arTitle": "\u062c\u0628\u0644 \u0642\u0644\u0645\u0648\u0646", "arTitleOther": "\u062c\u0628\u0644 \u0642\u0644\u0645\u0648\u0646\u060c \u0642\u0644\u0645\u0648\u0646", "lat": "33.91260", "lon": "36.59718", "region": "Sham", "searchNames": "Jabal Qalamun, Qalamun", "topType": "sites", "topTypeAlt": "montagne", "topURI": "JABALQALAMUN_365E339N_O_SHAM", "translitTitle": "\u01e6abal Qalam\u016bn", "translitTitleOther": "\u01e6abal Qalam\u016bn, Qalam\u016bn"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    36.59718,
+                    33.9126
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.91260",
+                    "coord_lon": "36.59718",
+                    "cornu_URI": "JABALQALAMUN_365E339N_O_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "sites",
+                    "top_type_orig": "montagne",
+                    "toponym_arabic": "جبل قلمون",
+                    "toponym_arabic_other": "جبل قلمون، قلمون",
+                    "toponym_buckwalter": "Jabal Qalamun, Qalamun",
+                    "toponym_search": "Jabal Qalamun, Qalamun",
+                    "toponym_translit": "Ǧabal Qalamūn",
+                    "toponym_translit_other": "Ǧabal Qalamūn, Qalamūn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

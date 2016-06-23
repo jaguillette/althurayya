@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [42.94507, 14.82308], "type": "Point"}, "properties": {"arBW": "Itna", "arTitle": "\u0639\u0637\u0646\u0629", "arTitleOther": "\u0639\u0637\u0646\u0629", "lat": "14.82308", "lon": "42.94507", "region": "Yemen", "searchNames": "Itna", "topType": "towns", "topTypeAlt": "cite", "topURI": "ITNA_429E148N_S_YEME", "translitTitle": "\u02bfI\u1e6dna\u0167", "translitTitleOther": "\u02bfI\u1e6dna\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    42.94507,
+                    14.82308
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "14.82308",
+                    "coord_lon": "42.94507",
+                    "cornu_URI": "ITNA_429E148N_S_YEME",
+                    "region_code": 21,
+                    "region_spelled": "Yemen",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "عطنة",
+                    "toponym_arabic_other": "عطنة",
+                    "toponym_buckwalter": "Itna",
+                    "toponym_search": "Itna",
+                    "toponym_translit": "ʿIṭnaŧ",
+                    "toponym_translit_other": "ʿIṭnaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [57.73088, 27.82747], "type": "Point"}, "properties": {"arBW": "Rudhbar, Rudhbal", "arTitle": "\u0631\u0630\u0628\u0627\u0631", "arTitleOther": "\u0631\u0630\u0628\u0627\u0631\u060c \u0631\u0630\u0628\u0627\u0644", "lat": "27.82747", "lon": "57.73088", "region": "Kirman", "searchNames": "Rudhbar, Rudhbal", "topType": "regions", "topTypeAlt": "region", "topURI": "RUDHBAR_577E278N_R_KIRM", "translitTitle": "Ru\u1e0fb\u0101r", "translitTitleOther": "Ru\u1e0fb\u0101r, Ru\u1e0fb\u0101l"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    57.73088,
+                    27.82747
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "27.82747",
+                    "coord_lon": "57.73088",
+                    "cornu_URI": "RUDHBAR_577E278N_R_KIRM",
+                    "region_code": 12,
+                    "region_spelled": "Kirman",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "رذبار",
+                    "toponym_arabic_other": "رذبار، رذبال",
+                    "toponym_buckwalter": "Rudhbar, Rudhbal",
+                    "toponym_search": "Rudhbar, Rudhbal",
+                    "toponym_translit": "Ruḏbār",
+                    "toponym_translit_other": "Ruḏbār, Ruḏbāl"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

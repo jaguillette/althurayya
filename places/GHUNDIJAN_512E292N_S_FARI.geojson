@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [51.26065, 29.22327], "type": "Point"}, "properties": {"arBW": "al-Ghundijan", "arTitle": "\ufb50\u0644\u063a\u0646\u062f\u062c\u0627\u0646", "arTitleOther": "\ufb50\u0644\u063a\u0646\u062f\u062c\u0627\u0646", "lat": "29.22327", "lon": "51.26065", "region": "Faris", "searchNames": "al-Ghundijan", "topType": "towns", "topTypeAlt": "cite", "topURI": "GHUNDIJAN_512E292N_S_FARI", "translitTitle": "al-\u0120undi\u01e7\u0101n", "translitTitleOther": "al-\u0120undi\u01e7\u0101n"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    51.26065,
+                    29.22327
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "29.22327",
+                    "coord_lon": "51.26065",
+                    "cornu_URI": "GHUNDIJAN_512E292N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ﭐلغندجان",
+                    "toponym_arabic_other": "ﭐلغندجان",
+                    "toponym_buckwalter": "al-Ghundijan",
+                    "toponym_search": "al-Ghundijan",
+                    "toponym_translit": "al-Ġundiǧān",
+                    "toponym_translit_other": "al-Ġundiǧān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

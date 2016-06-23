@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [42.35312, 17.52221], "type": "Point"}, "properties": {"arBW": "Dankan", "arTitle": "\u0636\u0646\u0643\u0627\u0646", "arTitleOther": "\u0636\u0646\u0643\u0627\u0646", "lat": "17.52221", "lon": "42.35312", "region": "Yemen", "searchNames": "Dankan", "topType": "regions", "topTypeAlt": "region", "topURI": "DANKAN_423E175N_R_YEME", "translitTitle": "\u1e0cank\u0101n", "translitTitleOther": "\u1e0cank\u0101n"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    42.35312,
+                    17.52221
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "17.52221",
+                    "coord_lon": "42.35312",
+                    "cornu_URI": "DANKAN_423E175N_R_YEME",
+                    "region_code": 21,
+                    "region_spelled": "Yemen",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "ضنكان",
+                    "toponym_arabic_other": "ضنكان",
+                    "toponym_buckwalter": "Dankan",
+                    "toponym_search": "Dankan",
+                    "toponym_translit": "Ḍankān",
+                    "toponym_translit_other": "Ḍankān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

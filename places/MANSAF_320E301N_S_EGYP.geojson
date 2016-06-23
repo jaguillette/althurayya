@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [32.05366, 30.18702], "type": "Point"}, "properties": {"arBW": "al-Mansaf", "arTitle": "\ufb50\u0644\u0645\u0646\u0635\u0641", "arTitleOther": "\ufb50\u0644\u0645\u0646\u0635\u0641", "lat": "30.18702", "lon": "32.05366", "region": "Egypt", "searchNames": "al-Mansaf", "topType": "villages", "topTypeAlt": "localite", "topURI": "MANSAF_320E301N_S_EGYP", "translitTitle": "al-Man\u1e63af", "translitTitleOther": "al-Man\u1e63af"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    32.05366,
+                    30.18702
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.18702",
+                    "coord_lon": "32.05366",
+                    "cornu_URI": "MANSAF_320E301N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "ﭐلمنصف",
+                    "toponym_arabic_other": "ﭐلمنصف",
+                    "toponym_buckwalter": "al-Mansaf",
+                    "toponym_search": "al-Mansaf",
+                    "toponym_translit": "al-Manṣaf",
+                    "toponym_translit_other": "al-Manṣaf"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

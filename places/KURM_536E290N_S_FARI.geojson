@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [53.608, 29.07233], "type": "Point"}, "properties": {"arBW": "Kurm", "arTitle": "\u0643\u0631\u0645", "arTitleOther": "\u0643\u0631\u0645", "lat": "29.07233", "lon": "53.60800", "region": "Faris", "searchNames": "Kurm", "topType": "towns", "topTypeAlt": "cite", "topURI": "KURM_536E290N_S_FARI", "translitTitle": "Kurm", "translitTitleOther": "Kurm"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    53.608,
+                    29.07233
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "29.07233",
+                    "coord_lon": "53.60800",
+                    "cornu_URI": "KURM_536E290N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "كرم",
+                    "toponym_arabic_other": "كرم",
+                    "toponym_buckwalter": "Kurm",
+                    "toponym_search": "Kurm",
+                    "toponym_translit": "Kurm",
+                    "toponym_translit_other": "Kurm"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

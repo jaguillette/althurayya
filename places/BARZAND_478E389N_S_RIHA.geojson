@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [47.85286, 38.96621], "type": "Point"}, "properties": {"arBW": "Barzand", "arTitle": "\u0628\u0631\u0632\u0646\u062f", "arTitleOther": "\u0628\u0631\u0632\u0646\u062f", "lat": "38.96621", "lon": "47.85286", "region": "Rihab", "searchNames": "Barzand", "topType": "towns", "topTypeAlt": "cite", "topURI": "BARZAND_478E389N_S_RIHA", "translitTitle": "Barzand", "translitTitleOther": "Barzand"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    47.85286,
+                    38.96621
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "38.96621",
+                    "coord_lon": "47.85286",
+                    "cornu_URI": "BARZAND_478E389N_S_RIHA",
+                    "region_code": 15,
+                    "region_spelled": "Rihab",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "برزند",
+                    "toponym_arabic_other": "برزند",
+                    "toponym_buckwalter": "Barzand",
+                    "toponym_search": "Barzand",
+                    "toponym_translit": "Barzand",
+                    "toponym_translit_other": "Barzand"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

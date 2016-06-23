@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [43.87398, 36.3752], "type": "Point"}, "properties": {"arBW": "Zab al-Kabir, Zab al-Ala", "arTitle": "\u0632\u0627\u0628 \ufb50\u0644\u0643\u0628\u064a\u0631", "arTitleOther": "\u0632\u0627\u0628 \ufb50\u0644\u0643\u0628\u064a\u0631\u060c \u0632\u0627\u0628 \ufb50\u0644\u0623\u0639\u0644\u0649", "lat": "36.37520", "lon": "43.87398", "region": "Aqur", "searchNames": "Zab al-Kabir, Zab al-Ala", "topType": "waters", "topTypeAlt": "riviere", "topURI": "ZABKABIR_438E363N_W_AQUR", "translitTitle": "Z\u0101b al-Kab\u012br", "translitTitleOther": "Z\u0101b al-Kab\u012br, Z\u0101b al-A\u02bfl\u00e1"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    43.87398,
+                    36.3752
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.37520",
+                    "coord_lon": "43.87398",
+                    "cornu_URI": "ZABKABIR_438E363N_W_AQUR",
+                    "region_code": 2,
+                    "region_spelled": "Aqur",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "riviere",
+                    "toponym_arabic": "زاب ﭐلكبير",
+                    "toponym_arabic_other": "زاب ﭐلكبير، زاب ﭐلأعلى",
+                    "toponym_buckwalter": "Zab al-Kabir, Zab al-Ala",
+                    "toponym_search": "Zab al-Kabir, Zab al-Ala",
+                    "toponym_translit": "Zāb al-Kabīr",
+                    "toponym_translit_other": "Zāb al-Kabīr, Zāb al-Aʿlá"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

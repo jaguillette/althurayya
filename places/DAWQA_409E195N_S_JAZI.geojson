@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [40.96521, 19.5605], "type": "Point"}, "properties": {"arBW": "Dawqa", "arTitle": "\u062f\u0648\u0642\u0629", "arTitleOther": "\u062f\u0648\u0642\u0629", "lat": "19.56050", "lon": "40.96521", "region": "Jazirat al-Arab", "searchNames": "Dawqa", "topType": "villages", "topTypeAlt": "localite", "topURI": "DAWQA_409E195N_S_JAZI", "translitTitle": "Dawqa\u0167", "translitTitleOther": "Dawqa\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    40.96521,
+                    19.5605
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "19.56050",
+                    "coord_lon": "40.96521",
+                    "cornu_URI": "DAWQA_409E195N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "دوقة",
+                    "toponym_arabic_other": "دوقة",
+                    "toponym_buckwalter": "Dawqa",
+                    "toponym_search": "Dawqa",
+                    "toponym_translit": "Dawqaŧ",
+                    "toponym_translit_other": "Dawqaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [40.85162, 34.54577], "type": "Point"}, "properties": {"arBW": "Khalij Banu Jumay", "arTitle": "\u062e\u0644\u064a\u062c \u0628\u0646\u0648 \u062c\u0645\u064a\u0639", "arTitleOther": "\u062e\u0644\u064a\u062c \u0628\u0646\u0648 \u062c\u0645\u064a\u0639", "lat": "34.54577", "lon": "40.85162", "region": "Aqur", "searchNames": "Khalij Banu Jumay", "topType": "waystations", "topTypeAlt": "etape", "topURI": "KHALIJBANUJUMAY_408E345N_S_AQUR", "translitTitle": "\u1e2aal\u012b\u01e7 Ban\u016b \u01e6umay\u02bf", "translitTitleOther": "\u1e2aal\u012b\u01e7 Ban\u016b \u01e6umay\u02bf"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    40.85162,
+                    34.54577
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.54577",
+                    "coord_lon": "40.85162",
+                    "cornu_URI": "KHALIJBANUJUMAY_408E345N_S_AQUR",
+                    "region_code": 2,
+                    "region_spelled": "Aqur",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "خليج بنو جميع",
+                    "toponym_arabic_other": "خليج بنو جميع",
+                    "toponym_buckwalter": "Khalij Banu Jumay",
+                    "toponym_search": "Khalij Banu Jumay",
+                    "toponym_translit": "Ḫalīǧ Banū Ǧumayʿ",
+                    "toponym_translit_other": "Ḫalīǧ Banū Ǧumayʿ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

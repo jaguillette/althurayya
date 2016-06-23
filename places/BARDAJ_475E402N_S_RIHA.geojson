@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [47.56971, 40.23581], "type": "Point"}, "properties": {"arBW": "Bardaj, Bardij, Barzanj", "arTitle": "\u0628\u0631\u062f\u0627\u062c", "arTitleOther": "\u0628\u0631\u062f\u0627\u062c\u060c \u0628\u0631\u062f\u064a\u062c\u060c \u0628\u0631\u0632\u0646\u062c", "lat": "40.23581", "lon": "47.56971", "region": "Rihab", "searchNames": "Bardaj, Bardij, Barzanj", "topType": "towns", "topTypeAlt": "cite", "topURI": "BARDAJ_475E402N_S_RIHA", "translitTitle": "Bard\u0101\u01e7", "translitTitleOther": "Bard\u0101\u01e7, Bard\u012b\u01e7, Barzan\u01e7"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    47.56971,
+                    40.23581
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "40.23581",
+                    "coord_lon": "47.56971",
+                    "cornu_URI": "BARDAJ_475E402N_S_RIHA",
+                    "region_code": 15,
+                    "region_spelled": "Rihab",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "برداج",
+                    "toponym_arabic_other": "برداج، برديج، برزنج",
+                    "toponym_buckwalter": "Bardaj, Bardij, Barzanj",
+                    "toponym_search": "Bardaj, Bardij, Barzanj",
+                    "toponym_translit": "Bardāǧ",
+                    "toponym_translit_other": "Bardāǧ, Bardīǧ, Barzanǧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

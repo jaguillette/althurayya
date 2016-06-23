@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [20.08482, 32.11419], "type": "Point"}, "properties": {"arBW": "Barniq", "arTitle": "\u0628\u0631\u0646\u064a\u0642", "arTitleOther": "\u0628\u0631\u0646\u064a\u0642", "lat": "32.11419", "lon": "20.08482", "region": "Barqa", "searchNames": "Barniq", "topType": "towns", "topTypeAlt": "cite", "topURI": "BARNIQ_200E321N_S_BARQ", "translitTitle": "Barn\u012bq", "translitTitleOther": "Barn\u012bq"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    20.08482,
+                    32.11419
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.11419",
+                    "coord_lon": "20.08482",
+                    "cornu_URI": "BARNIQ_200E321N_S_BARQ",
+                    "region_code": 3,
+                    "region_spelled": "Barqa",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "برنيق",
+                    "toponym_arabic_other": "برنيق",
+                    "toponym_buckwalter": "Barniq",
+                    "toponym_search": "Barniq",
+                    "toponym_translit": "Barnīq",
+                    "toponym_translit_other": "Barnīq"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

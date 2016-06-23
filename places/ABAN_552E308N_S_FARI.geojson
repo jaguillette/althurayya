@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [55.25395, 30.88547], "type": "Point"}, "properties": {"arBW": "Aban", "arTitle": "\u0623\u0628\u0627\u0646", "arTitleOther": "\u0623\u0628\u0627\u0646", "lat": "30.88547", "lon": "55.25395", "region": "Faris", "searchNames": "Aban", "topType": "towns", "topTypeAlt": "cite", "topURI": "ABAN_552E308N_S_FARI", "translitTitle": "Ab\u0101n", "translitTitleOther": "Ab\u0101n"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    55.25395,
+                    30.88547
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.88547",
+                    "coord_lon": "55.25395",
+                    "cornu_URI": "ABAN_552E308N_S_FARI",
+                    "region_code": 6,
+                    "region_spelled": "Faris",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "أبان",
+                    "toponym_arabic_other": "أبان",
+                    "toponym_buckwalter": "Aban",
+                    "toponym_search": "Aban",
+                    "toponym_translit": "Abān",
+                    "toponym_translit_other": "Abān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

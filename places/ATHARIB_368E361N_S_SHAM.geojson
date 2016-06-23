@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [36.83533, 36.13792], "type": "Point"}, "properties": {"arBW": "al-Atharib", "arTitle": "\ufb50\u0644\u0623\u062b\u0627\u0631\u0628", "arTitleOther": "\ufb50\u0644\u0623\u062b\u0627\u0631\u0628", "lat": "36.13792", "lon": "36.83533", "region": "Sham", "searchNames": "al-Atharib", "topType": "waystations", "topTypeAlt": "etape", "topURI": "ATHARIB_368E361N_S_SHAM", "translitTitle": "al-A\u1e6f\u0101rib", "translitTitleOther": "al-A\u1e6f\u0101rib"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    36.83533,
+                    36.13792
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.13792",
+                    "coord_lon": "36.83533",
+                    "cornu_URI": "ATHARIB_368E361N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "ﭐلأثارب",
+                    "toponym_arabic_other": "ﭐلأثارب",
+                    "toponym_buckwalter": "al-Atharib",
+                    "toponym_search": "al-Atharib",
+                    "toponym_translit": "al-Aṯārib",
+                    "toponym_translit_other": "al-Aṯārib"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

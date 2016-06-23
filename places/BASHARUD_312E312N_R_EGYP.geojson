@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [31.23342, 31.28817], "type": "Point"}, "properties": {"arBW": "al-Basharud", "arTitle": "\ufb50\u0644\u0628\u0634\u0631\u0648\u062f", "arTitleOther": "\ufb50\u0644\u0628\u0634\u0631\u0648\u062f", "lat": "31.28817", "lon": "31.23342", "region": "Egypt", "searchNames": "al-Basharud", "topType": "regions", "topTypeAlt": "region", "topURI": "BASHARUD_312E312N_R_EGYP", "translitTitle": "al-Ba\u0161ar\u016bd", "translitTitleOther": "al-Ba\u0161ar\u016bd"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    31.23342,
+                    31.28817
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.28817",
+                    "coord_lon": "31.23342",
+                    "cornu_URI": "BASHARUD_312E312N_R_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "ﭐلبشرود",
+                    "toponym_arabic_other": "ﭐلبشرود",
+                    "toponym_buckwalter": "al-Basharud",
+                    "toponym_search": "al-Basharud",
+                    "toponym_translit": "al-Bašarūd",
+                    "toponym_translit_other": "al-Bašarūd"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [44.9846, 32.91181], "type": "Point"}, "properties": {"arBW": "Dayr al-Aqul", "arTitle": "\u062f\u064a\u0631 \ufb50\u0644\u0639\u0627\u0642\u0648\u0644", "arTitleOther": "\u062f\u064a\u0631 \ufb50\u0644\u0639\u0627\u0642\u0648\u0644", "lat": "32.91181", "lon": "44.98460", "region": "Iraq", "searchNames": "Dayr al-Aqul", "topType": "towns", "topTypeAlt": "cite", "topURI": "DAYRAQUL_449E329N_S_IRAQ", "translitTitle": "Dayr al-\u02bf\u0100q\u016bl", "translitTitleOther": "Dayr al-\u02bf\u0100q\u016bl"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    44.9846,
+                    32.91181
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "32.91181",
+                    "coord_lon": "44.98460",
+                    "cornu_URI": "DAYRAQUL_449E329N_S_IRAQ",
+                    "region_code": 7,
+                    "region_spelled": "Iraq",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "دير ﭐلعاقول",
+                    "toponym_arabic_other": "دير ﭐلعاقول",
+                    "toponym_buckwalter": "Dayr al-Aqul",
+                    "toponym_search": "Dayr al-Aqul",
+                    "toponym_translit": "Dayr al-ʿĀqūl",
+                    "toponym_translit_other": "Dayr al-ʿĀqūl"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

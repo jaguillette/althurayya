@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [43.07237, 15.22352], "type": "Point"}, "properties": {"arBW": "al-Mahjam", "arTitle": "\ufb50\u0644\u0645\u0647\u062c\u0645", "arTitleOther": "\ufb50\u0644\u0645\u0647\u062c\u0645", "lat": "15.22352", "lon": "43.07237", "region": "Yemen", "searchNames": "al-Mahjam", "topType": "towns", "topTypeAlt": "cite", "topURI": "MAHJAM_430E152N_S_YEME", "translitTitle": "al-Mah\u01e7am", "translitTitleOther": "al-Mah\u01e7am"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    43.07237,
+                    15.22352
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "15.22352",
+                    "coord_lon": "43.07237",
+                    "cornu_URI": "MAHJAM_430E152N_S_YEME",
+                    "region_code": 21,
+                    "region_spelled": "Yemen",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ﭐلمهجم",
+                    "toponym_arabic_other": "ﭐلمهجم",
+                    "toponym_buckwalter": "al-Mahjam",
+                    "toponym_search": "al-Mahjam",
+                    "toponym_translit": "al-Mahǧam",
+                    "toponym_translit_other": "al-Mahǧam"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

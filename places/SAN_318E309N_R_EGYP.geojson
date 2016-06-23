@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [31.87265, 30.9789], "type": "Point"}, "properties": {"arBW": "San", "arTitle": "\u0635\u0627\u0646", "arTitleOther": "\u0635\u0627\u0646", "lat": "30.97890", "lon": "31.87265", "region": "Egypt", "searchNames": "San", "topType": "regions", "topTypeAlt": "district", "topURI": "SAN_318E309N_R_EGYP", "translitTitle": "\u1e62\u0101n", "translitTitleOther": "\u1e62\u0101n"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    31.87265,
+                    30.9789
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.97890",
+                    "coord_lon": "31.87265",
+                    "cornu_URI": "SAN_318E309N_R_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "district",
+                    "toponym_arabic": "صان",
+                    "toponym_arabic_other": "صان",
+                    "toponym_buckwalter": "San",
+                    "toponym_search": "San",
+                    "toponym_translit": "Ṣān",
+                    "toponym_translit_other": "Ṣān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

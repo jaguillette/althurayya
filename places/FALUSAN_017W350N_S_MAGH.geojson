@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [-1.75553, 35.03281], "type": "Point"}, "properties": {"arBW": "Falusan, Qasr al-Fulus", "arTitle": "\u0641\u0627\u0644\u0648\u0633\u0646", "arTitleOther": "\u0641\u0627\u0644\u0648\u0633\u0646\u060c \u0642\u0635\u0631 \ufb50\u0644\u0641\u0644\u0648\u0633", "lat": "35.03281", "lon": "-1.75553", "region": "Maghrib", "searchNames": "Falusan, Qasr al-Fulus", "topType": "towns", "topTypeAlt": "cite", "topURI": "FALUSAN_017W350N_S_MAGH", "translitTitle": "F\u0101l\u016bsan", "translitTitleOther": "F\u0101l\u016bsan, Qa\u1e63r al-Ful\u016bs"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.75553,
+                    35.03281
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "35.03281",
+                    "coord_lon": "-1.75553",
+                    "cornu_URI": "FALUSAN_017W350N_S_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "فالوسن",
+                    "toponym_arabic_other": "فالوسن، قصر ﭐلفلوس",
+                    "toponym_buckwalter": "Falusan, Qasr al-Fulus",
+                    "toponym_search": "Falusan, Qasr al-Fulus",
+                    "toponym_translit": "Fālūsan",
+                    "toponym_translit_other": "Fālūsan, Qaṣr al-Fulūs"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

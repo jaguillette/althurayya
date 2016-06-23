@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [65.88026, 31.39074], "type": "Point"}, "properties": {"arBW": "Ribat al-Hajariyya", "arTitle": "\u0631\u0628\u0627\u0637 \ufb50\u0644\u062d\u062c\u0631\u064a\u0629", "arTitleOther": "\u0631\u0628\u0627\u0637 \ufb50\u0644\u062d\u062c\u0631\u064a\u0629", "lat": "31.39074", "lon": "65.88026", "region": "Sijistan", "searchNames": "Ribat al-Hajariyya", "topType": "waystations", "topTypeAlt": "ribat", "topURI": "RIBATHAJARIYYA_658E313N_S_SIJI", "translitTitle": "Rib\u0101\u1e6d al-\u1e24a\u01e7ariyya\u0167", "translitTitleOther": "Rib\u0101\u1e6d al-\u1e24a\u01e7ariyya\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    65.88026,
+                    31.39074
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.39074",
+                    "coord_lon": "65.88026",
+                    "cornu_URI": "RIBATHAJARIYYA_658E313N_S_SIJI",
+                    "region_code": 18,
+                    "region_spelled": "Sijistan",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "ribat",
+                    "toponym_arabic": "رباط ﭐلحجرية",
+                    "toponym_arabic_other": "رباط ﭐلحجرية",
+                    "toponym_buckwalter": "Ribat al-Hajariyya",
+                    "toponym_search": "Ribat al-Hajariyya",
+                    "toponym_translit": "Ribāṭ al-Ḥaǧariyyaŧ",
+                    "toponym_translit_other": "Ribāṭ al-Ḥaǧariyyaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

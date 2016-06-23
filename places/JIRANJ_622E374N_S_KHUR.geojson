@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [62.22511, 37.49732], "type": "Point"}, "properties": {"arBW": "Jiranj, Kirank", "arTitle": "\u062c\u064a\u0631\u0646\u062c", "arTitleOther": "\u062c\u064a\u0631\u0646\u062c\u060c \u0643\u064a\u0631\u0646\u0643", "lat": "37.49732", "lon": "62.22511", "region": "Khurasan", "searchNames": "Jiranj, Kirank", "topType": "towns", "topTypeAlt": "cite", "topURI": "JIRANJ_622E374N_S_KHUR", "translitTitle": "\u01e6\u012bran\u01e7", "translitTitleOther": "\u01e6\u012bran\u01e7, K\u012brank"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    62.22511,
+                    37.49732
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "37.49732",
+                    "coord_lon": "62.22511",
+                    "cornu_URI": "JIRANJ_622E374N_S_KHUR",
+                    "region_code": 10,
+                    "region_spelled": "Khurasan",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "جيرنج",
+                    "toponym_arabic_other": "جيرنج، كيرنك",
+                    "toponym_buckwalter": "Jiranj, Kirank",
+                    "toponym_search": "Jiranj, Kirank",
+                    "toponym_translit": "Ǧīranǧ",
+                    "toponym_translit_other": "Ǧīranǧ, Kīrank"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

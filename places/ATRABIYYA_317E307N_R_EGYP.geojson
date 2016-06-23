@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [31.74628, 30.70963], "type": "Point"}, "properties": {"arBW": "Atrabiyya", "arTitle": "\u0623\u0637\u0631\u0628\u064a\u0629", "arTitleOther": "\u0623\u0637\u0631\u0628\u064a\u0629", "lat": "30.70963", "lon": "31.74628", "region": "Egypt", "searchNames": "Atrabiyya", "topType": "regions", "topTypeAlt": "region", "topURI": "ATRABIYYA_317E307N_R_EGYP", "translitTitle": "A\u1e6drabiyya\u0167", "translitTitleOther": "A\u1e6drabiyya\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    31.74628,
+                    30.70963
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.70963",
+                    "coord_lon": "31.74628",
+                    "cornu_URI": "ATRABIYYA_317E307N_R_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "أطربية",
+                    "toponym_arabic_other": "أطربية",
+                    "toponym_buckwalter": "Atrabiyya",
+                    "toponym_search": "Atrabiyya",
+                    "toponym_translit": "Aṭrabiyyaŧ",
+                    "toponym_translit_other": "Aṭrabiyyaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

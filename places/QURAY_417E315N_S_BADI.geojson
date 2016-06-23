@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [41.7933, 31.51068], "type": "Point"}, "properties": {"arBW": "al-Quray", "arTitle": "\ufb50\u0644\u0642\u0631\u0627\u064a", "arTitleOther": "\ufb50\u0644\u0642\u0631\u0627\u064a", "lat": "31.51068", "lon": "41.79330", "region": "Badiyat al-Arab", "searchNames": "al-Quray", "topType": "waystations", "topTypeAlt": "etape", "topURI": "QURAY_417E315N_S_BADI", "translitTitle": "al-Qur\u0101y", "translitTitleOther": "al-Qur\u0101y"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    41.7933,
+                    31.51068
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.51068",
+                    "coord_lon": "41.79330",
+                    "cornu_URI": "QURAY_417E315N_S_BADI",
+                    "region_code": 23,
+                    "region_spelled": "Badiyat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "ﭐلقراي",
+                    "toponym_arabic_other": "ﭐلقراي",
+                    "toponym_buckwalter": "al-Quray",
+                    "toponym_search": "al-Quray",
+                    "toponym_translit": "al-Qurāy",
+                    "toponym_translit_other": "al-Qurāy"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

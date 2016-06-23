@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [41.52796, 25.5536], "type": "Point"}, "properties": {"arBW": "Madin al-Naqira", "arTitle": "\u0645\u0639\u062f\u0646 \ufb50\u0644\u0646\u0642\u0631\u0629", "arTitleOther": "\u0645\u0639\u062f\u0646 \ufb50\u0644\u0646\u0642\u0631\u0629", "lat": "25.55360", "lon": "41.52796", "region": "Jazirat al-Arab", "searchNames": "Madin al-Naqira", "topType": "waystations", "topTypeAlt": "etape", "topURI": "MADINNAQIRA_415E255N_S_JAZI", "translitTitle": "Ma\u02bfdin al-Naqira\u0167", "translitTitleOther": "Ma\u02bfdin al-Naqira\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    41.52796,
+                    25.5536
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "25.55360",
+                    "coord_lon": "41.52796",
+                    "cornu_URI": "MADINNAQIRA_415E255N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "معدن ﭐلنقرة",
+                    "toponym_arabic_other": "معدن ﭐلنقرة",
+                    "toponym_buckwalter": "Madin al-Naqira",
+                    "toponym_search": "Madin al-Naqira",
+                    "toponym_translit": "Maʿdin al-Naqiraŧ",
+                    "toponym_translit_other": "Maʿdin al-Naqiraŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

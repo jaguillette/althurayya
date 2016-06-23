@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [30.79, 31.51979], "type": "Point"}, "properties": {"arBW": "Ikhna, Ajna", "arTitle": "\u0625\u062e\u0646\u0627", "arTitleOther": "\u0625\u062e\u0646\u0627\u060c \u0623\u062c\u0646\u0627", "lat": "31.51979", "lon": "30.79000", "region": "Egypt", "searchNames": "Ikhna, Ajna", "topType": "towns", "topTypeAlt": "cite?", "topURI": "IKHNA_307E315N_S_EGYP", "translitTitle": "I\u1e2bn\u0101", "translitTitleOther": "I\u1e2bn\u0101, A\u01e7n\u0101"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    30.79,
+                    31.51979
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.51979",
+                    "coord_lon": "30.79000",
+                    "cornu_URI": "IKHNA_307E315N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite?",
+                    "toponym_arabic": "إخنا",
+                    "toponym_arabic_other": "إخنا، أجنا",
+                    "toponym_buckwalter": "Ikhna, Ajna",
+                    "toponym_search": "Ikhna, Ajna",
+                    "toponym_translit": "Iḫnā",
+                    "toponym_translit_other": "Iḫnā, Aǧnā"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

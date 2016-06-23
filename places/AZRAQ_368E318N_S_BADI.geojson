@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [36.87768, 31.84612], "type": "Point"}, "properties": {"arBW": "al-Azraq", "arTitle": "\ufb50\u0644\u0623\u0632\u0631\u0642", "arTitleOther": "\ufb50\u0644\u0623\u0632\u0631\u0642", "lat": "31.84612", "lon": "36.87768", "region": "Badiyat al-Arab", "searchNames": "al-Azraq", "topType": "waystations", "topTypeAlt": "etape", "topURI": "AZRAQ_368E318N_S_BADI", "translitTitle": "al-Azraq", "translitTitleOther": "al-Azraq"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    36.87768,
+                    31.84612
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.84612",
+                    "coord_lon": "36.87768",
+                    "cornu_URI": "AZRAQ_368E318N_S_BADI",
+                    "region_code": 23,
+                    "region_spelled": "Badiyat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "ﭐلأزرق",
+                    "toponym_arabic_other": "ﭐلأزرق",
+                    "toponym_buckwalter": "al-Azraq",
+                    "toponym_search": "al-Azraq",
+                    "toponym_translit": "al-Azraq",
+                    "toponym_translit_other": "al-Azraq"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [42.41353, 33.98559], "type": "Point"}, "properties": {"arBW": "Alus, Alusa", "arTitle": "\u0622\u0644\u0648\u0633", "arTitleOther": "\u0622\u0644\u0648\u0633\u060c \u0622\u0644\u0648\u0633\u0627", "lat": "33.98559", "lon": "42.41353", "region": "Aqur", "searchNames": "Alus, Alusa", "topType": "towns", "topTypeAlt": "cite", "topURI": "ALUS_424E339N_S_AQUR", "translitTitle": "\u0100l\u016bs", "translitTitleOther": "\u0100l\u016bs, \u0100l\u016bs\u0101"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    42.41353,
+                    33.98559
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.98559",
+                    "coord_lon": "42.41353",
+                    "cornu_URI": "ALUS_424E339N_S_AQUR",
+                    "region_code": 2,
+                    "region_spelled": "Aqur",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "آلوس",
+                    "toponym_arabic_other": "آلوس، آلوسا",
+                    "toponym_buckwalter": "Alus, Alusa",
+                    "toponym_search": "Alus, Alusa",
+                    "toponym_translit": "Ālūs",
+                    "toponym_translit_other": "Ālūs, Ālūsā"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

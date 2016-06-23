@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [43.5639, 29.40521], "type": "Point"}, "properties": {"arBW": "Zubala", "arTitle": "\u0632\u0628\u0627\u0644\u0629", "arTitleOther": "\u0632\u0628\u0627\u0644\u0629", "lat": "29.40521", "lon": "43.56390", "region": "Badiyat al-Arab", "searchNames": "Zubala", "topType": "waystations", "topTypeAlt": "forteresse", "topURI": "ZUBALA_435E294N_S_BADI", "translitTitle": "Zub\u0101la\u0167", "translitTitleOther": "Zub\u0101la\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    43.5639,
+                    29.40521
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "29.40521",
+                    "coord_lon": "43.56390",
+                    "cornu_URI": "ZUBALA_435E294N_S_BADI",
+                    "region_code": 23,
+                    "region_spelled": "Badiyat al-Arab",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "forteresse",
+                    "toponym_arabic": "زبالة",
+                    "toponym_arabic_other": "زبالة",
+                    "toponym_buckwalter": "Zubala",
+                    "toponym_search": "Zubala",
+                    "toponym_translit": "Zubālaŧ",
+                    "toponym_translit_other": "Zubālaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

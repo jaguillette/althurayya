@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [24.83486, 31.67644], "type": "Point"}, "properties": {"arBW": "Marj al-Shaykh", "arTitle": "\u0645\u0631\u062c \ufb50\u0644\u0634\u064a\u062e", "arTitleOther": "\u0645\u0631\u062c \ufb50\u0644\u0634\u064a\u062e", "lat": "31.67644", "lon": "24.83486", "region": "Barqa", "searchNames": "Marj al-Shaykh", "topType": "waystations", "topTypeAlt": "etape", "topURI": "MARJSHAYKH_248E316N_S_BARQ", "translitTitle": "Mar\u01e7 al-\u0160ay\u1e2b", "translitTitleOther": "Mar\u01e7 al-\u0160ay\u1e2b"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    24.83486,
+                    31.67644
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.67644",
+                    "coord_lon": "24.83486",
+                    "cornu_URI": "MARJSHAYKH_248E316N_S_BARQ",
+                    "region_code": 3,
+                    "region_spelled": "Barqa",
+                    "top_type_hom": "waystations",
+                    "top_type_orig": "etape",
+                    "toponym_arabic": "مرج ﭐلشيخ",
+                    "toponym_arabic_other": "مرج ﭐلشيخ",
+                    "toponym_buckwalter": "Marj al-Shaykh",
+                    "toponym_search": "Marj al-Shaykh",
+                    "toponym_translit": "Marǧ al-Šayḫ",
+                    "toponym_translit_other": "Marǧ al-Šayḫ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

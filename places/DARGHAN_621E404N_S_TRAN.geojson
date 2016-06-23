@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [62.17614, 40.44741], "type": "Point"}, "properties": {"arBW": "Darghan", "arTitle": "\u062f\u0631\u063a\u0627\u0646", "arTitleOther": "\u062f\u0631\u063a\u0627\u0646", "lat": "40.44741", "lon": "62.17614", "region": "Transoxiana", "searchNames": "Darghan", "topType": "towns", "topTypeAlt": "ville", "topURI": "DARGHAN_621E404N_S_TRAN", "translitTitle": "Dar\u0121\u0101n", "translitTitleOther": "Dar\u0121\u0101n"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    62.17614,
+                    40.44741
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "40.44741",
+                    "coord_lon": "62.17614",
+                    "cornu_URI": "DARGHAN_621E404N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "ville",
+                    "toponym_arabic": "درغان",
+                    "toponym_arabic_other": "درغان",
+                    "toponym_buckwalter": "Darghan",
+                    "toponym_search": "Darghan",
+                    "toponym_translit": "Darġān",
+                    "toponym_translit_other": "Darġān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

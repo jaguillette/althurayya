@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [40.69403, 36.05814], "type": "Point"}, "properties": {"arBW": "Araban", "arTitle": "\u0639\u0631\u0628\u0627\u0646", "arTitleOther": "\u0639\u0631\u0628\u0627\u0646", "lat": "36.05814", "lon": "40.69403", "region": "Aqur", "searchNames": "Araban", "topType": "capitals", "topTypeAlt": "capitale", "topURI": "ARABAN_406E360N_S_AQUR", "translitTitle": "\u02bfArab\u0101n", "translitTitleOther": "\u02bfArab\u0101n"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    40.69403,
+                    36.05814
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "36.05814",
+                    "coord_lon": "40.69403",
+                    "cornu_URI": "ARABAN_406E360N_S_AQUR",
+                    "region_code": 2,
+                    "region_spelled": "Aqur",
+                    "top_type_hom": "capitals",
+                    "top_type_orig": "capitale",
+                    "toponym_arabic": "عربان",
+                    "toponym_arabic_other": "عربان",
+                    "toponym_buckwalter": "Araban",
+                    "toponym_search": "Araban",
+                    "toponym_translit": "ʿArabān",
+                    "toponym_translit_other": "ʿArabān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

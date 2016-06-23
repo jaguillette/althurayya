@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [39.56795, 22.38571], "type": "Point"}, "properties": {"arBW": "al-Khaym, Khaym Umm Mabad, Qudayd", "arTitle": "\ufb50\u0644\u062e\u064a\u0645", "arTitleOther": "\ufb50\u0644\u062e\u064a\u0645\u060c \u062e\u064a\u0645 \u0623\u0645 \u0645\u0639\u0628\u062f\u060c \u0642\u062f\u064a\u062f", "lat": "22.38571", "lon": "39.56795", "region": "Jazirat al-Arab", "searchNames": "al-Khaym, Khaym Umm Mabad, Qudayd", "topType": "villages", "topTypeAlt": "localite", "topURI": "KHAYM_395E223N_S_JAZI", "translitTitle": "al-\u1e2aaym", "translitTitleOther": "al-\u1e2aaym, \u1e2aaym Umm Ma\u02bfbad, Qudayd"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    39.56795,
+                    22.38571
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "22.38571",
+                    "coord_lon": "39.56795",
+                    "cornu_URI": "KHAYM_395E223N_S_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "ﭐلخيم",
+                    "toponym_arabic_other": "ﭐلخيم، خيم أم معبد، قديد",
+                    "toponym_buckwalter": "al-Khaym, Khaym Umm Mabad, Qudayd",
+                    "toponym_search": "al-Khaym, Khaym Umm Mabad, Qudayd",
+                    "toponym_translit": "al-Ḫaym",
+                    "toponym_translit_other": "al-Ḫaym, Ḫaym Umm Maʿbad, Qudayd"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

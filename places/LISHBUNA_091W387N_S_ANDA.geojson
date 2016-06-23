@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [-9.14514, 38.76878], "type": "Point"}, "properties": {"arBW": "Lishbuna", "arTitle": "\u0644\u0634\u0628\u0648\u0646\u0629", "arTitleOther": "\u0644\u0634\u0628\u0648\u0646\u0629", "lat": "38.76878", "lon": "-9.14514", "region": "Andalus", "searchNames": "Lishbuna", "topType": "towns", "topTypeAlt": "cite", "topURI": "LISHBUNA_091W387N_S_ANDA", "translitTitle": "Li\u0161b\u016bna\u0167", "translitTitleOther": "Li\u0161b\u016bna\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -9.14514,
+                    38.76878
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "38.76878",
+                    "coord_lon": "-9.14514",
+                    "cornu_URI": "LISHBUNA_091W387N_S_ANDA",
+                    "region_code": 1,
+                    "region_spelled": "Andalus",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "لشبونة",
+                    "toponym_arabic_other": "لشبونة",
+                    "toponym_buckwalter": "Lishbuna",
+                    "toponym_search": "Lishbuna",
+                    "toponym_translit": "Lišbūnaŧ",
+                    "toponym_translit_other": "Lišbūnaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

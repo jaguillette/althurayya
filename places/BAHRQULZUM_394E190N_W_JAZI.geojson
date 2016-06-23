@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [39.48379, 19.02737], "type": "Point"}, "properties": {"arBW": "Bahr al-Qulzum", "arTitle": "\u0628\u062d\u0631 \ufb50\u0644\u0642\u0644\u0632\u0645", "arTitleOther": "\u0628\u062d\u0631 \ufb50\u0644\u0642\u0644\u0632\u0645", "lat": "19.02737", "lon": "39.48379", "region": "Jazirat al-Arab", "searchNames": "Bahr al-Qulzum", "topType": "waters", "topTypeAlt": "mer", "topURI": "BAHRQULZUM_394E190N_W_JAZI", "translitTitle": "Ba\u1e25r al-Qulzum", "translitTitleOther": "Ba\u1e25r al-Qulzum"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    39.48379,
+                    19.02737
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "19.02737",
+                    "coord_lon": "39.48379",
+                    "cornu_URI": "BAHRQULZUM_394E190N_W_JAZI",
+                    "region_code": 24,
+                    "region_spelled": "Jazirat al-Arab",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "mer",
+                    "toponym_arabic": "بحر ﭐلقلزم",
+                    "toponym_arabic_other": "بحر ﭐلقلزم",
+                    "toponym_buckwalter": "Bahr al-Qulzum",
+                    "toponym_search": "Bahr al-Qulzum",
+                    "toponym_translit": "Baḥr al-Qulzum",
+                    "toponym_translit_other": "Baḥr al-Qulzum"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

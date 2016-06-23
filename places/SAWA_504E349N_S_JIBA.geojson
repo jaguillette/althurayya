@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [50.42711, 34.97799], "type": "Point"}, "properties": {"arBW": "Sawa", "arTitle": "\u0633\u0627\u0648\u0629", "arTitleOther": "\u0633\u0627\u0648\u0629", "lat": "34.97799", "lon": "50.42711", "region": "Jibal", "searchNames": "Sawa", "topType": "towns", "topTypeAlt": "cite", "topURI": "SAWA_504E349N_S_JIBA", "translitTitle": "S\u0101wa\u0167", "translitTitleOther": "S\u0101wa\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    50.42711,
+                    34.97799
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.97799",
+                    "coord_lon": "50.42711",
+                    "cornu_URI": "SAWA_504E349N_S_JIBA",
+                    "region_code": 8,
+                    "region_spelled": "Jibal",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "ساوة",
+                    "toponym_arabic_other": "ساوة",
+                    "toponym_buckwalter": "Sawa",
+                    "toponym_search": "Sawa",
+                    "toponym_translit": "Sāwaŧ",
+                    "toponym_translit_other": "Sāwaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

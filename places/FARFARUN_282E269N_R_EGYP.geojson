@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [28.20107, 26.96368], "type": "Point"}, "properties": {"arBW": "Farfarun", "arTitle": "\u0641\u0631\u0641\u0627\u0631\u0648\u0646", "arTitleOther": "\u0641\u0631\u0641\u0627\u0631\u0648\u0646", "lat": "26.96368", "lon": "28.20107", "region": "Egypt", "searchNames": "Farfarun", "topType": "regions", "topTypeAlt": "region", "topURI": "FARFARUN_282E269N_R_EGYP", "translitTitle": "Farf\u0101r\u016bn", "translitTitleOther": "Farf\u0101r\u016bn"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    28.20107,
+                    26.96368
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "26.96368",
+                    "coord_lon": "28.20107",
+                    "cornu_URI": "FARFARUN_282E269N_R_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "فرفارون",
+                    "toponym_arabic_other": "فرفارون",
+                    "toponym_buckwalter": "Farfarun",
+                    "toponym_search": "Farfarun",
+                    "toponym_translit": "Farfārūn",
+                    "toponym_translit_other": "Farfārūn"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

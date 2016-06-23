@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [42.80636, 16.32481], "type": "Point"}, "properties": {"arBW": "al-Sharja", "arTitle": "\ufb50\u0644\u0634\u0631\u062c\u0629", "arTitleOther": "\ufb50\u0644\u0634\u0631\u062c\u0629", "lat": "16.32481", "lon": "42.80636", "region": "Yemen", "searchNames": "al-Sharja", "topType": "towns", "topTypeAlt": "cite/port", "topURI": "SHARJA_428E163N_S_YEME", "translitTitle": "al-\u0160ar\u01e7a\u0167", "translitTitleOther": "al-\u0160ar\u01e7a\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    42.80636,
+                    16.32481
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "16.32481",
+                    "coord_lon": "42.80636",
+                    "cornu_URI": "SHARJA_428E163N_S_YEME",
+                    "region_code": 21,
+                    "region_spelled": "Yemen",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite/port",
+                    "toponym_arabic": "ﭐلشرجة",
+                    "toponym_arabic_other": "ﭐلشرجة",
+                    "toponym_buckwalter": "al-Sharja",
+                    "toponym_search": "al-Sharja",
+                    "toponym_translit": "al-Šarǧaŧ",
+                    "toponym_translit_other": "al-Šarǧaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

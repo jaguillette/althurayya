@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [34.73521, 31.87092], "type": "Point"}, "properties": {"arBW": "Yubna", "arTitle": "\u064a\u0628\u0646\u0627", "arTitleOther": "\u064a\u0628\u0646\u0627", "lat": "31.87092", "lon": "34.73521", "region": "Sham", "searchNames": "Yubna", "topType": "villages", "topTypeAlt": "village", "topURI": "YUBNA_347E318N_S_SHAM", "translitTitle": "Yubn\u0101", "translitTitleOther": "Yubn\u0101"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    34.73521,
+                    31.87092
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "31.87092",
+                    "coord_lon": "34.73521",
+                    "cornu_URI": "YUBNA_347E318N_S_SHAM",
+                    "region_code": 16,
+                    "region_spelled": "Sham",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "village",
+                    "toponym_arabic": "يبنا",
+                    "toponym_arabic_other": "يبنا",
+                    "toponym_buckwalter": "Yubna",
+                    "toponym_search": "Yubna",
+                    "toponym_translit": "Yubnā",
+                    "toponym_translit_other": "Yubnā"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

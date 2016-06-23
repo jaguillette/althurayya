@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [30.92349, 30.79572], "type": "Point"}, "properties": {"arBW": "Mahalla al-Mahrum", "arTitle": "\u0645\u062d\u0644\u0629 \ufb50\u0644\u0645\u062d\u0631\u0648\u0645", "arTitleOther": "\u0645\u062d\u0644\u0629 \ufb50\u0644\u0645\u062d\u0631\u0648\u0645", "lat": "30.79572", "lon": "30.92349", "region": "Egypt", "searchNames": "Mahalla al-Mahrum", "topType": "towns", "topTypeAlt": "cite", "topURI": "MAHALLAMAHRUM_309E307N_S_EGYP", "translitTitle": "Ma\u1e25alla\u0167 al-Ma\u1e25r\u016bm", "translitTitleOther": "Ma\u1e25alla\u0167 al-Ma\u1e25r\u016bm"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    30.92349,
+                    30.79572
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.79572",
+                    "coord_lon": "30.92349",
+                    "cornu_URI": "MAHALLAMAHRUM_309E307N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "محلة ﭐلمحروم",
+                    "toponym_arabic_other": "محلة ﭐلمحروم",
+                    "toponym_buckwalter": "Mahalla al-Mahrum",
+                    "toponym_search": "Mahalla al-Mahrum",
+                    "toponym_translit": "Maḥallaŧ al-Maḥrūm",
+                    "toponym_translit_other": "Maḥallaŧ al-Maḥrūm"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [30.73593, 30.6947], "type": "Point"}, "properties": {"arBW": "al-Rafiqa", "arTitle": "\ufb50\u0644\u0631\u0627\u0641\u0642\u0629", "arTitleOther": "\ufb50\u0644\u0631\u0627\u0641\u0642\u0629", "lat": "30.69470", "lon": "30.73593", "region": "Egypt", "searchNames": "al-Rafiqa", "topType": "villages", "topTypeAlt": "localite", "topURI": "RAFIQA_307E306N_S_EGYP", "translitTitle": "al-R\u0101fiqa\u0167", "translitTitleOther": "al-R\u0101fiqa\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    30.73593,
+                    30.6947
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "30.69470",
+                    "coord_lon": "30.73593",
+                    "cornu_URI": "RAFIQA_307E306N_S_EGYP",
+                    "region_code": 5,
+                    "region_spelled": "Egypt",
+                    "top_type_hom": "villages",
+                    "top_type_orig": "localite",
+                    "toponym_arabic": "ﭐلرافقة",
+                    "toponym_arabic_other": "ﭐلرافقة",
+                    "toponym_buckwalter": "al-Rafiqa",
+                    "toponym_search": "al-Rafiqa",
+                    "toponym_translit": "al-Rāfiqaŧ",
+                    "toponym_translit_other": "al-Rāfiqaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

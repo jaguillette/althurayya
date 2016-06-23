@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [45.17945, 13.2032], "type": "Point"}, "properties": {"arBW": "Akhilla", "arTitle": "\u0623\u062e\u0644\u0629", "arTitleOther": "\u0623\u062e\u0644\u0629", "lat": "13.20320", "lon": "45.17945", "region": "Yemen", "searchNames": "Akhilla", "topType": "regions", "topTypeAlt": "region", "topURI": "AKHILLA_451E132N_R_YEME", "translitTitle": "A\u1e2billa\u0167", "translitTitleOther": "A\u1e2billa\u0167"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    45.17945,
+                    13.2032
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "13.20320",
+                    "coord_lon": "45.17945",
+                    "cornu_URI": "AKHILLA_451E132N_R_YEME",
+                    "region_code": 21,
+                    "region_spelled": "Yemen",
+                    "top_type_hom": "regions",
+                    "top_type_orig": "region",
+                    "toponym_arabic": "أخلة",
+                    "toponym_arabic_other": "أخلة",
+                    "toponym_buckwalter": "Akhilla",
+                    "toponym_search": "Akhilla",
+                    "toponym_translit": "Aḫillaŧ",
+                    "toponym_translit_other": "Aḫillaŧ"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

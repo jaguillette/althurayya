@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [60.37258, 41.88381], "type": "Point"}, "properties": {"arBW": "Ghardaman", "arTitle": "\u063a\u0631\u062f\u0645\u0627\u0646", "arTitleOther": "\u063a\u0631\u062f\u0645\u0627\u0646", "lat": "41.88381", "lon": "60.37258", "region": "Transoxiana", "searchNames": "Ghardaman", "topType": "towns", "topTypeAlt": "cite", "topURI": "GHARDAMAN_603E418N_S_TRAN", "translitTitle": "\u0120ardam\u0101n", "translitTitleOther": "\u0120ardam\u0101n"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    60.37258,
+                    41.88381
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "41.88381",
+                    "coord_lon": "60.37258",
+                    "cornu_URI": "GHARDAMAN_603E418N_S_TRAN",
+                    "region_code": 20,
+                    "region_spelled": "Transoxiana",
+                    "top_type_hom": "towns",
+                    "top_type_orig": "cite",
+                    "toponym_arabic": "غردمان",
+                    "toponym_arabic_other": "غردمان",
+                    "toponym_buckwalter": "Ghardaman",
+                    "toponym_search": "Ghardaman",
+                    "toponym_translit": "Ġardamān",
+                    "toponym_translit_other": "Ġardamān"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

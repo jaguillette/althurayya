@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [44.13579, 33.26692], "type": "Point"}, "properties": {"arBW": "Nahr Isa", "arTitle": "\u0646\u0647\u0631 \u0639\u0633\u0649", "arTitleOther": "\u0646\u0647\u0631 \u0639\u0633\u0649", "lat": "33.26692", "lon": "44.13579", "region": "Iraq", "searchNames": "Nahr Isa", "topType": "waters", "topTypeAlt": "canal", "topURI": "NAHRISA_441E332N_W_IRAQ", "translitTitle": "Nahr \u02bfIs\u00e1", "translitTitleOther": "Nahr \u02bfIs\u00e1"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    44.13579,
+                    33.26692
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "33.26692",
+                    "coord_lon": "44.13579",
+                    "cornu_URI": "NAHRISA_441E332N_W_IRAQ",
+                    "region_code": 7,
+                    "region_spelled": "Iraq",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "canal",
+                    "toponym_arabic": "نهر عسى",
+                    "toponym_arabic_other": "نهر عسى",
+                    "toponym_buckwalter": "Nahr Isa",
+                    "toponym_search": "Nahr Isa",
+                    "toponym_translit": "Nahr ʿIsá",
+                    "toponym_translit_other": "Nahr ʿIsá"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

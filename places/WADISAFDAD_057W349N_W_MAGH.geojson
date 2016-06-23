@@ -1,1 +1,37 @@
-{"features": [{"geometry": {"coordinates": [-5.76527, 34.9938], "type": "Point"}, "properties": {"arBW": "Wadi Safdad", "arTitle": "\u0648\u0627\u062f\u064a \u0633\u0641\u062f\u062f", "arTitleOther": "\u0648\u0627\u062f\u064a \u0633\u0641\u062f\u062f", "lat": "34.99380", "lon": "-5.76527", "region": "Maghrib", "searchNames": "Wadi Safdad", "topType": "waters", "topTypeAlt": "wadi", "topURI": "WADISAFDAD_057W349N_W_MAGH", "translitTitle": "W\u0101d\u012b Safdad", "translitTitleOther": "W\u0101d\u012b Safdad"}, "type": "Feature"}], "type": "FeatureCollection"}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -5.76527,
+                    34.9938
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "cornuData": {
+                    "coord_certainty": "certain",
+                    "coord_lat": "34.99380",
+                    "coord_lon": "-5.76527",
+                    "cornu_URI": "WADISAFDAD_057W349N_W_MAGH",
+                    "region_code": 14,
+                    "region_spelled": "Maghrib",
+                    "top_type_hom": "waters",
+                    "top_type_orig": "wadi",
+                    "toponym_arabic": "وادي سفدد",
+                    "toponym_arabic_other": "وادي سفدد",
+                    "toponym_buckwalter": "Wadi Safdad",
+                    "toponym_search": "Wadi Safdad",
+                    "toponym_translit": "Wādī Safdad",
+                    "toponym_translit_other": "Wādī Safdad"
+                },
+                "textual_sources_uris": [
+                    "muCjamBuldan",
+                    "kitabAnsab"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
