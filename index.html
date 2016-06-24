@@ -8,8 +8,8 @@
 
   <!--Leaflet CSS-->
   <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css" />
-  <link rel="stylesheet" type="text/css" href="http://maximromanov.github.io/projects/althurayya/css/leaflet_test_style.css">
-  <link rel="stylesheet" type="text/css" href="http://maximromanov.github.io/projects/althurayya/css/leaflet-sidebar.css">
+  <link rel="stylesheet" type="text/css" href="css/leaflet_test_style.css">
+  <link rel="stylesheet" type="text/css" href="css/leaflet-sidebar.css">
 
   <!--Custom Fonts-->
   <link href='http://fonts.googleapis.com/css?family=Playfair+Display:400,400italic&amp;subset=cyrillic,latin' rel='stylesheet' type='text/css'>
@@ -82,8 +82,8 @@
           var marker = L.circleMarker(latlng, {
             //radius: Math.sqrt(feature.properties.topType.length)/3,
             radius: 5,
-            fillColor: colorLookup[feature.properties.regNum],
-            color: colorLookup[feature.properties.regNum],
+            fillColor: colorLookup[feature.properties.cornuData.region_code],
+            color: colorLookup[feature.properties.cornuData.region_code],
             //color: "#fff",
             weight: 1,
             opacity: 1,
@@ -96,7 +96,7 @@
             $("#initDesc").remove();
             $("#location").addClass('active');
             $("#locTab").addClass('active');
-            //$("#locTitle").text(feature.properties.name_new_orth+" ("+feature.properties.name_new_orth_lc+")");
+            $("#locTitle").text(feature.properties.cornuData.toponym_translit+" ("+feature.properties.cornuData.toponym_arabic+")");
             $("#locDescAr").text(feature.properties.arTitle);
             $("#locDescTranslit").text(feature.properties.translitTitle);
             $("#region").text(colorLookup[feature.properties.regNum]);
